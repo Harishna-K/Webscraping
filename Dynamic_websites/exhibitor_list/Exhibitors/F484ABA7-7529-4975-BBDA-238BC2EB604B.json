@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 3,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2921,
+                "BOOTH_KEY": "4D21F530-617E-4587-850D-0693A2F10ED7",
+                "KEY_ID": "871E32CD-2500-F011-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "F484ABA7-7529-4975-BBDA-238BC2EB604B",
+        "PRIMARY_BOOTH": 2921,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "Germany Trade & Invest",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 10117,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "63243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6A1AC35E-F981-917A-B922-0D1FC03796F8",
+                    "ANSWER_TITLE": "Government Entity (Non-Defense)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "D568D496-D9F9-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "6AA52136-AF65-D338-7619-5117430FB5EC",
+                            "ANSWER_TITLE": "German Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "21401290-04BF-49D7-B977-775F1DF1A128",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "GTAI \u2013 Germany Trade & Invest",
+            "CITY": "Berlin",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.gtai.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "D2BA3584-C6CF-4F1B-B769-FD66631CC1C1",
+        "CRM_COMPANY_KEY": "91122E7D-C443-4EC1-A2CB-003BD7807C03"
+    }
+}

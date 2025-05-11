@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3928,
+                "BOOTH_KEY": "45F0A766-62A9-4401-8012-5A45DFD0A30E",
+                "KEY_ID": "53F50C4F-0916-E8F6-4FB0-DE20B66E3D5B"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "BCB9E6D8-D785-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3928,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Neousys Technology",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "Neousys Technology",
+            "INSTAGRAM": "Neousys Technology",
+            "ACTIVE": 1,
+            "ZIP_CODE": 60090,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241099246_e1c63ffade6079bb95dc582aebf41d2f.png",
+            "STATE": "IL",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Established in 2010, Neousys Technology designs, manufactures, and markets innovative edge AI computing platforms and rugged embedded computers. We specialize in the thermal management and integration of high-computation-power CPUs and GPUs. Our proficiency in specialized I/O connectivity allows us to utilize various cameras and sensors to meet diverse application needs.\n\nCommitted to lead the future of automation and intelligentization across industries, Neousys Technology stands out with high-performance and application-oriented product designs to lay the foundation for an intelligent, connected world, and advancing edge AI. All products are designed and manufactured in Taiwan with systems in the USA assembled and built locally. Headquartered in Taiwan, Neousys also has offices in the USA with a worldwide sales and support network.\n\nNeousys Technology offers application-oriented platforms in the following categories:\n\n- Rugged embedded wide temperature industrial computers\n- Edge AI GPU computing platforms\n- IP69K/67/66 waterproof computers\n- Fanless in-vehicle computers\n- Ultra compact fanless computers\n- Machine vision platform with multiple GigE/ PoE ports\n- Surveillance/video analytics computers\n- Industrial SuperCAP power backup modules",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "5418BC64-CA31-B31B-5044-E4220886D7A8",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Neousys Technology",
+            "TOLL_FREE": "",
+            "KEY_ID": "53FBDA88-9AA6-C1BD-A041-FF1FA266EEBA",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Neousys Technology",
+            "CITY": "Wheeling",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.neousys-tech.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "B87B24FD-31C7-478C-9633-4B42CB0DA8DD"
+    }
+}

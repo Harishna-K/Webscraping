@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2739,
+                "BOOTH_KEY": "0571EA0C-54BF-4E91-BFE7-0A34D577ED68",
+                "KEY_ID": "9A0E32BD-8D05-F011-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "5E4CD911-6605-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2739,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "ParaZero Technologies Ltd",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "ParaZero Technologies",
+            "INSTAGRAM": "parazero_przo",
+            "ACTIVE": 1,
+            "ZIP_CODE": 4453001,
+            "TIKTOK": "@ParaZeroDrones",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025320103815_f6bcf190426f470fcbf2b10f600da45d.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "IL",
+            "SALUTATION": "",
+            "DESCRIPTION": "ParaZero Technologies(Nasdaq: PRZO) is a leading developer of autonomous parachute safety systems technologies for commercial and military platforms as well as for urban air mobility (UAM) aircraft. Started in 2014 by a passionate group of aviation professionals and drone industry veterans, ParaZero develops and manufactures smart, autonomous parachute safety systems designed to enable safe flight operations over populated areas and beyond-visual-line-of-sight (BVLOS) as well as for various military applications including Counter UAS. For more information about ParaZero, please visit https://parazero.com/",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "FBF8C33D-F1C9-9EA0-5845-2632C0D111D3",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "ParaZero Technologies Ltd.",
+            "TOLL_FREE": "",
+            "KEY_ID": "FB01DE7F-E506-9211-169B-2459FFD0AED1",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "ParaZero Technologies Ltd",
+            "CITY": "Kfar Saba, Israel",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://parazero.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "86E30751-E9C8-42E7-AAE1-A2BBFB96F6AB"
+    }
+}

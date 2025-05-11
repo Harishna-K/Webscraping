@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2807,
+                "BOOTH_KEY": "2ABFF782-AD0A-417A-BF0E-ADA731832CEF",
+                "KEY_ID": "4DB8DDA5-AD0B-C473-BF9D-EA364F0CCAC5"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "43E70EF2-6BF2-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2807,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Goksal Aeronautics",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 34235,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202444132018_e576ceaf067779c12eb7d9d0076cd3ec.jpg",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "TR",
+            "SALUTATION": "",
+            "DESCRIPTION": "Goksal Aeronautics specializes in aerospace solutions, including capacitive fuel sensors, cargo pods, and telemetry managers for BVLOS operations. We offer custom product engineering services, covering design, testing, and manufacturing, with expertise in embedded systems , circuit design, mechanical engineering, and aviation-specific engineering.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "965A8873-D0AB-3FBA-06AD-4A68A2051294",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "96388B24-942C-DE8E-D1D2-1C5D536B9FBC",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Goksal Aeronautics",
+            "CITY": "Istanbul",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.goksal.com.tr"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "95A39116-A3E2-4524-8EF5-32C41481D0FE"
+    }
+}

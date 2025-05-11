@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2916,
+                "BOOTH_KEY": "73567B4C-2DAE-47BF-BA4D-7B20CCE9CCEA",
+                "KEY_ID": "7382E399-A97C-50E3-1E60-9BA27A7AB76E"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "81A36DCF-2411-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2916,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Electron Retracts",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/electronretracts",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 36475,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202451314413_6fbde6d9a324ecc83bb73ac396b4dd94.png",
+            "STATE": "Pontevedra",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "ES",
+            "SALUTATION": "",
+            "DESCRIPTION": "Electron Retracts is a pioneer company in the development of electric retract systems for light aviation (aeromodelism & UAVs). With over 15 years of experience, and more than 40.000 retract units manufactured, Electron has become the world leader in retract systems.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "73D51D84-D3BB-1ED3-5943-08CDA6F046E4",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "739EE510-A5BA-1495-85C0-F680F7E9A3DB",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Electron Retracts",
+            "CITY": "O Porri\u00f1o",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.electron-retracts.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "D5D3738B-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

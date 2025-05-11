@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2510,
+                "BOOTH_KEY": "757385C9-5394-408C-B099-778673983D57",
+                "KEY_ID": "AA978AB2-0075-20F4-3DC1-E977DFA0933B"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C47CB4D9-DBBD-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2510,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "C-ASTRAL LTD.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 5270,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "SI",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "SI",
+            "SALUTATION": "",
+            "DESCRIPTION": "C-ASTRAL Aerospace is a global market leader with an established reputation in the\n specialized, fixed-wing small Unmanned Aircraft Systems (UAS) manufacturing and\n services field.\n\n SQA eVTOL multirole system is an evolutionary and compact small unmanned\n system developed by C-ASTRAL advanced X-WORKS laboratory enabling the\n complete spectrum of ISR operations over medium distances of up to 40 km from\n the ground control station.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "AB1EFBB5-EE54-CBB1-BB60-2C5D8CA405BA",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "0F155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D0741B98-F983-24D1-F72A-6B029EB21C8D",
+                            "ANSWER_TITLE": "Public Safety"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "AAB3A2A1-DD9A-72F3-BDD6-0FE6792B0569",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "C-ASTRAL LTD.",
+            "CITY": "Ajdovscina",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.c-astral.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "EF12BAE0-C55C-42F0-BCEA-7CCA6832975D"
+    }
+}

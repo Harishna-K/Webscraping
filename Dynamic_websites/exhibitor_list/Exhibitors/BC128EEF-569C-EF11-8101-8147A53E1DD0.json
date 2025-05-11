@@ -1,0 +1,90 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2533,
+                "BOOTH_KEY": "6CF69743-6564-43A3-8D66-2E091637B274",
+                "KEY_ID": "15D5A77F-EBD4-F739-A4CF-72D5AF4C0ECD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "BC128EEF-569C-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2533,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "University of North Dakota",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 58202,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025311143532_6d2cf6172fd671b6a69b51a341651681.png",
+            "STATE": "ND",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "na",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "FA0C3F6F-F5C9-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "15E6CAAA-D4EF-6475-F54C-24DBC8234B49",
+                    "ANSWER_TITLE": "Academic/Educational/Research"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "15DA984E-D4A4-416D-438D-7FA875C494B7",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "University of North Dakota",
+            "CITY": "Grand Forks",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.und.edu",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "2C372844-83D4-4A54-8E48-692D09468A8C"
+    }
+}

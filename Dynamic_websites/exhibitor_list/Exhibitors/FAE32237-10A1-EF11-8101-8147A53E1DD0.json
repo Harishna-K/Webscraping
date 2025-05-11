@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2415,
+                "BOOTH_KEY": "F5DEDF9B-F6A3-4543-A0AA-77BB0F0EF710",
+                "KEY_ID": "4B5C12CB-B0D1-FCD8-1BBB-F66B1CD05F59"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "FAE32237-10A1-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2415,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Event 38 Unmanned Systems, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 44286,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241112111020_25f1abf1088c63687ecf417abe3042a6.png",
+            "STATE": "OH",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Event 38 designs and manufactures fixed-wing VTOL drones in Richfield, Ohio. Since 2011, we\u2019ve sold drones to businesses, governments and NGOs all around the globe. \n\nEvent 38 drones are sold off the shelf ready for:\n- Intelligence, Surveillance, and Reconnaissance\n- High-resolution aerial photogrammetry\n- Thermal and multispectral imagery\n- LiDAR\n\nIn addition, our aircraft are highly customizable and have been retrofitted with the appropriate sensors and systems to support such diverse applications as right-of-way inspections, glacial research, magnetic surveys, and more.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "4B988278-0B80-EA02-DA1C-3D6837D4C75C",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite A",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "0F155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "4DB7DFB6-FE0A-1364-2B88-F451ECB887A6",
+                            "ANSWER_TITLE": "Public Safety"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "4B6214A3-0A28-06FA-F1D7-F1DFD86156E5",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Event 38 Unmanned Systems, Inc.",
+            "CITY": "Richfield",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "event38.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "A969497C-B11C-4DF2-821D-9AD8B554EED2"
+    }
+}

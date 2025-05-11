@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2608,
+                "BOOTH_KEY": "2DACE005-AF15-44EA-9264-440F0B102E4C",
+                "KEY_ID": "41BD7E30-03D5-5488-3EC1-7B6831430F01"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D1E30088-22F1-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2608,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "AirData UAV",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "AirData.com",
+            "INSTAGRAM": "@airdatauav",
+            "ACTIVE": 1,
+            "ZIP_CODE": 95762,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202442121818_1f5887f183cc6c804ad584f5a48494e1.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "AirData UAV is the largest online drone fleet data management and real-time live streaming platform. Serving over 350,000 users with more than 46 million flights uploaded to date and counting, we process an average of 25,000 flights a day with high-resolution data stored per each flight. It is used by large fleet operators around the world not only as a logbook, but also as a comprehensive flight safety data analysis and crash prevention platform, with advanced maintenance, pilot tracking, and easy-to-use live streaming. \n\nUsers can also take advantage of our easy to understand LAANC map as well as request LAANC approval via our mobile app to ensure every flight is safe and successful. To learn more about AirData, please visit https://airdata.com/",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "42978DC2-FBB3-7175-2228-862DD2AAFE2D",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Ste. 300",
+            "MAP_LOGO": true,
+            "LINKEDIN": "AirData UAV",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "0F155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "4C7ED7A4-B49A-C53F-AC55-50EC69C2EED5",
+                            "ANSWER_TITLE": "Public Safety"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "421932DC-9DDC-C2D5-A1DE-162CC4576A52",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "AirData UAV",
+            "CITY": "El Dorado Hill",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://airdata.com/",
+            "TWITTER": "@AirDataUAV"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "30EBF201-1413-4DA3-8082-AD3A62DEA8A5"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3539,
+                "BOOTH_KEY": "838EE043-05E0-440B-8DD8-9188C5DA5E25",
+                "KEY_ID": "41E80969-EEB3-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "B9854CD4-CDB2-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3539,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Holyway Group Pte. Ltd.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 409051,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024125141944_fb253348b14edf9c2d805fc21c3f263a.jpg",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "SG",
+            "SALUTATION": "",
+            "DESCRIPTION": "Holyway is a Singaporean high-tech company. In the field of Unmanned Aircraft Systems(UAS), Holyway specializes in providing comprehensive solutions for low sky infrastructure.\nWith an experienced R&D team and world-class strategic partners, Holyway offers customized 'machine, network, and cloud' integrated solutions for various industrial users, combining 4-dimensional holographic real-time maps, industrial drones, fully automated docks, and IoT cloud platforms.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0CC2AE20-A307-F02C-44E0-C01FB9DD538F",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "D69E6153-D0C8-C3B0-AC43-402EF9287E9C",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Holyway Group Pte. Ltd.",
+            "CITY": "Singapore",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.holywaytec.com",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "B0BC6AE1-1F84-4AC0-A12D-235D5770DA85"
+    }
+}

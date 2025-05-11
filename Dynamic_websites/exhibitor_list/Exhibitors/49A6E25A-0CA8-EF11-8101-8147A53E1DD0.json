@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2111,
+                "BOOTH_KEY": "D03C7A17-C0EE-4C5B-8CFC-6F25852D5403",
+                "KEY_ID": "152613D3-C5B2-115B-6F86-24B45F6CA63F"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "49A6E25A-0CA8-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2111,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "TERRAMIND FX - TYNDALL FX",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 75020,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241121143034_b053ae5a07af3a44f79e96ce574c12da.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "FR",
+            "SALUTATION": "",
+            "DESCRIPTION": "Tyndall FX is offering *Terramind FX*, a cutting-edge software platform designed for real-time 3D mapping and terrain analysis designed to operate seamlessly in both indoor and outdoor environments. It utilizes advanced technologies to deliver instant terrain reconstruction and visualization directly on portable devices, even in remote or connectivity-challenged areas. Unlike many mapping tools, it does not rely on GPS or LiDAR to function, making it versatile in GPS-denied or sensor-limited areas. However, when GPS or LiDAR data are available, Terramind FX can integrate them to further enhance the precision and depth of its analysis.\n?\nKey features include:\n?\n\u2022 Real-time 3D Mapping: Captures and integrates aerial data from UAVs (drones) instantly, providing live terrain updates during missions.\n\u2022 Smart Analytics: Offers advanced AI-based to enhance the 3D maps for tactical and operational support.\n\u2022 Offline Capability: Performs all processing on-field without requiring internet connectivity, ensuring uninterrupted functionality.\n\u2022 Enhanced Situational Awareness: Allows interactive exploration of 3D maps, enabling informed decision-making in high-stakes environments like military, public safety, and disaster response.\n?\nThis unique combination of adaptability and advanced analytics makes Terramind FX ideal for operations like emergency response, facility management, and military reconnaissance, where conditions and resources vary greatly. \n\nTerramind FX excels in applications requiring immediate data access and analysis, such as search-and-rescue, surveillance, defence and infrastructure assessments. Its real-time processing capabilities save crucial time, enhancing operational efficiency and safety.\u00a0",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "154EB36B-B448-EB4E-62B5-F6C8C98FEC16",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "raoulmallart",
+            "TOLL_FREE": "",
+            "KEY_ID": "152A4E96-DF0B-170B-F07B-0A2EE5060E28",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "TYNDALL FX",
+            "CITY": "Paris",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://terramindfx.com/product/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "42E1290D-33F6-4E29-A511-131524870F5A"
+    }
+}

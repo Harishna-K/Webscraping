@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3327,
+                "BOOTH_KEY": "B7E8ABF9-72B5-411B-8379-76C7999AB39C",
+                "KEY_ID": "4D4DE8A0-928B-3477-98CE-F5308755E05D"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "CC2C1C66-58EC-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3327,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Amprius Technologies",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 94538,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202432794933_4c46c3f9dd3b0d09d39395bc37691666.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Amprius Technologies is a pioneering manufacturer of advanced silicon anode lithium-ion batteries, delivering the highest known commercially available energy densities. In March 2023, Amprius made history as the first company to announce a 500 Wh/kg battery cell, setting a new standard in battery performance that was independently verified.\n\nWith an expanding customer base that includes the US Army, AeroVironment, Airbus, BAE Systems, Teledyne FLIR, and other leading aviation and eVTOL companies, Amprius has shipped approximately 50,000 cells to date. This customer demand underscores the industry's recognition of the superior performance offered by Amprius' next-generation SiMaxx\u2122 batteries. \n\nIn January 2024, Amprius unveiled its latest innovation: SiCore\u2122 batteries. These batteries are built on an innovative, proprietary material system that delivers high energy density and cycle life. With up to 400 Wh/kg and 1,200 cycles at full depth of discharge, SiCore\u2122 batteries surpass the performance of state-of-the-art graphite cells. Amprius is able to offer these advanced cells in volume through exclusive volume supply agreements / toll manufacturing arrangements with its partners.\n\nLonger battery life is essential for maximizing the performance, efficiency, and adoption of electric mobility solutions on the land (EVs) and in the air (electric aircraft). Amprius' industry leading silicon anode batteries have the potential to revolutionize electric vehicle performance, enabling extended operating periods between recharges. By delivering longer range, accommodating heavier payloads, and enhancing operational efficiency, these batteries are poised to shape the future of electric mobility.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0A293F8B-D9D6-8204-18B4-C95AAB14941D",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/ampriustechnologies/?viewAsMember=true",
+            "TOLL_FREE": "",
+            "KEY_ID": "0815E519-A633-9408-1490-7FB0A928A948",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Amprius Technologies",
+            "CITY": "Fremont",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.amprius.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "104D37D1-ED89-4DA8-AA61-8181BAD2A64F"
+    }
+}

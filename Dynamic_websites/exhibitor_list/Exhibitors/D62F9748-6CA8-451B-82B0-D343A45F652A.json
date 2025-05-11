@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 2,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3821,
+                "BOOTH_KEY": "F3C6194D-589C-4C1D-A651-1BA14E4245A7",
+                "KEY_ID": "5D20C072-61ED-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D62F9748-6CA8-451B-82B0-D343A45F652A",
+        "PRIMARY_BOOTH": 3821,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "University of Maryland",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "UMD UAS Research and Operations Center - UROC",
+            "INSTAGRAM": "umd_uroc",
+            "ACTIVE": 1,
+            "ZIP_CODE": 20619,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "MD",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "The UMD UAS Research and Operations Center is dedicated to facilitating the safe and effective use of UAS in research and educational settings for University faculty and students; providing expert technical and operational support to public and private entities employing UAS in new and innovative ways; and to advancing the state of the art in UAS and their seamless integration into the National Airspace System.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "FA0C3F6F-F5C9-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "08375352-EF75-657A-B4CC-A139ACA97072",
+                    "ANSWER_TITLE": "Academic/Educational/Research"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "UMD UAS Research and Operations Center",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "D368D496-D9F9-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "064A7405-D2AE-1A58-4F91-8345C7ABD218",
+                            "ANSWER_TITLE": "Maryland Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "9F520C7B-80E8-4B7C-87B4-5FBBBD827CCF",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "University of Maryland UAS Research and Operations Center",
+            "CITY": "California",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "uroc.umd.edu",
+            "TWITTER": "UMD_UROC"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "585F2612-9F9B-4F43-B76F-ACF585B00B1E",
+        "CRM_COMPANY_KEY": "4CB37685-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

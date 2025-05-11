@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 4,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3613,
+                "BOOTH_KEY": "0DAA68AE-EB07-4828-9655-40526A4497A2",
+                "KEY_ID": "1E15F3A0-DFF3-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "FDC1FECB-8F67-4129-A191-15BD3D1AB386",
+        "PRIMARY_BOOTH": 3613,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "Involi",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 13202,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025313101258_cf4c3e5d196cd83087a0ec7ec20060a3.png",
+            "STATE": "NY",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "INVOLI is the leading provider of hardware and software solutions for air traffic detection and visualization.\nIt\u2019s a hardware-software solution that combines live aviation data streams with advanced data analytics and it enables the full potential of digital and uncrewed aviation across various industries.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "93CA57D3-CB5B-ADA7-CB70-893ABA4EE32E",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "involi",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "312A1B78-E237-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "06DCF1B5-A777-1268-9F18-7A4EC5AA1F13",
+                            "ANSWER_TITLE": "New York Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "885FD79B-D179-4CB9-92A5-E1903A4C8E34",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Involi",
+            "CITY": "Syracuse",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.involi.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "9DA8B6E4-B6F2-EE11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "985C79A5-A610-4066-948D-79AFB5CE8E44"
+    }
+}

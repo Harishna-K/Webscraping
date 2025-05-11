@@ -1,0 +1,72 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2621,
+                "BOOTH_KEY": "0277D7D0-3F8D-4AD9-BD9E-4766007177C5",
+                "KEY_ID": "FCFFB8DF-CC84-D39D-CA0A-1082A3B65EDC"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "232FD6DA-744A-4411-9668-60E5435418E9",
+        "PRIMARY_BOOTH": 2621,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Korea Institute of Aviation Safety Technology",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1135,
+                    "TITLE": "Speaking Opportunity - Solutions Theater",
+                    "ID": "EVENTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 22851,
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "EMAIL": "Jh.lee@kiast.or.kr",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "KR",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "63243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6E32A98C-A5F5-2961-88B5-B6031EA53AE5",
+                    "ANSWER_TITLE": "Government Entity (Non-Defense)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "FCFFECEB-0C90-D50E-7440-AEC089FF6542",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Korea Pavilion",
+            "CITY": "lncheon",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.kiast.or.kr/en/index.do",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "232FD6DA-744A-4411-9668-60E5435418E9",
+        "CRM_COMPANY_KEY": "E1032A07-BA4D-4742-8211-25FDCDAA6791"
+    }
+}

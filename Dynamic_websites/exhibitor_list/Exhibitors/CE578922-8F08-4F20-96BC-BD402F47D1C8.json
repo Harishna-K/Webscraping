@@ -1,0 +1,65 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3026,
+                "BOOTH_KEY": "2D4E0C21-1831-4DF8-9A19-C0C95FA44B17",
+                "KEY_ID": "48E089BE-AEFD-3F49-D39F-5CDFA3F8D7B8"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "CE578922-8F08-4F20-96BC-BD402F47D1C8",
+        "PRIMARY_BOOTH": 3026,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "V2AIR",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 96528,
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "EMAIL": "daniel.guffarth@v2air.tech",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "060655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6A03A5D6-B690-E0D9-B607-B477F8B4A657",
+                    "ANSWER_TITLE": "Integrator"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "48E55D9B-A11B-6B16-FCFE-EDF808C201CB",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "V2AIR",
+            "CITY": "Wuppertal",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.v2air.tech",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "CE578922-8F08-4F20-96BC-BD402F47D1C8",
+        "CRM_COMPANY_KEY": "DBE2CE49-1E6C-48EE-B964-6B702B88DE08"
+    }
+}

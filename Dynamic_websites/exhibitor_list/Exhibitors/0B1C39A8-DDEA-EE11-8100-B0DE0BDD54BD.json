@@ -1,0 +1,130 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2933,
+                "BOOTH_KEY": "0C8D7AF4-C6A7-457F-9E1C-F7CC06A142EF",
+                "KEY_ID": "A6D368BD-DFD2-B2A8-160C-1E7ACD86E06A"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "0B1C39A8-DDEA-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2933,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Nicomatic",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "Nicomatic",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "Nicomatic Americas",
+            "ACTIVE": 1,
+            "ZIP_CODE": 19044,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024325153055_9eddcb03253540f064e6a7861e4e56de.jpg",
+            "STATE": "PA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Nicomatic, a leading manufacturer, excels in crafting standard and custom connectors, FFC cables, and snap domes designed for challenging environments. Our expertise lies in delivering innovative interconnect solutions, prioritizing design and manufacturing excellence. Committed to enhancing the customer experience, we consistently provide high-quality products to ensure maximum customer satisfaction.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0CAFABD1-09D4-71FE-5A65-1C28BE79E967",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Nicomatic Americas",
+            "FORM": {
+                "QUESTIONS": [
+                    {
+                        "QUESTION_NAME": "Contact Form Message",
+                        "DISPLAY_ORDER": 1,
+                        "QUESTION_TYPE": "textarea",
+                        "ACTIVE": 1,
+                        "KEY_ID": "DEA9F655-97FB-EF11-8101-8147A53E1DD0",
+                        "ANSWERS": [
+                            {
+                                "DISPLAY_ORDER": 1,
+                                "ACTIVE": 1,
+                                "KEY_ID": "DFA9F655-97FB-EF11-8101-8147A53E1DD0",
+                                "ANSWER_TITLE": "Message"
+                            }
+                        ]
+                    }
+                ],
+                "SUB_TITLE": "",
+                "DESCRIPTION": "Leave a message and we will get back to you!",
+                "THANK_YOU_MESSAGE": "Thank you for reaching out! We have received your message and will be in touch shortly to address your inquiry.",
+                "KEY_ID": "78214FE7-AA29-3FB4-C358-8C0DAE65759E",
+                "HEADER_IMAGE": "",
+                "TITLE": "Contact Us",
+                "EMAIL_NOTIFICATION": "d.bowman@nicomatic.com"
+            },
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "A6E3C423-F72B-2411-37C0-B87368051D79",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Nicomatic",
+            "CITY": "Horsham",
+            "ACTION_BUTTON_LABEL": "Contact Us",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Navigate the nexus between innovation and reliability with Nicomatic, your dedicated partner in empowering defense systems with unparalleled interconnect solutions. Engaging a legacy sculpted in the finesse of pioneering technology and deep-seated industry expertise, Nicomatic delivers robust, high-performance connectivity solutions, meticulously engineered to meet the stringent demands of the defense sector.",
+                    "KEY_ID": "77FA150F-DC40-E066-D968-18B2569CC936",
+                    "TITLE": "Empowering Defense Systems with Nicomatic: Unparalleled Interconnect Solutions",
+                    "HEADER_IMAGE": "",
+                    "URL": "https://www.youtube.com/watch?v=P-0bQja3CEA"
+                }
+            ],
+            "WEBSITE": "www.nicomatic.com",
+            "TWITTER": "Nicomatic",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "31EECD73-D0D3-4702-A6E7-7720065FD15F"
+    }
+}

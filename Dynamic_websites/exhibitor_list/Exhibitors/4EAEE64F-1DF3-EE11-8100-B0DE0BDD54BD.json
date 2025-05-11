@@ -1,0 +1,90 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3614,
+                "BOOTH_KEY": "77B8DC0C-F772-4058-BAA0-649334FE2BD9",
+                "KEY_ID": "C547678E-933B-D7E9-BB23-8FBA3BB85275"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "4EAEE64F-1DF3-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3614,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Volz Servos GmbH & Co KG",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 63073,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202533112752_8c2857a9ad1d8f31659e35e904e20fa6.jpg",
+            "STATE": "Hessen",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "Volz Servos has more than 40 years of experience in the development, manufacture and supply of standard, redundant and submersible actuators for a wide range of applications - from medical technology and robotics to AAM and UAV - and has made a name for itself that customers around the world rely on today. Volz Servos offers solutions that meet the highest standards of functional safety and reliability and are perfectly tailored to the needs of aviation big players such as BETA, Zipline or Thales.\n\nSince the incorporation of AEE Aircraft Electronic Engineering GmbH, an EASA-approved production (Part 21G), maintenance (Part 145) and alternative development organization (Part 21O), the know-how of the medium-sized company has been expanded to include a unique focus on certification in the AAM and UAV sector. This makes it easier for Volz Servos to design customized, certifiable actuators that comply with both European and American aviation law.\n\n\nFor further information, please visit: https://www.volz-servos.com",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "C56D6DE3-0BB6-49EE-108F-F18D091D3EE6",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/in/phillipp-volz/",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "C554CECD-EB4F-7BE5-7546-2FCCC011F075",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Volz Servos",
+            "CITY": "Offenbach am Main",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.volz-servos.com",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "D861F9F4-561F-47BF-B00E-6E4E43F0A163"
+    }
+}

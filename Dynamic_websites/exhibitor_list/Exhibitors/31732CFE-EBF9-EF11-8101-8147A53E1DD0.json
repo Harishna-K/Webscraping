@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1509,
+                "BOOTH_KEY": "E3D9092D-A0BD-43D4-B2F3-7460E7A2A949",
+                "KEY_ID": "0ACFCCCE-0EE4-6B8A-BA54-ADE1B2FB853C"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "31732CFE-EBF9-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1509,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "U.S. Naval Research Laboratory",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 20375,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "DC",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "The U.S. Naval Research Laboratory provides the advanced scientifc capabilities required to bolster our country\u2019s position of global naval leadership. Here, in an environment where the nation\u2019s best scientists and engineers are inspired to pursue their passion, everyone is focused on research that yields immediate and long-range applications in the defense of the United States.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "61243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0AD6F375-97D4-FB03-3F97-7BFD6BECCC52",
+                    "ANSWER_TITLE": "Government Entity (Defense)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "0AD39CFB-B63F-DFEA-C771-D0E6C0B992D7",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "U.S. Naval Research Laboratory",
+            "CITY": "Washington",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.nrl.navy.mil/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "AB967CD1-6822-4835-8116-9AD2DB3E0BBF"
+    }
+}

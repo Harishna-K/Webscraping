@@ -1,0 +1,86 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3921,
+                "BOOTH_KEY": "5D8A82CE-98E3-4ECD-AC8F-1F8D9CBB8163",
+                "KEY_ID": "129F0FB3-C4EF-E3BF-B4A6-FF2A961F5384"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "FD1E1BFB-097D-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3921,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Texas A&M University Corpus Christi - Autonomy Research Institute",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "ACTIVE": 1,
+            "ZIP_CODE": 78418,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "TX",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "DESCRIPTION": "Located at Texas A&M University-Corpus Christi (TAMUCC), the Autonomy Research Institute (ARI) is one of seven FAA-designated Unmanned Aircraft System Test Site. Dedicated to pioneering research, development, and testing of autonomous systems across air, land, water, and eventually space, ARI is at the forefront of shaping the future of autonomous systems. This transition marks an exciting new chapter where we continue to work closely with State, Federal, and Worldwide regulatory agencies in support of the safe integration of unmanned aircraft systems into the national airspace system, while pioneering advancements in autonomy systems.\n\nJoin us as we shape the future of autonomous systems, driving innovation that impacts governmental, educational, public, and commercial sectors, and attracts industry partners and economic development to Texas. Welcome to the forefront of autonomy system research and development\u2014welcome to ARI.",
+            "SALUTATION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "FA0C3F6F-F5C9-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "135788D7-DE9B-6AF1-592D-2C1224ECF177",
+                    "ANSWER_TITLE": "Academic/Educational/Research"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 318",
+            "MAP_LOGO": true,
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "12A50AF6-FFF2-21F8-1269-8E8177D5CC00",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Texas A&M University Corpus Christi - Autonomy Research Institute",
+            "CITY": "Corpus Christi,",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "https://www.tamucc.edu/autonomy-research-institute/index.php",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "31D67FC9-A17D-4F5B-8447-B883A7C722C8"
+    }
+}

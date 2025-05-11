@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1826,
+                "BOOTH_KEY": "5AC22A59-C6E2-4090-BDF8-0229FC6E7AEA",
+                "KEY_ID": "A520FF31-EBDE-E008-2EEC-2059074662D1"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "4A776C58-E50B-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1826,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Pictorus",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 94612,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025328103656_22a94f2514e9b3eaabe45b9656705eeb.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Pictorus is revolutionizing how engineers develop and deploy real-time control software, empowering teams to move faster and more efficiently without sacrificing performance or reliability. Traditionally, building complex industrial and embedded control systems requires deep expertise in low-level programming, time-consuming debugging, and extensive iteration cycles. Pictorus streamlines this process with a modern, high-level development environment designed for speed, flexibility, and ease of use.  \n\nWith Pictorus, engineers can visually design, simulate, and deploy high-performance control systems in a fraction of the time required by traditional approaches. The platform generates **optimized, hardware-ready C++ and Rust**, ensuring that engineers maintain complete control over their code, without the limitations of black-box solutions. By eliminating the need for extensive low-level programming, Pictorus allows teams to focus on **innovation and performance optimization** rather than getting bogged down in tedious implementation details.  \n\nDesigned for real-time, mission-critical applications, Pictorus is a game-changer for industries such as aerospace, robotics, automotive, and industrial automation. Whether developing guidance and navigation controls, robotic motion systems, or complex automation logic, engineers can leverage Pictorus to reduce development time drastically, minimize debugging efforts, and accelerate time-to-market**.  \n\nOne of Pictorus' key strengths is its intuitive, model-based design approach, which enables engineers to create complex, modular, and scalable control logic. Unlike traditional control system development, which often involves disconnected workflows and extensive hand-coding, Pictorus provides a seamless environment where engineers can design, test, and iterate faster than ever.  \n\nBy using Pictorus, companies can achieve more with smaller teams, optimize performance without compromising reliability, and gain a competitive edge in fast-moving industries. As the demand for smarter, more efficient control systems continues to rise, Pictorus sets a new standard for building real-time control software.  \n\nPictorus is the ultimate solution for engineers and companies looking to speed up development while maintaining precision and control.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A586C15C-0D01-535E-A5DD-5F83DF53D4CA",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "A55695B2-A3B4-5140-CC73-ADD6F37CBEAF",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Pictorus",
+            "CITY": "Oakland",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.pictor.us/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "8E499ACB-3C86-4C58-AA2D-C4CA209A206A"
+    }
+}

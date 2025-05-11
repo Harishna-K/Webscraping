@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3340,
+                "BOOTH_KEY": "E2153C75-CCC7-4997-BA53-1164D98E2F19",
+                "KEY_ID": "F1F80368-C0FA-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "FE03B969-FCDD-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3340,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Upgrade Energy",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 90254,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025128225343_b732676501bba77fa9cd75f88f0bcd90.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Upgrade Energy will power your drone to new horizons with our American designed and engineered batteries. Our partnership with Amprius, a silicon anode cell manufacturer, offers the world's most energy dense batteries.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "E441503C-FFDA-C5D0-CF97-94FC0D8558AC",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "E40E8176-D794-4AAA-BB5F-C3F141A87A11",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Upgrade Energy",
+            "CITY": "Hermosa Beach",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "upgradeenergytech.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "27F3291D-967C-4426-878A-7709ABAAF2AC"
+    }
+}

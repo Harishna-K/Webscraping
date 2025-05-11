@@ -1,0 +1,61 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2908,
+                "BOOTH_KEY": "B79272B1-6D48-4EE4-B70F-A93515AF6B9B",
+                "KEY_ID": "97A75524-0008-C665-B334-3D7AC83CE48E"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "755B3333-1954-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2908,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Linden Photonics, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/people/Linden-Photonics-Inc/100081830264244/",
+            "INSTAGRAM": "https://www.instagram.com/lindenphotonics/?hl=en",
+            "ACTIVE": 1,
+            "ZIP_CODE": "01886",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202486134135_a862988f6850e1d2117435ee4d9c4245.png",
+            "STATE": "MA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Linden Photonics manufacturers a broad range of fiber optic, hybrid and copper cables for drones, aerostats, underwater vehicles and other aerospace or land applications. Our cables have been optimized for use in harsh applications requiring a rugged, durable cable. For drones and aerostats we leverage our knowledge of low density materials for a low weight, high strength cable.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "98DBAD76-F348-FA6D-C477-A18BCA20E599",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/linden-photonics/",
+            "TOLL_FREE": "",
+            "KEY_ID": "97CB827E-FFAF-D494-1D2D-D872A490623B",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Linden Photonics, Inc.",
+            "CITY": "Westford",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.lindenphotonics.com/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "57BBDF8D-F5E1-4C3B-BD94-2C0BA1B00887"
+    }
+}

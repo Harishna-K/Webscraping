@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3135,
+                "BOOTH_KEY": "D5B5681C-A193-443A-A405-2864A462FC61",
+                "KEY_ID": "E532CC4E-4E03-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "F6AA0801-4703-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3135,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Sunnysky USA",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 43228,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "OH",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "SunnySky USA LLC, a manufacturer of electric power systems for UAVs.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "E6E9BEEC-E587-E603-08DA-4CA8E6B9E1FA",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "E6E1EDD6-AB18-16F3-A029-D8D75299CCB7",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Sunnysky USA",
+            "CITY": "Columbus",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.sunnyskyusa.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "FC09D885-7761-435F-A8E8-96AC88C7A5D3"
+    }
+}

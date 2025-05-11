@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1907,
+                "BOOTH_KEY": "2D392952-73AD-498E-B6B8-422E2B1AB7D3",
+                "KEY_ID": "72C5A50B-F7CD-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "A4662EF6-0DB1-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1907,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "PNI Sensor",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 95492,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "PNI is an American positioning and navigation product and technology company that provides highly accurate, precise position and navigation data to systems using proprietary sensors, algorithms and Edge AI.\nPNI\u2019s products range from magnetic sensors, high precision digital compass, AHRS modules and positioning modules that all work to provide navigational data when GPS is contested.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "63BDD5FB-C946-416B-EFBA-594EFC87269A",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "6393D854-A34D-AD71-3B9A-1506E7FB9570",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "PNI Sensor",
+            "CITY": "Windsor",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.pnisensor.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "1B741D96-FEE0-4AAB-A6BE-9FA7029FC736"
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2505,
+                "BOOTH_KEY": "24C3AABF-A446-486E-B820-4A3E2E98754C",
+                "KEY_ID": "4B123453-AA90-EF11-8101-8147A53E1DD0"
+            },
+            {
+                "BOOTH_NO": "MR12",
+                "BOOTH_KEY": "150CE79E-CD92-478D-9F18-D8E6600B6BDE",
+                "KEY_ID": "5F8A59F1-C223-90A0-94CA-2ABC8BBE046E"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "465D2656-9F90-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2505,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "INSPIRED FLIGHT",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "www.instagram.com/inspiredflightuav/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 93401,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241022114237_e4a1196f6d92db7f23eb2d96c432effa.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Founded in San Luis Obispo, CA in 2017, our U.S. based team manufactures and supports highly capable and agile UAS platforms for both commercial and government applications. Our thoughtful hardware design and willingness to engineer tailored solutions for specific requirements are some of the many reasons why agencies turn to Inspired Flight for their UAS programs. With a keen understanding of the challenges operators face, our vehicles are designed for repeatable and robust workflows, enabling users to complete objectives safely while vastly improving operational efficiency and bottom line. Inspired Flight's collection of UAS are ideal for the most demanding applications including aerial photogrammetry, surveying, thermal inspection, and more.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "176AFE13-0087-E1CA-E1B6-BF139CA1396F",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "www.linkedin.com/company/inspired-flight",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "0F155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D08956EC-9A7A-3D7F-186C-F45996D1C06C",
+                            "ANSWER_TITLE": "Public Safety"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "175766D6-C3CE-3CA3-949F-0510B51295B3",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "INSPIRED FLIGHT",
+            "CITY": "San Luis Obispo",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "inspiredflight.com",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "052E8453-D21A-4AAF-B3F6-3050A07B792F",
+        "CRM_COMPANY_KEY": "2E30A93A-DC73-4F7E-9686-A2E7004CDDA0"
+    }
+}

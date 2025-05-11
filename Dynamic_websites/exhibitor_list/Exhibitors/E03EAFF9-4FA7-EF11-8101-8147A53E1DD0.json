@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1630,
+                "BOOTH_KEY": "8DD100A3-85F8-4790-AAD2-7569EE5B3680",
+                "KEY_ID": "E4E95BEE-E9E1-0B18-9050-9AA3E57421A3"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "E03EAFF9-4FA7-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1630,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "RPX Tech",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "74075-8528",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "OK",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "RPX Technologies, Inc. is a leading U.S.-based designer and manufacturer of cutting-edge sensor systems tailored for defense, government, and commercial applications. With a commitment to innovation and affordability, RPX revolutionizes the industry through its flagship products, including the advanced vibration analysis system DynaVibe and the high-performance thermal camera embIR. These solutions break through traditional cost barriers, empowering unmanned system integrators with accessible, state-of-the-art technology.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "E4FC0442-D720-64AF-2D1D-3578F2EFA29F",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "E6D85145-04B8-07C0-69A7-B12E67F4C7B2",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "E4EEF0AF-A138-D1B5-3D2C-E4CA2C549090",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "RPX Tech",
+            "CITY": "Stillwater",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.rpxtech.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "CD785BA1-40C1-4A8F-A2B7-F4540489BFE1"
+    }
+}

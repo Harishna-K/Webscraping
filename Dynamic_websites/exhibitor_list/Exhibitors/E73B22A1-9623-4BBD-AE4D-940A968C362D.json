@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 7,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3521,
+                "BOOTH_KEY": "9B195508-2002-49A9-A0E1-52B65A2DC693",
+                "KEY_ID": "5BA1790A-13FD-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "E73B22A1-9623-4BBD-AE4D-940A968C362D",
+        "PRIMARY_BOOTH": 3521,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "TEXAS A&M ENGINEERING EXPERIMENT STATION (TEES) - AEROSPACE ENGINEERING",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "FA0C3F6F-F5C9-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D960F0B1-E1F4-303C-03C6-37CB838AE81D",
+                    "ANSWER_TITLE": "Academic/Educational/Research"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "7BF387F0-52AB-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D960F519-993F-0DB0-149C-6516D455DBBA",
+                            "ANSWER_TITLE": "Texas Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "7CAE9843-C442-4231-BE41-DCBC030CB3B1",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "TEXAS A&M ENGINEERING EXPERIMENT STATION (TEES) - AEROSPACE ENGINEERING",
+            "CITY": "",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://engineering.tamu.edu/aerospace/index.html",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "F9748A51-2396-EF11-8101-8147A53E1DD0",
+        "CRM_COMPANY_KEY": "896A48BA-B83F-4E3B-B61F-7919CDA0D760"
+    }
+}

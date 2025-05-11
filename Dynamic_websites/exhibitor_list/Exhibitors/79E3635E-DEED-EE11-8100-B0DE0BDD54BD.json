@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3204,
+                "BOOTH_KEY": "EFE9811D-FC30-48C5-AA85-B9FDC428D049",
+                "KEY_ID": "6BAB5753-A896-F705-5059-0D8B484A9C84"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "79E3635E-DEED-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3204,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Applanix",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/TrimbleCorporate/",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 80021,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025313141110_ccf5149eb686a70ecc043df1a8488cee.jpg",
+            "STATE": "CO",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Trimble: Precision Solutions for Unmanned Applications\n\nTrimble provides hardware and software for high accuracy in positioning and orientation. Trimble Applanix offers advanced GNSS-inertial systems for unmanned aerial surveys and navigation, including APX RTX for UAV, AP+ Air board sets, APX UAV product lineup, and the Trimble PX-1 RTX for UAV navigation. The Applanix POS LV for ground vehicles offers stable, accurate positioning with products like Applanix AP+ Land, POS LVX, and Trimble RT 200. \n\nTrimble\u2019s OEM GNSS products enhance productivity, safety, and accuracy across markets like autonomous vehicles, avionics, marine, and mining with precise positioning. Key products include the BD992-INS and the BX992.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6BCF790B-CB60-25F8-A9E7-16205CF4744D",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/trimble",
+            "TOLL_FREE": "",
+            "KEY_ID": "6BAE7AA9-9AB2-D089-C692-597C4E064ABD",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Trimble Inc",
+            "CITY": "Westminster",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.trimble.com/en",
+            "TWITTER": "https://x.com/TrimbleCorpNews"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "BF1CCEF3-E474-4485-8454-63E2B6FB874A"
+    }
+}

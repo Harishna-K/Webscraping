@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1807,
+                "BOOTH_KEY": "9467F555-F3A5-4E76-BADB-8AEDF665B5E5",
+                "KEY_ID": "EB63E6D2-E67D-C5D2-67D5-1E43DC14561B"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "2C9A1667-B11E-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1807,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Arete",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 22202,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202453014239_5a7470ec921f7cea6d959050978b9425.jpg",
+            "STATE": "VA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Aret\u00e9 is an advanced science and engineering company that provides innovative solutions \u2014 from scientific discovery through production. Aret\u00e9\u2019s smart systems include active and passive sensors, real-time processing, software, and complex algorithms that operate from seafloor to space.\n\nAret\u00e9 provides multi-domain, multi-discipline expertise and applications supporting the U.S. Navy, the U.S. Army, the U.S. Air Force, the U.S. Marine Corps, the Missile Defense Agency, the intelligence community, the U.S. Department of Energy, and commercial energy exploration companies.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "EB7717E9-A7FE-266C-E418-6B53848F3BF3",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "EB675731-D310-51DE-C035-C9F2B8D6EA7C",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Arete",
+            "CITY": "Arlington",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "arete.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "E84A6CCD-B2CF-40BF-AD2D-DD2A645578C0"
+    }
+}

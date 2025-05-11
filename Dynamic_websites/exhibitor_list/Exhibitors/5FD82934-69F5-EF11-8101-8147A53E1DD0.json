@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3313,
+                "BOOTH_KEY": "AE6380CB-21EA-495C-BEF6-CDCA51B96164",
+                "KEY_ID": "E32EE6C4-B0EE-2A67-3165-D9B0C86075A7"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "5FD82934-69F5-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3313,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "AGA Holding Company Limited",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "000000",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/20253591836_dd988ceac8fbce209a46ca4fc1d3568f.jpg",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "HK",
+            "SALUTATION": "",
+            "DESCRIPTION": "AGA Holding Company Limited completed the brand acquisition of Venom Power in 2023. We are the legal holder of the brand ownership of Venom Power.\n\nVenom Power is engaged in the design, development, marketing and wholesale distribution of cutting-edge rechargeable batteries, battery management systems (BMS) and related battery charging and maintenance accessories used in the operation of drones, UAVs, robotics, and radio controlled models.\n\nVenom Power main product lines are comprised on Lithium Polymer batteries (LiPO) and the battery chargers that power them.\n\nCheck out this website for offers!\nhttps://venombattery.com/",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "7401C345-EAE6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "E35BF366-A7A4-4335-3289-497C07D0FCD6",
+                    "ANSWER_TITLE": "Manufacturing Machinery/Contract Manufacturing/Production Equipment"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "E3458C23-AF38-ADEF-93FC-E9B43DAE2EBF",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "AGA Holding Company Limited",
+            "CITY": "Hong Kong",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://agabattery.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "D4C7B509-68AE-46DA-9FE7-DFD045286D63"
+    }
+}

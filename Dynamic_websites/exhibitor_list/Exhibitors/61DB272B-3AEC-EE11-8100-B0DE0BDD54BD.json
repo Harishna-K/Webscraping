@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2709,
+                "BOOTH_KEY": "824CBF5D-C0F2-49F0-96C8-CAABC4600B4F",
+                "KEY_ID": "4CEC0131-DD00-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "61DB272B-3AEC-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2709,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Blue Marble Geographics",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/bluemarble.geographics",
+            "INSTAGRAM": "https://www.instagram.com/bluemarblegeo",
+            "ACTIVE": 1,
+            "ZIP_CODE": "04347",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202432791449_771a2ae8f3039d773b6e394a9a1ec472.jpg",
+            "STATE": "ME",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Blue Marble Geographics\u00ae is a GIS and geodetic software development company that provides cutting-edge software products for GIS and geospatial professionals. Blue Marble\u2019s products include Geographic Calculator\u00ae, the industry standard for precise spatial data conversion and advanced coordinate system management; Global Mapper\u00ae, an all-in-one GIS application with a comprehensive array of data processing and analysis tools; and Global Mapper Pro\u00ae, a suite of powerful tools for editing and processing lidar and photogrammetric point clouds from drone-captured images. All of these software tools are available for desktop, cloud, mobile, or software developer toolkits.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0098C38C-AE05-DA72-9336-39C4DB3A5A83",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/1283871/admin/feed/posts/",
+            "TOLL_FREE": "",
+            "KEY_ID": "005A2CEF-F839-3580-FC28-0783AC9B3B8D",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Blue Marble Geographics",
+            "CITY": "Hallowell",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.bluemarblegeo.com/",
+            "TWITTER": "https://twitter.com/BlueMarbleGeo"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "F6844778-A399-4AED-8892-533CFDBFE597"
+    }
+}

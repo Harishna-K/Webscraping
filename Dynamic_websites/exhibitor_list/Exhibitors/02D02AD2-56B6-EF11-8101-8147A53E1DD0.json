@@ -1,0 +1,59 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1913,
+                "BOOTH_KEY": "FA4017BE-AB16-4D1F-9086-107E7A170CA6",
+                "KEY_ID": "BDB32FDB-DCCC-26F9-4B13-036743F756AB"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "02D02AD2-56B6-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1913,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Summit Interconnect",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 92612,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202412910599_2889da7cfd84217d09ff15ee81063c53.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Summit Interconnect is the largest privately held PCB manufacturer in North America. With field application engineers across North America, best-in-class processes, top-of-the-line equipment, and redundant facilities, Summit is the clear choice when selecting a manufacturer for mission-critical PCB designs. The company offers customers a complete portfolio of PCB services for high-mix, low-volume programs including HDI rigid, flex, rigid-flex, assembly, and quick-turn prototypes. Working alongside customers, Summit is pushing the boundaries of what is possible, helping to create inventive and transformative electronic products.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "BED8A909-ED17-9181-7574-FCEDF73FE84C",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/summit-interconnect/",
+            "TOLL_FREE": "",
+            "KEY_ID": "BDB93A25-C2B1-4274-7612-1AF6EEF68A27",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Summit Interconnect",
+            "CITY": "Irvine",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.summitinterconnect.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "9BD3738B-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

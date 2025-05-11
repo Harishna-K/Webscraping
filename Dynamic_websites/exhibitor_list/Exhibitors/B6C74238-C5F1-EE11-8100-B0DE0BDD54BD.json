@@ -1,0 +1,59 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2339,
+                "BOOTH_KEY": "15B7E66E-04B1-48D4-B646-56BEC1FC4D53",
+                "KEY_ID": "6B6C59F9-B33E-0A9A-01F1-CD568A1818AB"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "B6C74238-C5F1-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2339,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Oxford Technical Solutions Ltd.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": "\u00a0\u00a0OX25 4AL",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202443152522_6b6ccf0acd00f765aa2d093378ecf67f.jpg",
+            "STATE": "OXFORDSHIRE",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "GB",
+            "SALUTATION": "",
+            "DESCRIPTION": "At OxTS, we have been pushing the performance limits from MEMS-based GNSS/INS for over twenty years. Today, thousands of engineers are collecting and using position, orientation and dynamics data to develop and deploy vehicles and other autonomous platforms around the world. Our focus on robustness and scalability has led to our GNSS/INS systems becoming the go-to solution for automotive testing and an attractive alternative to FOG-based systems in other industries.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6BB3FCA4-DBA7-8D53-2D73-B964964A00C0",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/oxts-ltd-/",
+            "TOLL_FREE": "",
+            "KEY_ID": "6B77339F-C6AA-D0F1-2138-B967BD65E980",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Oxford Technical Solutions Ltd.",
+            "CITY": "Middleton Stoney",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.oxts.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "6B450179-2D1D-4E03-82D3-B4DAF1738357"
+    }
+}

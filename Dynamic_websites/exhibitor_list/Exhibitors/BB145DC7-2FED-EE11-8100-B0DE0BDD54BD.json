@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3304,
+                "BOOTH_KEY": "2264EE16-0DFF-498E-9061-E8897768996C",
+                "KEY_ID": "405D9EB9-F842-D923-7406-997A4C895341"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "BB145DC7-2FED-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3304,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "FIBERPRO INC",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": "\u00a034113",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "KR",
+            "SALUTATION": "",
+            "DESCRIPTION": "Since 1995, FIBERPRO, Inc., located in South Korea, has pioneered fiber optic-based gyroscope solutions, evolving from a single-axis gyroscope to a full-fledge inertial navigation system. Our cutting-edge technology guarantees 0.1\u00ba/h of high-precision bias instability products at affordable prices, delivered quickly.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "4039CFAC-CCA0-8343-8CC7-FF4D9982C301",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "4011F5E1-D594-C699-2505-7DF0F3A8BBFB",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "FIBERPRO, Inc.",
+            "CITY": "Daejeon",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.fiberpro.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "7346E95B-533E-4242-8BF0-B699195CC7FE"
+    }
+}

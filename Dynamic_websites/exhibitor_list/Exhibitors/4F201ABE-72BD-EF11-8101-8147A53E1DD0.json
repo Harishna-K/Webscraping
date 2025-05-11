@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2900,
+                "BOOTH_KEY": "CC55BF5F-70B8-4050-BA0A-FA464921F87C",
+                "KEY_ID": "8FCD596E-05C4-3584-FE65-5E0FDA027E80"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "4F201ABE-72BD-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2900,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Commercial UAV Expo",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": "04101",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "ME",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Commercial UAV News is a leading source of news, insight and analysis for the commercial drone market. Commercial UAV News is operated by Diversified, which has over a dozen years of experience producing world-renowned events for precision-measurement professionals, including the Commercial UAV Expo and Commercial UAV Expo Europe. Diversified has the industry connections and market expertise to deliver the content that helps our audience make better business decisions.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "59243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "905267C0-F539-BBD1-DA64-7785411D55FB",
+                    "ANSWER_TITLE": "Publication/Media"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "903B0E56-BE7F-7FA2-E197-6E3386EF53F3",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Commercial UAV News & Expo",
+            "CITY": "Portland",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.expouav.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "C5C61FB2-D254-48B1-AD1C-92E0C260F270"
+    }
+}

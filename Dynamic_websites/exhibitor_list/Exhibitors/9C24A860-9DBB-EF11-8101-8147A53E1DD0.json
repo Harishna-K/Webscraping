@@ -1,0 +1,61 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2401,
+                "BOOTH_KEY": "59464262-A99C-4478-BEE8-7AA2708DC789",
+                "KEY_ID": "1771CE77-BD06-5E67-BFB3-CA7F861D5123"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "9C24A860-9DBB-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2401,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "TUALCOM",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "INSTAGRAM": "tualcom",
+            "ACTIVE": 1,
+            "ZIP_CODE": "\u00a0",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024121614556_ce4cc2b61328d5b4cbec86fec6b01ada.jpg",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "TR",
+            "SALUTATION": "",
+            "DESCRIPTION": "TUALCOM operates in the fields of communication and RF technologies. In addition to providing fast, customized and state-of-the art solutions with our indigenous designs, we also participate in various projects carried out by country\u2019s leading space technology and defense companies.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "177EC49E-B5CD-A940-4191-62C487DF2F36",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "tualcom",
+            "TOLL_FREE": "",
+            "KEY_ID": "1774E86B-B3E8-62BC-898B-E4D1D9FF38DE",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "TUALCOM",
+            "CITY": "ANKARA",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.tualcom.com",
+            "TWITTER": "tualcom"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "CE220FC5-1CCC-4D18-AE88-1D75BBD2E680"
+    }
+}

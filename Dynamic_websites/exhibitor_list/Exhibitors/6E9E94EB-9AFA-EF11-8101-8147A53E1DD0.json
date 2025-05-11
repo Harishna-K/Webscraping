@@ -1,0 +1,90 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2204,
+                "BOOTH_KEY": "F2CB54A8-98E5-402B-A890-D91A55177762",
+                "KEY_ID": "3794796C-ADC8-A4A0-12F2-2391621554C8"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "6E9E94EB-9AFA-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2204,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Vantage Robotics",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/vantagerobotics",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "https://www.instagram.com/vantagerobotics/?hl=en",
+            "ACTIVE": 1,
+            "ZIP_CODE": 94578,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Vantage makes UAVs and UAV components for customers, including the U.S. Army, Navy, Marines, Coast Guard, FBI, NASA, DEA, and CNN. Our first product, Snap, achieved a landmark FAA waiver for commercial flight over people. Our second product, Vesper, was one of five products selected by the Pentagon for use by the federal government. We\u2019re currently making the next generation micro drone for the U.S. Army\u2019s $100M Soldier Borne Sensor Program and a family of modular micro-gimbals as part of the Pentagon\u2019s Blue UAS program.\n\nVantage has been awarded over $22M in R&D contracts over the last two years and raised $20M in venture funding. The company has strong backing from VCs who previously backed Twitter and Zoom, the founder of Insitu, and the Pentagon\u2019s Defense Innovation Unit. We are a team of Stanford engineers, DARPA Grand Challenge winners, IDEO and Volkswagen alums, NASA roboticists, 3D printer designers, and pioneering software developers. We\u2019re also ardent kite surfers, mountain bikers, rock climbers, surfers, and award winning pilots. We work to achieve ambitious goals but also to achieve meaningful\nlives.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "3832177C-D584-208A-AC41-5D3E1D052BB6",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/vantage-robotics",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "3798721E-BECB-B7AF-AED2-4CFB5FC94E3A",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Vantage Robotics",
+            "CITY": "San Leandro",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.vantagerobotics.com",
+            "TWITTER": "https://www.facebook.com/vantagerobotics",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "68B37685-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

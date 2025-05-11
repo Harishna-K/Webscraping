@@ -1,0 +1,86 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2941,
+                "BOOTH_KEY": "8EC319FB-2B40-450A-AEEF-F3518D3DE85F",
+                "KEY_ID": "CB5B6B6E-F720-4818-E44A-214C966EB289"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "9C7788EB-9308-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2941,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Sky-Watch",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "ACTIVE": 1,
+            "ZIP_CODE": 9530,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025324104654_081cf2cd3e709ddac1e4dc41a3589d17.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DK",
+            "SALUTATION": "",
+            "DESCRIPTION": "SKY-WATCH develops and manufactures battle-proven UAS for combat\n\nThe RQ-35 Heidrun is a fully autonomous, fixed-wing mini UAS, perfect for low-altitude reconnaissance and target acquisition - ideal for gathering immediate sensor data in mission-critical areas.\n\nThis small, portable, and hand-launched ISR solution provides reliable, high-precision, real-time data and situational awareness for ground combat forces. Designed to be an organic decision support tool for company-level or special operation forces, the RQ-35 Heidrun can operate in congested environments without GNSS access, with minimal footprint in the air and on the ground. \nThe platform is extremely user-friendly for both deployment and operation, making it an essential, rugged and reliable asset for armed forces in today\u2019s battle space.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "0C0655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "Drone producer",
+                    "KEY_ID": "CB8B1CEE-E52A-5D2E-0866-836BEF7575D4",
+                    "ANSWER_TITLE": "Other"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "CB69329A-91F6-2CD9-743D-C20934BAD848",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Sky-Watch",
+            "CITY": "St\u00f8vring",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "sky-watch.com",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "4F184E94-91B0-4088-8089-9C87A856B205"
+    }
+}

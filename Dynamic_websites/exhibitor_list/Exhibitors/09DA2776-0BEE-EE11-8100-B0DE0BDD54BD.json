@@ -1,0 +1,132 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2126,
+                "BOOTH_KEY": "1D95D371-DF96-432D-A36B-155DCF379A7F",
+                "KEY_ID": "4BC5531B-B606-AA2E-575E-995EEED547F6"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "09DA2776-0BEE-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2126,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Custom Power",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 92708,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317112817_69fb0fced813ea01eb042510c69b2c1f.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Custom Power overview brochure",
+                    "KEY_ID": "E5F6FF08-9B92-966C-DFD6-EE5D1A8CAD46",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531711227_b5e322a924644ea65b668ba92ecc5140.png",
+                    "TITLE": "Custom Power Brochure",
+                    "URL": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531794854_9d0e17e2daf70bd7decb9b1b2f17e503.pdf"
+                }
+            ],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Custom Power is a premier, custom battery pack and battery management designer and manufacturer, specializing in complex aerospace, defense, medical and industrial applications.  We work with both primary and secondary chemistries and offer designs that meet regulatory requirements for UL, IEC, CE, CSA, and others, bringing our clients the broadest range of battery packs and solutions.  Our team of engineers are focused on BMS circuitry and enclosure design as well as cell qualification, and our processes consistently meet and exceed the most stringent requirements put in place by all the various industries and clients we serve.  Custom Power has ISO9001 and AS9100 certifications, and we are ITAR registered.  Please see more information at www.custompower.com",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0C85AC6C-A17F-12CD-DCCF-6CF31187AA47",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "custompowerbattery",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "E4A34420-7061-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "3DF0D7BE-A11B-A4DE-DCCE-9EAE04A274E5",
+                            "ANSWER_TITLE": "Advanced Materials and Manufacturing"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "772E72C7-F8DC-E6DC-7E95-19FB1B056E92",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Custom Power",
+            "CITY": "Fountain Valley",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Take a look at our short company video to see why we are the battery pack manufacturer of choice for powering critical applications around the world.",
+                    "KEY_ID": "664D55D1-AC91-5328-E13F-16F13316B860",
+                    "TITLE": "We are Custom Power",
+                    "HEADER_IMAGE": "",
+                    "URL": "https://youtu.be/cbaqYBhCuag?si=_EaSHQUkw4UcHhB5"
+                }
+            ],
+            "WEBSITE": "www.custompower.com",
+            "TWITTER": "",
+            "HEADERIMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317113736_69fb0fced813ea01eb042510c69b2c1f.png"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "B617F41B-E834-4D29-A734-375EDDAB25D4"
+    }
+}

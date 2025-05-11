@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1429,
+                "BOOTH_KEY": "09A063C6-AA7D-4CD1-BDD2-75192F4574D6",
+                "KEY_ID": "A7928C15-C79C-1BAE-9B2D-096331A4A26B"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "28247083-C8E8-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1429,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Hylio Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 77469,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "TX",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Hylio is a leading developer and manufacturer of advanced unmanned aerial systems, with a primary focus on precision agriculture. Our cutting-edge, NDAA-compliant drones automate critical farming processes, enabling operators to target crop treatments with pinpoint accuracy, improving yields, reducing costs, and minimizing environmental impact.\n\nBeyond agriculture, Hylio\u2019s versatile UAS platforms excel in a broad range of industrial applications, including surveying and defense. Designed and manufactured in the United States, our drones meet the highest standards of reliability and adaptability, helping clients across diverse sectors achieve operational efficiency and drive innovation.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A7AD8A4A-C0E1-5957-DDCE-C552E9AF38B1",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D5B541B0-9DCC-F882-2F01-99C6EBECE79A",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "A79D6C80-ED85-08F5-5885-4E0FA59D8FA7",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Hylio Inc.",
+            "CITY": "Richmond",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.hyl.io",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "BF09CD4A-BBCE-43E5-AC4F-D190AE893A72"
+    }
+}

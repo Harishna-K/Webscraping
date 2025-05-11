@@ -1,0 +1,183 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3301,
+                "BOOTH_KEY": "70679EDE-5472-4869-9F89-8D582D28A2BE",
+                "KEY_ID": "F64619B3-CA7D-B27A-D17A-E0FA1E8FA465"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "A75B9977-E370-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3301,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "MostaTech Ltd.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/profile.php?id=61566804326642",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "https://www.instagram.com/mostatech_malta",
+            "ACTIVE": 1,
+            "ZIP_CODE": "MST 3000",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024912105330_c7578233501e37580ff9746f44f4104d.png",
+            "STATE": "MST",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "MT",
+            "SALUTATION": "",
+            "DESCRIPTION": "MostaTech is a leading European manufacturer specializing in miniature fiber optic gyroscopes (FOGs) & FOG-based inertial measurement units (FOG IMUs). With over 35 years of industry expertise and proprietary technology, we produce high-performance sensors that provide essential data for guidance, control, and navigation systems in various autonomous and unmanned platforms, including AUVs, UUVs, USVs, and drones. Our products are integral to stabilization applications, pipeline inspections, underground utility mapping, borehole surveying, and more. \nOur inertial sensors feature low noise performance, ultra-low power consumption, compact size, lightweight design, and exceptional robustness. They offer ultimate magnetic immunity, high shock and vibration resistance, and reliable operation in extreme temperatures. Manufactured in Malta (EU), our fiber optic gyros and FOG IMUs are cost-effective, non-ITAR solutions.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "F7130ADC-9CBE-4159-9290-4C52A810A104",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/mostatech",
+            "FORM": {
+                "QUESTIONS": [
+                    {
+                        "QUESTION_NAME": "Contact Form Message",
+                        "DISPLAY_ORDER": 1,
+                        "QUESTION_TYPE": "textarea",
+                        "ACTIVE": 1,
+                        "KEY_ID": "A5F0DDBC-04FD-EF11-8101-8147A53E1DD0",
+                        "ANSWERS": [
+                            {
+                                "DISPLAY_ORDER": 1,
+                                "ACTIVE": 1,
+                                "KEY_ID": "A6F0DDBC-04FD-EF11-8101-8147A53E1DD0",
+                                "ANSWER_TITLE": "Message"
+                            }
+                        ]
+                    }
+                ],
+                "SUB_TITLE": "",
+                "DESCRIPTION": "Leave a message and we will get back to you!",
+                "THANK_YOU_MESSAGE": "Thank you for reaching out! We have received your message and will be in touch shortly to address your inquiry.",
+                "KEY_ID": "D5AC5DCA-094D-2F51-168D-BFBE6B6AD81C",
+                "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531010617_919308efdce521c148f55395a1fb613f.jpg",
+                "TITLE": "Contact Us",
+                "EMAIL_NOTIFICATION": "olga.pogorelova@mostatech.mt"
+            },
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "F656E9FE-AF2D-93F3-F036-F13ECF55F862",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "MostaTech",
+            "CITY": "Mosta",
+            "ACTION_BUTTON_LABEL": "Contact Us",
+            "PRODUCTS": [
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "The VG221 fiber optic gyroscope (FOG) is the smallest and lightest gyro available on the market, measuring \u00d833x12mm and weighing just 15 grams. Consuming only 0.3W, it is highly energy-efficient, setting a new benchmark for SWaP (size, weight, and power) parameters within the industry. These leading parameters are coupled with a low noise performance delivering an ARW of 0.05\u00b0/vh and a bias stability of 1\u00b0/h. \r\n\r\nThe VG221 series includes models with \u00b5-metal casing for superior magnetic immunity (0.1\u00b0/h/Gauss) and the VG221LN variant with an ARW of 0.025 \u00b0/vh. \r\n\r\nThe world's smallest FOG is well-suited for a variety of applications, including miniature gimbal stabilization, drone navigation, borehole surveying, underground utilities mapping, and more.\r\n \r\nManufactured in Malta (EU), the VG221 fiber optic gyros are cost-effective, ITAR-free solutions.",
+                    "DOCUMENT": "https://mostatech.mt/smallest-fiber-optic-gyro-series-vg220/",
+                    "KEY_ID": "D403BCB7-A562-9D0B-F81F-16C00B312032",
+                    "TITLE": "World\u2019s Smallest Fiber Optic Gyro VG221",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202539165043_7d15c22cff7c247526c69dcccc49b103.jpg",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": 1,
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "The VG2103S-3000 is a significantly upgraded fiber optic gyroscope, now capable of withstanding shocks up to 3000g. The VG2103S-3000 model features low noise performance with an angular random walk (ARW) of 0.03\u00b0/vh and a bias stability of 1\u00b0/h. It can also endure vibrations up to 18g. The gyroscope is encased in a lightweight aluminium alloy housing with four flanges for secure mounting. \r\n\r\nAdditionally, the VG2103S is available in two temperature-resistant versions, operating at temperatures up to +85\u00b0C and +125\u00b0C, ensuring reliable performance in extreme conditions. Built on 35 years of proven technology, the VG2103S series continues the legacy of the durable VG910 fiber optic gyros, offering robust solutions for navigation and stabilization in demanding environments.",
+                    "DOCUMENT": "https://mostatech.mt/docs/fiber_optic_gyro_datasheet_VG2103S-3000.pdf",
+                    "KEY_ID": "D2E4BDBB-C4F0-0029-11DD-18A3D5FECAD9",
+                    "TITLE": "Shock-Resistant Fiber Optic Gyro VG2103S-3000",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202539161827_7a88572ffdea3bbe33f50d35ed996d64.jpg",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "The U123D is an innovative FOG-based inertial measurement unit (FOG IMU) featuring a compact, lightweight design and very low power consumption. It combines three of the smallest fiber optic gyroscopes with three MEMS accelerometers. The integrated 6-channel ADC board provides output data via an RS422 interface. \r\n\r\nThe cylinder-shaped unit measures \u00d840 x 90mm, weighs 150 grams, and requires as low as 1.5W of power. It delivers low noise performance with an ARW of 0.05\u00b0/vh and a bias stability of 1\u00b0/h. The accelerometers have a 10g range, 0.2mg bias stability, and 250 Hz bandwidth. \r\n\r\nWith magnetic shielding, the FOG IMU offers two levels of magnetic immunity: 0.3\u00b0/h/Gauss and 0.01\u00b0/h/Gauss.\r\n\r\nThis cost-effective, non-ITAR solution is ideal for inertial navigation systems (INSs) in UAVs, UUVs, USVs, and ROVs.",
+                    "DOCUMENT": "https://mostatech.mt/fog_based_imu/",
+                    "KEY_ID": "D4D0B2FB-FC81-36CB-8FBC-1A52C8A05B60",
+                    "TITLE": "Cylinder FOG-based Inertial Measurement Unit U123D",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202539171210_b09e0d4575c5731c48ef3c40184930a9.jpg",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": 1,
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "The G321M is a new advanced three-axis fiber optic gyroscope (FOG) designed to meet the industry's need for compact, high-performance inertial sensors. The FOG measures 53 x 53 x 36 mm and boasts an impressive 8kHz data output rate. It features three integrated single-axis FOGs within a durable frame, coupled with a three-channel ADC board for accurate angular rate data transmission via RS422. The G321M stands out with its exceptional low noise performance, offering a bias stability of 1\u00b0/h and an ARW of 0.025\u00b0/vh. Enhanced with advanced magnetic shielding, it ensures reliable operation in environments with high magnetic interference. Despite its robust capabilities, the G321M remains lightweight at 145 grams and consumes only 2W of power, making it the perfect choice for applications where compact size, minimal weight, and energy efficiency are critical.",
+                    "DOCUMENT": "https://mostatech.mt/docs/fiber_optic_gyro_datasheet_G321M.pdf",
+                    "KEY_ID": "A6E9E9AC-DDFA-F5F3-697D-57F1314EE9CD",
+                    "TITLE": "High-Speed 3-Axis Fiber Optic Gyro G321M",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202539155337_5afe6831d717dba5451981f7d879b837.jpg",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Introducing the U121D, a state-of-the-art FOG-based inertial measurement unit (FOG IMU) designed for minimal size, weight, and power consumption. This unit incorporates three compact fiber optic gyroscopes alongside three MEMS accelerometers. Its fully integrated 6-channel ADC board transmits data through an RS422 interface. \r\n\r\nMeasuring just 63x56mm and weighing 180 grams, the U121D operates on 1.5W of power. It boasts low noise performance with an angular random walk (ARW) of 0.05\u00b0/vh and a bias stability of 1\u00b0/h. The accelerometers offer a 10g range, 0.2mg bias stability, and a 250 Hz bandwidth. \r\n\r\nEnhanced with internal magnetic shielding, it achieves high magnetic immunity of 0.3\u00b0/h/Gauss, ensuring reliable operation in environments with strong magnetic fields. This ITAR-free, cost-effective FOG IMU is perfect for inertial navigation systems in UAVs, UUVs, USVs, and ROVs.",
+                    "DOCUMENT": "https://mostatech.mt/docs/fiber_optic_gyro_imu_datasheet_U121D.pdf",
+                    "KEY_ID": "D593282D-BB57-6EFE-1B1B-2AE61FCC3E1A",
+                    "TITLE": "Ultra-Compact FOG-based Inertial Measurement Unit U121D",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202539173339_03e67627c04074e48b4daa74409504da.jpg",
+                    "DOCUMENT_TYPE": "document"
+                }
+            ],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "https://mostatech.mt/",
+            "TWITTER": "https://x.com/MostaTech_Malta",
+            "HEADERIMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/20253813440_02277874cf0dcc32c73d0dbe70426f2f.jpg"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "FFDBD025-2F9A-48E1-9205-9C653F197647"
+    }
+}

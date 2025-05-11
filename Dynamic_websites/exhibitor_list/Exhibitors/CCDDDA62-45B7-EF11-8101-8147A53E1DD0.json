@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2400,
+                "BOOTH_KEY": "DD0B3FA6-5901-49E7-BC4C-246C816F592F",
+                "KEY_ID": "FAE54D39-F729-FB6A-BD86-B0728179C53C"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "CCDDDA62-45B7-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2400,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Colorado Drone Chargers",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "CODroneChargers",
+            "INSTAGRAM": "CODroneChargers",
+            "ACTIVE": 1,
+            "ZIP_CODE": 80908,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241210153622_250cbc6a18a39a00f3a104068a3423f3.jpg",
+            "STATE": "CO",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Colorado Drone Chargers offers portable charging systems for industry-leading commercial drones, and is committed to providing the most efficient drone charging solutions on the market. CDC charging systems are durable, powerful, and portable for the most remote and rugged environments. CDC charging systems charge multiple batteries and USB accessories simultaneously, so drone users save time, energy, and money. All drone chargers come with a lifetime warranty.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "4F243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "FB64EA5C-FDC2-B869-BA3F-87B7369EBE68",
+                    "ANSWER_TITLE": "Auxiliary Product Manufacturer (cases, laser engravings, etc.)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Colorado Drone Chargers",
+            "TOLL_FREE": "",
+            "KEY_ID": "FAF76CCC-DCCD-FA6E-0433-F8794CB78D10",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Colorado Drone Chargers",
+            "CITY": "Colorado Springs",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.coloradodronechargers.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "7FAF011D-7693-4DF2-82D1-24FFAEE77E9E"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1534,
+                "BOOTH_KEY": "1725DF76-C38F-46B3-8963-5F738AD0E6E1",
+                "KEY_ID": "DBAFFEE4-0928-60B5-A3F4-45BC0A408878"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C510D3FF-93E9-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1534,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Elodin",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "elodin.systems",
+            "ACTIVE": 1,
+            "ZIP_CODE": "94107-3199",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202521395425_8a2a67c667f73defc6f236833a333f06.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Platform for building, training, and deploying autonomous systems. Our aerospace-grade hardware and software power AI-driven flight.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "DC0364E5-0969-FB87-E490-544E5DA3CC35",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 224",
+            "MAP_LOGO": true,
+            "LINKEDIN": "elodin-systems-inc",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D5B17738-A7CA-47D2-608F-B21012435B28",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "DBC65B3D-EABA-AA00-8EFE-6E36DABB2226",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Elodin",
+            "CITY": "San Francisco",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.elodin.systems",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "6FB30716-53DE-4B4D-BFFD-CAC8C3180A61"
+    }
+}

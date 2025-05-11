@@ -1,0 +1,89 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2912,
+                "BOOTH_KEY": "050C4F90-9B29-4A1F-AF78-986523B04C14",
+                "KEY_ID": "08AAB9EB-A468-5687-6CA3-F141E96484AC"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "2B0783DD-5AEC-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2912,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "All Flex Solutions, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/AllFlexSolutions",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "ACTIVE": 1,
+            "ZIP_CODE": 55057,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024327121338_37030198ea4e1846bcc6d9eda5b5cfa5.png",
+            "STATE": "MN",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "All Flex Solutions is an industry leader in the design and manufacturing of unique flexible packaging solutions for electronic applications.  All Flex specializes in manufacturing flexible circuits, rigid flex circuits, flexible heaters, and our latest product offering CatheterFlex\u00ae Circuits which are very thin, very long flexible circuits for catheter applications - improving assembly yields and costs.  We also offer assembly services too!  Stop by our booth and see the flexible solutions that are available for your electronic packaging needs!",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "092D70A7-C992-F2F6-9EF8-839EB9DC0C92",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/all-flex-solutions",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "08B51DCA-FF59-3708-A2FA-D134F99C777F",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "All Flex Solutions, Inc.",
+            "CITY": "Northfield",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.allflexinc.com",
+            "TWITTER": "@All_FlexInc",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "74D44778-3F7B-4B9A-9B91-F57EB678AE28"
+    }
+}

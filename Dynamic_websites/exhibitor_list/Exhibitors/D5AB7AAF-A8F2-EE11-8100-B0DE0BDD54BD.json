@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2917,
+                "BOOTH_KEY": "BA3CCFEE-7C4F-4DE8-BF6A-2207052D121A",
+                "KEY_ID": "48E7474C-D4BA-444C-702E-B8278E7070FB"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D5AB7AAF-A8F2-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2917,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "MKS Servos",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 77027,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "TX",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "We have a line-up of over 100 in-house engineered and manufactured servo actuators, ranging from 5.5mm thick to 450 Kg/cm in rated Stall Torque.\nOur two product lines,\n\u2022\tMKS servos are our high end servos that have been proven to be extremely reliable and a cost effective option in a large number of Unmanned Systems. We also offer a number of our MKS servos in DroneCAN protocol.\n\u2022\tZeus range of our actuators are IP67 (minimum rating), MIL-STD-810G, Temperature tested, EMC tested and our P1000 is MIL-STD-810F certificated.  Available in PWM and DroneCAN as standard configuration, as well as RS232 and RS485. \nOur Factory is based in Taiwan and is ISO-9001:2015 certified.\nDoing business with a number of Fortune 500, DoD suppliers, start up\u2019s, robotic manufactures and Universities we hope to earn your business too.   \nCustom geared solutions are our specialty.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A5BCE307-0E4B-D5C8-58CF-0ED9250903CE",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite #116",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "A5A55B07-D73A-3778-2A4C-420755A32998",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "MKS Servos",
+            "CITY": "Houston",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.MKSservosUSA.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "C4EF9042-4700-49B6-B860-0E591CE6450D"
+    }
+}

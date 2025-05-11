@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3209,
+                "BOOTH_KEY": "37922B8F-E87D-45D6-9D8E-9F02811EA0BF",
+                "KEY_ID": "3C157D1F-B76C-2050-7B3F-4E3164B92C15"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "EB40B1A1-D423-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3209,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Purui Intelligent Drone Ltd",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": "\u00a0519000",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "Guangdong",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CN",
+            "SALUTATION": "",
+            "DESCRIPTION": "Purui Intelligent Drone Ltd is a technology-based enterprise that independently develops and manufactures intelligent unmanned aerial vehicles, with a registered capital of 10 million yuan.Main business scope: manufacturing of intelligent unmanned aerial vehicles; sales of intelligent unmanned aerial vehicles; software development; industrial Internet data services; technical services, technology development, technology consultation, technology exchange, technology transfer, technology promotion; information system integration services; retail of computer hardware and auxiliary equipment; information technology consulting services; leasing services (excluding license leasing services); contract energy management; research and development of power distribution switch control equipment; research and development of Internet of Things technology; enterprise management consulting; technology import and export; goods import and export.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "3C239C5E-B977-9CAD-6674-5CDE1A78B37A",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "South Software Park, Tangjiawan Town, Xiangzhou District",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "3C19B483-A14F-82A9-2E7B-40E08839D7B3",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Purui Intelligent Drone Ltd",
+            "CITY": "Zhuhai",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.pr-uav.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "769D3615-C863-4971-97AA-B304765940CC"
+    }
+}

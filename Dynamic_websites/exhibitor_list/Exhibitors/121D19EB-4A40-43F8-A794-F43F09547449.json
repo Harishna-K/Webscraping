@@ -1,0 +1,82 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2928,
+                "BOOTH_KEY": "78D2E737-90EA-4C29-867A-76A797003EA4",
+                "KEY_ID": "47F851FC-D746-34C6-4D00-724419A2578B"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "121D19EB-4A40-43F8-A794-F43F09547449",
+        "PRIMARY_BOOTH": 2928,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "HHLA Sky GmbH",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 20457,
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "EMAIL": "holgerkositz@web.de",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "060655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "98CF9F10-AAE9-0CEA-6B8F-1BABB30A550C",
+                    "ANSWER_TITLE": "Integrator"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "D568D496-D9F9-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "48069F66-D5AB-6254-C7D9-C3960A4EEB2B",
+                            "ANSWER_TITLE": "German Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "47FAE60C-9D09-DD16-A472-153F8D35AB6E",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "HHLA Sky GmbH",
+            "CITY": "Hamburg",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://hhla-sky.de/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "121D19EB-4A40-43F8-A794-F43F09547449",
+        "CRM_COMPANY_KEY": "DDD3738B-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

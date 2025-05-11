@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1738,
+                "BOOTH_KEY": "BF41BF41-B331-4087-8710-F1381656E4A6",
+                "KEY_ID": "A699D769-BC32-615F-81EF-B57692FDAD9F"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "BA2A2091-048B-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1738,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "XENICS USA",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 33700,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241015165610_28cd6a0e08222c9fca93f95e8ddf9992.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "FR",
+            "SALUTATION": "",
+            "DESCRIPTION": "Exosens is a high-tech company, with more than 85 years of experience in the innovation, development, manufacturing and sale of high-end electro-optical technologies in the field of amplification, detection and imaging. Today, it offers its customers detection components and solutions such as travelling wave tubes, advanced cameras, neutron & gamma detectors, instrument detectors and light intensifier tubes. This allows Exosens to respond to complex issues in extremely demanding environments by offering tailor-made solutions to its customers. Thanks to its sustained investments, Exosens is internationally recognized as a major innovator in optoelectronics, with production and R&D carried out on 11 sites, in Europe and North America and with over 1,700 employees.\n\nExosens is listed on compartment A of the regulated market of Euronext Paris (Ticker: EXENS \u2013 ISIN: FR001400Q9V2). Exosens is included in the CAC Small, CAC Mid & Small and CAC All-Tradable indices, and is a member of Euronext Tech Leaders segment.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A70ADFB3-A207-DE38-A796-2552823E2A01",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "4C9EFF68-E6AE-053B-F8C0-06C4AC46438C",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "A6C2D637-F297-C98A-2CBC-A6D58BBE4618",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "EXOSENS",
+            "CITY": "M\u00e9rignac",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "exosens.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "7975CF1C-9CE2-4ADF-95DE-036B337B454A"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3421,
+                "BOOTH_KEY": "EEB0F452-EA17-48E8-961B-45C809016C80",
+                "KEY_ID": "A5785ECA-03C6-F403-FF4C-0E283E1E8249"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "07352373-A5F2-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3421,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Honeywell",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 85034,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202444102811_684a5eaa3a1982669f629256b84bae59.jpg",
+            "STATE": "AZ",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Honeywell is an integrated operating company serving a broad range of industries and geographies around the world. Our business is aligned with three powerful megatrends \u2013 automation, the future of aviation, and energy transition \u2013 underpinned by our Honeywell Accelerator operating system and Honeywell Connected Enterprise integrated software platform. As a trusted partner, we help organizations solve the world\u2019s toughest, most complex challenges, providing actionable solutions and innovations that help make the world smarter, safer and more sustainable. For more news and information on Honeywell, please visit www.honeywell.com/newsroom",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A5D21313-C93E-BC16-5D75-4E2E5B733167",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "A586E6EB-FCF6-E971-A14C-389EE80ABABB",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Honeywell",
+            "CITY": "Phoenix",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "aerospace.honeywell.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "20A879FB-7D0C-44AC-A5FF-9F20996311EE"
+    }
+}

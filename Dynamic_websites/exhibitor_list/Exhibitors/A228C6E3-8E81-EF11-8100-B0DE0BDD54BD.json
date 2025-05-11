@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2513,
+                "BOOTH_KEY": "9487D486-03F2-4112-9122-9F75144383F8",
+                "KEY_ID": "3AB68262-DCC9-5C1D-2D37-5FD675A14F58"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "A228C6E3-8E81-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2513,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Angel Aerial Systems",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 45215,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202410395934_5dbc2775ea5384761eea5817b4054496.png",
+            "STATE": "OH",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Angel Aerial Systems, is solving the challenge of flight endurance with a drone capable of 2 hours of hover time on a single battery charge. While most quadcopters are limited to just 20 to 40 minutes of hover time, Angel Aerial Systems offers 3-6 longer endurance through a unique windmilling drone airframe, offering uninterrupted ISR and overwatch capabilities for Public Safety & National Security applications",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "3AE70991-EB4A-8A40-1E42-6B34CB669FAB",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/angel-aerial-systems/",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "0F155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "4C79223F-E762-A07C-DAF1-CF3700CECD31",
+                            "ANSWER_TITLE": "Public Safety"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "3AC1F256-9726-192A-0C2F-15E83F590972",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Angel Aerial Systems",
+            "CITY": "CINCINNATI",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://angelaerialsystems.com/",
+            "TWITTER": "https://x.com/angelAerialSyst/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "1101D4E5-4958-4E53-AABC-2149D26D3C46"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3232,
+                "BOOTH_KEY": "4C9E7C37-6CD8-4051-A4F9-8C62E70F3F9F",
+                "KEY_ID": "9D388FCD-4D03-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "E2923451-4A03-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3232,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Anyang Hawk Aviation Technology Co. Ltd.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 455000,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CN",
+            "SALUTATION": "",
+            "DESCRIPTION": "Anyang Hawk Aviation, a factory specialized in designing and manufacturing carbon fiber propellers, helicopter blades, multi rotors and UAV composite components.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "E7CCCE13-91C8-65C2-5CD3-E39FDD36A08D",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Anyang, Henan",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "E7A20D2C-9CEA-1DFE-8FF5-C517E888F6AC",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Anyang Hawk Aviation Technology Co. Ltd.",
+            "CITY": "HeNan Province",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.falconhobby.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "495643AC-CA5B-4A1E-BEB2-3C40F296B27D"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3338,
+                "BOOTH_KEY": "BD817C0A-A195-4975-9099-2EDBE1548213",
+                "KEY_ID": "D8E1C4A7-B572-F9E6-42E5-6B865B5DA131"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "8FD339B9-40F5-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3338,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Sense Aeronautics",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 36214,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531010128_5b0bf340d4e9fc7ad5682e91cfa638c4.png",
+            "STATE": "Pontevedra",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "ES",
+            "SALUTATION": "",
+            "DESCRIPTION": "Sense Aeronautics creates advanced technology in video analytics, using state-of-the-art machine learning methods to transform the drone industry. Through sophisticated algorithms and deep learning models, they empower drones to understand, interpret, and react to their environment with exceptional precision. This breakthrough enables a wide range of applications in sectors like ISRT or inspections. Our products are focused on three key areas: surveillance, inspections and visual navigation; they are:\n\n- Automatic Target Recognition (ATR) is a cloud-based solution for automatically detecting and classifying objects from EO onboard sensors and provides real time customized alarms.\n\n- Foreign Object Debris (FOD) Detector is a system for locating and classifying unexpected objects or features of an airport runway, thanks to a specifically trained drone video analytics system.\n\n- A non-collaborative detect and avoid system (DAA) for collision avoidance based on cameras and computer vision.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D92DB9E8-B8A4-A22C-F3E7-5C7A55ECADF4",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/sense-aeronautics/",
+            "TOLL_FREE": "",
+            "KEY_ID": "D8F6281A-C63B-6466-5CE1-728FE22FE681",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Sense Aeronautics",
+            "CITY": "Vigo",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.senseaeronautics.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "8DB37685-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

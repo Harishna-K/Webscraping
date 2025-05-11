@@ -1,0 +1,108 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2027,
+                "BOOTH_KEY": "3E74AF83-B3BE-42BC-91F8-7C0B5C6B6374",
+                "KEY_ID": "71537C54-68AB-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "95FA94B8-5DAB-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2027,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Detroit Manufacturing Systems, LLC",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 48223,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241125144122_4fb88f13d4dc8eb14d43498bac9530ab.png",
+            "STATE": "MI",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "DMS is a world class tier-1 contract manufacturer. DMS provides its customers with value-add assembly and vertically integrated contract manufacturing solutions. DMS is a customer focused and results oriented business. We have the infrastructure, talent, and integrated systems to handle your most complex Build-to-Print requirements.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "7401C345-EAE6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6D6F22CD-A206-2789-C99C-B03D9790B969",
+                    "ANSWER_TITLE": "Manufacturing Machinery/Contract Manufacturing/Production Equipment"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "E4A34420-7061-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "F14D788A-D66A-87E4-7AC9-CE69854239AD",
+                            "ANSWER_TITLE": "Advanced Materials and Manufacturing"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "EFC5FFDB-B2A4-87B7-A697-E3C0E95719C9",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Detroit Manufacturing Systems, LLC",
+            "CITY": "Detroit",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "https://www.dmsna.com/",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "0B92E8F9-124C-44EC-9334-80BFCCE6BEE0"
+    }
+}

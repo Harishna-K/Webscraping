@@ -1,0 +1,88 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2024,
+                "BOOTH_KEY": "405FCEEC-7CEB-43DA-A60F-0E33A35DD52A",
+                "KEY_ID": "3909C73A-D5D9-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "9105B62B-C7D9-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2024,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Forecast 3D",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "SUBEXHIBITORS": [
+            {
+                "BOOTH_NO": 2024,
+                "COMPANY_NAME": "Hewlett Packard",
+                "BOOTH_KEY": "405FCEEC-7CEB-43DA-A60F-0E33A35DD52A",
+                "EXHIBITOR_KEY": "3D425137-7EC6-418E-A36E-349485B52FDC"
+            }
+        ],
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 92008,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025123125136_68091fff70e4d49756cfd8cd6cccacf6.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Forecast 3D is a digital manufacturer of advanced plastic and metal AM parts, backed by GKN Powder Metallurgy\u2019s 260+ years of engineering and production expertise. Equipped with one of the world\u2019s largest global networks of industrial 3D printers and innovative digital solutions for aerospace, automotive, industrial, healthcare, defense, electronics, consumer products, and more, Forecast 3D supports projects from 1 part to more than 1 million. Leading in prototyping to production with international manufacturing, advanced technologies, and raw materials, Forecast 3D gets your product to market faster.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D1A20756-CDDF-727E-FFE7-B3F281090DE4",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "E4A34420-7061-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D0D1617A-0741-A4B4-0344-65E8B59B3AE5",
+                            "ANSWER_TITLE": "Advanced Materials and Manufacturing"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "D124A004-ED09-39A2-7250-67FBB0B38A03",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Forecast 3D",
+            "CITY": "Carlsbad",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.forecast3d.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "9105B62B-C7D9-EF11-8101-8147A53E1DD0",
+        "CRM_COMPANY_KEY": "7E1E3C36-2A47-490D-8765-5F24AF9B734F"
+    }
+}

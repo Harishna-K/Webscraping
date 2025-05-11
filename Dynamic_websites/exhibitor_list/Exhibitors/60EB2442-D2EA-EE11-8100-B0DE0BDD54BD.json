@@ -1,0 +1,196 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4534,
+                "BOOTH_KEY": "FF909075-F1F6-4659-AE69-D55E5BA81503",
+                "KEY_ID": "4B3223DF-A9F5-CB48-D42D-EF5E84ABF8CA"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "60EB2442-D2EA-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 4534,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "UAV Propulsion Tech",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 33606,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025113154651_6902d76cea698982754404da77e5e08a.jpg",
+            "STATE": "FL",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "UAV Propulsion Tech is a US company located in Tampa, FL that markets advanced UAV technology from Germany, Switzerland, India, United Kingdom, USA, France, Estonia and the Netherlands into the global UAV market. These solutions include commercial off the shelf (COTs) and custom hardware solutions that are flying on several high-end global UAV platforms. UAV Propulsion Tech provides engines (Suter/CAE), servos (Volz), gyro-stabilized gimbals (Merio), pneumatic launchers (Eli), rescue/recovery parachutes (ParaZero/ProtectUAV), capacitive fuel/oil level & ultrasonic fuel flow sensors (Reventec/Sentronics), MEMS-INS-GPS (Aeron Systems), Fuel Cells (H3 Dynamics), DC motors/generators (ePropelled), micro turbines (AMT Micro Turbines) and fuel systems (Fuel Safe)",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A4739FEC-9F72-FA80-16B8-425F2851B13F",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 102",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/in/schmidtproducts/",
+            "FORM": {
+                "QUESTIONS": [
+                    {
+                        "QUESTION_NAME": "Contact Form Message",
+                        "DISPLAY_ORDER": 1,
+                        "QUESTION_TYPE": "textarea",
+                        "ACTIVE": 1,
+                        "KEY_ID": "BFFEE859-BAF3-EF11-8101-8147A53E1DD0",
+                        "ANSWERS": [
+                            {
+                                "DISPLAY_ORDER": 1,
+                                "ACTIVE": 1,
+                                "KEY_ID": "C0FEE859-BAF3-EF11-8101-8147A53E1DD0",
+                                "ANSWER_TITLE": "Message"
+                            }
+                        ]
+                    }
+                ],
+                "SUB_TITLE": "",
+                "DESCRIPTION": "Let us know what you need and we will respond ASAP!",
+                "THANK_YOU_MESSAGE": "Thank you for reaching out! We have received your message and will be in touch shortly to address your inquiry.",
+                "KEY_ID": "74CE9F30-DA8B-5DDD-C2C8-78EE002B7270",
+                "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202522513515_bca81ada8b2d9f945bbc733d85df6e76.jpg",
+                "TITLE": "Contact UAV Propulsion Tech",
+                "EMAIL_NOTIFICATION": "bob@uavpropulsiontech.com"
+            },
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "A452FB6C-063F-67A3-773D-235F1E1DDD68",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "UAV Propulsion Tech",
+            "CITY": "Tampa",
+            "ACTION_BUTTON_LABEL": "Contact Us",
+            "PRODUCTS": [
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "2-stroke propulsion solutions that can operate on gasoline, Jet A1, JP5, JP8.",
+                    "DOCUMENT": "https://uavpropulsiontech.com/suter-industries/",
+                    "KEY_ID": "0F6E5053-C1BE-D15B-335F-32E1B416913D",
+                    "TITLE": "Suter Industries UAV Engines",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202491715512_e352467af5824a68f33f0e27d121c06e.png",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Motor solutions from 500W to 12kW.  Generator solutions from 750W to 12kW. Including ESC's and generator control modules.",
+                    "DOCUMENT": "https://uavpropulsiontech.com/motors/",
+                    "KEY_ID": "0F84BC56-909B-3352-EC6E-FD0C94D37A99",
+                    "TITLE": "ePropelled DC Motors/Generators",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2024917155430_978745e42b966e8635832f079aebc4d5.png",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Low SWaP gyro-stabilized gimbals with EO/IR cameras and range finders.",
+                    "DOCUMENT": "https://uavpropulsiontech.com/gimbals/",
+                    "KEY_ID": "0F926380-07E7-8ECB-7D60-811B732B0B19",
+                    "TITLE": "Merio EO/IR gyro-stabilized gimbals",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202491715561_58eeb5b993004f36b2413a22bb94660e.png",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Advanced micro turbines with thrust capability from 52lbf to 352lbf.",
+                    "DOCUMENT": "https://uavpropulsiontech.com/turbines/",
+                    "KEY_ID": "0FC4F720-FFAB-9205-5EA2-CC5BFEAA8E20",
+                    "TITLE": "AMT Micro Turbines",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202491716141_1dfd2b713133c9ef34f747e8c7a45a20.png",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Advanced rotary actuators flying on several global UAV and AAM applications.",
+                    "DOCUMENT": "https://uavpropulsiontech.com/volz/",
+                    "KEY_ID": "0FDAAB6A-B20C-DB5B-2A45-F568C9AC46E3",
+                    "TITLE": "Volz servos",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/20249171646_7ade8a6ef3deda529b26220631882898.png",
+                    "DOCUMENT_TYPE": "document"
+                }
+            ],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "810-699-0921",
+            "FEATURED": true,
+            "VIDEOS": [
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Short video showing the solutions provided by UAV Propulsion Tech to support global UAV aircraft producers.",
+                    "KEY_ID": "0F4EC5B5-DB17-0911-AECB-60D31276A07A",
+                    "TITLE": "UAV Hardware Solutions",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2024917154751_493cdb0527fd9958052fa0a773a01818.jpg",
+                    "URL": "https://youtu.be/NX871YKYEUo?si=zkpBsBNJbdEkO6bk"
+                }
+            ],
+            "WEBSITE": "www.uavpropulsiontech.com",
+            "TWITTER": "https://twitter.com/schmidtproducts",
+            "HEADERIMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2024112391627_06a2c3d9a044603fa08d9a24e7b37e71.png"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "017687CF-A2D4-40CB-8516-7EA769361BF1"
+    }
+}

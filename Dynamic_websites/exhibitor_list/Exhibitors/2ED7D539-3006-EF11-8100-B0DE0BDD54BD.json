@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2839,
+                "BOOTH_KEY": "C0107230-55DB-4745-A6A8-328233E10623",
+                "KEY_ID": "5DE0859E-F80B-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "2ED7D539-3006-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2839,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Plettenberg Elektromotoren GmbH & Co.KG",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 34225,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/20241125151937_671278e45b17180da397c5cf0630e64e.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "Plettenberg is the leading developer and manufacturer of tailored electric propulsion systems for the uncrewed systems market. We provide the best power-to-weight-to-robustness ratio and customize our motors to ideally match the mission profile of our customers. Our product portfolio comprises electric motors, ESC and starters/generators.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "763D32F9-C399-D7D6-E52F-6C79FF0A2590",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "A5C89CCB-A9B3-E8B1-DD6E-30878789A518",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Plettenberg Elektromotoren GmbH & Co.KG",
+            "CITY": "Baunatal",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.plettenbergmotors.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "BB62D7A5-B8F0-4DB8-8AAD-04B4DF117F80"
+    }
+}

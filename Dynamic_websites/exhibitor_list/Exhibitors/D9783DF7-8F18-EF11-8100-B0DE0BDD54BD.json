@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4221,
+                "BOOTH_KEY": "7E0B786E-AE8C-49E6-99BA-1AD9B29B0C19",
+                "KEY_ID": "59B54546-95D0-1573-50A1-DFE313E50FCB"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D9783DF7-8F18-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 4221,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Grepow Inc. DBA TATTU",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 94551,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Grepow Inc. is a leading manufacturer specializing in high-performance batteries and charging solutions for drones. Our Tattu brand offers customizable battery options across various chemistries for different applications, including agricultural spraying, aerial photography, delivery, and inspection drones. We also provide advanced smart battery solutions for enhanced performance and safety.\n\nWith over 25 years of experience, Tattu batteries are renowned for their high discharge rates, long cycle life, and exceptional reliability. Located in the USA, Grepow Inc. provides excellent support and service to our North American customers.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6D4CD636-A078-5322-3DCC-D82483708D92",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "59C39B59-F71D-C8C4-3ECA-BC139F6F73DA",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Grepow Inc. DBA TATTU",
+            "CITY": "Livermore",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "genstattu.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "81A102CF-6771-4751-A0DA-A326F3CEA456"
+    }
+}

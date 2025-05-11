@@ -1,0 +1,59 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3805,
+                "BOOTH_KEY": "A9132F1D-4008-4354-A376-9847CB0BC4E6",
+                "KEY_ID": "988EFF3B-DC56-23A6-002A-17C3FF3FC993"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "DF2E2A96-A4E4-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3805,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Allied Vision Technologies, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 19341,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202526112338_d2981738205fcaa63d6413f7198144ac.png",
+            "STATE": "GA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "For more than 30 years, Allied Vision has been developing industrial machine vision cameras for customers by focusing on what counts.  By obtaining a deep understanding of customers\u2019 needs, Allied Vision finds individual solutions for every application, a practice which has made Allied Vision one of the leading camera manufacturers worldwide in the machine vision market.\n\nThe product range includes 2D, 3D, and SWIR camera technology that provides image capture solutions for factory automation, logistics, medical imaging, and many more digital imaging applications.\n\nThe company has locations in Germany, Canada, the United States, Singapore and China and is represented by a network of sales partners in over 30 countries.\n\nAllied Vision is a TKH Vision brand.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "99254ABA-9124-75FD-4A01-99238B13BA4A",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/tkh-group-n.v./",
+            "TOLL_FREE": "",
+            "KEY_ID": "9896186F-C35C-F334-C6F1-2E194359233E",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Allied Vision Technologies, Inc.",
+            "CITY": "Exton",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.alliedvision.com/en/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "79517CA1-08B2-4B0E-9D85-A8ED47BECDB1"
+    }
+}

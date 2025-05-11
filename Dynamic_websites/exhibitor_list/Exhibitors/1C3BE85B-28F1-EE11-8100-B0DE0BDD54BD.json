@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2828,
+                "BOOTH_KEY": "30D3DFC2-A9BF-40C4-982A-D532B2B446A5",
+                "KEY_ID": "4BF38945-CB63-9C6A-7046-B70FEE2DB760"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "1C3BE85B-28F1-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2828,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Dewesoft",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/DewesoftUSA/",
+            "INSTAGRAM": "https://www.instagram.com/dewesoftusa/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 43571,
+            "TIKTOK": "https://www.tiktok.com/@dewesoftusa",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202442154058_161dddee0085c0fe184d969905a3630e.png",
+            "STATE": "OH",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "DEWESoft, the next evolution in data acquisition instrumentation, offers a full suite of hardware for in-vehicle and lab data acquisition applications. Scalable from one to thousands of channels our instruments are available as small USB and EtherCat devices, stand-alone battery-powered systems, rack-mounted configurations, and ruggedized field-ready solutions. Powered by the latest DEWESoft X software, we acquire and control many multi-domain test sets that include analog in/out, digital in/out, video, CAN, FlexRay, XCP, GPS, and much more. DEWESoft hardware and software are used around the world in a variety of fields ranging from auto manufacturers and construction equipment, to aeronautical development and telemetry. For more information about DEWESoft please visit us at www.DEWESoft.com",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "43542000-EE91-9CB0-2335-3566E8882D7A",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/13051513/admin/feed/posts/",
+            "TOLL_FREE": "",
+            "KEY_ID": "4334C416-F85A-32DC-FEDA-651F0FD09F71",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Dewesoft",
+            "CITY": "Whitehouse",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.dewesoft.com",
+            "TWITTER": "https://twitter.com/DewesoftUSA"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "30E0D5AB-569D-4F16-95FF-0C68729B4EE3"
+    }
+}

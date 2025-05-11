@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2808,
+                "BOOTH_KEY": "4537EFDC-8896-4D86-AB18-7CBDDBCD492F",
+                "KEY_ID": "AC2B40E9-CC08-9813-9C42-9DB48FE5007F"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C0298CA8-F2EA-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2808,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Glenair, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": "91201-2405",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202432515127_319f83680aa592f4e49b04c263e94a5a.jpg",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Glenair is a leading manufacturer of cutting-edge connector technologies including both Mil-Spec qualified as well as commercial circular and rectangular connectors. All interconnect designs are available in environmental, filter, hermetic, and fiber optic configurations. Interconnect technologies may be supplied as either discrete components or integrated into turnkey assemblies. In addition to electrical and fiber optic interconnects, Glenair produces and supplies backshells, dummy stowage receptacles, protective covers, and shield termination designs in brass, aluminum, stainless steel, titanium, and composite thermoplastic. Glenair is also a market leader in flexible conduit / cabling systems and lightweight EMI/RFI braid for the military/Aerospace marketplace. Glenair\u2019s fiber optic is unparalleled in the interconnect industry.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "AC5A6823-9598-5DC4-4F04-82F0701994E9",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "AC50C2BF-9DAA-C81A-F8A6-1D9AFDA9709B",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Glenair, Inc.",
+            "CITY": "Glendale",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.glenair.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "BA2DE8BD-8097-4DC4-8712-D9AD219A7781"
+    }
+}

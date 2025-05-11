@@ -1,0 +1,124 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1705,
+                "BOOTH_KEY": "77341295-F145-4406-9F4A-83D77F03B28C",
+                "KEY_ID": "A47EA643-E7CF-7F6C-BBBB-43A205872CA7"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "F3CF9164-1487-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1705,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Tekever UAS SA",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "tekever",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "2500-750",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241010153640_c8d0dfe45da21c2acb2a9c92a20a7b52.jpg",
+            "STATE": "Portugal",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "PT",
+            "SALUTATION": "",
+            "DESCRIPTION": "TEKEVER provides real-time intelligence across ultra-wide areas with advanced, flexible solutions. Offering both \"as-a-service\" and \"self-reliant\" options, TEKEVER UAS can fly continuously for up to 20 hours, equipped with a range of sensors including EO/IR cameras, Synthetic Aperture Radars, and SIGINT sensors. Built on an AI-centric platform, these systems integrate edge AI, satellite communications, and cloud computing, delivering real-time intelligence and advanced analytics through accessible web and mobile interfaces. With facilities in Portugal and the UK, TEKEVER offers local support globally through its partner network. Visit www.tekever.com for more information.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A4B83FF2-B4B3-EA93-7215-8BB61104ABA0",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "tekever",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "A486FFF0-041E-B63E-4CA0-88CADA0595B4",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Tekever",
+            "CITY": "Caldas da Rainha",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [
+                {
+                    "CATEGORY_TITLE": "Platform Manufacturer",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Discover how TEKEVER systems evolved and proved their effectiveness in one of the most complex battlefields in modern history.\r\n\r\nWorking tirelessly around the clock, and maintaining close and constant contact with frontline users, TEKEVER continuously adapts its systems based on real-time battlefield feedback.\r\n\r\nWith full vertical integration and the ability to modify every aspect of the system within hours or days, TEKEVER helps Ukrainian forces stay one step ahead of the enemy in this highly dynamic and ever-changing battlefield.",
+                    "KEY_ID": "0B21D36B-E5EB-4530-6DE4-FC34E18615D8",
+                    "TITLE": "TEKEVER AR3 x Ukraine - Black Forest Battlefield Case Study",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202535181254_7426df867bf0941aa8f4206f1d726aba.jpg",
+                    "URL": "videoProcessing"
+                },
+                {
+                    "CATEGORY_TITLE": "Platform Manufacturer",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "TEKEVER offers 3 mission-oriented product lines through its unmanned aerial systems business unit,\r\nproviding the customer with Data and Intelligence Services.",
+                    "KEY_ID": "0CADDDEE-BA7C-335D-B449-2C4F5B27C08A",
+                    "TITLE": "TEKEVER AR FAMILY",
+                    "HEADER_IMAGE": "",
+                    "URL": "videoProcessing"
+                },
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "With an MTOW below 200Kg, and more than 12h of operational endurance, the TEKEVER AR5 is, by far, the most advanced system in its class, and can provide customers around the world with a highly mobile, simple to use and very cost effective tool to help deliver their mission.",
+                    "KEY_ID": "0CF10A32-0CFE-F819-B4F9-683B51C6ACFE",
+                    "TITLE": "TEKEVER AR5",
+                    "HEADER_IMAGE": "",
+                    "URL": ""
+                }
+            ],
+            "WEBSITE": "www.tekever.com",
+            "TWITTER": "tekever",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "C2F24663-572C-4C27-BD0A-60165F50C3C4"
+    }
+}

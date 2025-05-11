@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1615,
+                "BOOTH_KEY": "06D36916-DDA3-4391-9400-96E47383802C",
+                "KEY_ID": "443E3547-DD3A-5795-353F-2C797FFFA969"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "EE44C435-CCF1-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1615,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Harwin",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "03079",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025313103444_d085704a133b888e4c02d32b5ad3b067.jpg",
+            "STATE": "NH",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Harwin is a world-class original manufacturer of high-reliability connectors and board-level EMC shielding solutions. Flagship products such as the Datamate and Gecko high density connector ranges are suitable for harsh environments and able to withstand extreme vibration, shock and temperature.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6D7D1FAB-FD89-3D2B-8E65-59662F482931",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Unit 11",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "4CEBA547-CD0D-DACB-83CE-F2D359A2D8F3",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "6D5124C7-F2AA-58CF-710D-0D3DDBD76FC2",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Harwin",
+            "CITY": "Salem",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.harwin.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "E26B0E8E-E540-45C1-AC7B-A540DAA502E3"
+    }
+}

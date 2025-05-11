@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1805,
+                "BOOTH_KEY": "E2CAE69C-0B0D-4223-9FB1-5AA7A788AA9A",
+                "KEY_ID": "A7A65BF8-E3AA-441A-06BA-16697AC1D1B4"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "B0F6CA19-E0EA-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1805,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "maxon",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/maxongroupus/",
+            "INSTAGRAM": "https://www.instagram.com/maxongroupus/",
+            "ACTIVE": 1,
+            "ZIP_CODE": "02780",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024325155732_c92c5da3f4d4b9d68dfb9196a487a791.png",
+            "STATE": "MA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "maxon is a global leader in the design, development, and production of electric drive systems for aerospace technology in Aviation, Space, Drones & UAVs and Urban air mobility. Our aim is to be the most reliable partner in the skies with uncompromising quality, innovative technology, and thousands of flight hours. Electrics drive systems from maxon for the aerospace industry assist pilots in the cockpit and power drones, satellites, and rovers on Mars. \n\nWe combine brushed and brushless DC motors, gearheads, sensors, and controllers into complete mechatronic drive systems. Our drives are ideal for use in research missions by NASA, telecommunications satellites, or commercial projects by private aerospace companies \u2013 many missions from Earth into space have maxon components on board because they are reliable, efficient, high power, and have long service life ideal for use in extreme environments.\n\nmaxon also guarantees the highest quality products, processes, and certification in the drone market. maxon\u2019s UAV propulsion systems consist of BLDC motors, ESCs, and propellers built for the utmost safety and efficiency. They provide high thrust, high power density, optimal efficiency, and long service life for the best environment resistance.\n\nmaxon has been EN 9100 certified since 2012. This standard was created especially for companies that develop and produce components for the aerospace industry. In our in-house laboratories, we test our drives for resistance to vibration, shock, cold, heat, and vacuum.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "060655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A8D2070B-F5DC-ADAA-2414-0E05C5BD3B27",
+                    "ANSWER_TITLE": "Integrator"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/maxongroupus/",
+            "TOLL_FREE": "",
+            "KEY_ID": "A7D29900-9A37-1D8C-375B-792EC90D2728",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "maxon",
+            "CITY": "Taunton",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.maxongroup.us",
+            "TWITTER": "https://twitter.com/maxongroupus"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "55799F4B-9F97-4F9A-9512-0A7A9168DF60"
+    }
+}

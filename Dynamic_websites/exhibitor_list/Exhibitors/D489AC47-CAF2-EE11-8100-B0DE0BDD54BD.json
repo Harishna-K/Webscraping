@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3016,
+                "BOOTH_KEY": "C29A1309-7BE5-4B8B-AC38-D720FC6A33D1",
+                "KEY_ID": "AE27E364-B693-E95E-5852-D2F86754562C"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D489AC47-CAF2-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3016,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Advanced Scientific Concepts LLC.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 93117,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025127203947_58dc03e3046e0b8e2d1297f7d39a274a.jpg",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Advanced Scientific Concepts (ASC) provides both standard and customized global shutter flash LIDAR (GSFL) cameras, along with advanced 3D vision sensor solutions. GSFL cameras offer long-range performance, motion distortion-free functionality, high depth resolution, and real-time 3D full-motion video capabilities. By combining LiDAR with passive sensor fusion and onboard AI, ASC\u2019s 3D vision sensors create highly detailed terrain and target feature maps. Recognized as the premier choice for ISR, target identification and tracking, digital elevation mapping, and autonomous relative navigation, ASC supports military and commercial clients across space, airborne, terrestrial, and marine sectors.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "AE41F203-AA19-FF06-D6C0-9D3B41B12A26",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "AE328250-0E1D-A82E-CACA-82BA9BCCCC63",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Advanced Scientific Concepts LLC.",
+            "CITY": "Goleta",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.asc3d.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "45D12479-6DB5-4F69-A6A2-781EF7D3634E"
+    }
+}

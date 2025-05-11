@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2315,
+                "BOOTH_KEY": "64C06C28-A015-40B9-97DC-43C1CE48F30B",
+                "KEY_ID": "778DC62E-DCE5-A025-5A2A-DAE1C15A3AC0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "4F3A3938-84D4-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2315,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Elektroland Defence",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "elektrolanddefence",
+            "INSTAGRAM": "elektrolanddefence",
+            "ACTIVE": 1,
+            "ZIP_CODE": "06830",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025116224829_a6b9d1e0cec430e1a3cc8321072bb4c1.jpg",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "TR",
+            "SALUTATION": "",
+            "DESCRIPTION": "Elektroland Defence is a mechatronics manufacturing company specialized in the public safety, mining, utilities, and defense industry. \u00a0 \n\nThe primary focus on developing and producing: \u00a0 \nEOD/IEDD equipment: This likely includes bomb disposal robots, X-ray systems, and other tools for dealing with explosives. \u00a0 \nUGVs (Unmanned Ground Vehicles): These are robots designed for various military and security tasks, such as reconnaissance, surveillance, and logistics. \u00a0 \nCapabilities: Elektroland Defence posses in-house engineering and manufacturing capabilities, allowing them to design and produce a range of defense-related technologies. \u00a0 \n\nElektroland Defence has a global presence, serving customers in over 15 countries worldwide.\n\n \u00a0",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "780A09EC-9783-E5AA-0D1A-E88522509512",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Golbasi",
+            "MAP_LOGO": true,
+            "LINKEDIN": "elektroland-defence",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "0F155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D066756D-CC8D-0A1D-5E9E-441AB38995F1",
+                            "ANSWER_TITLE": "Public Safety"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "77A063E8-CA79-DDF9-A0AB-85B82CF6EB4D",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Elektroland Defence",
+            "CITY": "Ankara",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.ElektrolandDefence.com",
+            "TWITTER": "ElektrolandD"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "12BDA7E8-1DDC-44FD-9FA9-EEB338137EF5"
+    }
+}

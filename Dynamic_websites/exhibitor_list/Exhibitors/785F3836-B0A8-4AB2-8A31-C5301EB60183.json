@@ -1,0 +1,72 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 6,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2821,
+                "BOOTH_KEY": "8C5AA938-1BAA-4DFF-867D-737D32FC57E8",
+                "KEY_ID": "A02674F7-CEFA-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "785F3836-B0A8-4AB2-8A31-C5301EB60183",
+        "PRIMARY_BOOTH": 2821,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "City of Springfield, Beckley Airport",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "352A1B78-E237-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "44DA3592-C791-DE51-F251-4EE419CE3B80",
+                            "ANSWER_TITLE": "Ohio Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "6E4F50C2-F8BF-4F11-9F44-2D81DBFE3F3E",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "City of Springfield, Beckley Airport",
+            "CITY": "",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://springfieldohio.gov/business-development/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "72EA8AF4-70EB-EE11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "C4B37685-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

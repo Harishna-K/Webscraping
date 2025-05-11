@@ -1,0 +1,61 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3933,
+                "BOOTH_KEY": "11F93C44-CF8D-4D09-9B8B-9D497B7EF9D5",
+                "KEY_ID": "4BFEE9D9-A57B-310F-0F56-096915AB25C0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "97571DCC-1AF3-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3933,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Centinus",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/centinus",
+            "ACTIVE": 1,
+            "ZIP_CODE": 19901,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202522417568_442388e878eace1b2c9e30e2010b7bdd.png",
+            "STATE": "DE",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Centinus provides instantaneous, three-dimensional situational awareness to enhance public safety and security. Our secure cloud platform offers ultra-low latency remote control and livestreaming, unique AI-powered features, and an intuitive interface to force multiply drone operations.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "4C5A650D-916E-F47F-B440-3435F9017469",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/centinus/",
+            "TOLL_FREE": "",
+            "KEY_ID": "4C1EF5DC-930D-8B80-9172-9B01F91BB22C",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Centinus",
+            "CITY": "Dover",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.centinus.com/",
+            "TWITTER": "https://x.com/centinusai"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "5FE15A9B-89EA-44E8-9910-7B744CB6E583"
+    }
+}

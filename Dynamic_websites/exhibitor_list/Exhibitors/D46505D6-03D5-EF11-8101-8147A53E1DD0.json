@@ -1,0 +1,86 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3110,
+                "BOOTH_KEY": "BAF6D0B2-F5A6-459E-BCB6-F1C85F13EED8",
+                "KEY_ID": "982A81C6-DA26-0B71-4D28-BBCACDDC9783"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D46505D6-03D5-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3110,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Aerovel",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "ACTIVE": 1,
+            "ZIP_CODE": 98605,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "WA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Aerovel Corporation is a wholly owned subsidiary of Airbus Helicopters, Inc. located in Bingen, WA, with over 30 years of aeronautical experience, specializing in the design and manufacturing of the disruptive Flexrotor Vertical Take-Off and Land (VTOL) Group 2 Uncrewed Aerial System (UAS).",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "987C1AF0-A5AE-546D-BE5D-D6036DDA6B50",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "98358FA7-95D2-8158-72E4-990FEED1FC1E",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Aerovel",
+            "CITY": "Bingen",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "https://www.airbus.com/en/products-services/defence/uas/flexrotor",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "B817F41A-3EB6-4E75-8573-A4E923E42032"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3306,
+                "BOOTH_KEY": "A221A3E7-B5D3-4691-977B-289EAF7BC091",
+                "KEY_ID": "83891CD1-F1E7-3FF3-4BD5-8E761D72E515"
+            },
+            {
+                "BOOTH_NO": "MR5",
+                "BOOTH_KEY": "8994F365-B327-40E7-A71C-C0F1958621A3",
+                "KEY_ID": "8A210A04-0E89-3827-CF1A-797E10A22AD5"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "6741BC83-EB24-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3306,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Sony Electronics, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 92127,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202522895812_b7f91386a1b7946a474d890ba9d7fc57.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Sony Electronics is a subsidiary of Sony Corporation of America and an affiliate of Sony Group Corporation, one of the most comprehensive entertainment companies in the world, with a portfolio that encompasses electronics, music, motion pictures, mobile, gaming, robotics and financial services. Headquartered in San Diego, California, Sony Electronics is a leader in electronics for the consumer and professional markets. Operations include research and development, engineering, sales, marketing, distribution and customer service. Sony Electronics creates products that innovate and inspire generations, such as the award-winning Alpha Interchangeable Lens Cameras and revolutionary high-resolution audio products. Sony is also a leading manufacturer of end-to-end solutions from 4K professional broadcast and A/V equipment to industry leading 4K and 8K Ultra HD TVs. Visit https://www.sony.com/news for more information.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "060655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "83E383DB-B714-240B-3967-F1588003F1BC",
+                    "ANSWER_TITLE": "Integrator"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "83A1E72C-CEDF-41EF-1D6E-416F4CA48473",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Sony Electronics, Inc.",
+            "CITY": "San Diego",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://pro.sony",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "B75DB182-F78C-41C0-BAFF-4D9E82B67A14",
+        "CRM_COMPANY_KEY": "4D0AC48E-0D73-4B40-828C-76D462387E54"
+    }
+}

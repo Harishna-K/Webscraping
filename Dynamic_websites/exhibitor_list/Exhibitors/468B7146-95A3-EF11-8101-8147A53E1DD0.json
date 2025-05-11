@@ -1,0 +1,108 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1524,
+                "BOOTH_KEY": "D9901080-FFED-4641-913F-CDA7517F86FC",
+                "KEY_ID": "33E66CD8-98A3-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "468B7146-95A3-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1524,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "FORT Robotics",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 19103,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024111516101_f77777e09979bbc43a287ecd8c51842e.png",
+            "STATE": "PA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "FORT empowers robot builders and users to boost productivity and reduce risk with a trusted Robotics Control Platform. Our hardware and software solutions deliver safe, secure, dynamic control for autonomous systems, ensuring that people, assets, and data are always protected. More information at fortrobotics.com\n\n\n\n With wired and wireless control devices, dynamic safety solutions, and software, FORT helps you get the most out of your autonomous systems while keeping assets, people, and data safe and secure. More information at fortrobotics.com",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "F105D615-DCED-EEA7-91D3-D8EA8415BDD4",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "12th Floor",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/fort-robotics",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "8493B475-D825-82D6-561A-C7E471C0F61B",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "F096FB94-0018-AEAE-F523-097BBE15FA0B",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "FORT Robotics",
+            "CITY": "Philadelphia",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "fortrobotics.com",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "72843F1C-42C8-488A-BECC-ABE83EBB05FE"
+    }
+}

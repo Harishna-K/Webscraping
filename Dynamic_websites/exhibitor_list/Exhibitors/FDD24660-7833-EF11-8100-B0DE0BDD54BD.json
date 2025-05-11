@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3233,
+                "BOOTH_KEY": "BAB1E686-1501-496B-B89B-8B4320BC456A",
+                "KEY_ID": "3D1E5EEE-E319-18CF-070E-BB47C451CDB2"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "FDD24660-7833-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3233,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Wus Printed Circuit Co. Ltd.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 90603,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2024102111143_ff0702a97a53cca7fb2a58a0eb8e5f2c.jpg",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Wus Printed Circuit Co. Ltd. (Wus Taiwan), established in 1972 in Taiwan by the late Mr. L.K. Wu, proudly bears his surname (Wu), symbolizing his unwavering commitment to excellence and dedication to his employees. Since its founding, the company has been manufacturing printed circuit boards (PCBs) and was listed on the Taipei stock market in 1991.\nWus Taiwan specializes in advanced PCB fabrication, including 7+n+7 HDI any-layer, HDI build-up, and cutting-edge PCB signal, power integrity, and product sustainability enhancement technologies. Our PCB products are utilized in AI computing, uncrewed vehicle and autonomous drive systems for air, maritime, and ground domains, 5/6G wireless communications, industrial, medical, aerospace, and niche communication systems.\nThe company is planning a capacity expansion with a new facility in Ayutthaya, Thailand, production ready by end of 2026. Wus Taiwan expresses gratitude for the support and partnership with our customers and suppliers, emphasizing the company\u2019s commitment to ensuring mutual success through continued trust and long-term collaborations.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "4427C739-FF2D-F8DE-05ED-78F1C62C4749",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "3D276A5D-D6D1-7C2B-F586-58D824273B28",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Wus Printed Circuit Co. Ltd.",
+            "CITY": "Irvine",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.wus.com.tw/index.php/en/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "44493C45-5A06-4F2F-B3A9-A033BF8C45D8"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3426,
+                "BOOTH_KEY": "5857D7D3-3977-41B0-8FC8-3D80B7F7016E",
+                "KEY_ID": "48B50F89-0507-33EF-7F4A-403CB2009A55"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "4551EB86-F8ED-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3426,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Taisync Technology Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "taisync",
+            "ACTIVE": 1,
+            "ZIP_CODE": 95131,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024329113456_a359b6e0589e2c3dfc82dcfeb62d7dfa.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Taisync, headquartered in San Jose, California, specializes in designing and producing wireless datalinks for unmanned vehicle, security, and broadcast industries worldwide. We offer off-the-shelf and OEM-integrated long-range wireless datalinks, including point-to-point, point-to-multipoint, and mesh solutions. We also provide NDAA-compliant solutions for customers. With fully self-owned technologies of low-level communication, software, hardware, RF, etc., we have the ability to provide customized solutions based on customer requirements.\n\nWe take pride in providing communication solutions that can cover impressive distances of up to 300km. Notable features include receiving diversity and dynamic antenna switching, adaptive modulation and coding scheme, low-level re-transmission, adaptive frequency hopping, and robust anti-jamming capabilities. We have served hundreds of customers worldwide, including top-tier public technology companies.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "73563771-DB88-7575-3ADF-FE9F848613EC",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Ste 115",
+            "MAP_LOGO": true,
+            "LINKEDIN": "taisync",
+            "TOLL_FREE": "",
+            "KEY_ID": "72BD96C5-021B-3A1F-6770-53274EA45D01",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Taisync Technology Inc.",
+            "CITY": "San Jose",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.taisync.com",
+            "TWITTER": "taisynctech"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "E355C987-87AF-41D9-8996-E1A5A7A55E35"
+    }
+}

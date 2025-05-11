@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3820,
+                "BOOTH_KEY": "CDD57C29-5173-4232-B3DD-16A2CF7F696C",
+                "KEY_ID": "40FEBDC2-95A8-B250-9643-6F4CC2C413D8"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "546FD471-37ED-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3820,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Omnetics Connector Corporation",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 55433,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024328142512_5ee1f83c07c12323c6665eb4242fdeae.jpg",
+            "STATE": "MN",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Omnetics manufactures and designs Micro, Nano, Hybrid connectors, back shells, wire harness and cable assembly solutions. These Mil-Spec based Micro-D (83513), Nano-D (32139), Circular, strip connector solutions aid the interconnect design requirements for battlefield communications, computing, high performance devices, increasing the number of contacts for high-speed circuitry in mission critical harsh environment applications. Omnetics high reliability, small form factor rugged connector solutions are designed to withstand up to 20 g\u2019s of vibration and 100 g\u2019s of shock to minimize space, reduce weight, and maximize performance in devices that require reliable and safe operations. In addition to providing custom wire harness solutions Omnetics will create customer specific connector designs based on existing standards to meet the form, fit and function of the customer\u2019s needs.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "41576408-AFBA-2F12-9E0C-8B942C3D9D3A",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "412ED4F0-0A4F-C427-4FF5-27CEC9E17119",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Omnetics Connector Corporation",
+            "CITY": "Minneapolis",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.omentics.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "70437B74-FC84-42F3-85AD-48412D71900B"
+    }
+}

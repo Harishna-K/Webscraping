@@ -1,0 +1,162 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3115,
+                "BOOTH_KEY": "1DD96A8F-0FD6-4CCC-919A-FDAA5440E6BD",
+                "KEY_ID": "71F9E2BD-076E-2C88-4A7E-BA848A5CF1F1"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "FDBF8DC3-F6ED-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3115,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "SightLine Applications",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 97031,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024329111128_3f061809d2516f262e0ad66629b9aec6.jpg",
+            "STATE": "OR",
+            "LAST_NAME": "",
+            "DOCUMENTS": [
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "SightLine video processors provide powerful edge processing for any real-time applications. Each of our processors is designed to meet a variety of requirements. Compare our processors to find the one that meets your specifications. Below lists specific criteria for you to review and compare processors to meet your requirements.",
+                    "KEY_ID": "D2C3A535-D9F1-2F25-44C0-222B73D1D434",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202522783854_8d3274a19a9e609f6fd7cc60b9a8d280.jpg",
+                    "TITLE": "SightLine Video Processing Hardware",
+                    "URL": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202522782540_f3d80cf5673d2d5375cf29c0f84cecb1.pdf"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "SightLine provides a powerful suite of software functions that are key in a variety of real-time applications.",
+                    "KEY_ID": "D3A0258F-DC72-9C9D-D1A5-29CA34C4F3E2",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025227936_da1e359946ba48872bdf384ce919fbbd.jpg",
+                    "TITLE": "SightLine Applications Video Processing Software",
+                    "URL": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202522784412_379320ffbe997e13f2e0594b0316b542.pdf"
+                }
+            ],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Founded in 2007, SightLine Applications is an industry leader in onboard video processing for advanced UAS camera systems. SightLine edge processing boards are integrated at the camera level to provide low-latency video processing on a variety of platforms. Compatible with a wide range of cameras, the compact hardware options enable elegant system architectures. Video processing features support a range of surveillance (ISR), inspection, full motion video (FMV) encoding, and counter UAS applications. Software features include detection, tracking, AI Classification, enhancement, recording, encoding, and much more. Our team of embedded systems engineers is committed to constantly improving our broad suite of video functions and capabilities. SightLine understands that experience matters and can claim over a million flight hours in unmanned systems. SightLine has delivered over 40,000 processors and licenses across the globe.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "7242BED8-AC30-DB69-AEE6-1CCEA8924C8E",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/sightline-applications",
+            "PRESS_RELEASES": [
+                {
+                    "SUB_TITLE": "",
+                    "CITY": "",
+                    "COUNTRY": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "PORTLAND, Ore. and HOOD RIVER, Ore. &mdash; March 5, 2025 &mdash; SightLine Applications, LLC (&quot;SightLine&quot; or the &quot;Company&rdquo;), a leading developer of video processing software for autonomous and uncrewed systems, backed by Artemis Capital Partners (&ldquo;Artemis&rdquo;), announced today that it has acquired Athena AI, an Australia-based specialist in AI-enabled computer vision and decision support for defense applications. Athena AI&rsquo;s field-proven, highly interoperable vision-based AI systems and trained models enable enhanced real-time situational awareness and quicker, more effective decision-making on the edge in critical mission areas of: Intelligence, Surveillance and Reconnaissance (ISR), Counter-Uncrewed Aerial Systems (C-UAS), Fire Control, Mission Planning, and Battlefield Management. By merging Artificial Intelligence and application engineering expertise and integrating Athena AI&rsquo;s advanced capabilities into SightLine&rsquo;s video processing platform and software suite, SightLine will deliver next generation features and tools to its customers and end users. SightLine&rsquo;s expanded global presence into Australia mirrors the US Department of Defense&rsquo;s strategic focus on US and Indo-Pacific Command capabilities and positions SightLine to support the shared AI technology goals of longstanding allied nations &ndash; United States and Australia &ndash; as set forth in AUKUS Pillar 2. Jon Atwood, CEO at SightLine, expressed his enthusiasm for the deal, &ldquo;the SightLine team is thrilled to announce the acquisition of Athena AI, as it perfectly aligns with SightLine&rsquo;s vision to be the proven leader in video processing technologies that enable mission success and autonomy. In addition to broadening our product portfolio, we look forward to delivering high-value feature and functionality improvements to our customers as they pursue advanced autonomy and accelerated decision support. By uniting with the talented Athena team, we are building an organization with complementary strengths to meet emerging defense priorities and evolving end user requirements with agility and application expertise &ndash; in order to drive the next phase of SightLine&rsquo;s growth.&rdquo; Stephen Bornstein, Founder and Managing Director of Athena AI and now Chief Product Officer at SightLine, stated &ldquo;the Athena AI team is excited about this next stage of our journey, partnering with SightLine to deepen access in the US market, leveraging industry leading video processing technologies and enabling next generation features for our customers. We look forward to being able to support key US customers with a stronger presence from the SightLine team as well as the synergies in technology that the integrated product line will now be able to achieve.&rdquo; Mintz, Levin, Cohn, Ferris, Glovsky, and Popeo (US) and Corrs Chambers Westgarth (Australia) served as legal advisors to SightLine. Cooley (US) and SBA Law (Australia) served as legal advisors to Athena AI. About SightLine Applications, LLC: SightLine Applications develops on-board video processing solutions that are a key mission-enabling technology in gimbal, unmanned aerial systems (UAS), unmanned ground vehicle (UGV) and pan-tilt-zoom (PTZ) electro-optical platforms. Founded in 2007, SightLine has a base of over 50,000 installs and licenses and maintains deep engineering knowledge which allows for a strong understanding of core, end-user applications and markets. For more information, please visit www.sightlineapplications.com About Athena AI: Athena AI is an Australian-based software company that provides highly assured, real-time detection, recognition, AI/ML modeling and geo-positioning capabilities serving mission critical defense applications. For more information, please visit https://athenadefence.ai/ Media Contact: Mark Boccella Vice President of Sales, SightLine mark.boccella@sightlineapplications.com ###",
+                    "PHONE": "",
+                    "STATE": "",
+                    "KEY_ID": "702EFBDD-CDB0-8734-1E8A-47F1FB209F14",
+                    "TITLE": "SightLine Applications is Pleased to Announce the Acquisition of Athena AI",
+                    "LAST_NAME": "",
+                    "EMAIL": "",
+                    "FIRST_NAME": ""
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "720DE7BC-DB88-86FE-2767-013D2CFE6814",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "SightLine Applications",
+            "CITY": "Hood River",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": 5417165137,
+            "FEATURED": true,
+            "VIDEOS": [
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Showcasing SightLine tracking, detection, radiometric and AI classification software functions for aerial surveillance applications. Aerial surveillance tends to include tracking vehicles from the sky. \r\n\r\nThe ability to track vehicles at speed and through obstructions becomes very important. SightLine's tracking software is reliable for tracking through obstructions, such as overpasses, shrubs and trees.\r\n\r\nAerial detection highlights vehicles and pedestrians, as small as 2x2 pixels. Radiometric color improves situational awareness, as shown by the wild boars running through heavy forestry. \r\n\r\nSightLine's AI Classifier has a model for vehicle or person - making it easier for an operator to identify what is happening in a scene. \r\n\r\nDrones tracking in real-time can have lots of turns, making it hard to view a scene. SightLine's roll correction software makes it easier for an operator to stay focused on a moving scene.",
+                    "KEY_ID": "D3D5780E-F131-A9D1-EB1D-D2986103BACB",
+                    "TITLE": "Aerial Surveillance",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025227992_624786eaf1bc311229665f10f369004e.jpg",
+                    "URL": "https://vimeo.com/1056197296?share=copy#t=0"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "SightLine Applications continues to improve its low slant angle video processing capabilities. Pan Tilt Zoom (PTZ) applications are important in surveillance and security applications. \r\n\r\nSightLine's AI Classifier detects and identifies person/vehicle from a stationary platform. \r\n\r\nAt a low slant angle, SightLine's tracking software feature tracks vehicles and objects through obstructions such as shrubs, trees, road signs, etc. Low slant scene starting detection is much improved to maintain the track on a person or object. \r\n\r\nTracking small and fast drones from a stationary platform using SightLine's tracking software, helps operators understand activity in a scene. SightLine's tracking and detection software features are optimized for small moving objects. \r\n\r\nThe use of picture in picture (PiP) helps improve situational awareness. The PiP helps bring a section of the scene in a larger view without taking away from the full scene. Selecting a region of interest, SightLine's software autonomously detects and initializes a track on a person or object.",
+                    "KEY_ID": "D3E2119C-0BDB-5592-ABC1-657183500A7A",
+                    "TITLE": "Low Slant Angle Surveillance",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202522791025_2789c4865ec167b3a6462c88c9822e6c.jpg",
+                    "URL": "https://vimeo.com/1056861186"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "There is growing demand for Counter-UAS solutions as drone use increases. Visual detection is a key part of robust, multi-sensor, C UAS systems to assess threat levels and determine appropriate actions. \r\n\r\nBenefits of adding SightLine Applications video processing to your C-UAS system:\r\n\u2022 Proven in ground-to-air and air-to-air C-UAS systems.\r\n\u2022 Integrates into any advanced camera system. \r\n\u2022 Telemetry data enables automatic gimbal tracking.\r\nConfigurable suite of video processing functions includes detection, classification, tracking, encoding and more.\r\n\r\nDrone Detection \u2013 automatically detects small, moving objects.\r\nAI Classification \u2013 filter detections with classifier, drone vs non-drone. \r\nDrone Tracking \u2013 accurately tracks the unique characteristics of drones.",
+                    "KEY_ID": "D3FB2979-AE0A-B3C4-0141-560FC00EF0B5",
+                    "TITLE": "Counter UAS",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202522791259_0450c67d6903c9ed714f2bfc5b641847.jpg",
+                    "URL": "https://vimeo.com/1056199302"
+                }
+            ],
+            "WEBSITE": "www.sightlineapplications.com",
+            "TWITTER": "",
+            "HEADERIMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202522782318_d0ffddd887680640f592704eb88dfb7e.jpg"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "084B3A57-5B89-49B5-8722-47B6FDB2B4FB"
+    }
+}

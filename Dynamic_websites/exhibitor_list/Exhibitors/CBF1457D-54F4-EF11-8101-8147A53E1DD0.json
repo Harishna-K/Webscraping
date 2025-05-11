@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2205,
+                "BOOTH_KEY": "CBCF0482-8A6F-4152-B5AE-DCF2EEF9828C",
+                "KEY_ID": "7AFFCDE5-5AF4-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "CBF1457D-54F4-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2205,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Airvolute s.r.o.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 91701,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "SK",
+            "SALUTATION": "",
+            "DESCRIPTION": "Our mission at Airvolute is to make drone development faster, smarter, and more resilient. With open-architecture flight control systems and software-defined UAV platforms we revolutionize the way drones are built. Our clients include some of the largest aerospace & defense companies in the world.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "9C7E42B6-FCDC-AD1D-C4EE-A03E4A3C932A",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "9C587F44-E162-2E49-AEDB-76637A5BB9E4",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Airvolute s.r.o.",
+            "CITY": "Trnava",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.airvolute.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "552A796F-9360-4336-BF31-A3117D4FB8A7"
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3815,
+                "BOOTH_KEY": "61DF0C70-269D-4CCF-A5EB-C1FAD4F519FD",
+                "KEY_ID": "EECAE3CC-D0B0-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C08FF604-12AD-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3815,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Point One Navigation",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "Point-One-Navigation-Inc-100069997939713",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "pointonenav",
+            "ACTIVE": 1,
+            "ZIP_CODE": 94103,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202412516550_4314f114a87e700cbb605fb9fce9c492.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Point One Navigation is the first centimeter-accurate positioning platform designed for today\u2019s most demanding applications. At Xponential, we're showcasing our independently run and monitored RTK corrections network, an API for easy integration into any application, and sensor fusion software tailored for specific use-cases, Point One\u2019s precision location stack makes it easy to quickly integrate precision location into any application, unlocking new possibilities for drones, robotics, and autonomous systems. Point One\u2019s founding team have decades of experience in precision navigation and were previous founders of Cornell\u2019s DARPA Urban Challenge.\n\n\nVisit our booth at Xponential to discover:\n\n- How our centimeter-level accuracy can enhance the performance and safety of your autonomous systems.\n- The benefits of our modern and scalable platform for various applications.\n- Real-world examples of how our technology is being used to solve complex challenges.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "5EC287EC-95F8-87A8-01A3-77883A8EFB25",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "pointonenav",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "13155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D04298A5-DA0A-9E6D-8450-8CD6D78C3A9C",
+                            "ANSWER_TITLE": "Critical Infrastructure"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "5E4BC80C-EBC7-B306-CE77-C82508C53163",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Point One Navigation",
+            "CITY": "San Francisco",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "https://pointonenav.com/",
+            "TWITTER": "pointonenav",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "AB7A258D-A80E-4E27-9061-446449CD14B8"
+    }
+}

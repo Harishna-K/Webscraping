@@ -1,0 +1,85 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3729,
+                "BOOTH_KEY": "2A2D40BC-E23E-40E3-B527-5EDB549DD47D",
+                "KEY_ID": "1FCEBB96-F065-79A0-E324-DF99D1121319"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "8E9BC2E7-1648-4B36-B8AE-BF41ADB2BE18",
+        "PRIMARY_BOOTH": 3729,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Esri",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1135,
+                    "TITLE": "Speaking Opportunity - Solutions Theater",
+                    "ID": "EVENTS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "ACTIVE": 1,
+            "ZIP_CODE": 92373,
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "EMAIL": "ademassimo@esri.com",
+            "DOCUMENTS": [],
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "1FD006EB-F595-CAB9-BB54-4E4380AAAA18",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Esri",
+            "CITY": "Redlands",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "",
+            "HEADERIMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/20252513446_7df55f46f7196eda4755797a07c7aeab.png"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "8E9BC2E7-1648-4B36-B8AE-BF41ADB2BE18",
+        "CRM_COMPANY_KEY": "6D6FA5B6-6CAB-4FCB-9675-E776185BBB2C"
+    }
+}

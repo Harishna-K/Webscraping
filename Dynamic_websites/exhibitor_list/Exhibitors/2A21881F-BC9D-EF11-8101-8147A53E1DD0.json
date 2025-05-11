@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3208,
+                "BOOTH_KEY": "E7E9B0DA-9FD0-4839-BA1E-CB5B57C934E1",
+                "KEY_ID": "714E276D-BF81-4C8A-3B3F-1928AEBC4119"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "2A21881F-BC9D-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3208,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Videology Industrial-Grade Cameras",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "02048",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024118113845_2026878364b7ac995def479526727a83.jpg",
+            "STATE": "MA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Videology is a global leader in designing, engineering, and manufacturing industrial-grade cameras and related imaging solutions. Our cameras have been embedded into systems across the globe and interact with millions of people daily. Driven by a commitment to quality and innovation, we provide customized cameras and imaging solutions tailored for diverse and demanding applications, bringing excellence to every interaction.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "71D1B038-FF4B-CADD-E727-9C122560F50C",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/videology-industrial-grade-cameras/",
+            "TOLL_FREE": "",
+            "KEY_ID": "7177BA6D-D0FD-4E23-35F3-F00DB08F6529",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Videology Industrial-Grade Cameras",
+            "CITY": "Mansfield",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.videologyinc.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "259E092E-54C8-4CF0-A4AC-9DF960D7FC62"
+    }
+}

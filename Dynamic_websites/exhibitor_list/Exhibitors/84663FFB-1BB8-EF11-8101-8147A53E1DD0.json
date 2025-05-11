@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2901,
+                "BOOTH_KEY": "010C4387-41C4-419F-BC0B-0BC2A3154E85",
+                "KEY_ID": "31B1BDD7-F8ED-973C-EDB6-A5AEAA12AA2E"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "84663FFB-1BB8-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2901,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "NEUMOTORS",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 92123,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024121116332_d5661c2bc752584c59a8d24308115a49.jpg",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Custom and COTS Brushless DC motors for industry.  US based engineering.  North American manufacturing available.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0D2430FD-0B4F-860D-43D9-9E9B6F1C2017",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Unit B",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "31BEAF69-F6ED-79BF-B3CF-EE4D4395A206",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "NEUMOTORS",
+            "CITY": "San Diego",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "neumotors.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "67E970B6-0E06-4FFB-A358-B63E07A4366B"
+    }
+}

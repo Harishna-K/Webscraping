@@ -1,0 +1,59 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1833,
+                "BOOTH_KEY": "7C27E8C4-0156-43AE-BA50-D1F4EFAFF472",
+                "KEY_ID": "67CAE012-B8CE-F780-C54F-509CD3BE3E1B"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "BA65BA26-87F3-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1833,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Re:Build Manufacturing",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": "01701",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202522595743_d750898807e6e424de9fa4eb903987df.png",
+            "STATE": "MA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Re:Build Manufacturing is a family of engineering and manufacturing businesses whose combined expertise creates an industrial powerhouse. Our strength in operations management, product manufacturing, and engineering innovation is transforming industrial America. Collaboration drives long-term value for our customers, employees, and communities.\n \nRe:Build is at the forefront of advancing drone technology, delivering cutting-edge solutions for autonomous aerial systems across defense, commercial, and industrial applications. Our expertise spans drone design, propulsion systems, and advanced manufacturing, ensuring that our platforms meet the highest performance and reliability standards. We develop lightweight, high-efficiency solutions optimized for UAVs. We are strengthening the U.S. supply chain for critical drone components and systems by leveraging our deep engineering knowledge and domestic production capabilities. From prototyping to large-scale production, Re:Build is committed to driving innovation in aerial autonomy, empowering industries with next-generation drone technology.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "68C70EB6-F469-0A14-34EA-05A0E2CC061A",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 606",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/re-build-manufacturing",
+            "TOLL_FREE": "",
+            "KEY_ID": "68162F87-9CB4-84A1-04C3-12AE848B74A3",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Re:Build Manufacturing",
+            "CITY": "Framingham",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.linkedin.com/in/josephmoritz/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "B9D60BEE-76FC-4ADB-9792-E59FEF3C43B5"
+    }
+}

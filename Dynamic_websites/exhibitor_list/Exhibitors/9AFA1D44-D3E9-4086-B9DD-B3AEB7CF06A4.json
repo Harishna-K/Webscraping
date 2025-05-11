@@ -1,0 +1,72 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 5,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2821,
+                "BOOTH_KEY": "8C5AA938-1BAA-4DFF-867D-737D32FC57E8",
+                "KEY_ID": "01BFC488-CEFA-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "9AFA1D44-D3E9-4086-B9DD-B3AEB7CF06A4",
+        "PRIMARY_BOOTH": 2821,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "Ohio Federal Research Network",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "352A1B78-E237-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "44BD7212-A603-D06D-CED2-CEA915314B13",
+                            "ANSWER_TITLE": "Ohio Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "A51D01B1-7C25-491B-9318-9F0B8EDC2804",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Ohio Federal Research Network",
+            "CITY": "",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://ohiofrn.org/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "72EA8AF4-70EB-EE11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "54D3738B-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

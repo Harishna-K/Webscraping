@@ -1,0 +1,249 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3833,
+                "BOOTH_KEY": "EE99040F-92B4-458D-9227-F368AAD5DEC4",
+                "KEY_ID": "60D9BB47-9C02-1E9C-CA2E-5936897B1CE9"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "052F402E-547A-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3833,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Movella",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/MovellaAM/",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "7521 PR",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202492411959_4d4a966202c6d6d6adde5d528e96a310.png",
+            "STATE": "Overijssel",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "NL",
+            "SALUTATION": "",
+            "DESCRIPTION": "Xsens provides high-precision motion sensing solutions for Automation & Mobility applications, including autonomous vehicles, robotics, marine, and industrial systems. Its motion sensors solutions deliver real-time orientation, navigation, and stabilization, enabling accurate control, sensor fusion, and AI-driven automation in demanding environments",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "611C34FE-EABE-04A0-F4C4-413BF1CD039E",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/showcase/movella-automation-mobility/posts/?feedView=all",
+            "FORM": {
+                "QUESTIONS": [
+                    {
+                        "QUESTION_NAME": "Contact Form Message",
+                        "DISPLAY_ORDER": 1,
+                        "QUESTION_TYPE": "textarea",
+                        "ACTIVE": 1,
+                        "KEY_ID": "E6C2BCDC-1103-F011-8101-8147A53E1DD0",
+                        "ANSWERS": [
+                            {
+                                "DISPLAY_ORDER": 1,
+                                "ACTIVE": 1,
+                                "KEY_ID": "E7C2BCDC-1103-F011-8101-8147A53E1DD0",
+                                "ANSWER_TITLE": "Message"
+                            }
+                        ]
+                    }
+                ],
+                "SUB_TITLE": "",
+                "DESCRIPTION": "Leave a message and we will get back to you!",
+                "THANK_YOU_MESSAGE": "Thank you for reaching out! We have received your message and will be in touch shortly to address your inquiry.",
+                "KEY_ID": "62405F28-0282-4A4D-B147-CD56944DB475",
+                "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531710269_8b4f3a5ff7fa5345371a72c2b61cc9ed.png",
+                "TITLE": "Contact Us",
+                "EMAIL_NOTIFICATION": "maurizio.fusco@movella.com"
+            },
+            "PRESS_RELEASES": [
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "",
+                    "STATE": "",
+                    "KEY_ID": "6264CF4A-D580-52D1-DC55-6FAFA87D4828",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025317103328_9995e8c96ddebdbdc0ae890c042b08e1.png",
+                    "LAST_NAME": "",
+                    "EMAIL": "",
+                    "FIRST_NAME": "",
+                    "SUB_TITLE": "Xsens launches new flagship sensor, designed for exceptional data robustness in any environment",
+                    "CITY": "",
+                    "COUNTRY": "NL",
+                    "DESCRIPTION": "Xsens, a leading provider of full-stack solutions for digitizing 3D movement, announced the launch of its new &lsquo;flagship&rsquo; inertial sensor, the high-end industrial grade &ldquo;Xsens Sirius&rdquo; Series: the next generation of sensors succeeding the well-known Xsens MTi&reg; 100-Series. Featuring Inertial Measurement Unit (IMU), Vertical Reference Unit (VRU) and Attitude and Heading Reference System (AHRS) capabilities, Xsens Sirius is engineered to deliver reliable unmatched 3D, real-time and accurate data in the most demanding conditions. A key feature that sets this series apart is its advanced signal pipeline with analog filtering, ensuring high vibration resistance for precise measurements even in the most extreme-vibration environments. With this new series, Xsens aims to further support autonomous vehicle innovators across a range of applications &ndash; either land, air or (sub)sea. This new Sirius series is a game changer for demanding scenarios across diverse vehicle and antenna/payload use cases, including: Marine: Deployed on surface vessels and sub-surface robotics, such as remotely operated vehicles (ROVs) and autonomous underwater vehicles (AUVs) for precise navigation or stabilization, providing them with reliable heading- and roll/pitch data or support bathymetry mapping. Land based Mobile Robotics: Enabling precise navigation for diverse robotic applications, including indoor mobile robots (AMRs/AGVs) operating in dynamic environments and Outdoor Mobile Robots navigating through rough terrain. Precision Agriculture: Delivering accurate 3D orientation data for navigating and controlling autonomous agriculture machinery and smaller mobile robotics. 3D Digital Mapping and Surveying: Supporting high-fidelity data capture and georeferencing for aerial, terrestrial, and subsea bathymetry mapping, enabling the creation of accurate and detailed maps and 3D models with e.g. Sonar, LIDAR and camera systems. &ldquo;The industrial grade inertial sensing and -navigation market is experiencing a surge driven by the rise of autonomy and mobile robotics in challenging movement environments,&rdquo; says Meindert Zeeuw, Director of the Automation &amp; Mobility Line of Business at Xsens. &ldquo;Industries such as marine, UAVs, and mobile robotics are demanding highly accurate and reliable sensors that can withstand extreme conditions, yet should not be too expensive. Xsens Sirius is engineered precisely for this need, pushing the boundaries of performance and durability. Moreover it is supplied at the best price point in the market, aimed at easy integration, so also innovative small start-ups can make big steps in bringing their smart vehicle solution to the market.&rdquo; The growing demand for robust inertial sensors across various applications is highlighted in this year&rsquo;s High-end Inertial Sensors report by Yole Intelligence. &ldquo;Among other applications where IMUs with industrial grade performances and immunity to vibration are needed, navigation or stabilization of remotely operated vehicles (ROVs), autonomous underwater vehicles (AUVs), Autonomous Mobile Robot (AMR) and Automated Guided Vehicle (AGV) represent a significant market with $86 million in 2023, generated for high-end inertial sensors,&rdquo; explains Pierre-Marie Visse, Senior Technology &amp; Market Analyst, MEMS &amp; Sensing at Yole Group. &ldquo;We expect this market to reach almost $100 million by 2029, with a 3% CAGR on this forecast period.&rdquo; Sirius Series: Engineered for Excellence The Sirius Series boasts an array of cutting-edge features, including: Robust accuracy: Accurate orientation data, supporting navigation everywhere, thanks to the dual-processor design. Vibration and shock-resistant signal pipeline: Accurate measurements even in extreme vibration conditions, supported by analog filtering. Rugged &amp; reliable: MIL-standard IP68 housing, resistant temperature extremes, humidity, salt spray, sand &amp; dust, shock &amp; vibration, and electromagnetic interference. Easy-to-integrate: Compact plug-and-play, comprehensive software application suite, user-friendly SDK, and seamless integration. Backed by a strong partner network (NVIDIA/HESAI/ROS/Matlab/...) Magnetic immunity: Exceptional resistance against magnetic disturbances thanks to advanced magnetic models. Free technical support: Free global assistance from expert Field Application Engineers. About Xsens Xsens is a leading full-stack provider of sensors, software, and analytics that enable the digitization of movement. Xsens serves the automation &amp; mobility, entertainment and health &amp; sports markets. Xsens innovations enable customers to capitalize on the value of movement by transforming data into meaningful and actionable insights. Partnering with leading global brands such as ABB Marine, Hewlett Packard, NVIDIA, Kongsberg, Clearpath Robotics, Toyota, Siemens, Electronic Arts, EPIC Games, 20th Century Studios, Netflix and more than 500 sports organizations, Xsens is creating extraordinary outcomes that move humanity forward. To learn more, please visit www.xsens.com.",
+                    "TITLE": "Get Sirius about 3D inertial sensing in the most challenging environments"
+                },
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "",
+                    "STATE": "",
+                    "KEY_ID": "6289B0BA-E8C7-F568-C96B-7CF4C9944284",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025317103952_22f2aefb4dfdde08c7e2c25c57c722f0.png",
+                    "LAST_NAME": "",
+                    "EMAIL": "",
+                    "FIRST_NAME": "",
+                    "SUB_TITLE": "Xsens announces its sensor portfolio for autonomous machines and edge AI applications have NVIDIA Jetson Platform integration capabilities",
+                    "CITY": "",
+                    "COUNTRY": "NL",
+                    "DESCRIPTION": "Xsens, a leading provider of full-stack solutions for digitizing movement, today announced it has enhanced its inertial sensor modules for autonomous machines and edge AI applications. The Xsens sensors can be easily integrated with the NVIDIA Jetson&trade; platform for edge AI and robotics, offering full compatibility with the NVIDIA Jetson AGX Orin&trade;, NVIDIA Jetson Orin&trade; NX, and NVIDIA Jetson Orin Nano&trade; system-on-modules. The highly compact Xsens sensors, also called &ldquo;IMU&rdquo;, are renowned for their high accuracy, reliability, and low latency, even under adverse conditions. They provide industrial-grade, real-time measurements of motion, orientation, and global position (GNSS), which are critical for navigating and controlling a wide range of mobile robots and smart automation applications, whether aerial, land-based, or subsea. Offering compatibility with the powerful AI capabilities of the NVIDIA Jetson platform, the Xsens inertial sensors will help customers bring their intelligent and autonomous systems faster to the market. The easy integration of NVIDIA Jetson Orin modules with Xsens sensors will help enable more intelligent and efficient autonomous systems. Xsens is a member of the NVIDIA Partner Network (NPN). &ldquo;The mobile robot market is undergoing massive growth and transformation as autonomous platforms such as autonomous mobile robots (AMRs) get widely adopted indoors and outdoors. Collaborating with NVIDIA on the Jetson platform integration has helped us advance the use of Xsens sensors in mobile robotics and edge AI,&rdquo; said Meindert Zeeuw, Director of the &ldquo;Automation &amp; Mobility&rdquo; Line of Business at Xsens. &ldquo;The seamless integration of Xsens precise and real-time data with NVIDIA Jetson&rsquo;s accelerated computing capabilities will help innovators further in developing systems that can navigate, perceive, and interact with their environments with even more accuracy and agility.&rdquo; This integration highlights the momentum of the industrial inertial sensor market, particularly in logistics (autonomous robots, autonomous vehicles) and sea-based (ROV/AUV) applications. This segment has a projected 16% CAGR expected from 2021 to 2027, reaching an estimated value of USD 1.1 billion. Xsens&#39; work underscores the industry&rsquo;s rapid innovation and adoption of industrial inertial sensors, positioning the company to drive transformative advancements in intelligent automation within industrial applications. About Xsens Xsens is a leading full-stack provider of sensors, software, and analytics that enable the digitization of movement. Xsens serves the automation &amp; mobility, entertainment and health &amp; sports markets. Xsens innovations enable customers to capitalize on the value of movement by transforming data into meaningful and actionable insights. Partnering with leading global brands such as ABB Marine, Hewlett Packard, Kongsberg, Clearpath Robotics, Toyota, Siemens, Electronic Arts, EPIC Games, 20th Century Studios, Netflix and more than 500 sports organizations, Xsens is creating extraordinary outcomes that move humanity forward. To learn more, please visit www.xsens.com.",
+                    "TITLE": "Xsens sensor portfolio with NVIDIA Jetson Platform integration capabilities"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "60E1389F-0862-1602-9A32-7CA6788D96E1",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Xsens | Movella",
+            "CITY": "Enschede",
+            "ACTION_BUTTON_LABEL": "Contact Us",
+            "PRODUCTS": [
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Enabling true autonomy in harsh environments\r\n\r\nAchieving autonomy in harsh environments requires more than just basic inertial sensing. It demands a new level of accuracy, reliability, and robustness. You need sensors that can perform in unpredictable terrain, enduring extreme temperatures, and operating flawlessly amidst intense vibration and shock. That's where the Xsens Sirius comes in. Our new series is purpose-built to deliver consistent performance, providing the critical foundation for autonomous systems operating in the most demanding conditions.",
+                    "DOCUMENT": "https://www.movella.com/products/sensor-modules/xsens-sirius-series",
+                    "KEY_ID": "6322A681-A9CD-2EE7-C535-3A12F56C1BC9",
+                    "TITLE": "Xsens Sirius",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317105028_0cea8391705110291431d0e2752e7223.png",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "The MTi-1 is a self-contained inertial measurement unit (IMU) that provides calibrated data on the rate of turn, the acceleration and the magnetic field \u2013 all in 3D. \r\n\r\nThe MTi-1 calibrates for several biases and parameters, such as temperature. Robust and reliable, it integrates easily with high-volume applications. Best of all, it\u2019s the most cost-effective product for surface mountable device (SMD) integration. \r\n\r\nAs part of the MTi 1-series, it is among the smallest of its kind available, with each module measuring only 12.1 \u00d7 12.1 mm and weighing <1 g.",
+                    "DOCUMENT": "https://www.movella.com/products/sensor-modules/xsens-mti-1-imu",
+                    "KEY_ID": "635C8291-0915-5D2C-61FB-0CA9C8424CDB",
+                    "TITLE": "Xsens MTi-1 Series",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317105630_8d912e8aa7bc8856d09b33c24442960f.jpg",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "As one of our highest-performing inertial measurement units (IMU), the all-in-one MTi-600 provides calibrated data on the 3D rate of turn, acceleration, and magnetic field.\r\n\r\nIt\u2019s lightweight, robust and cost-effective. You can seamlessly integrate it in your application either with the header facing down, directly mounted on a PCB, or as a standalone, with a flat cable for communication. The MTi-600 series features native CAN support.",
+                    "DOCUMENT": "https://www.movella.com/products/sensor-modules/xsens-mti-610-imu",
+                    "KEY_ID": "63789E2B-EED8-2751-3218-CACA135D1EC5",
+                    "TITLE": "Xsens MTi-600 OEM Series",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531711016_001e1ed9100c23aba042f26409e93963.jpg",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "The MTi-600R's sensors and sensor fusion algorithm deliver data on drift-free roll, pitch, and true-north-referenced yaw.\r\n\r\nThe MTi 600-series and allows seamless integration with your application. It is an all-in-one navigation solution, lightweight and robust. It is also highly flexible, with native CAN support.",
+                    "DOCUMENT": "https://www.movella.com/products/sensor-modules/xsens-mti-630r-ahrs",
+                    "KEY_ID": "63A2D95D-9ABD-D2D5-D188-33EBC00A10FF",
+                    "TITLE": "Xsens MTi-600 Rugged Series",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531711455_ea96651581af0742b8c16b1544096ca8.jpg",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Outstanding positioning information, even in GNSS-deprived areas.\r\n\r\nWhen it comes to outdoor (and indoor) autonomous vehicles, it\u2019s essential to know precisely where the vehicle is located at all times \u2013 even in challenging or GNSS-denied environments. For these applications, we\u2019ve introduced the Xsens Vision Navigator.\r\n\r\nUsing dual RTK GNSS, an internal IMU and a camera, and visual-inertial odometry technology, the Xsens Vision Navigator provides accurate real-time navigation data, whether you\u2019re in a forest, an urban environment, a warehouse, a tunnel or even underground.\r\n\r\nWith the Vision Navigator, position drift is distance-dependent as opposed to time-dependent \u2013 as commonly found in more traditional GNSS/INS devices. Because of this, the Vision Navigator is able to cope with continuous GNSS disturbances or long-lasting GNSS outages.",
+                    "DOCUMENT": "https://www.movella.com/products/sensor-modules/xsens-vision-navigator",
+                    "KEY_ID": "63AE4A84-ACBC-0EE9-9B87-C6905EFCD6F6",
+                    "TITLE": "Xsens Vision Navigator",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531711610_54742b2459f3c0719ef4fb87cad63b89.png",
+                    "DOCUMENT_TYPE": "document"
+                }
+            ],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Meet the Xsens Sirius Series, our most advanced industrial-grade inertial sensor. Engineered for unmatched performance and reliability in the harshest conditions, Xsens Sirius overcomes extreme vibration, magnetic disturbances, and temperature variations to provide precise 3D orientation data for your autonomous systems.\r\n\r\n Featuring IMU, VRU and AHRS capabilities, the Xsens Sirius delivers the accuracy and robustness you need for demanding applications such as marine (surface and sub-surface), land-based mobile robotics, precision agriculture, and 3D digital mapping and surveying.",
+                    "KEY_ID": "61FDF382-0762-DBD3-1B98-D29D46581C53",
+                    "TITLE": "Xsens Sirius: Enabling true autonomy in challenging environments",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317101854_8ab2362586803dae604bb9ee78a70983.png",
+                    "URL": "https://www.youtube.com/watch?v=LC71jro_60Q"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Unboxing video of the XVN Xsens Vision Navigator. The Vision Navigator is a dual RTK GNSS/INS and vision-enabled navigation unit.",
+                    "KEY_ID": "6234E20D-C62D-785B-DFD4-1E05959E53A7",
+                    "TITLE": "Xsens Vision Navigator Starter Kit - Unboxing and Getting Started",
+                    "HEADER_IMAGE": "",
+                    "URL": "https://www.youtube.com/watch?v=2yVnkRVDiSc"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Unboxing the Xsens Inertial Motion Box: A comprehensive kit designed for engineering education and research.  Explore the three versatile Xsens MTi test kits included and discover how this solution can elevate your motion tracking projects.",
+                    "KEY_ID": "61282C36-9A1F-51BE-E7B2-908E8946C722",
+                    "TITLE": "Unboxing: Xsens Inertial Motion Box",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531795526_d1c8c8cef559a190ad62b23136f5a701.png",
+                    "URL": "https://www.youtube.com/watch?v=vzFiPeEGH4w"
+                }
+            ],
+            "WEBSITE": "https://www.movella.com/applications/automation-mobility",
+            "TWITTER": "https://x.com/movellaam",
+            "HEADERIMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317948_e562032f569108ff2194a9273b4026a8.png"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "4E9A8E2C-6AA1-49B5-ADDA-E5A7C629CF4A"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 7,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3613,
+                "BOOTH_KEY": "0DAA68AE-EB07-4828-9655-40526A4497A2",
+                "KEY_ID": "AA612EA9-E0F3-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "4F2D88F9-8C24-4F4A-B1D4-3FECCF5DDB29",
+        "PRIMARY_BOOTH": 3613,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "ResilienX, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 13202,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025319142730_142517a07afaf62a52be8ab2861f2fb7.png",
+            "STATE": "NY",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "ResilienX: Ensuring Safety & Reliability in Autonomous Ecosystems \nResilienX is a leading provider of safety assurance solutions for autonomous and uncrewed systems, specializing in uncrewed aviation. Our cutting-edge technology enhances operational integrity, reliability, and resilience, enabling the safe integration of drones and other uncrewed aircraft into national airspace system. \n\nAt the core of our offerings are FRAIHMWORK and OptiX, two powerful platforms designed to ensure mission success in complex environments. \n\nFRAIHMWORK (pronounced \u2018framework\u2019) is ResilienX\u2019s intelligent monitoring platform that enhances aviation safety through real-time health monitoring, fault detection, and predictive analytics. By identifying and mitigating risks before they impact operations, FRAIHMWORK ensures mission continuity for uncrewed and autonomous systems. \n\nOptiX is our digital operations center used to scale remote, BVLOS operations through UAS Traffic Management (UTM), tactical deconfliction, common air picture, common weather picture, weather intelligence, real-time safety assurance, and active cyber security monitoring. It supports safe and secure operations across emergency response, infrastructure inspection, logistics, and both civilian and defense UAS applications. \n\nWhy ResilienX? \nProven Expertise \u2013 We work alongside aviation authorities, air navigation service providers, and industry leaders to advance autonomous safety. \n\nIntelligent Safety Monitoring \u2013 FRAIHMWORK and OptiX provide real-time analytics and automation to reduce downtime, prevent mission failure, and optimize operations. \n\nRegulatory Alignment \u2013 Our solutions help organizations meet evolving FAA, NASA, and global standards for BVLOS and autonomous operations, at scale. \n\nOperational Resilience \u2013 By proactively detecting and addressing potential failures, we ensure the safety and efficiency of uncrewed systems in dynamic environments. \n\nIndustry Leadership: \nResilienX is a trusted partner in government, commercial, and research initiatives, including NASA, the FAA, and major industry stakeholders. Our technology is used across state, federal, and commercial applications and use cases. \n\nThe Future of Autonomy Starts Here: \nAs uncrewed systems continue to revolutionize industries, ResilienX remains committed to ensuring their safety, reliability, and scalability. Whether you are an operator, manufacturer, or regulator, our solutions provide the tools and expertise to enhance the resilience of your autonomous operations. \n\nVisit us at the New York Pavilion to see how FRAIHMWORK and OptiX can elevate your autonomous ecosystem.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "DCA5B86A-BFC5-A54F-C872-910DAD0E8003",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "312A1B78-E237-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "06E0DA65-02A4-8693-EAB1-63F7999DA38E",
+                            "ANSWER_TITLE": "New York Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "DFB74D27-972F-4491-8D80-92E032BFDC77",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "ResilienX, Inc.",
+            "CITY": "Syracuse",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.resilienx.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "9DA8B6E4-B6F2-EE11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "39B47685-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

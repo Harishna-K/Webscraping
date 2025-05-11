@@ -1,0 +1,82 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2925,
+                "BOOTH_KEY": "37A02E76-BD70-4DF2-BAC7-EB7342B47545",
+                "KEY_ID": "47C85B61-B087-1F8E-8229-648D7930CD4E"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "3E9030A9-57B0-481B-BB51-7236819A56D8",
+        "PRIMARY_BOOTH": 2925,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "FlyNex GmbH c/o SpinLab",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "04179",
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "EMAIL": "p.feurich@flynex.de",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "69E07530-9914-6782-B20D-FCE15BF7E09C",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Patrick Feurich",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "D568D496-D9F9-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "47DD8BCC-0F55-8371-3B32-72DC525F2982",
+                            "ANSWER_TITLE": "German Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "47CEE3F7-9FE1-B2BD-8E5A-BB618BD53BC0",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "FlyNex GmbH",
+            "CITY": "Leipzig",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.flynex.io/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "3E9030A9-57B0-481B-BB51-7236819A56D8",
+        "CRM_COMPANY_KEY": "63639A75-3D43-41BE-93A0-3D3D3CC500B3"
+    }
+}

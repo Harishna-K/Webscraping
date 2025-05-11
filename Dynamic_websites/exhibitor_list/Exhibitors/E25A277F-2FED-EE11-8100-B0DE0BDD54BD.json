@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3316,
+                "BOOTH_KEY": "435E52E9-058B-4DAA-8F94-7B9586F9323E",
+                "KEY_ID": "3FD09182-C514-FF12-0849-27BF9ACF1F8B"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "E25A277F-2FED-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3316,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "MicroLink Devices, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 60714,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202432813496_ce74f6b0c4c4f858aa7e3f68dbf1df60.png",
+            "STATE": "IL",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "MicroLink Devices specializes in the production of advanced solar cells for space, UAV, and terrestrial use. Flexible solar sheets manufactured specifically for use on UAVs have areal powers of >350 W/m2 and specific powers of >1500 W/kg. MicroLink also performs engineering research and development services and is a prime federal contractor.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6D5F1B11-CA9D-8988-6546-99D08EC873F9",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "3FE359A8-0AD2-4209-F1EE-6E2027623699",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "MicroLink Devices, Inc.",
+            "CITY": "Niles",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.mldevices.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "15EB64B8-03BF-4FC4-AD7F-80BD85872CFD"
+    }
+}

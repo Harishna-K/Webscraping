@@ -1,0 +1,74 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2833,
+                "BOOTH_KEY": "FEA8AE84-11FA-407C-A95C-EF004200A911",
+                "KEY_ID": "2E54AF70-C7E9-C42C-24E8-00CD44015F9B"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "F66132ED-3F18-490C-941B-074BEA3C64C2",
+        "PRIMARY_BOOTH": 2833,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "TM-IT-Systemhaus UG",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 27574,
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "EMAIL": "awetjen@tm-sys.it",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "D568D496-D9F9-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "2E7101F9-E7CC-44F0-0FE8-E90387C9F21B",
+                            "ANSWER_TITLE": "German Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "2E5CF843-B3E8-A6C1-A25D-8AF65C2CD362",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "TM-IT-Systemhaus UG",
+            "CITY": "Bremerhaven",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.tm-sys.it",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "F66132ED-3F18-490C-941B-074BEA3C64C2",
+        "CRM_COMPANY_KEY": "B7EA9AEC-F5D6-4B36-8FFA-75F15B16755C"
+    }
+}

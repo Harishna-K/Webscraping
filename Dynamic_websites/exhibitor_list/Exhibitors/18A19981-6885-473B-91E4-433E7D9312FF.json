@@ -1,0 +1,52 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2527,
+                "BOOTH_KEY": "4E576421-0484-4A35-B51F-EF318B391B33",
+                "KEY_ID": "A9B65C0E-005F-0945-FC5B-DCAF9DA6BC8F"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "18A19981-6885-473B-91E4-433E7D9312FF",
+        "PRIMARY_BOOTH": 2527,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "RoboNation",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 2,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 22201,
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "VA",
+            "LAST_NAME": "",
+            "EMAIL": "agavin@robonation.org",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 1200",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "A9C756B2-0EEC-4395-4D3A-CB0DE5104CB1",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "RoboNation",
+            "CITY": "Arlington",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "18A19981-6885-473B-91E4-433E7D9312FF",
+        "CRM_COMPANY_KEY": "BA557E7F-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

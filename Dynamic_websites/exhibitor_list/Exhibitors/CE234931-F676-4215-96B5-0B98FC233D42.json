@@ -1,0 +1,72 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 8,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2821,
+                "BOOTH_KEY": "8C5AA938-1BAA-4DFF-867D-737D32FC57E8",
+                "KEY_ID": "86547DB6-CFFA-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "CE234931-F676-4215-96B5-0B98FC233D42",
+        "PRIMARY_BOOTH": 2821,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "National Advanced Air Mobility Center of Excellence (NAAMCE)",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "352A1B78-E237-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "452A5477-F851-BCE5-9BC0-662E501246DB",
+                            "ANSWER_TITLE": "Ohio Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "5F260BC9-35D6-48C5-80F4-B02070A1768A",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "National Advanced Air Mobility Center of Excellence (NAAMCE)",
+            "CITY": "",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://springfieldohio.gov/city_services/naamce/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "72EA8AF4-70EB-EE11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "A4DEB51F-3638-4741-86B3-8F47789564AC"
+    }
+}

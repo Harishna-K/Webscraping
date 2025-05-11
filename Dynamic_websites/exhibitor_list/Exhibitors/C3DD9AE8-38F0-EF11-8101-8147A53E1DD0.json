@@ -1,0 +1,67 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2639,
+                "BOOTH_KEY": "216BB641-1BB4-4CE6-85C4-D87A83D0FD81",
+                "KEY_ID": "8F33390E-9176-DA07-0F39-985B606BFFF4"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C3DD9AE8-38F0-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2639,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Orthodrone GmbH",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "SUBEXHIBITORS": [
+            {
+                "BOOTH_NO": 2639,
+                "COMPANY_NAME": "Phase One",
+                "BOOTH_KEY": "216BB641-1BB4-4CE6-85C4-D87A83D0FD81",
+                "EXHIBITOR_KEY": "E5581BF6-CDF0-EE11-8100-B0DE0BDD54BD",
+                "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202442105448_7e10c2b7a763985fef6b2ce652720ef0.jpg"
+            }
+        ],
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 24107,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025221105317_cd2b903159002d5efd64fd37c6406efb.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "Will be inserted soon",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "8F538626-01A6-1FE4-8A28-A151A52CF12A",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "8F3C4224-E6C5-9CDD-4FC4-FA4CAD5F97BB",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Orthodrone GmbH",
+            "CITY": "Quarnbek",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "orthodrone.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "C3DD9AE8-38F0-EF11-8101-8147A53E1DD0",
+        "CRM_COMPANY_KEY": "F9B5A6C0-83ED-4D85-A0DD-F9227CC53417"
+    }
+}

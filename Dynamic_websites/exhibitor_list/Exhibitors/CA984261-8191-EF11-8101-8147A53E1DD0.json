@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3700,
+                "BOOTH_KEY": "CA12FBB7-9358-4AC9-B3E1-E8B3CE613220",
+                "KEY_ID": "34B70D33-4392-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "CA984261-8191-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3700,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Powerbox Systems Americas Corp. DBA Powerbox UAV Systems (PUAVS)",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "Powerbox Systems Americas",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 32259,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024102317312_6fd8233cefb7cd93d268df84bf7fdbe1.gif",
+            "STATE": "FL",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Powerbox UAV Systems (PUAVS) is the exclusive distributor, service, sales, and tech center for the entire North and South America as well as Canada of Powerbox Systems and Powerbox Systems Industrial. We specialize in airframe power management, including carrier boards for CUBE pilot. We also develop bespoke power management systems for clients.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "503EBFB5-E17E-360E-29D4-2E63F518BB4E",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 108 - 515",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Daniel Diaz",
+            "TOLL_FREE": "",
+            "KEY_ID": "4FE055AD-A33C-B255-AD13-463EE759E872",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "PUAVS",
+            "CITY": "Saint Johns",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.powerbox-americas.com / www.PUAVS.net",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "73313179-8391-49F6-8BAA-9D5B6E25D580"
+    }
+}

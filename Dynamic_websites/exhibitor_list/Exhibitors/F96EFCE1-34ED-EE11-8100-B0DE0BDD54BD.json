@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2521,
+                "BOOTH_KEY": "9679E5EA-5F77-483C-9FF1-F3BB617D7BD1",
+                "KEY_ID": "F8003F94-C401-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "F96EFCE1-34ED-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2521,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Northwest UAV",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/NorthwestUAV/",
+            "INSTAGRAM": "https://www.instagram.com/nwuav/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 97128,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2024125155841_c4690498dc0356022e20f9c4408c10a2.png",
+            "STATE": "OR",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "America\u2019s trusted leader in American-made UAV propulsion and integrated solutions, NWUAV, continues to engineer the future of unmanned power systems. Through innovation, NWUAV delivers unmatched capabilities to address modern challenges and navigate the most demanding environments. For over 15 years, our experienced team has equipped customers with reliable, cost-effective propulsion solutions \u2013 propelling systems to new heights and unlocking new mission sets. Rely on our unique ecosystem of UAV products, services, and partner products to help you achieve the optimal project-specific propulsion solution. Northwest UAV is an AS9100-D/ISO9001-2015 certified, DCAA, and NIST CSF-compliant operation.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0D134B18-9B28-4AC0-76B2-66A55CC69512",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/northwest-uav-propulsion-systems/",
+            "TOLL_FREE": "",
+            "KEY_ID": "40608339-F573-B8CA-ACCF-3BE8913C33B5",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Northwest UAV",
+            "CITY": "McMinnville",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "nwuav.com",
+            "TWITTER": "https://twitter.com/nwuav"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "7087A7DE-34FC-4A09-8D8D-575B707B2EEE"
+    }
+}

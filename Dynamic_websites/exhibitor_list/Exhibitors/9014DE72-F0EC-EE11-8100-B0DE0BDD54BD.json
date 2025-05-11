@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2915,
+                "BOOTH_KEY": "E751E2FF-D64B-4354-BC81-442E086DD7F9",
+                "KEY_ID": "EAB29A8A-F300-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "9014DE72-F0EC-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2915,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Meteomatics",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": "\u00a09000",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CH",
+            "SALUTATION": "",
+            "DESCRIPTION": "The world's easiest-to-implement weather and climate data: the Meteomatics approach combines exclusive, custom-built Meteodrones and robust algorithms, harnessing diverse data for unmatched precision.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "2EF3A8E8-A0D0-0911-E3DF-62840BE42663",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "2EE78DAC-F458-D5F4-DA73-948DF3B7796E",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Meteomatics",
+            "CITY": "St. Gallen",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "meteomatics.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "F9CD5D59-7387-4A0C-8EFC-893AC25E704D"
+    }
+}

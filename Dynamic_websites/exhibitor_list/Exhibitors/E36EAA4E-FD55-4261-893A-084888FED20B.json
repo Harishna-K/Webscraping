@@ -1,0 +1,55 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 3,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2715,
+                "BOOTH_KEY": "E7C736B4-3908-4DFE-867C-423BA6CD75E8",
+                "KEY_ID": "65818808-13EF-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "E36EAA4E-FD55-4261-893A-084888FED20B",
+        "PRIMARY_BOOTH": 2715,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "Hexagon",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "D7DC1C81-9459-49E3-933D-3883CC9AFB9A",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Hexagon",
+            "CITY": "",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://hexagon.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "356F9B53-E5F5-EE11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "55B37685-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

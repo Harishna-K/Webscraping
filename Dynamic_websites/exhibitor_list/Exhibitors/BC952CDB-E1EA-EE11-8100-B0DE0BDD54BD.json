@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3433,
+                "BOOTH_KEY": "874BB50D-2E62-41CA-B870-BEF5D32E8025",
+                "KEY_ID": "A8019E3F-9DD2-12B4-95D1-092807261F8F"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "BC952CDB-E1EA-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3433,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Skydio",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/SkydioHQ",
+            "INSTAGRAM": "https://www.instagram.com/skydiohq/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 94402,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202432513528_8a98e791284c351cf47ffc34d01b3552.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Skydio is the leading U.S. drone manufacturer and world leader in autonomous flight. Skydio leverages breakthrough AI to create the world\u2019s most intelligent flying machines for use by enterprises and government customers. Skydio designs, assembles, and supports its products in the U.S. from its headquarters in San Mateo, CA.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A84DBA9C-E697-68D0-DDD6-46FAAEF97814",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/skydio/",
+            "TOLL_FREE": "",
+            "KEY_ID": "A80C8AD4-A456-D98A-05FD-CA9B6C39D3CB",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Skydio",
+            "CITY": "San Mateo",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.skydio.com",
+            "TWITTER": "https://twitter.com/SkydioHQ"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "76F16C5E-993F-4390-880B-F66FDB633758"
+    }
+}

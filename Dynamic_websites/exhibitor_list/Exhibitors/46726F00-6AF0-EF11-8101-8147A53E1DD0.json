@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1401,
+                "BOOTH_KEY": "53EE6581-96D9-47B5-A0CC-4213A95EE2C1",
+                "KEY_ID": "9BB9F1F6-B1C6-5B4A-B766-13990B3D17C4"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "46726F00-6AF0-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1401,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Dewey Electronics & INI Power Systems",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "07436",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025221104315_448b8409b38a2c1a303f530b3d8d0dff.jpg",
+            "STATE": "NJ",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Dewey Electronics is a leader in field-proven generators built for military applications. Our highly reliable equipment solves complex power problems where it matters most. \n\nINI Power is synonymous with small, quiet, military-grade generators that are theater proven. Our generators\u2014including custom power solutions\u2014are built for deployment to austere, unimproved environments anywhere in the world. \n \n\nINI Power Systems bridge operational energy capability gaps with our man-portable, ultra-quiet, JP-8 multi-fuel generators ranging from 0.5kW to 5kW, as well as our 1kW custom solutions for autonomous hybrid power storage and routing.  We are excited to add the NEW INI-2200 Series to the line-up for this year.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6D1A69D7-0C1A-8BB0-E7B5-93A0D7BA12A7",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/the-dewey-electronics-corporation/",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D60B9192-C1F5-7C19-4892-8F28BA8F87BA",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "9BC16D2A-B0F4-1392-2BFE-A39D07022F2F",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Dewey Electronics & INI Power Systems",
+            "CITY": "Oakland",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://deweyelectronics.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "9D51C8E2-3440-4FB5-A41B-BDCAA8392ECC"
+    }
+}

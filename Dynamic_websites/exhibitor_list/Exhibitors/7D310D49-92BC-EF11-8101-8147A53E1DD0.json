@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4005,
+                "BOOTH_KEY": "F27BDEFA-F063-49C7-AD1D-950BE8F3EDC4",
+                "KEY_ID": "5622A27F-03EA-6F3E-1036-1F66365631F4"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "7D310D49-92BC-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 4005,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Intelligent Energy",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "LE11 3GB",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202512215319_221fb782e032552bc632f8a16d90b377.jpg",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "GB",
+            "SALUTATION": "",
+            "DESCRIPTION": "Intelligent Energy is a leader in the development and manufacture of cutting-edge hydrogen fuel cells that overcome the limitations of conventional battery-powered systems.\n\nThe privately-owned company, which has 600 patents in place, has been innovating for more than two decades in the automotive, aerospace, power generation, telecoms, materials handling and unmanned aerial vehicle (UAV) sectors.\n\nWith its activities spanning key markets in the UK, US, China, South Korea, and Japan, Intelligent Energy has a truly global reach.\n\nIE-SOAR\u2122 is our range of lightweight hydrogen fuel cell modules for fixed wing, rotary wing and VTOL applications, and is poised to unchain UAVs from the restrictive flight times offered by current battery technology. The SOAR modules have a higher energy to mass ratio than batteries \u2013 around double \u2013 enabling UAVs to fly further, for longer, and to achieve more.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "9276ADC1-0A11-9409-8EFC-9503632D26E1",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/intelligent-energy",
+            "TOLL_FREE": "",
+            "KEY_ID": "562D9064-ECF9-A6B6-6B4F-750C223C3A40",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Intelligent Energy",
+            "CITY": "Loughborough",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.intelligent-energy.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "BBEFE58D-0386-4D96-A9DD-0ECD3B16AE6D"
+    }
+}

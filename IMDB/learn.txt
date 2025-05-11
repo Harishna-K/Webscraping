@@ -1,0 +1,18 @@
+" : None, 
+"name" : None, 
+"movie url" : None, 
+"description" : None, 
+"rating count" : None, 
+"rating value" : None, 
+"content rating " : None, 
+"duration
+
+
+Data structures
+list 
+disc
+pandas
+json
+nested list
+nested disc
+list of disc

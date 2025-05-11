@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3515,
+                "BOOTH_KEY": "638936E4-FC00-4D11-AE4D-1F2FB2A08037",
+                "KEY_ID": "0803E976-D597-79E1-E8B3-DF83C51957C1"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "BF1FE245-59EC-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3515,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Embention",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/Embention",
+            "INSTAGRAM": "https://www.instagram.com/embention",
+            "ACTIVE": 1,
+            "ZIP_CODE": "\u00a0\u00a003114",
+            "TIKTOK": "https://www.tiktok.com/@embention",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2024112683220_7fd9a8e0fc03d86a8fb2cb050b48f042.jpg",
+            "STATE": "Spain",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "ES",
+            "SALUTATION": "",
+            "DESCRIPTION": "Founded in 2007 by David Benavente, Embention is a Spanish company, leader in the design and manufacture of autopilots and avionics for autonomous vehicles, particularly UAS (Unmanned Aerial System) and eVTOLs (electric vertical take-off and landing vehicles). The company offers a range of products including autopilots, avionics, motor controllers, control stations and tracking systems.\n\nEmbention's products are designed to ensure maximum efficiency and safety in safety-critical air operations. Veronte autopilots provide solutions for a wide range of aircraft, from small drones to UAMs (Urban Air Mobility). These systems not only manage automatic flight or fly-by-wire, but also integrate mission control and navigation functions, even in adverse conditions.\n\nThe avionics developed by Embention include robust and reliable systems for managing communications, data and operational safety. Motor controllers are characterized by their ability to adapt to different types of electric motors, providing effective solutions for power management and performance optimization. The company also provides ground control stations that enable the safe and efficient operation of aircraft.\n\nIn terms of certifications, Embention not only meets ISO9001 and EN9100 quality standards, which guarantee the highest quality and management standards in the aerospace industry, but also develops its products under the strict DO178C, DO254 and DO160G certification standards. These certifications ensure that all its systems are reliable and safe for safety-critical operations, facilitating aircraft certification processes and meeting the most demanding international regulations.\n\nEmbention exemplifies excellence, efficiency and an unwavering commitment to quality and safety in every aspect of their operations, Enabling Drones to Populate our Skies.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "083A2729-D579-816A-C6EC-EABC2B2774A6",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/embention/",
+            "TOLL_FREE": "",
+            "KEY_ID": "08126056-C081-305F-9268-665C453331CE",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Embention",
+            "CITY": "Alicante",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.embention.com",
+            "TWITTER": "https://x.com/embention"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "4649AF44-DECE-4FC3-8505-0B28B4EC27D6"
+    }
+}

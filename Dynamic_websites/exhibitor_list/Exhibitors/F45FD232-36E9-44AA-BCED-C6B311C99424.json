@@ -1,0 +1,65 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4129,
+                "BOOTH_KEY": "BD31E6B9-4216-4D2C-A430-8392A7CFAA87",
+                "KEY_ID": "9A741DE7-B450-C80B-9A60-DC8FB908D271"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "F45FD232-36E9-44AA-BCED-C6B311C99424",
+        "PRIMARY_BOOTH": 4129,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Business Oregon",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 97301,
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "OR",
+            "LAST_NAME": "",
+            "EMAIL": "ryan.degrofft@biz.oregon.gov",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "63243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "3E75CD5A-BB27-DADF-3A18-5FA468222CF1",
+                    "ANSWER_TITLE": "Government Entity (Non-Defense)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "4EC6C62A-00BD-29BB-0562-EFF05670DEE0",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Oregon Pavilion",
+            "CITY": "Salem",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.oregon.gov/biz",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "753F981C-6DC7-4B9F-A93A-D6B1836F497A",
+        "CRM_COMPANY_KEY": "B53C7FEE-3FAE-4E8F-9784-4617D666EAB5"
+    }
+}

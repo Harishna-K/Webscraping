@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1505,
+                "BOOTH_KEY": "3F7E9910-6127-40FF-919E-4F7A9F180D17",
+                "KEY_ID": "19F671F0-34EE-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "08C11604-2BEE-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1505,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Unmanned Aerospace",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 92037,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531311100_4d7409fc412f1fd22c7d5889a35ac6cc.jpg",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "NEXT-GEN SCALABLE ROTORCRAFT: REINVENTING VTOL\n\nUnmanned Aerospace, based in San Diego, California, has reimagined rotorcraft technology\u2014delivering the VTOL capability of a helicopter without the complexity, high maintenance or fuel inefficiency.\nThe GH-4 leverages patented Automatic Pitch System (APS) technology, allowing it to take off and hover like a helicopter while consuming 40% less energy in forward flight\u2014thanks to its autorotating rotor system inspired by gyrocopters. Unlike traditional helicopters, the GH-4 eliminates swashplates, gears and complex linkages, reducing maintenance and increasing reliability. With just two servos controlling flight, it offers an exceptional flight versatility, simplicity, and performance.\nScalability is at the core of Unmanned Aerospace. The GH-4 is designed to evolve into larger rotorcraft, making it adaptable for both military and commercial operations. Backed by the US Navy and OECIF, Unmanned Aerospace is pioneering the next generation of hydrogen-powered flight, integrating fuel cells and hybrid booster batteries for long-endurance missions.\nWith an optional JP-5 engine if hydrogen is not available, the GH-4 represents the future of mission-critical VTOL aircraft\u2014combining endurance and efficiency in a scalable, next-gen platform.\nUnmanned Aerospace is committed to scaling this breakthrough technology to redefine aerial operations across military and commercial applications.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0936DE6A-CA91-B684-7F32-389F11B70864",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D5F44907-0CB1-FA8E-A25D-B7BA03CEA570",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "08A37A6D-BF6E-F05A-3988-58AF86195F22",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Unmanned Aerospace",
+            "CITY": "La Jolla",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.unmanned-aerospace.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "B8D3738B-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2031,
+                "BOOTH_KEY": "CBA662F7-15F8-4950-ABFA-FE3571EE4372",
+                "KEY_ID": "C3364C98-9C01-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "EA846863-5BEE-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2031,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Sagetech Avionics, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "SUBEXHIBITORS": [
+            {
+                "BOOTH_NO": 2031,
+                "COMPANY_NAME": "American Aerospace Technologies, Inc",
+                "BOOTH_KEY": "CBA662F7-15F8-4950-ABFA-FE3571EE4372",
+                "EXHIBITOR_KEY": "69823064-E82C-4E19-A4B2-0750C5812E0F"
+            }
+        ],
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 98605,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "WA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Sagetech Avionics provides situational awareness avionics to both crewed and uncrewed and uncrewed aircraft.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "8BE86551-042A-DC03-C766-9BD0401BADE7",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "8BBA4DAA-EF5C-A668-EF7C-2325C7C79FF4",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Sagetech Avionics, Inc.",
+            "CITY": "Bingen",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.Sagetech.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "EA846863-5BEE-EE11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "8A806F73-36A0-4E91-880F-52C1986C2CA5"
+    }
+}

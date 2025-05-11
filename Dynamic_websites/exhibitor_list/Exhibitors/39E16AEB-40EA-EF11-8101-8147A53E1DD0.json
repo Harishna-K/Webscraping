@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2228,
+                "BOOTH_KEY": "61ED2260-F799-4D9D-8B03-8AFF14F2AA5B",
+                "KEY_ID": "08299AE0-EBE3-5CE2-EB3C-5E19B175F9DB"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "39E16AEB-40EA-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2228,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "POLSEC AI TECNOLOGIA DA INFORMACAO LTDA",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": "34006-050",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025213165321_b49ae9b9017694e7278cdcb90f9ed31c.png",
+            "STATE": "Minas Gerais",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "BR",
+            "SALUTATION": "",
+            "DESCRIPTION": "Polsec AI is an innovative company that develops high-tech drones and e-VTOLs for applications in agriculture, public safety and rescue operations. With an unwavering commitment to safety, technology and quality, the company designs aerial solutions equipped with artificial intelligence and advanced navigation systems, guaranteeing maximum efficiency and precision in every operation. In agriculture, its drones and e-VTOLs offer crop monitoring, intelligent spraying and production optimization. In public security, Polsec AI's technology assists police and military forces with equipment for surveillance, patrols and strategic operations. In rescue and salvage, its aerial vehicles play a crucial role in emergency operations, transporting supplies and evacuating victims. Being ahead of our time is what drives us, and Polsec AI is not only following the future of air mobility, but creating it.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "7401C345-EAE6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "090A6105-FEF2-1CAF-88D7-386C48737ABA",
+                    "ANSWER_TITLE": "Manufacturing Machinery/Contract Manufacturing/Production Equipment"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "089B0856-034F-BFFC-45A0-1F394C638601",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "POLSEC AI TECNOLOGIA DA INFORMACAO LTDA",
+            "CITY": "Belo Horizonte",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.instagram.com/polsec.ai/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "229BAE2D-D3A9-4196-990F-A94F3C8A5362"
+    }
+}

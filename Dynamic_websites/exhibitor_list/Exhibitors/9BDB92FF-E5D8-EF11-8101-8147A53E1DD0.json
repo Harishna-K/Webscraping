@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3109,
+                "BOOTH_KEY": "2810BDF2-C87A-4BB6-ACBF-9B26902521DB",
+                "KEY_ID": "968EAFA0-EF19-CBC7-F722-68C78E6938C4"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "9BDB92FF-E5D8-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3109,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "KOTRA",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 75024,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025122112929_c96a1c790996138167fd6a38d17fddaa.jpg",
+            "STATE": "TX",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "The Korea Trade-Investment Promotion Agency (KOTRA) is the national organization responsible for promoting trade and investment under the Ministry of Trade, Industry and Energy of the Republic of Korea (South Korea). Since its establishment in 1962, KOTRA has supported the global business expansion of Korean companies and facilitated the attraction of foreign investment in Korea. As Korea's largest global business platform, KOTRA operates 131 overseas offices in 85 countries. Leveraging its extensive global network, KOTRA helps foreign companies, organizations, and governments explore business opportunities and forge partnerships with Korea",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "63243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "96AC9FEE-A0C6-DBC7-2F36-6AA9616145BD",
+                    "ANSWER_TITLE": "Government Entity (Non-Defense)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "9695A71D-920E-BC17-BF04-26DF0031DEF1",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "KOTRA",
+            "CITY": "Plano",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.kotra.or.kr"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "800DCF0A-1C66-4A06-9390-353C66FA3A35"
+    }
+}

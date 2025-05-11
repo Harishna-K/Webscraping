@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3916,
+                "BOOTH_KEY": "97101E9F-6EF6-4EE4-BA4D-DD0306D41116",
+                "KEY_ID": "5C135A37-0B75-71F5-66E4-F07AB9E8466A"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "9D871574-417A-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3916,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Scopito",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/scopito",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 8200,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202492485757_97e28e066cc3a939e303693f364b7642.jpg",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DK",
+            "SALUTATION": "",
+            "DESCRIPTION": "Scopito revolutionizes visual inspections with its cutting-edge cloud-based platform, turning complex drone-captured data into actionable insights. Born from the power line industry, Scopito combines AI-driven analysis, seamless image processing, and customizable tools to empower clients worldwide. Whether it's detecting faults or managing assets, Scopito\u2019s innovative solutions redefine efficiency and precision in infrastructure maintenance.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "5C634FDF-BA70-5078-4844-6045362C0BA6",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/10834364/admin/dashboard/",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "13155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "4C915B15-CA30-29E3-1FE6-9FD26F827655",
+                            "ANSWER_TITLE": "Critical Infrastructure"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "5C1EBB57-D1FA-7285-3B6A-EAABCC175360",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Scopito",
+            "CITY": "Aarhus",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.scopito.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "D78DAEDE-B17D-485F-9BF6-D1C5F1072394"
+    }
+}

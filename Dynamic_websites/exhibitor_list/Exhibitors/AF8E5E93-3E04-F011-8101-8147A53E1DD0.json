@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4038,
+                "BOOTH_KEY": "A7CEC523-F804-4A13-AAC2-D641EA2040D6",
+                "KEY_ID": "AF6CDE7F-9BAC-D9ED-B2D9-60666EA26FD2"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "AF8E5E93-3E04-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 4038,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "PLENO",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 10407,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202531822288_f63cb6a9e78b4b353cc6a6f2f0a0ac6f.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "PLENO is developing an Autonomous AI Agent that provide onboard autonomous capabilities for any type of UAV in any type of missions.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "AFA3166B-EED7-3061-FB99-95A7389E5C11",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "AF73CDCA-D052-0DA9-C452-3BD9A80C0CFC",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "PLENO",
+            "CITY": "Berlin",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.pleno.tech/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "C6150525-97CA-4A0B-8665-128E80F92BC2"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2831,
+                "BOOTH_KEY": "4C957681-073B-4DF9-9E6D-7CE2561A106B",
+                "KEY_ID": "48718C70-D6B5-A8D4-6585-E30000BE3650"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "16616053-81E8-4D34-A9D7-D8105047DA31",
+        "PRIMARY_BOOTH": 2831,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "SOMAG AG Jena",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "07745",
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025324133828_16e9d38efef32f6c14750284627a8e9e.jpg",
+            "STATE": "",
+            "LAST_NAME": "",
+            "EMAIL": "l.graf@somag-ag.de",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "SOMAG AG Jena is a global technology leader specializing in high-precision gyro stabilization solutions for mobile applications. Our robust and reliable gimbal systems are designed to enhance the performance of sensors and cameras on airborne, land-based, and marine platforms. With over two decades of experience, SOMAG\u2019s advanced stabilization technology enables sharp imaging, accurate data collection, and improved operational efficiency \u2014 even in the most challenging environments.\n\nAt XPONENTIAL Houston, we\u2019re showcasing our latest developments in gyro-stabilized platforms tailored for UAVs and other unmanned systems, helping integrators and OEMs elevate the capabilities of their systems with compact, high-performance stabilization.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "4F243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "69FB8CF8-F3C4-4667-E313-42EE1558E359",
+                    "ANSWER_TITLE": "Auxiliary Product Manufacturer (cases, laser engravings, etc.)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/somag-ag/",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "D568D496-D9F9-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "487CF546-B394-6E20-46E0-5723742AB043",
+                            "ANSWER_TITLE": "German Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "48763025-F646-3091-99D4-FBA492A9C17D",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "SOMAG AG Jena",
+            "CITY": "Jena",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.somag-ag.de/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "16616053-81E8-4D34-A9D7-D8105047DA31",
+        "CRM_COMPANY_KEY": "38C77CB1-49C2-4C0D-92BF-382AFB6D2D83"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3228,
+                "BOOTH_KEY": "3A438B48-AB32-460D-A6C9-85335153463B",
+                "KEY_ID": "92B6B754-3953-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "02DF0DBC-D850-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3228,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "LightWare LLC",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 80304,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202536134817_744948175576c3f810fd4d393cb03578.png",
+            "STATE": "CO",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "LightWare is a pioneer in LiDAR technology.\n \nKnown for being ultralight, compact, and high-performance, LightWare distance sensors are used in UAVs, UGVs, and IoT applications.\n \nOur microLiDAR\u00ae distance sensors enable autonomy and automation in UAVs through Above Ground Level (AGL), terrain following, Simultaneous Localization And Mapping (SLAM), autonomous take off & landing, Beyond Visual Line Of Sight (BVLOS) and obstacle detection. Committed to continuous innovation, we are revolutionizing the world of sensor fusion in laser rangefinders with our highly innovative GRF-series, designed with gimbal integration in mind. \n \nWith over 50,000 sensors deployed worldwide and 1700 satisfied customers across 57 countries, LightWare is a trusted partner for innovators shaping the convergence of sensors in the digital era.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "C26E7FA5-A471-0E86-0A03-D9E6210DC0B8",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/55179993/admin/page-posts/published/",
+            "TOLL_FREE": "",
+            "KEY_ID": "C25C8FD7-D1B4-DF7B-58FA-820256CE04A4",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "LightWare LiDAR  Inc.",
+            "CITY": "Boulder",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://lightwarelidar.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "36E6680C-BBDD-4094-838C-6CB363012F04"
+    }
+}

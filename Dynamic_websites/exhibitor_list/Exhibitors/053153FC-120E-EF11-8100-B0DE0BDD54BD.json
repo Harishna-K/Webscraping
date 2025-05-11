@@ -1,0 +1,71 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4421,
+                "BOOTH_KEY": "DAC6729F-E2A9-4F3B-9BF1-EC3E648BB129",
+                "KEY_ID": "AA1FEE95-EBEB-A4E3-F26B-00F81329EC6F"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "053153FC-120E-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 4421,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Tulsa Innovation Labs",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "SUBEXHIBITORS": [
+            {
+                "BOOTH_NO": 4421,
+                "COMPANY_NAME": "Oklahoma Department of Aerospace & Aeronautics",
+                "BOOTH_KEY": "DAC6729F-E2A9-4F3B-9BF1-EC3E648BB129",
+                "EXHIBITOR_KEY": "B038BDA6-A203-420F-A6F5-6C0CC0468DCA"
+            }
+        ],
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "Tulsa Innovation Labs",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 74103,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024599512_62a1a056f9c5cf3c0b320468aff8a61d.png",
+            "STATE": "OK",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Tulsa Innovation Labs is dedicated to creating a thriving innovation economy and positioning Tulsa as a globally competitive tech hub by leveraging our rich history in aerospace and aviation. Through a diverse coalition of public and private partners, TIL is creating programs that seek to make Tulsa the nation\u2019s most inclusive tech community.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "53243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "AA3DE37E-AF72-F096-FF66-A60BAD95D2FD",
+                    "ANSWER_TITLE": "Nonprofit/Association"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Tulsa Innovation Labs",
+            "TOLL_FREE": "",
+            "KEY_ID": "AA22906D-ACC6-A89F-903E-E2C396F33EDC",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Oklahoma Pavilion",
+            "CITY": "Tulsa",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "tulsainnovationlabs.com",
+            "TWITTER": "@tulsainnovationlabs"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "053153FC-120E-EF11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "25D3738B-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2127,
+                "BOOTH_KEY": "222D793A-174B-42B8-8E5B-200547B71A16",
+                "KEY_ID": "FCA140BF-F3C5-C540-D706-A261C05C3D91"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "BBB7D561-F667-4340-955D-AD3B58F83185",
+        "PRIMARY_BOOTH": 2127,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "SPARD NEW ENERGY CO., LTD",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/Spardbattery",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 528451,
+            "TIKTOK": "SpardLithiumBatteryFactory",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "Guangdong",
+            "LAST_NAME": "",
+            "EMAIL": "yuntongbattery@spardbattery.com",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CN",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/spard-battery",
+            "TOLL_FREE": "",
+            "KEY_ID": "FCA0EC55-E54A-5135-3EF6-9948B117A9C6",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "SPARD NEW ENERGY CO., LTD",
+            "CITY": "Zhongshan",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "+86-0760-23699066",
+            "WEBSITE": "www.spardbattery.com / www.spardbatt.cpm / www.shibaolidianchi.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "BBB7D561-F667-4340-955D-AD3B58F83185",
+        "CRM_COMPANY_KEY": "AC8D32F1-30F2-4E58-92A7-ED77DE7754C6"
+    }
+}

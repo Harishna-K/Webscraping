@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3538,
+                "BOOTH_KEY": "98D3969E-BE59-4514-9931-251EDF9BCED6",
+                "KEY_ID": "F0D9EFDE-9E2B-AE50-8407-90BA0BEEB4FB"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "3E03E738-662E-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3538,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "STAFL Systems LLC",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 94080,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Stafl Systems is a leading provider of battery systems for aviation, ground, mining and uncrewed applications. Our battery systems have high energy densities - up to 280 Wh/kg and high C-rate capabilities. All Stalf Systems battery packs use our in-house Battery Management System for accurate SOC and SOH measurement data.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "F10CB866-E16B-114F-5EA0-E3D42178092F",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Unit A",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "F0E6505D-F0AC-8D38-E097-0809D96C7975",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "STAFL Systems LLC",
+            "CITY": "South San Francisco",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://staflsystems.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "E13B5B0F-A075-4D85-8F42-F07BD507A5D2"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3139,
+                "BOOTH_KEY": "D254A4C6-AE37-4724-8BC3-0B926321C3D5",
+                "KEY_ID": "117F6548-0295-8167-18F0-3BA508508362"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "1FDBFEF6-BD0B-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3139,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Phoenix LiDAR Systems",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/PhoenixLiDAR",
+            "INSTAGRAM": "http://instagram.com/phoenixlidar",
+            "ACTIVE": 1,
+            "ZIP_CODE": 78728,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "TX",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Phoenix LiDAR Systems was the first to introduce commercial drone LiDAR to the market, in what is now a global industry. When organizations seek to digitize the physical world, whether for surveying, archeology, film, or more, Phoenix LiDAR builds them a fully integrated UAV LiDAR system, combining our hardware and software with an assortment of sensors to create a customized system that is ready to fly.\n\nPhoenix LiDAR Systems builds custom, survey-grade laser mapping systems, and automation software for flight planning, acquisition, and post-processing, enabling clients to collect detailed, 3D topographic information for a wide range of commercial and research applications, including engineering, construction, mining, and more.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "11B583C3-9F51-28A2-B827-CBA3A088FBBD",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Building 1, Suite 4000",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/phoenixlidar/",
+            "TOLL_FREE": "",
+            "KEY_ID": "1186B0D8-DF4F-A30A-5826-96BEA7FFDD37",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Phoenix LiDAR Systems",
+            "CITY": "Austin",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://phoenixlidar.com/",
+            "TWITTER": "https://twitter.com/phoenixlidar"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "4D68AC0C-4AD4-48AB-AD71-C12C198A3DE1"
+    }
+}

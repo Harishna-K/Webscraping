@@ -1,0 +1,202 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3121,
+                "BOOTH_KEY": "EB0DD34A-A808-4594-BAFA-B37083EB2BEC",
+                "KEY_ID": "42844E60-D291-90BD-901F-A7E4F95FFB45"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "838BA675-00F1-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3121,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Sky Power GmbH",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/SkyPowerGmbH",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 61350,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/20241169307_bdbd44619b8f78adcb331ea8d1aca357.jpg",
+            "STATE": "Hessen",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "SKYPOWER stands for quality | reliability | delivery capacity | Leading manufacturer of 2-stroke combustion and wankel engines for unmanned aerial systems (UAS)| Made in Germany",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6D357A7D-E4C8-0D5E-64E9-3251320085CE",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/skypower-international-gmbh/",
+            "FORM": {
+                "QUESTIONS": [
+                    {
+                        "QUESTION_NAME": "Contact Form Message",
+                        "DISPLAY_ORDER": 1,
+                        "QUESTION_TYPE": "textarea",
+                        "ACTIVE": 1,
+                        "KEY_ID": "9F6AFDE8-9B04-F011-8101-8147A53E1DD0",
+                        "ANSWERS": [
+                            {
+                                "DISPLAY_ORDER": 1,
+                                "ACTIVE": 1,
+                                "KEY_ID": "A06AFDE8-9B04-F011-8101-8147A53E1DD0",
+                                "ANSWER_TITLE": "Message"
+                            }
+                        ]
+                    }
+                ],
+                "SUB_TITLE": "",
+                "DESCRIPTION": "Leave a message and we will get back to you!",
+                "THANK_YOU_MESSAGE": "Thank you for reaching out! We have received your message and will be in touch shortly to address your inquiry.",
+                "KEY_ID": "C72037DF-EC5F-534E-6424-8C6B19B7A03C",
+                "HEADER_IMAGE": "",
+                "TITLE": "Contact Us",
+                "EMAIL_NOTIFICATION": "karsten.schudt@skypower.online"
+            },
+            "PRESS_RELEASES": [
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "",
+                    "STATE": "",
+                    "KEY_ID": "FF9F7A6B-06F7-E333-87BE-D80CBD0F68FC",
+                    "LAST_NAME": "",
+                    "EMAIL": "",
+                    "FIRST_NAME": "",
+                    "SUB_TITLE": "",
+                    "CITY": "",
+                    "COUNTRY": "",
+                    "DESCRIPTION": "",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025320114711_4028779a8c4e2f382bb62a854d8ac491.pdf",
+                    "TITLE": "PR APU Demonstrator"
+                },
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "",
+                    "STATE": "",
+                    "KEY_ID": "FFACB80B-F4A2-0B8C-6251-909836188BC7",
+                    "LAST_NAME": "",
+                    "EMAIL": "",
+                    "FIRST_NAME": "",
+                    "SUB_TITLE": "",
+                    "CITY": "",
+                    "COUNTRY": "",
+                    "DESCRIPTION": "",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025320114816_bb2e5e358ee46d45aa6b49bdb6e3b5f6.pdf",
+                    "TITLE": "Sky Power Tools"
+                },
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "",
+                    "STATE": "",
+                    "KEY_ID": "FFBF34BF-CC62-58E2-319B-AA77A38FA75A",
+                    "LAST_NAME": "",
+                    "EMAIL": "",
+                    "FIRST_NAME": "",
+                    "SUB_TITLE": "",
+                    "CITY": "",
+                    "COUNTRY": "",
+                    "DESCRIPTION": "",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025320115028_2a9de1085d3fa705d2c9e6828a209f04.pdf",
+                    "TITLE": "Sky Power 150 hour Test"
+                },
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "",
+                    "STATE": "",
+                    "KEY_ID": "FFC3F17B-F655-DCC6-31FE-A3C6425F892C",
+                    "LAST_NAME": "",
+                    "EMAIL": "",
+                    "FIRST_NAME": "",
+                    "SUB_TITLE": "",
+                    "CITY": "",
+                    "COUNTRY": "",
+                    "DESCRIPTION": "",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025320115055_989d861d9ceffcdb7f7df7859c3042cd.pdf",
+                    "TITLE": "PR Sky Canoe"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "3905801E-BCDB-7525-08F8-10C2A7B7036D",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Sky Power International",
+            "CITY": "Bad Homburg",
+            "ACTION_BUTTON_LABEL": "Contact Us",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Video",
+                    "KEY_ID": "FFD5C7B5-9ABF-D33C-ED50-54804686851B",
+                    "TITLE": "Sky Power International",
+                    "HEADER_IMAGE": "",
+                    "URL": "videoProcessing"
+                },
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Video 2",
+                    "KEY_ID": "FFDC6D82-C12E-BEB4-853A-EE936383DD06",
+                    "TITLE": "Sky Power International",
+                    "HEADER_IMAGE": "",
+                    "URL": "videoProcessing"
+                }
+            ],
+            "WEBSITE": "www.skypower.online",
+            "TWITTER": "",
+            "HEADERIMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202411693335_bdbd44619b8f78adcb331ea8d1aca357.jpg"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "C56B8383-FF40-4D25-9CEC-DA0E4F423FFE"
+    }
+}

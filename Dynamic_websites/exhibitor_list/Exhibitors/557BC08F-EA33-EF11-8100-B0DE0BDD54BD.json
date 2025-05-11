@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2800,
+                "BOOTH_KEY": "0B57276E-9D50-4039-A540-EEEDE7E3CB25",
+                "KEY_ID": "5A5500B9-DEF9-CAEB-6EF3-8BC71457BE17"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "557BC08F-EA33-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2800,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Draganfly Innovations Inc",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 33410,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024626113642_feebb726a90c2cb4a089820a4feb680e.jpg",
+            "STATE": "FL",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Draganfly Inc. (NASDAQ: DPRO; CSE: DPRO; FSE: 3U8A) is the creator of quality, cutting-edge drone solutions, software, and AI systems that revolutionize how organizations do business and service their stakeholders. Recognized as being at the forefront of technology for over 24 years, Draganfly is an award-winning industry leader serving the public safety, agriculture, industrial inspections, security, mapping, and surveying markets. Draganfly is a company driven by passion, ingenuity, and the need to provide efficient solutions and first-class services to its customers around the world with the goal of saving time, money, and lives.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "5A830CE4-9ED8-54EA-B7CF-294059BADE53",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 5012",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "5A57BB76-CC13-F699-4DBC-BEFC7535CE6B",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Draganfly Innovations Inc",
+            "CITY": "Palm Beach Gardens",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.draganfly.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "EB7B4C44-E820-42DC-BFD4-FD53FDE4399E"
+    }
+}

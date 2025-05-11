@@ -1,0 +1,72 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 5,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3613,
+                "BOOTH_KEY": "0DAA68AE-EB07-4828-9655-40526A4497A2",
+                "KEY_ID": "6AD344EF-DFF3-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D1FFEEB6-855E-4E0F-9AFA-7E654E5BD961",
+        "PRIMARY_BOOTH": 3613,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "Aviant",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "312A1B78-E237-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "06CCAC98-EF9A-3D1B-439D-83BA89D39792",
+                            "ANSWER_TITLE": "New York Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "D970EE7B-5C19-49B1-8A74-3BCE1E60D6F4",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Aviant",
+            "CITY": "",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.aviant.no/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "9DA8B6E4-B6F2-EE11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "EDA05DE3-6058-431B-9925-0BA5E3E5D816"
+    }
+}

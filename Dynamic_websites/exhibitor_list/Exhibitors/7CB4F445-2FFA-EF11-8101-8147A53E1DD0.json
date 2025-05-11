@@ -1,0 +1,61 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2227,
+                "BOOTH_KEY": "3D111230-AFCC-4310-B972-E82D504B2D63",
+                "KEY_ID": "1C070B09-0731-61F9-9683-26C0089FCE95"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "7CB4F445-2FFA-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2227,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Wisk Aero",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "wiskaero",
+            "INSTAGRAM": "wisk.aero",
+            "ACTIVE": 1,
+            "ZIP_CODE": 94043,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Wisk is an Advanced Air Mobility (AAM) company dedicated to delivering safe, everyday flight for everyone. Wisk\u2019s self-flying, eVTOL (electric vertical takeoff and landing) air taxi is the first candidate for FAA certification of a passenger carrying autonomous aircraft. Wisk is a fully-owned Boeing subsidiary and is headquartered in the San Francisco Bay Area, with locations around the world. With over a decade of experience and over 1750+ test flights, Wisk is shaping the future of daily commutes and urban travel, safely and sustainably. Wisk Australia Pty Ltd is located in Brisbane Australia.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6DE982EE-C2D0-F721-8698-7B50A98271C7",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "wisk",
+            "TOLL_FREE": "",
+            "KEY_ID": "1C0F4D57-D73A-44E1-9CBE-BA22ABB13B42",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Wisk Aero",
+            "CITY": "Mountain View",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://wisk.aero/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "968527B7-3297-4D65-B424-D2F96F7CE332"
+    }
+}

@@ -1,0 +1,240 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1529,
+                "BOOTH_KEY": "EBB95B02-CF93-4749-BC97-5E7498E088DF",
+                "KEY_ID": "B2E8A828-B0D0-5A33-7340-88A34941E9F4"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C8319AA8-8CA6-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1529,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Mobilicom",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "\u00a0",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/20241120101658_2b8c1499c57e060bfc1fd9147e4c868f.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "IL",
+            "SALUTATION": "",
+            "DESCRIPTION": "Mobilicom  \nCybersecure and Robust End-to-End Solutions for Drones and Robotics\n\nMobilicom At-a-Glance\nLEADER IN CYBERSECURE UNMANNED SOLUTIONS\n- End-to-end provider for drones and robotics\n- Cybersecurity, software, hardware, and services\n- Publicly traded on NASDAQ\n\nDIFFERENTIATION THAT DELIVERS RESULTS\n- Integrated solutions: systems and building blocks\n- Reliability in harsh environments\n- Multi-vendor integration expertise for OEMs\n\nTRUSTED BY INDUSTRY LEADERS\n- Integrated into top drone/robotics platforms worldwide\n- Deployed in IMoD, US DoD, NATO, EU projects\n- Combat-proven reliability in mission-critical environments\n\nUNIQUELY COMPLIANT FOR GLOBAL SUCCESS\n- Blue UAS certified, approved for U.S. DoD\n- NDAA, ATA compliant; ITAR & DECCA Free\n- Meets USA, Europe regulatory standards\n\nGLOBAL REACH AND PROVEN EXPERTISE\n- 16 countries, 70+ platforms\n- USA, Europe, and Israel footprint\n- 10+ years in critical industries\n\nINNOVATION AND TECHNOLOGY OWNERSHIP\n- 34 patent claims, leadership in IP\n- Full ownership enables fast, tailored solutions\n- Fit-Form-Function designs for seamless integration\n\n---\n\nCHALLENGES WE SOLVE\nOur solutions enable OEMs to equip defense, commercial drone, and robotics operators with secure, resilient, and compliant systems essential for mission-critical operations. \n\nWe help OEMs and operators overcome the following challenges:  \n\n- Cybersecurity Threats: Addressing vulnerabilities like signal jamming, electromagnetic interference, and data breaches.  \n- Harsh and Contested Environments: Ensuring reliability in industrial, urban, remote, and extreme conditions.  \n- Complex System Integration: Managing multi-technology integration for seamless, mission-ready solutions.  \n- Fleet and Swarm Operations: Coordinating and controlling multiple drones or robotic systems simultaneously.  \n- Customization Needs: Developing tailored solutions for unique and evolving mission requirements.  \n- Time-to-Market Pressures: Meeting fast deployment timelines while ensuring mission success.  \n- Affordability vs. Performance: Balancing cost-effective solutions without compromising on security or resilience.  \n- Evolving Compliance Demands: Navigating rapidly changing regulatory standards for unmanned systems.  \n\n---\n\nOUR SOLUTIONS\n- CYBERSECURITY SOFTWARE: Multi-layer defense against cyber and electronic threats, including encryption, immunity, and cloud-based control.  \n- MESH NETWORKING & DATALINKS: Secure, resilient connectivity for fleet and swarm operations, with uninterrupted communication in challenging environments.  \n- GROUND CONTROL SYSTEMS (GCS): Rugged, secure controllers designed for mission-critical operations in harsh, contested conditions.  \n- ENGINEERING SERVICES: Expert support for system integration, customization, training, and lifecycle management to ensure ongoing mission success.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "B4897BDE-C899-F1B2-88F3-B82B54D14FB7",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "2nd Floor",
+            "MAP_LOGO": true,
+            "LINKEDIN": "mobilicom",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D5C9EBE2-D3F1-1B8F-0A19-D769A6B526BA",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "FORM": {
+                "QUESTIONS": [
+                    {
+                        "QUESTION_NAME": "Contact Form Message",
+                        "DISPLAY_ORDER": 1,
+                        "QUESTION_TYPE": "textarea",
+                        "ACTIVE": 1,
+                        "KEY_ID": "F1D80B96-C704-F011-8101-8147A53E1DD0",
+                        "ANSWERS": [
+                            {
+                                "DISPLAY_ORDER": 1,
+                                "ACTIVE": 1,
+                                "KEY_ID": "F2D80B96-C704-F011-8101-8147A53E1DD0",
+                                "ANSWER_TITLE": "Message"
+                            }
+                        ]
+                    }
+                ],
+                "SUB_TITLE": "",
+                "DESCRIPTION": "READY TO SOAR?  How can we help?\r\nPartner with us to achieve uncrewed mission success through secure, scalable, and resilient solutions.",
+                "THANK_YOU_MESSAGE": "Thank you for reaching out! We have received your message and will be in touch shortly to address your inquiry.",
+                "KEY_ID": "D24E419B-A535-7B52-E1F4-4BCB192D9AF6",
+                "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531993737_4c94389c1c7439838ca301ac3d157531.png",
+                "TITLE": "Contact Us",
+                "EMAIL_NOTIFICATION": "david.fagelston@mobilicom.com"
+            },
+            "PRESS_RELEASES": [
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "",
+                    "STATE": "",
+                    "KEY_ID": "05C1F620-0EAA-4E2F-7777-9C87EEFBCCA2",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025320182245_b07bbb7b54d90c1d208199fc55d00362.jpg",
+                    "LAST_NAME": "",
+                    "EMAIL": "",
+                    "FIRST_NAME": "",
+                    "SUB_TITLE": "",
+                    "CITY": "",
+                    "COUNTRY": "",
+                    "DESCRIPTION": "WILMINGTON, DE, UNITED STATES, February 25, 2025 /EINPresswire.com/ \u2014 Mobilicom, a provider of cybersecure communications solutions for drones and robotics, announced that its combat-proven SkyHopper PRO, PRO Lite, and PRO Micro datalinks have been certified for the Defense Innovation Unit\u2019s (DIU) Blue UAS Framework following rigorous testing and evaluation. This milestone validates Mobilicom\u2019s continued commitment to delivering UAS solutions that meet stringent cybersecurity, operational performance, and supply chain integrity requirements, including National Defense Authorization Act (NDAA) compliance.",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/202532019014_52efe24b52d1f6f6a04afe04d2e01868.pdf",
+                    "TITLE": "Defense Innovation Unit Certifies Mobilicom\u2019s Combat-Proven SkyHopper Datalinks for Blue UAS Framework"
+                },
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "",
+                    "STATE": "",
+                    "KEY_ID": "05D16167-CF62-DEAB-A709-C74EE9A1300F",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/20253201962_6fcc62d20bb1e7a4107bfb97dac53ce1.jpeg",
+                    "LAST_NAME": "",
+                    "EMAIL": "",
+                    "FIRST_NAME": "",
+                    "SUB_TITLE": "",
+                    "CITY": "",
+                    "COUNTRY": "",
+                    "DESCRIPTION": "WILMINGTON, DE, UNITED STATES, November 13, 2024 /EINPresswire.com/ \u2014 Mobilicom and DT Research have announced a strategic partnership to advance the ground control station (GCS) market by combining Mobilicom\u2019s expertise in cognitive cybersecure solutions with DT Research\u2019s rugged, high-performance computing technology. This collaboration delivers attractively priced, powerful, resilient GCS platforms for mission-critical operations across unmanned systems, including aerial, maritime, and ground vehicles operating in contested and harsh environments.",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025320191033_c72154ad87b3d490e046b90afa652245.pdf",
+                    "TITLE": "Mobilicom and DT Research Announce Strategic Partnership for Cybersecure, Resilient GCS Platforms in Harsh Environments"
+                },
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "",
+                    "STATE": "",
+                    "KEY_ID": "05DB2D4B-09B3-10A2-FA7A-8905EE80D3D3",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025320202827_6fcc62d20bb1e7a4107bfb97dac53ce1.jpeg",
+                    "LAST_NAME": "",
+                    "EMAIL": "",
+                    "FIRST_NAME": "",
+                    "SUB_TITLE": "",
+                    "CITY": "",
+                    "COUNTRY": "",
+                    "DESCRIPTION": "LAS VEGAS, NV, UNITED STATES, September 4, 2024 /EINPresswire.com/ \u2014 Mobilicom Limited (Nasdaq: MOB), a global leader in cybersecure solutions for drones and robotics, is excited to announce the release of its new 8'' Controller Pro Tactical Mobile Ground Control Station (GCS) at the Commercial UAV Expo. The 8'' Controller Pro is designed to meet the rigorous demands of modern defense and commercial missions, offering IP65 ruggedization for durability in extreme environments and full NDAA compliance. This GCS provides a cost-effective solution for operators seeking a versatile and reliable control system.",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025320202842_0dfc534ec017786ca9c9f722578300e7.pdf",
+                    "TITLE": "Mobilicom Introduces the 8'' Controller Pro, Redefining Tactical Mobile GCS"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "B2EE0A45-025C-B9A8-3973-25466E2400B2",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Mobilicom",
+            "CITY": "Shoham",
+            "ACTION_BUTTON_LABEL": "Contact Us",
+            "PRODUCTS": [
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "OS3 by Mobilicom is the industry's first comprehensive security, safety, and compliance solution tailored specifically for uncrewed fleet operations. It provides an end-to-end risk management platform designed to proactively detect, manage, and mitigate risks and vulnerabilities across uncrewed missions.",
+                    "KEY_ID": "04DAB3C7-FB23-6F1C-4C65-B8FAA625B7FE",
+                    "TITLE": "OS3 Platform Software",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025320172851_14a649e76f33266f1518d206fa0a44a7.png"
+                },
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Mobilicom\u2019s ICE suite is the world\u2019s first AI-driven cybersecurity solution specifically for drones, robotics, and autonomous platforms. ICE (Immunity, Cybersecurity, Encryption) offers comprehensive, multi-tiered autonomous protection for platforms, communication channels, and data.",
+                    "KEY_ID": "04F10C22-CE28-C532-3109-989D5AA91EB6",
+                    "TITLE": "ICE Cybersecurity Suite",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025320173027_dbb38a5c046a3e6b6fae03a760c3b460.png"
+                },
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "SkyHopper data links provide advanced, bi-directional cybersecure communication solutions specifically designed for drone, robotics, and autonomous platform operations. These Software Defined Radio (SDR) solutions cater to diverse requirements ranging from miniature drone fleets to sophisticated commercial and defense applications, ensuring robust and secure communication in both LOS and NLOS environments.",
+                    "KEY_ID": "0560AAFC-DA9F-C28B-F51F-740C04309DCD",
+                    "TITLE": "SKYHOPPER DATALINKS",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025320174658_3bc597269cba662b421dc908cd06ce21.png"
+                },
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Mobilicom\u2019s MCU Mesh Networking products offer robust, cybersecure Software Defined Radio (SDR) solutions designed specifically for reliable, real-time, high-speed communication in drone, robotics, and autonomous platform operations. Optimized for challenging environments, these units provide flexible, mobile, infrastructure-free mesh networking.",
+                    "KEY_ID": "05981273-F8C7-2733-1C92-1AD02D6E9C22",
+                    "TITLE": "MCU Mesh Networking",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025320175337_99c692e24223c9efa72b271871b6f1ca.png"
+                },
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Mobilicom\u2019s Mobile Ground Control Stations (GCS) provide powerful, portable, and secure solutions designed for drone, robotics, and autonomous platform operations. These GCS units deliver superior control, ruggedness, and flexibility, ensuring reliable performance across various mission-critical applications and environments.",
+                    "KEY_ID": "0B2F7A8F-EA16-4886-E20A-DFF70ACBBC7D",
+                    "TITLE": "Mobile Ground Control Stations (GCS)",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202532018753_29b8166f1f54f59e5e563dd1e579e6b3.png"
+                }
+            ],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "https://mobilicom.com",
+            "TWITTER": "",
+            "HEADERIMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025320181314_4d3f2212ebe23b0f690a05389a81a0f4.png"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "89FB5E25-D644-49CB-9FAE-70F9C3ECE12E"
+    }
+}

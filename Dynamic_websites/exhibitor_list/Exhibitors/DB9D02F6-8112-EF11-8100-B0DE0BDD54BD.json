@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2020,
+                "BOOTH_KEY": "2D9F8603-FCA0-4641-A826-708010426BED",
+                "KEY_ID": "CCDDC329-FDC7-CE1D-A2B7-8BC7ACAA7403"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "DB9D02F6-8112-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2020,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "RAMPF Composite Solutions",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "L7L 6A8",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202451521920_dbba79fcdfab8c7fedf7bda439ea9afe.jpg",
+            "STATE": "ON",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CA",
+            "SALUTATION": "",
+            "DESCRIPTION": "RAMPF is your partner for reactive resin systems, advanced polymers, tooling solutions, metering and mixing systems and lightweight construction with composites.   \n\n\nRAMPF Composite Solutions is a leading expert in the design, engineering, and manufacture of composites parts for the aerospace, autonomous systems, unmanned aerial vehicle, urban air mobility and related transportation industries. By providing highest levels of technology and innovation, RAMPF enables its customers to differentiate themselves from their competition.\n\nRAMPF Advanced Polymers We have been developing and manufacturing reactive resin systems based on polyurethane, epoxy, silicone, and silane-modified polymers \u2013  for more than four decades.  Our portfolio includes sealing systems, electro and engineering casting resins, edge and filter casting resins, and adhesives, Board and liquid materials for model and mold engineering, \nand chemical solutions for the manufacture of customized recycled polyols based on polyurethane, PET, and PIR residues.  Our products and solutions are used globally and in a wide range of industries \u2013 from automotive and electromobility, electrics/electronics, and white goods to aerospace, foundry, furniture, and mattresses.  We conserve resources and protect our environment, both in the development of our chemical products and in their manufacture and recycling. Together with our customers and partners, we are working towards a successful and sustainable future.\n\nRAMPF Production Systems develops and produces mixing and dispensing systems for sealing, casting, and bonding single-, dual-, and multi-component reactive plastic systems. The company also offers a wide range of automation skills relating to all aspects of process engineering.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "040655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "CD59E53E-F730-9335-B2D6-6FDF5FEDD7E0",
+                    "ANSWER_TITLE": "Composite Material Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Unit 5",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/rampf-composite-solutions/mycompany/",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "E4A34420-7061-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "3E1E1878-AF6C-7230-AF65-1D6718BA4A84",
+                            "ANSWER_TITLE": "Advanced Materials and Manufacturing"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "CCEF9B03-D5D2-6DE6-F9DA-E1E39A8D98AD",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "RAMPF",
+            "CITY": "Burlington",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.rampf-group.com/en-us",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "96298373-24F6-450A-8782-9B5BE6BEF181"
+    }
+}

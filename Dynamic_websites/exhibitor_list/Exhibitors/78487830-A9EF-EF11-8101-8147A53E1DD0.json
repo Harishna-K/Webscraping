@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3812,
+                "BOOTH_KEY": "32A1C300-5F24-48CF-91DD-6D358BE4564D",
+                "KEY_ID": "6A70D86B-94AE-D111-BB82-2D08FD7349F9"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "78487830-A9EF-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3812,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Skyfish",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "SkyfishDrones",
+            "ACTIVE": 1,
+            "ZIP_CODE": 59801,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025220114442_bdf0cb51349d064f3c3ab59160c22c1c.png",
+            "STATE": "MT",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Skyfish makes the best drone platform in the world for 3D modeling, inspection, and precision measurement of critical infrastructure.\n\nSkyfish manufactures and sells autonomous drones with data services attached. Our drone platform is engineering-grade and highly precise. We tightly integrate high end 3rd party sensors to capture detailed data and create extremely precise 3D models, or \u201cdigital twins\u201d. The data can support AI algorithms to automatically detect anomalies and identify maintenance risks.\n\nSkyfish will be showcasing our brand new Osprey drone platform at XPONENTIAL 2025. Osprey is a survey-grade, enterprise drone that fits in a backpack. Purpose built for infrastructure inspection and ISR, Osprey supports best-in-class, compact third-party sensors such as the new Sony LR1 61 megapixel camera for inspection and photogrammetry and NextVision\u2019s Raptor for ISR.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6A870340-B351-36E0-7CCC-3C70AFA502B8",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Unit 203",
+            "MAP_LOGO": true,
+            "LINKEDIN": "SkyfishAI",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "13155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D03C23AC-C456-E937-D6CD-1CD571DCD49B",
+                            "ANSWER_TITLE": "Critical Infrastructure"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "6A74687E-01A3-4090-925B-6B9709F71E5A",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Skyfish",
+            "CITY": "Missoula",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.skyfish.ai",
+            "TWITTER": "SkyfishDrones"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "CCCCA846-3D2C-443F-8A6D-6DE986F52921"
+    }
+}

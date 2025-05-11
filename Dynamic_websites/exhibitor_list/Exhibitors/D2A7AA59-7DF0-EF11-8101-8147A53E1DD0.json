@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2504,
+                "BOOTH_KEY": "C2221D17-D735-4778-BB6E-668E328F38FC",
+                "KEY_ID": "15691F13-A6F0-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D2A7AA59-7DF0-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2504,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "FIXAR Global Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 22314,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "VA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "FIXAR is a leading manufacturer of UAVs, delivering autonomous AI-driven solutions designed for BVLOS operations. A full-stack technological powerhouse, it develops advanced unmanned aerial vehicles powered by proprietary software and autopilot, ensuring unparalleled efficiency and reliability. Tailored for public safety, law enforcement, industrial, and commercial applications, FIXAR\u2019s cutting-edge eVTOLS unlock new possibilities for precision, safety, and operational excellence.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6D83B00B-EA94-E15B-7425-EF01C5D9B379",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 100",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "0F155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D0861EAE-F9F1-528C-3B2B-AA28775277A0",
+                            "ANSWER_TITLE": "Public Safety"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "A0C4CACC-B8C9-E8B9-71A7-572E985E22A8",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "FIXAR Global Inc.",
+            "CITY": "Alexandria",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.fixar.pro",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "F9394E28-1F3B-4F68-BC63-83158C3E54E3"
+    }
+}

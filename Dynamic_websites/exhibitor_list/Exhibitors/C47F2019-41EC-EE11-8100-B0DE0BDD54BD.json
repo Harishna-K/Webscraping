@@ -1,0 +1,60 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1814,
+                "BOOTH_KEY": "7677648D-EEDE-4372-BEB1-D6206E53CA75",
+                "KEY_ID": "01F190D5-EF07-45D3-46DA-B2E16CA6C6DC"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C47F2019-41EC-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1814,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Persistent Systems, LLC",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "INSTAGRAM": "https://www.instagram.com/waverelay/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 10001,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202432795727_68708bb54c88e1dbb2bbc17ecb4a69da.jpg",
+            "STATE": "NY",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Headquartered in New York City since 2007, Persistent Systems, LLC is a global communications technology company that develops and manufactures a patented and secure Mobile Ad hoc Networking (MANET) system: Wave Relay\u00ae. Wave Relay\u00ae transmits and receives data, video, voice and other applications under the most difficult conditions. Their suite of products is utilized in Commercial, Military, Government, Industrial, Robotics, and Unmanned Systems markets.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "060655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "020E304B-9CAF-15EF-798B-FF37DC02532E",
+                    "ANSWER_TITLE": "Integrator"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 905",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/582324/",
+            "TOLL_FREE": "",
+            "KEY_ID": "01F72E39-903B-D977-3A5A-BDE4B14FE276",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Persistent Systems, LLC",
+            "CITY": "New York",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.persistentsystems.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "FDB6216B-02A9-431D-99AF-E96EF4B59C78"
+    }
+}

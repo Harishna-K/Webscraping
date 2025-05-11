@@ -1,0 +1,94 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2817,
+                "BOOTH_KEY": "BB2DAFF6-45B9-4CE9-9D29-3558EC1CC72A",
+                "KEY_ID": "404F1CDB-9D7E-968E-6F09-6F1883149979"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D01CB423-2DED-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2817,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "NavtechGPS",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "NavtechGPS",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1135,
+                    "TITLE": "Speaking Opportunity - Solutions Theater",
+                    "ID": "EVENTS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "ACTIVE": 1,
+            "ZIP_CODE": 22312,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202432815728_deeb31d099f9d4de5e93a89ad6345c44.png",
+            "STATE": "VA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "For more than 30 years, NavtechGPS has been a leader in GPS/GNSS technical training and education and a leading provider of GPS/GNSS products and COTS solutions.\nOur seminar division offers GNSS courses on a range of topics at various knowledge levels, which have been highly regarded by U.S. government, military organizations, and private enterprise throughout the world\nOur product division specializes in precise positioning technology, products and solutions. Because of our broad product range, we can offer customized options and COTS solutions for military, commercial, and research organizations that other GNSS companies generally cannot.\nProduct division projects have included work on unmanned air / ground / maritime vehicles; precise recovery / docking systems; LiDAR systems; geolocation reconnaissance applications; mobile surveillance vehicles; precise attitude / heading system applications, distributed antenna systems (DAS) and PNT applications.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "40B5AAEB-D899-A6D8-DDF0-CA4DD4D92EF4",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 440",
+            "MAP_LOGO": true,
+            "LINKEDIN": "NavtechGPS",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "40750483-971C-1A30-D462-0157BC64D323",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "NavtechGPS",
+            "CITY": "Alexandria",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "NavtechGPS.com",
+            "TWITTER": "NavtechGPS",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "1239C9DD-2640-4DF1-BE3C-94B3F032C237"
+    }
+}

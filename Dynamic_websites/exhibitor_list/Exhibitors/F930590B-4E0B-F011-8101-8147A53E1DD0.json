@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4033,
+                "BOOTH_KEY": "1E5A3B75-5DBC-4ECB-9678-A3481DCB137E",
+                "KEY_ID": "1EBB12B7-E10B-F011-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "F930590B-4E0B-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 4033,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Amniscient, LLC.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 77068,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025327164533_b5135b93b853620a4666a2e3a1cb94f4.png",
+            "STATE": "TX",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "At Amniscient Technology, our mission is to redefine ML, AI, and IoT by turning complex concepts into simple, deployable solutions that empower businesses of all sizes. We recognized a gap in the market for accessible and affordable AI/ML solutions and set out to make cutting-edge technology available to everyone\u2014not just large enterprises.\n\nOur products, such as AmniSphere, AmniGadget, and AmniEngine, are designed to streamline and automate processes, saving businesses time and resources. With the upcoming 2024 release of AmniGadget, you\u2019ll be able to leverage AI models offline, cutting down on cloud costs and improving operational efficiency.\n\nWe\u2019re committed to asking the right \"HOW\" and \"WHY\" questions to deliver innovative solutions that drive real impact. By making AI and IoT technology accessible and straightforward, we empower businesses to harness the full potential of modern tech without the complexity or high costs typically associated with these advanced tools.\n\nBased in Houston, TX, Amniscient Technology is here to help you save time, reduce costs, and integrate AI seamlessly into your operations. Let\u2019s simplify technology and drive meaningful change together.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "7FB4002E-9ACB-F02E-199A-12DA54F2B521",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "#270",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "7F99FD51-C414-58F6-5D57-89189F747B56",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Amniscient, LLC.",
+            "CITY": "Houston",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": 2817559631,
+            "WEBSITE": "amniscient.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "1DBCD18F-BC8D-4A15-9E79-7D5940355F22"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3707,
+                "BOOTH_KEY": "637CA522-AB9E-4320-9B95-575FF896F830",
+                "KEY_ID": "F039FFE1-B9E8-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "6DC741F6-85E8-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3707,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Mitsubishi Electric US",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 90630,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025211105359_ff2748396aa5ee6b5a3ff9a311bde352.png",
+            "STATE": "FL",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "AnyMile by Mitsubishi Electric is the first end-to-end drone-based logistics and resource management platform at scale for industrial and commercial use. The pioneering drone-based logistics platform seamlessly integrates shipment, fleet, and services management with UTM, drone & ground infrastructure, and more. Companies, operators, and service providers can profitably accelerate and scale operations and missions while reducing their carbon footprint.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "970AD6F8-C35B-442D-FE27-E6835E01661E",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/anymilemarketplace/?viewAsMember=true",
+            "TOLL_FREE": "",
+            "KEY_ID": "96CEDB51-DF41-A98C-C031-BCC475449DD5",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Mitsubishi Electric US",
+            "CITY": "Cypress",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.anymile.io/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "39557E7F-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

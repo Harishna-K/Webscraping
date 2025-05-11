@@ -1,0 +1,82 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4032,
+                "BOOTH_KEY": "7DA636D2-D581-4F2D-9C09-191828DF3F05",
+                "KEY_ID": "D03ACE89-D7BC-237B-0B93-FCF196A37D59"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C1FEA2EA-F6CC-4A44-A424-DB3DBA148A5F",
+        "PRIMARY_BOOTH": 4032,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "NANCHANG\u00a0RUIJI\u00a0TRADING\u00a0CO., LTD",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/profile.php?id=100088703027969",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 330000,
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "Jiangxi",
+            "LAST_NAME": "",
+            "EMAIL": "jessica@ligpower.com",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CN",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D04B35F0-BDC9-2FE1-311F-C0B47597382F",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/ligpower/?viewAsMember=true",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "64405734-D6FA-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D04B382C-CF32-2A69-7B50-005F0F637EC1",
+                            "ANSWER_TITLE": "Sunshine Solutions Center Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "D03B0830-B64F-F3E9-BCFB-0227BF08D11F",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "LIGPOWER",
+            "CITY": "Nanchang",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "WWW.LIGPOWER.COM",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "C1FEA2EA-F6CC-4A44-A424-DB3DBA148A5F",
+        "CRM_COMPANY_KEY": "BD499D26-5DB6-4448-B085-C7D22AF1773B"
+    }
+}

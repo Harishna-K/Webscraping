@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2025,
+                "BOOTH_KEY": "FA62B5D9-1D53-4686-BE6B-7C230EEC43AB",
+                "KEY_ID": "62FB9D1D-DEB8-AD90-1DDB-042B337DFEAE"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "CE929D39-0CB1-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2025,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "KAGOSHIMA SEIKI CO., LTD. (KSK)",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "899-6401",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025113154448_ccd617fea6d136b8dadc0ed73832495f.png",
+            "STATE": "Kagoshima",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "JP",
+            "SALUTATION": "",
+            "DESCRIPTION": "KSK specializes in precision machining in Japan and Vietnam.\n\n\"Japan quality at Reasonable Prices\", our commitment to delivering exceptional quality while maintaining competitive pricing.\n\nBy leveraging our primary production facilities in Southern Vietnam, certified under ISO 9001 & 13485, KSK ensures maximum benefits for our customers procuring from Asia. Rest assured, with our headquarters and a machine shop located in Japan, we guarantee uncompromised quality.\n\nQuality Assurance:\nAt KSK, we prioritize \"Japan quality\". Our production in Vietnam is overseen by Japanese managers.\n\nCustomer Care:\nOur global sales team, based at our headquarters, is dedicated to providing exceptional customer service.\n\nWe prioritize responsiveness and value personal interactions, including visiting clients in person to better understand their needs.\n\nPricing:\nDespite our unwavering commitment to quality, we always offer competitive prices. \n\nOur efficient production structures enable cost reduction without compromising on the excellence of our services.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "4F243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "63682231-90B4-F907-1C52-1A2C139F3600",
+                    "ANSWER_TITLE": "Auxiliary Product Manufacturer (cases, laser engravings, etc.)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Kirishima city",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Kagoshima Seiki Co., Ltd.(KSK)",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "E4A34420-7061-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D0DD1E1A-00B8-CB8E-FB99-3694F2495594",
+                            "ANSWER_TITLE": "Advanced Materials and Manufacturing"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "6311F25A-FE8F-6B3F-A66E-C3258B22CAE3",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "KAGOSHIMA SEIKI CO., LTD. (KSK)",
+            "CITY": "Kirishima",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "+81-995-59-3945",
+            "WEBSITE": "https://www.ksksolutions.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "F14CE57B-8462-4F77-AA61-608CCA13D38C"
+    }
+}

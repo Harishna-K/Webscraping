@@ -1,0 +1,87 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4313,
+                "BOOTH_KEY": "333AC421-441B-4EE8-BC84-2159D2D2A3F2",
+                "KEY_ID": "B34921B4-DDB8-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "26ACD93B-C0B8-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 4313,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Eureka Dynamics",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "ACTIVE": 1,
+            "ZIP_CODE": 83270,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241212124534_56219b45297ee2081ad03f96d4acfc4f.png",
+            "STATE": "SON",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "MX",
+            "SALUTATION": "",
+            "DESCRIPTION": "We offer a professional drone test stand where drones can be securely attached for safe testing to engineers and enthusiasts who are developing innovative solutions using drones in universities, research centers, and defense and drone companies worldwide. One of the challenges they face is that working with drones can be risky and dangerous, and implementing new features often leads to crashes, resulting in wasted time and money. \n\nTo address this problem, we designed the FFT GYRO (First Flights Tester Gyroscope) that is a special type of gyroscope where drones can be securely attached for safe testing. Our product is equipped with sensors and electronics that provide valuable insights, enabling users to refine their innovations. \n\nBy creating a safe testing environment, our solution reduces the stress associated with working on drones and enhances the testing phase's performance. This not only saves time and money by preventing accidents but also delivers crucial data for analyzing drone dynamics.\n\nOur goal is to allow our clients to lead in drone innovation, to give them the tools they need to implement their new ideas and make the next technological revolution in the drone industry.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "4F243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "5C6876F1-967E-E6C5-9C67-AE00D4005D64",
+                    "ANSWER_TITLE": "Auxiliary Product Manufacturer (cases, laser engravings, etc.)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Col. Proyecto Rio Sonora",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/eureka-dynamics",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "5C012D3E-FD8B-A103-E158-B8DA1641B5F8",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Eureka Dynamics",
+            "CITY": "Hermosillo",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "eurekadynamics.com",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "09D3738B-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3733,
+                "BOOTH_KEY": "D99E03E7-5AB2-4341-AE6F-6BAE21428F6E",
+                "KEY_ID": "639853D5-C08A-352B-E58B-005DDCE7621D"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "569A86CF-D6E3-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3733,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "UAV Navigation \u2013 Grupo OESIA",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "uavnavigation",
+            "ACTIVE": 1,
+            "ZIP_CODE": 28703,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/20253211097_4c3202e28e61860ba177503a6fcdbd29.png",
+            "STATE": "Madrid",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "ES",
+            "SALUTATION": "",
+            "DESCRIPTION": "UAV Navigation-Grupo Oes\u00eda is a company specializing in the design of guidance, navigation, and control (GNC) solutions for Unmanned Aerial Vehicles (UAVs) since 2004. UAV Navigation-Grupo Oes\u00eda's flight solutions are used by a wide range of leading aerospace manufacturers for a variety of Unmanned Aerial Vehicles (UAVs), also known as remotely piloted aircraft systems (RPAS) or \"drones.\" \n\nUAV Navigation is part of the Grupo Oes\u00eda, a Spanish multinational company dedicated to dual-use digital and industrial engineering, which develops and implements projects in more than 40 countries. It has 3,200 professionals in 18 corporate headquarters in Europe, Latin America and Asia. Throughout almost 50 years of experience, it has innovated products and services that benefit millions of people around the world, with the aim of creating a better, more efficient, safer and sustainable world.   \n\nThe industrial companies within the Grupo Oes\u00eda ecosystem are responsible for designing, developing, and maintaining cutting-edge technology for the Security, Defense, and Aerospace sectors, with a long track record of work in avionics for significant projects such as the Eurofighter EF-2000, A-400M, F-18, C-295, P3-B Orion, or MH-60R. The group is now involved in the most important UAV projects, including FCAS/NGWS, Eurodrone, and SIRTAP, among others.??\nwww.uavnavigation.com",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "63E532E0-031A-AE8F-CB99-DF1596BA4835",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/uav-navigation/",
+            "TOLL_FREE": "",
+            "KEY_ID": "639E6098-B524-9DE5-15D3-98EE214D1813",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "UAV Navigation \u2013 Grupo OESIA",
+            "CITY": "San Sebastian de los Reyes",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "uavnavigation.com",
+            "TWITTER": "UAVNavigation"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "EA547E7F-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 2,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4121,
+                "BOOTH_KEY": "52DB05E3-A01F-4E2E-8332-6DC11AB09F72",
+                "KEY_ID": "F3BFCE89-FADF-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "633E01B4-F8A7-4CCF-8F1B-CE56BCDABABB",
+        "PRIMARY_BOOTH": 4121,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "Flyability",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "0265D489-A52E-46EA-B2EF-B481AF27C65A",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Flyability",
+            "CITY": "",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.flyability.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "EB2212D4-81DE-EF11-8101-8147A53E1DD0",
+        "CRM_COMPANY_KEY": "A6217104-FBD6-4921-B601-9DA8AE787767"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3908,
+                "BOOTH_KEY": "20B10E51-0A82-4F5D-BBD1-E35AA293B75E",
+                "KEY_ID": "F5DD0DD3-A01E-9D2B-ECEF-7DE6F0A64325"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "7F9359E1-81FD-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3908,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Contromax Co., Ltd.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 34087,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025310164233_3081fce9fa768600a49db8eb4b8c151c.jpg",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "KR",
+            "SALUTATION": "",
+            "DESCRIPTION": "Contromax Co., Ltd. (www.contromax.com) is a leading developer and manufacturer of Electro-Mechanical Actuators (EMA) for aviation applications, based in South Korea. As a core part of our offerings, the ServoMax Series has become our flagship product, with servos ranging from 12 to 500 kgf\u00b7cm torque, successfully deployed across various airborne platforms, including eVTOL aircraft, for critical functions such as flight control surface actuation, tilt-rotor mechanism control, and main landing gear steering. Designed for high reliability and durability, our products comply with MIL-STD-810x, MIL-STD-461x, and DO-160x standards, ensuring robust performance in demanding operational environments.\n\nBuilding on this expertise, we are now integrating our advanced servo technologies into the upcoming Micro ServoMax, specifically designed for multi-purpose, small, unmanned fleet applications that require mission-critical reliability.\n\nThe ServoMax Series features BLDC or PMS motors incorporating neodymium and rare-earth magnets. Each unit is equipped with embedded digital control electronics, precision spur gearing, and a non-contact position sensor for accurate feedback. These servos are optimized for small drones, UAVs, and next-generation UAM eVTOL aircraft, delivering the precision and performance required for advanced aviation systems.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "F6E595A9-EA0A-EB6B-AE34-BC93F5CA4BC0",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Yuseong-gu",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "F5F554F3-C064-23A2-890A-0FC6EC27B7FB",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Contromax Co., Ltd.",
+            "CITY": "Daejeon",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "82-42-822-0631",
+            "WEBSITE": "www.contromax.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "BD9B557F-3FF3-4207-8C05-1BBDD54FB660"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4317,
+                "BOOTH_KEY": "B319DE74-4419-4DBF-AA6C-EFB4509B95C3",
+                "KEY_ID": "4AF15061-C353-8086-A611-542F462852BB"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D03A6E0F-D2EA-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 4317,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "ASA (Aviation Supplies & Academics, Inc.)",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 98059,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024325111522_766fcf1e3acceb021c183eff4cf10c93.png",
+            "STATE": "WA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Aviation Supplies & Academics, Inc. has provided trusted aviation training products for more than 85 years to pilots, flight instructors, aviation mechanics, students, career aviators, and drone operators. ASA\u2019s pilot supplies, digital training solutions, and print and ebook publications are supported with integrity, consistency, a worldwide distribution network, and superior customer service.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "FA0C3F6F-F5C9-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A44D633C-9EAB-CBF6-B6F6-C78CFC4C33F4",
+                    "ANSWER_TITLE": "Academic/Educational/Research"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "A429C9D5-BCF1-A867-465E-FDC985AF454B",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "ASA (Aviation Supplies & Academics, Inc.)",
+            "CITY": "Newcastle",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://asa2fly.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "23C283FD-F621-4B49-A4AD-DBA1F0C053D0"
+    }
+}

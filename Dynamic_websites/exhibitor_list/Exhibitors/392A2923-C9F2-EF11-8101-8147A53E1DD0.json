@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2301,
+                "BOOTH_KEY": "98CB00D2-AF05-42A1-846C-6C8E98F37424",
+                "KEY_ID": "38EF65CE-C778-A6BA-39FE-09E68E21A6B2"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "392A2923-C9F2-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2301,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "WingXpand",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/wingxpand/",
+            "INSTAGRAM": "https://www.instagram.com/wingxpand/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 63101,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202535112615_5b611a013409bb7bbb8e4470c7421c1f.png",
+            "STATE": "MO",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "WingXpand is a U.S. aerospace and AI software company that is expanding what\u2019s possible with aerial intelligence. We build the most powerful smart planes and IoT devices that expand from the smallest footprint possible to rapidly give soldiers a protective eye in the sky, help emergency crews respond to disasters faster, and farmers grow yield.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "098333B6-EB39-6A00-D52E-0A0F73AC18AD",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/wingxpand/",
+            "TOLL_FREE": "",
+            "KEY_ID": "38F57F53-C8D9-A020-1397-995611330BBC",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "WingXpand, Inc",
+            "CITY": "St. Louis",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.wingxpand.com/",
+            "TWITTER": "https://twitter.com/WingXpand"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "6C6B020A-9A11-4A48-BE52-158451A71C12"
+    }
+}

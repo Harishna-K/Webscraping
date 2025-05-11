@@ -1,0 +1,93 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1821,
+                "BOOTH_KEY": "CE753D6F-8FB6-4BA8-A6E5-F87506A93268",
+                "KEY_ID": "57F69C8B-0896-0F15-6D1C-B67015FEB87F"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "8E996B5A-E8DD-4F62-9264-084262F4FDFC",
+        "PRIMARY_BOOTH": 1821,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Ascent AeroSystems",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "01887",
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "MA",
+            "LAST_NAME": "",
+            "EMAIL": "amy.romano@ascentaerosystems.com",
+            "DOCUMENTS": [],
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6ED495A1-A60A-55B2-AB5A-5ABBF90C33BD",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "57F96C32-0CB0-1E6A-0A42-4C539D81607B",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Ascent AeroSystems",
+            "CITY": "Wilmington",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "https://ascentaerosystems.com/",
+            "TWITTER": "",
+            "HEADERIMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025316222256_14b0b5f02808ad60dbd854f9a6664268.jpg"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "8E996B5A-E8DD-4F62-9264-084262F4FDFC",
+        "CRM_COMPANY_KEY": "DA42B025-7E82-41B2-B0F6-B03516A5CD7E"
+    }
+}

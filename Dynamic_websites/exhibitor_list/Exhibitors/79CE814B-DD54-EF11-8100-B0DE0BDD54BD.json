@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1606,
+                "BOOTH_KEY": "2DEA0978-1ED9-4CEA-A94D-F23C7EC3EE13",
+                "KEY_ID": "C993181D-9012-AC42-2F08-EC9E0EFAB4B0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "79CE814B-DD54-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1606,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "DroneShield",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/DroneShieldOfficial/",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 20187,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202487125720_e0d97559d8001e113759fdcca36029a1.png",
+            "STATE": "VA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "DroneShield provides next generation counterdrone protection, focusing on Radio Frequency sensing, AI/ML, Sensor Fusion, Electronic Warfare, Rapid Prototyping and MIL-SPEC manufacturing. DroneShield\u2019s capabilities are used to detect, track, identify, and defeat a variety of unmanned platforms to protect Military, Government, Law Enforcement, Critical Infrastructure, Commercial, and VIPs worldwide.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "D41A414A-570A-F011-8101-8147A53E1DD0",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "3EFDA27B-BC53-DBE0-ABE7-A28CC06768F3",
+                    "ANSWER_TITLE": "Airspace Awareness & Management"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/droneshield/mycompany/",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "4CFE4E97-C4CF-78E8-3D07-0F3C94A3030B",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "C997531B-9C5F-C8AE-8EE6-53A23DA860C0",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "DroneShield",
+            "CITY": "Warrenton",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.droneshield.com",
+            "TWITTER": "https://x.com/DroneShield"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "04567E7F-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

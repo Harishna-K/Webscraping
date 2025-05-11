@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1602,
+                "BOOTH_KEY": "3DD4B48F-088E-4339-B901-0FBD52C5D8F2",
+                "KEY_ID": "299083CE-E809-16A3-DB7D-1A776F1304B6"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "BD4AA131-6CCF-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1602,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Aerodine Composites",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 46214,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "IN",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Aerodine Composites stands at the forefront of innovation, delivering state-of-the-art tooling and advanced composite structures to the Motorsport, Aerospace, Defense, and Industrial markets. With a focus on engineering excellence, we create tailored solutions that optimize strength, reduce weight, and maximize performance, offering unmatched value to our clients.\n\nFounded in 1989, Aerodine has been a pioneer in developing groundbreaking technologies, particularly for mission-critical defense applications. Our extensive experience and dedication to quality have solidified our reputation as an industry leader, trusted to tackle the most demanding challenges.\nOur collaborative approach ensures seamless integration of advanced materials and cutting-edge processes, resulting in solutions that consistently exceed expectations. From high-performance motorsport components to advanced aerospace systems and innovative industrial applications, we are driven by a relentless commitment to innovation and precision.\n\nAt Aerodine, we understand the critical role our products play in achieving success in high-stakes environments. That\u2019s why we prioritize delivering reliable, high-performance solutions that push the boundaries of possibility. Our team of experts works closely with clients to design and produce composite structures that meet and exceed industry standards.\n\nAs we look to the future, Aerodine remains committed to advancing composite technology and fostering partnerships that drive progress. Whether enhancing the speed and safety of motorsport vehicles, supporting critical defense missions, or innovating in industrial applications, Aerodine is your trusted partner for next-generation composite solutions.\n\nMission: To engineer world-class composite structures that redefine strength, performance, and value across industries.\nVision: To lead the evolution of composite innovation through excellence, collaboration, and integrity.\nCore Values: Innovation, Quality, Collaboration, and Reliability.\n\nDiscover the Aerodine difference\u2014where cutting-edge technology meets unrivaled expertise.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "040655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "29F40FD4-9586-0F37-896C-D18D112AC889",
+                    "ANSWER_TITLE": "Composite Material Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "2998616D-B004-B624-CA81-E9F38E671883",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Aerodine Composites",
+            "CITY": "Indianapolis",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.aerodinecomposites.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "E9BDC055-8B71-4BC2-AE86-783EC9D80B66"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2321,
+                "BOOTH_KEY": "038E89A0-5380-49DA-9E87-E299863D7901",
+                "KEY_ID": "E5F6D70B-5F06-F011-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "6132422E-17CD-4B13-973F-4430DD5F48A8",
+        "PRIMARY_BOOTH": 2321,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Jiyuan RAYI Innovation Science and Technology Co., Ltd",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 454000,
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "Henan",
+            "LAST_NAME": "",
+            "EMAIL": "lirui@rayiprop.com",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CN",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "9AFD1A39-0A61-D979-6C0B-FE5A71ACF921",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "64405734-D6FA-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "767E7725-A816-288F-1AFD-427B96D1EF8C",
+                            "ANSWER_TITLE": "Sunshine Solutions Center Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "DCF14FBA-A517-817A-70D5-63A3915B10D7",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Jiyuan RAYI Innovation Science and Technology Co., Ltd",
+            "CITY": "Jiyuan",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.rayiaero.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "6132422E-17CD-4B13-973F-4430DD5F48A8",
+        "CRM_COMPANY_KEY": "8DA64B42-0E75-4D0F-804F-46C266EB1483"
+    }
+}

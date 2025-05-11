@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3904,
+                "BOOTH_KEY": "E320DE76-8821-46AD-83B8-BDA2D649DC41",
+                "KEY_ID": "D3B309DF-C30E-09B1-E1AC-6CBD8C6314EF"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "FA4199B8-6FDC-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3904,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "RAISE3D",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 77477,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025126214537_b2825812c168538ef52b46688d395cf7.jpg",
+            "STATE": "TX",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "As a leading manufacturer of industrial grade 3D printers, Raise3D is dedicated to pioneering flexible manufacturing, which helps our customers improve their competitive advantage through utilizing the benefits of Additive Manufacturing.\nBy consistently delivering high-performance products, services, and solutions, Raise3D strives to exceed customers\u2019 expectations, thus keeping the trust of entrepreneurs, SMEs, and many of the largest brands in the world.\nRaise3D is founded on an unwavering dedication to building long-lasting relationships with our end customers, our co-workers, and our global partners. Raise3D has corporate headquarters in the United States, Europe, and Asia.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "7401C345-EAE6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "7F285B11-E64B-C055-9874-5F1AAA511EA5",
+                    "ANSWER_TITLE": "Manufacturing Machinery/Contract Manufacturing/Production Equipment"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "7EEDB1F3-BF33-93A6-7452-D12936983A08",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "RAISE3D",
+            "CITY": "Stafford",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.raise3d.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "71884314-E7F3-421A-9FEB-A3454CFC844A",
+        "CRM_COMPANY_KEY": "01AB25A3-0583-4203-93CF-7449051E8A28"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2405,
+                "BOOTH_KEY": "A363AF55-C781-436F-86C6-EA249763B954",
+                "KEY_ID": "2FBE6E34-F08E-5B6C-A2D6-AE962A721BA0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "FF430D34-1C0A-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2405,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Holybro",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 2,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": "000000",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025326165910_1fc088e454d4c91d0f7418a74c2ea069.jpg",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "HK",
+            "SALUTATION": "",
+            "DESCRIPTION": "Holybro is a leading company specializing in the research, development, and manufacture of essential electronic systems for unmanned vehicles. Focusing on the best known open-source based autopilots in the world, as well as GPS & RTK systems, telemetry radio, and much more. \n\nHolybro products are trusted by a diverse range of users, from hobbyists and commercial drone manufacturers to public and private aerospace research institutes and defense organizations worldwide. Our mission is to innovate and deliver high-quality products that meet the highest standards of performance and reliability, serving our customers across the globe.\n\nOur commitment to excellence drives us to collaborates with UAV open-source communities, developers, end-users, and the drone industry worldwide to meet the needs of the fast-changing world of UAVs while contributing to different open-source projects and standards, such as PX4, Ardupilot, Betaflight, Pixhawk, and more\n\nOur manufacturing facilities are certified to ISO9001-2015 quality standards, and the majority of our products have achieved both CE and FCC certification.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "30D8D4BD-AD51-87B6-72B0-D0AB23D37F40",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "3078A3DB-B802-A307-551C-AD3DF8DE91F0",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Holybro",
+            "CITY": "Hong Kong",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://holybro.com/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "8F0626E6-1976-4405-AC8A-900C6C932642"
+    }
+}

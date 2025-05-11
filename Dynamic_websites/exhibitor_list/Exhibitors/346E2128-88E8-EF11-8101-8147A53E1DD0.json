@@ -1,0 +1,61 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3427,
+                "BOOTH_KEY": "165B9F20-AD35-4C70-9AE9-8AC2C4D4229D",
+                "KEY_ID": "97A7C515-CAC4-CA84-095A-77AD0384FBFD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "346E2128-88E8-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3427,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Hidden Level, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/hiddenlevelxyz/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 13204,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202521110139_7551fa3144d6b1a979b63d0a7bf39ed9.png",
+            "STATE": "NY",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Founded in 2018, Hidden Level is the world\u2019s leading developer of technology for sensing, identifying, tracking and analyzing RF spectrum signals to support the critical decisions that keep our troops safe, our infrastructure secure, and our communities peaceable. Trusted by NASA and the US Department of Defense, among others, Hidden Level\u2019s passive, multifunction sensors can detect all crewed and uncrewed aerial activity, dark targets, and even spectral weather, providing superior sensing capabilities throughout the RF spectrum. The company\u2019s team of experts boasts decades of success in developing groundbreaking RF sensing technology, and have a proven track record in delivering field-tested, defense-ready systems that make our world a safer place.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "97C1EDC1-A37C-85ED-0A4F-C4DAAD247C28",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/hidden-level-inc/",
+            "TOLL_FREE": "",
+            "KEY_ID": "97A9EA66-CCDF-6001-851C-5F4BDA53DF2B",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Hidden Level, Inc.",
+            "CITY": "Syracuse",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.hiddenlevel.com/",
+            "TWITTER": "https://x.com/hiddenlevelinc"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "DAE7F2EB-22A2-4367-95F3-2229E900468C"
+    }
+}

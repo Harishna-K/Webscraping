@@ -1,0 +1,69 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1915,
+                "BOOTH_KEY": "213DB50B-059C-438C-97BB-68DBC4136EEA",
+                "KEY_ID": "EAC1BD11-E6F0-C641-C24C-FE22F5BCC1E5"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "E3D185BD-86FB-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1915,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Advanced Navigation",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1135,
+                    "TITLE": "Speaking Opportunity - Solutions Theater",
+                    "ID": "EVENTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 2000,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025113154217_8c94e795d85df60760d5014bf04e4b27.jpg",
+            "STATE": "NSW",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "AU",
+            "SALUTATION": "",
+            "DESCRIPTION": "Headquartered in Australia, Advanced Navigation is a world leader in AI-based robotics and navigation technologies. By leveraging our capabilities in AI neural networks and deep learning algorithms, our solutions deliver unparalleled capabilities and exceptional performance across land, air, sea and space applications. \n\nMade possible with extensive research, testing and automated manufacturing, we develop transformative technologies from inertial and sonar navigation to photonic and quantum sensing. Customers choose Advanced Navigation for ultra-high accuracy, reliability and advanced design.\n\nFounded on a culture of research and discovery, Advanced Navigation's mission is to be the catalyst of the autonomy revolution. Powered by a deep curiosity to apply ground-breaking technologies to uncover and explore new frontiers, we are ultimately extending human capabilities to build a more resilient and sustainable future, with safer outcomes.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "EAFF2AE1-E3F9-C1B6-AD87-599CCA598959",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Level 12",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "EACABA63-0427-48D4-DC89-F254187A2F18",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Advanced Navigation",
+            "CITY": "Sydney NSW",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.advancednavigation.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "FF29C563-5685-4CAD-8EF6-4EB103150325"
+    }
+}

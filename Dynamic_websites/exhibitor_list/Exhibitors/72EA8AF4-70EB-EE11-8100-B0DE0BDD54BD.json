@@ -1,0 +1,124 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2821,
+                "BOOTH_KEY": "8C5AA938-1BAA-4DFF-867D-737D32FC57E8",
+                "KEY_ID": "CC8F39F9-AA98-D406-1238-A986A5656681"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "72EA8AF4-70EB-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2821,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "JobsOhio",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "SUBEXHIBITORS": [
+            {
+                "BOOTH_NO": 2821,
+                "COMPANY_NAME": "CAL Analytics, LLC",
+                "BOOTH_KEY": "8C5AA938-1BAA-4DFF-867D-737D32FC57E8",
+                "EXHIBITOR_KEY": "53C9A50C-C3F9-4ACE-A7FC-C1C5B4805DED"
+            },
+            {
+                "BOOTH_NO": 2821,
+                "COMPANY_NAME": "City of Springfield, Beckley Airport",
+                "BOOTH_KEY": "8C5AA938-1BAA-4DFF-867D-737D32FC57E8",
+                "EXHIBITOR_KEY": "785F3836-B0A8-4AB2-8A31-C5301EB60183"
+            },
+            {
+                "BOOTH_NO": 2821,
+                "COMPANY_NAME": "National Advanced Air Mobility Center of Excellence (NAAMCE)",
+                "BOOTH_KEY": "8C5AA938-1BAA-4DFF-867D-737D32FC57E8",
+                "EXHIBITOR_KEY": "CE234931-F676-4215-96B5-0B98FC233D42"
+            },
+            {
+                "BOOTH_NO": 2821,
+                "COMPANY_NAME": "ODOT",
+                "BOOTH_KEY": "8C5AA938-1BAA-4DFF-867D-737D32FC57E8",
+                "EXHIBITOR_KEY": "AF4BF805-1D70-46F7-BF81-B2DEB9CE251D"
+            },
+            {
+                "BOOTH_NO": 2821,
+                "COMPANY_NAME": "Ohio Federal Research Network",
+                "BOOTH_KEY": "8C5AA938-1BAA-4DFF-867D-737D32FC57E8",
+                "EXHIBITOR_KEY": "9AFA1D44-D3E9-4086-B9DD-B3AEB7CF06A4"
+            },
+            {
+                "BOOTH_NO": 2821,
+                "COMPANY_NAME": "Sinclair Community College",
+                "BOOTH_KEY": "8C5AA938-1BAA-4DFF-867D-737D32FC57E8",
+                "EXHIBITOR_KEY": "F9CB0AC2-8CD5-4E70-A387-9692346DC176"
+            },
+            {
+                "BOOTH_NO": 2821,
+                "COMPANY_NAME": "Woolpert",
+                "BOOTH_KEY": "8C5AA938-1BAA-4DFF-867D-737D32FC57E8",
+                "EXHIBITOR_KEY": "12DE8196-913B-4940-BCF2-B0095025066C"
+            }
+        ],
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 43215,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025218144624_0d21b9fc8bd44a794fa46a9e70c44b5e.jpg",
+            "STATE": "OH",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Drive farther. Fly higher. All in Ohio.\nHave an advanced mobility idea you\u2019d love to get on the road or in the sky? Ohio has the infrastructure to make it a reality \u2013 with eager partners, local resources, and far less red tape. Bring your idea to Ohio and be part of the future of ground and air mobility.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "53243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "CCAF224E-0DC8-6631-C088-5B1723CC9505",
+                    "ANSWER_TITLE": "Nonprofit/Association"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 1500",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "352A1B78-E237-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "5E884EB1-994E-9430-7FE0-E5D200B2A5EF",
+                            "ANSWER_TITLE": "Ohio Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "CC9832CC-9C64-A136-BAB5-99C7550CB6DD",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Ohio Pavilion",
+            "CITY": "Columbus",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.jobsohio.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "72EA8AF4-70EB-EE11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "AB0428DD-776B-45E1-938A-6073E3E2C1D5"
+    }
+}

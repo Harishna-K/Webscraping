@@ -1,0 +1,82 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2927,
+                "BOOTH_KEY": "972D05F9-0BA3-45D0-B53D-899FBE2B2300",
+                "KEY_ID": "482B8221-9496-DBD9-33EC-D983C31D5FB1"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "7BEC5BD2-481E-457B-A1AC-8A37043620C5",
+        "PRIMARY_BOOTH": 2927,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "LAKE FUSION Technologies GmbH",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 88677,
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "EMAIL": "ml01@lf-t.net",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "69E562FA-FAC2-FCE3-6C17-357C135C6C39",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "D568D496-D9F9-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "4837E2A6-A6CF-9ACE-9576-17583BD01C6A",
+                            "ANSWER_TITLE": "German Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "482FB691-B32C-77CC-24AD-84388485EFD3",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "LAKE FUSION Technologies GmbH",
+            "CITY": "Markdorf",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://lf-t.net",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "7BEC5BD2-481E-457B-A1AC-8A37043620C5",
+        "CRM_COMPANY_KEY": "AA77BDCD-9D86-478C-96A2-65FD62CC70DA"
+    }
+}

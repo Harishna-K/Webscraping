@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3129,
+                "BOOTH_KEY": "6BBB3130-09EA-41DF-BAC2-1BA6E0288CD2",
+                "KEY_ID": "F76B5B11-CB7B-748A-6A18-1F1D0649AE64"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "ADC1BC2C-7859-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3129,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Amphenol All Sensors",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 95037,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Amphenol All Sensors Corporation is a leading manufacturer of MEMS piezoresistive ultra-low pressure sensors and pressure transducers. With a focus on quality, safety, and environmental sustainability, Amphenol All Sensors provides innovative solutions across a wide range of industries, including aerospace, automotive, industrial, and healthcare. As part of the Amphenol Advanced Sensors family, All Sensors continues to develop technologies that create value and provide critical information for real-time decisions.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "F787C857-F261-8EC9-E3E6-F9019D4A5CCE",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "F772124D-BB51-8F8A-DE61-472B730FA048",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Amphenol All Sensors",
+            "CITY": "Morgan Hill",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.allsensors.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "10D500E1-F808-4D93-8C74-90EDA098CA34"
+    }
+}

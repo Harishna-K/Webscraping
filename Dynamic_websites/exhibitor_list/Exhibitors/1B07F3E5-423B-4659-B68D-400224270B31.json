@@ -1,0 +1,82 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2835,
+                "BOOTH_KEY": "53ABA0CE-0443-481F-9379-41A1709CE181",
+                "KEY_ID": "479A75CF-D66D-7C8F-19EC-3299FB61FA03"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "1B07F3E5-423B-4659-B68D-400224270B31",
+        "PRIMARY_BOOTH": 2835,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Fixture Tech Solutions GmbH",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "fixturetech",
+            "ACTIVE": 1,
+            "ZIP_CODE": 66636,
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "Saarland",
+            "LAST_NAME": "",
+            "EMAIL": "saranya.nantasook@fixture-tech.com",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "7401C345-EAE6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "69D99068-C424-4EEF-1AA2-CBF5FC6D7FB4",
+                    "ANSWER_TITLE": "Manufacturing Machinery/Contract Manufacturing/Production Equipment"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "FIXTURE TECH",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "D568D496-D9F9-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "47ABCF17-EE0C-6DAA-1195-95A0903CC8D8",
+                            "ANSWER_TITLE": "German Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "47A172F4-0810-88EC-CB5B-FBF63527FF83",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Fixture Tech Solutions GmbH",
+            "CITY": "Tholey",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://fixture-tech.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "1B07F3E5-423B-4659-B68D-400224270B31",
+        "CRM_COMPANY_KEY": "4C9C92F7-B42A-4C26-9BC6-C146701FC0BC"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2004,
+                "BOOTH_KEY": "B421C48B-9672-43AC-B7AD-6E7FD90B891B",
+                "KEY_ID": "7EDFA90A-941B-BB65-31A7-6D871F80FD49"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "7A46CE84-2196-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2004,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "NanoFlowX Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 75006,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241029132020_78cb76ec93623b7815cefdd87f0c57ba.png",
+            "STATE": "TX",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "NanoFlowX produces a 2 step 2 minutes, low odor, non-masking, reworkable nanocoatings to replace currently outdated conformal/Parylene coatings and used as secondary protection when gaskets/O-rings fail.  NanoFlowX coatings creates a thin, durable superhydrophobic/oleophobic surface layer easily protects parts and components that typically can't be coated with conformal coating without masking such as entire PCB with connectors/slots, SSD hard drive, sensors, mems, lidar, RF, connectors, cooling fans, batteries and other parts/components against dust, humidity, liquids and corrosion to an IP67/68 rating.  \nBy adding NanoFlowX, devices become fully weatherized increasing durability and reliability in various environmental conditions such as a UAV being able to fly in rain, snow, fog and even in chemical/radiated environments and return to be decontaminated and ready for future flights.  NanoFlowX coated servers withstood 300 hours of direct salt spray test while Parylene coated servers failed at under 100 hours.  \nWe offer up to 3 samples no charge and look forward to testing with you.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5F243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "7F4A5B89-A7EF-E2F2-9400-838C6556C741",
+                    "ANSWER_TITLE": "Commercial End User of Uncrewed Systems"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "7F0C73BD-B547-0224-23C6-0759269753D2",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "NanoFlowX Inc.",
+            "CITY": "Dallas",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.nanoflowx.com",
+            "TWITTER": "nano3364"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "58866165-CA97-4844-BD06-DFFE9FDE94AF"
+    }
+}

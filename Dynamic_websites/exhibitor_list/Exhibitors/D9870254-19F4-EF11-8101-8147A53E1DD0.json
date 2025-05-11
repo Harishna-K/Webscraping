@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4434,
+                "BOOTH_KEY": "AE0416AA-845C-4B3B-9637-52797FD30ADA",
+                "KEY_ID": "8D38CAF5-FAD3-1FF1-DE01-4B93D4476D51"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D9870254-19F4-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 4434,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Shenzhen DAMODA Intelligent Control Technology Co.,Ltd",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 518000,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531112139_590f4be95b46ff36f357ab0cb7a2fd19.jpg",
+            "STATE": "GuangDong",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CN",
+            "SALUTATION": "",
+            "DESCRIPTION": "Shenzhen DAMODA Intelligent Control Technology Co., Ltd. a global leading supplier of drone show performance that integrates research and development, production, sales and service was established in 2016. It is the fourth batch of national-level \"Little Giant\" enterprises specializing in drone show system.\nDAMODA currently holds more than 80 core independent intellectual property rights. Its products and services are renowned in the industry for the safety, stability and high efficiency. With the concept of \"high safety, high reliability and high perfection rate\", DAMODA has gathered a group of high-level and advanced talents, with the proportion of R&D team members exceeds 30%. DAMODA has taken the lead in breaking the Guinness World Records many times.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "7401C345-EAE6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "8D4A2BD3-089E-FAE1-555E-3549F5488A7D",
+                    "ANSWER_TITLE": "Manufacturing Machinery/Contract Manufacturing/Production Equipment"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Longhua District",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "8D3CE4F5-92ED-36CF-3A63-643233B2FFDA",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Shenzhen DAMODA Intelligent Control Technology Co.,Ltd",
+            "CITY": "Shenzhen",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "860755-23764635",
+            "WEBSITE": "https://en.dmduav.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "C0066F84-C868-49FF-91C9-7F0AE2776687"
+    }
+}

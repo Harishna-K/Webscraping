@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4335,
+                "BOOTH_KEY": "09FC4F6D-5C31-4FF0-B1D8-D88901984C64",
+                "KEY_ID": "D01A3EE6-B553-4EBE-3C39-F8622066F94E"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "6594FD51-16A3-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 4335,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Shenzhen Zhian New Energy Technology Co., Ltd",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 528000,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025311112833_16ad7f1c25cf799e9de5f8c69ce77d97.jpg",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CN",
+            "SALUTATION": "",
+            "DESCRIPTION": "Shenzhen ZhiAn New Energy Technology Co., Ltd. was established in December 2020. It is a new energy innovation technology company located in Shenzhen, integrating the R&D, production and sales of smart batteries and smart chargers. The founding team comes from prominent companies such as DJI and CATL, and has extensive product experience. The products are mainly used in Drones, EVTOL, Mini Vehicles, Yachts, Robots and other fields. ZhiAn New Energy focuses on the research and development of smart battery and charger related technologies to make energy safer and smarter.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5F243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D0D9BE26-B225-FC05-3FEE-1C0035C0E384",
+                    "ANSWER_TITLE": "Commercial End User of Uncrewed Systems"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Changyuan Community, Taoyuan Street, Nanshan District",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "D034EAC8-0F16-457C-24DC-ECAE5589DC68",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Shenzhen Zhian New Energy Technology Co., Ltd",
+            "CITY": "Shenzhen",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.energy-z.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "BAE1F3CE-2787-4A20-B479-D11063863652"
+    }
+}

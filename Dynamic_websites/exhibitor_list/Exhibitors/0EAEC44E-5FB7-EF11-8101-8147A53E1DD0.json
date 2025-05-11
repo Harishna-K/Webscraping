@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2421,
+                "BOOTH_KEY": "E62BC030-ACE8-4847-B50A-6D40E1B7E6CC",
+                "KEY_ID": "01734BC2-C81E-0B98-F2E9-B8B16F8B61A4"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "0EAEC44E-5FB7-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2421,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Wistron Corp",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 22181,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025320155530_07d0443fc519248b7a890bd73bb2ccbf.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "TW",
+            "SALUTATION": "",
+            "DESCRIPTION": "Wistron Corporation is a global leading technology service provider, supplying innovative ICT (information and communications technology) products, service solutions, and systems to top brands in the ICT industry worldwide.\n\nIn recent years, with robust R&D and technological innovation capabilities, Wistron undergoes growth boost that is driven by diversified product development.\n\nApart from portable computers, desktops, servers and enterprise storage devices, professional display products, communication devices, and after-sales services, Wistron embodies the cloud development trend by integrating software and hardware to provide technological service platform and solutions.\n\nSuch efforts cover the educational and corporate services, IoT, and medical services. Meanwhile, the technological aspect encompasses 5G, AI, metaverse-related applications, electric vehicles and Industry 4.0 automation. All of which are part and parcel of Wistron's fulfillment of its vision of \u201cSustainability Through Innovation.\u201d",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "021B870C-9D53-40FB-FE37-F1000D9897A1",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "01803624-B478-4976-E5C6-7632A953063F",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Wistron Corp",
+            "CITY": "New Taipei City",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.wistron.com/en"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "625B26C4-B3C9-4912-AEBE-1AD151600801"
+    }
+}

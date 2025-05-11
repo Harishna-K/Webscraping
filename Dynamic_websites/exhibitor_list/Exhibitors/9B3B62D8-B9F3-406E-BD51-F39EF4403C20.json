@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 4,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3521,
+                "BOOTH_KEY": "9B195508-2002-49A9-A0E1-52B65A2DC693",
+                "KEY_ID": "18DABFE6-17FC-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "9B3B62D8-B9F3-406E-BD51-F39EF4403C20",
+        "PRIMARY_BOOTH": 3521,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "TEXAS A&M AGRILIFE",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "FA0C3F6F-F5C9-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "99177F2A-A6F8-AF9D-67C8-1391F3864488",
+                    "ANSWER_TITLE": "Academic/Educational/Research"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "7BF387F0-52AB-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "99178088-D404-BD2F-8499-83243A427D76",
+                            "ANSWER_TITLE": "Texas Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "28F036C9-5C5C-4CEF-A886-3D14A79BB72D",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "TEXAS A&M AGRILIFE",
+            "CITY": "",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://ccag.tamu.edu/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "F9748A51-2396-EF11-8101-8147A53E1DD0",
+        "CRM_COMPANY_KEY": "5CB21AB0-ECB6-456A-9341-9EA8C5B83DD9"
+    }
+}

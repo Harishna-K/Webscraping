@@ -1,0 +1,82 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2420,
+                "BOOTH_KEY": "5AA4C07E-6FC0-4FDF-9AEE-165910FC3156",
+                "KEY_ID": "592CA32F-DF00-F011-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "AE32C6E7-C7DD-4353-9A7B-8EF761439518",
+        "PRIMARY_BOOTH": 2420,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Fullymax Battery Co.,Ltd",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 516000,
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "EMAIL": "marketing@fullymax.com",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CN",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D23C5ED4-FF59-2F8B-45D5-96A89556164B",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "64405734-D6FA-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D23C60F5-FED8-77CE-13CC-BA9B84C2363D",
+                            "ANSWER_TITLE": "Sunshine Solutions Center Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "D07ECA30-9F42-62B8-791D-29E13A2152D3",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Fullymax Battery Co.,Ltd",
+            "CITY": "Huizhou",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.fullymaxbattery.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "AE32C6E7-C7DD-4353-9A7B-8EF761439518",
+        "CRM_COMPANY_KEY": "E6557E7F-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

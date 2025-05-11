@@ -1,0 +1,5018 @@
+{
+  "responseHeader": {
+    "zkConnected": true,
+    "status": 0,
+    "QTime": 11,
+    "params": {
+      "q": "*",
+      "json.facet": "{school_area:{type:terms,field:school_area_s,limit:-1,sort:index,domain:{excludeTags:\"area\"}},co_cirricular_activities_full_path:{type:terms,field:co_cirricular_activities_full_path,limit:-1,sort:index},subjects_offered_trimmed:{type:terms,field:subjects_offered_trimmed_ss,limit:-1,sort:index},electives_full_path:{type:terms,field:electives_full_path,limit:-1,sort:index},special_needs:{type:terms,field:special_needs_ss,limit:-1,sort:index,domain:{excludeTags:\"specialNeeds\"}},school_type:{type:terms,field:school_type_ss,limit:-1,sort:index,domain:{excludeTags:\"type\"}},school_other_programme:{type:terms,field:school_other_programme_ss,limit:-1,sort:index,domain:{excludeTags:\"otherProgramme\"}},school_status_type:{type:terms,field:school_status_type_ss,limit:-1,sort:index},school_affiliated_b:{type:terms,field:school_affiliated_b_ss,limit:-1,sort:index},school_nature:{type:terms,field:school_nature_s,limit:-1,sort:index,domain:{excludeTags:\"nature\"}}}",
+      "start": "120",
+      "fq": [
+        "school_journey_ss:\"Primary school\"",
+        "active_b:true"
+      ],
+      "sort": "slug_s asc",
+      "rows": "20",
+      "_forwardedCount": "1"
+    }
+  },
+  "response": {
+    "numFound": 182,
+    "start": 120,
+    "numFoundExact": true,
+    "docs": [
+      {
+        "school_name_s": "Qifa Primary School",
+        "school_name_ngram": "Qifa Primary School",
+        "name_s": "Qifa Primary School",
+        "school_name_t": "Qifa Primary School",
+        "school_name": "Qifa Primary School",
+        "school_codes_o_level_s": "1197",
+        "school_codes_ip_s": "",
+        "slug_s": "qifa-primary-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "50 West Coast Avenue",
+        "address_t": "50 West Coast Avenue",
+        "postal_code_s": "128104",
+        "school_area_s": "Clementi",
+        "school_area_t": "Clementi",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active"
+        ],
+        "school_type_ss": [
+          "Government School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Basketball|both",
+          "Physical sports|Table Tennis|both",
+          "Physical sports|Wushu|both",
+          "Physical sports|Volleyball|both",
+          "Physical sports|Floorball|boys",
+          "Uniformed groups|Scouts|boys",
+          "Uniformed groups|Girl Guides (Brownies)|girls",
+          "Visual and performing arts|Choir|both",
+          "Visual and performing arts|Guzheng Ensemble|both",
+          "Visual and performing arts|Chinese Dance|both",
+          "Visual and performing arts|Malay Dance|both",
+          "Club and societies|Art and Crafts|both",
+          "Club and societies|English Language, Drama and Debating|both",
+          "Club and societies|Infocomm Technology (Media Production)|both"
+        ],
+        "subjects_offered_ss": [
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Higher Chinese Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|Languages|Effective Communication",
+          "LLP|Sports & Outdoor Education|CHAMPS (CHAracter Moulding Programme through Sports)@Qifa"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"Qifa Primary School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "1FBC4CBD17724F729F09578EFFD7A2CB"
+      },
+      {
+        "school_name_s": "Qihua Primary School",
+        "school_name_ngram": "Qihua Primary School",
+        "name_s": "Qihua Primary School",
+        "school_name_t": "Qihua Primary School",
+        "school_name": "Qihua Primary School",
+        "school_codes_o_level_s": "1734",
+        "school_codes_ip_s": "",
+        "slug_s": "qihua-primary-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "5 Woodlands Street 81",
+        "address_t": "5 Woodlands Street 81",
+        "postal_code_s": "738525",
+        "school_area_s": "Woodlands",
+        "school_area_t": "Woodlands",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active"
+        ],
+        "school_type_ss": [
+          "Government School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Basketball|girls",
+          "Physical sports|Sepaktakraw|boys",
+          "Physical sports|Table Tennis|both",
+          "Physical sports|Floorball|boys",
+          "Uniformed groups|Scouts|boys",
+          "Uniformed groups|Girl Guides (Brownies)|girls",
+          "Visual and performing arts|Chinese Orchestra|both",
+          "Visual and performing arts|Choir|both",
+          "Visual and performing arts|Chinese Dance|girls",
+          "Visual and performing arts|Indian Dance|girls",
+          "Visual and performing arts|Malay Dance|girls",
+          "Club and societies|Art and Crafts|both",
+          "Club and societies|Entrepreneurship|both",
+          "Club and societies|Dikir Barat|boys",
+          "Club and societies|Environmental Science|both"
+        ],
+        "subjects_offered_ss": [
+          "eCDQ(LSM)",
+          "eCDQ(LPL)",
+          "Higher Chinese Language",
+          "Higher Malay Language",
+          "Higher Tamil Language",
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Foundation Chinese Language",
+          "Foundation English Language",
+          "Foundation Mathematics",
+          "Foundation Malay Language",
+          "Foundation Science",
+          "Foundation Tamil Language",
+          "Higher Chinese Language",
+          "Higher Malay Language",
+          "Higher Tamil Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese",
+          "Higher Malay",
+          "Higher Tamil",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|Innovation & Enterprise|Inventive and Critical Thinking Skills through Innovation and Entrepreneurship Excellence Programme",
+          "LLP|Sports & Outdoor Education|Promotion of School Values through Sports Development Programme (SDP)"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"Qihua Primary School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "31925D23D87B4232802D4306FBF7E97A"
+      },
+      {
+        "school_name_s": "Queenstown Primary School",
+        "school_name_ngram": "Queenstown Primary School",
+        "name_s": "Queenstown Primary School",
+        "school_name_t": "Queenstown Primary School",
+        "school_name": "Queenstown Primary School",
+        "school_codes_o_level_s": "1071",
+        "school_codes_ip_s": "",
+        "slug_s": "queenstown-primary-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "310 Margaret Dr",
+        "address_t": "310 Margaret Dr",
+        "postal_code_s": "149303",
+        "school_area_s": "Queenstown",
+        "school_area_t": "Queenstown",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active"
+        ],
+        "school_type_ss": [
+          "Government School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Badminton|both",
+          "Physical sports|Basketball|both",
+          "Physical sports|Football|both",
+          "Physical sports|Softball|both",
+          "Physical sports|Swimming|both",
+          "Uniformed groups|Boys' Brigade|boys",
+          "Uniformed groups|Girls' Brigade|girls",
+          "Visual and performing arts|Choir|both",
+          "Visual and performing arts|Modern Dance|both",
+          "Visual and performing arts|Chinese Dance|both",
+          "Visual and performing arts|Malay Dance|both",
+          "Visual and performing arts|English Drama|both",
+          "Club and societies|Art and Crafts|both",
+          "Club and societies|International Chess|both",
+          "Club and societies|Mathematics|both",
+          "Club and societies|Infocomm Technology (Computing)|both",
+          "Club and societies|Chinese Weiqi|both",
+          "Club and societies|Environmental Science|both"
+        ],
+        "subjects_offered_ss": [
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Foundation Chinese Language",
+          "Foundation English Language",
+          "Foundation Mathematics",
+          "Foundation Malay Language",
+          "Foundation Science",
+          "Higher Chinese Language",
+          "Higher Malay Language",
+          "Higher Tamil Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese",
+          "Higher Malay",
+          "Higher Tamil",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Barrier-free accessibility",
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|Interdisciplinary|Environmental Project-based Learning",
+          "LLP|Visual Arts & Design|Connecting the heARTs with ARTs"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"Queenstown Primary School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "DCA558FED4CF4868A18628881BD67697"
+      },
+      {
+        "school_name_s": "Radin Mas Primary School",
+        "school_name_ngram": "Radin Mas Primary School",
+        "name_s": "Radin Mas Primary School",
+        "school_name_t": "Radin Mas Primary School",
+        "school_name": "Radin Mas Primary School",
+        "school_codes_o_level_s": "1072",
+        "school_codes_ip_s": "",
+        "slug_s": "radin-mas-primary-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "1 Bukit Purmei Avenue",
+        "address_t": "1 Bukit Purmei Avenue",
+        "postal_code_s": "099840",
+        "school_area_s": "Bukit Merah",
+        "school_area_t": "Bukit Merah",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active"
+        ],
+        "school_type_ss": [
+          "Government School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Basketball|both",
+          "Physical sports|Rugby|boys",
+          "Physical sports|Football|boys",
+          "Physical sports|Table Tennis|both",
+          "Physical sports|Floorball|both",
+          "Uniformed groups|Boys' Brigade|boys",
+          "Uniformed groups|Girls' Brigade|girls",
+          "Uniformed groups|Scouts|boys",
+          "Visual and performing arts|Chinese Orchestra|both",
+          "Visual and performing arts|Choir|both",
+          "Visual and performing arts|Chinese Dance|girls",
+          "Club and societies|Art and Crafts|both",
+          "Club and societies|English Language, Drama and Debating|both",
+          "Club and societies|Infocomm Technology (Computing)|both",
+          "Club and societies|Environmental Science|both"
+        ],
+        "subjects_offered_ss": [
+          "Art",
+          "English Language",
+          "Foundation English Language",
+          "Foundation Mathematics",
+          "Higher Chinese Language",
+          "Higher Malay Language",
+          "Higher Tamil Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Higher Chinese",
+          "Higher Malay",
+          "Higher Tamil",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|STEM - Game Design and Making|Nurturing 21st Century Competencies through Computational Thinking With Design Thinking",
+          "LLP|Sports & Outdoor Education|G.R.I.T@RMPS - Growth Mindset.Resilience.Independence.Teamwork"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"Radin Mas Primary School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "FA79114D350347A8BB532B6922505F8D"
+      },
+      {
+        "school_name_s": "Raffles Girls' Primary School",
+        "school_name_ngram": "Raffles Girls' Primary School",
+        "name_s": "Raffles Girls' Primary School",
+        "school_name_t": "Raffles Girls' Primary School",
+        "school_name": "Raffles Girls' Primary School",
+        "school_codes_o_level_s": "1073",
+        "school_codes_ip_s": "",
+        "slug_s": "raffles-girls-primary-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "21 Hillcrest Road",
+        "address_t": "21 Hillcrest Road",
+        "postal_code_s": "289072",
+        "school_area_s": "Bukit Timah",
+        "school_area_t": "Bukit Timah",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active",
+          "Gifted Education Programme"
+        ],
+        "school_type_ss": [
+          "Government School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Badminton|girls",
+          "Physical sports|Basketball|girls",
+          "Physical sports|Softball|girls",
+          "Physical sports|Table Tennis|girls",
+          "Physical sports|Rhythmic Gymnastics|girls",
+          "Uniformed groups|Girls' Brigade|girls",
+          "Uniformed groups|Girl Guides (Brownies)|girls",
+          "Visual and performing arts|Choir|girls",
+          "Visual and performing arts|String Ensemble|girls",
+          "Visual and performing arts|Chinese Dance|girls",
+          "Visual and performing arts|English Drama|girls",
+          "Visual and performing arts|Concert Band|girls",
+          "Club and societies|Art and Crafts|girls",
+          "Club and societies|International Chess|girls"
+        ],
+        "subjects_offered_ss": [
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Higher Chinese Language",
+          "Higher Malay Language",
+          "Higher Tamil Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese",
+          "Higher Malay",
+          "Higher Tamil",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|Languages|Nurturing Confident Communicators",
+          "LLP|Music & Performing Arts|Developing Creativity Through Collaborative Music Making"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"Raffles Girls Primary School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "D4E72869EB064F10AF13C92EF2AA0433"
+      },
+      {
+        "school_name_s": "Red Swastika School",
+        "school_name_ngram": "Red Swastika School",
+        "name_s": "Red Swastika School",
+        "school_name_t": "Red Swastika School",
+        "school_name": "Red Swastika School",
+        "school_codes_o_level_s": "5214",
+        "school_codes_ip_s": "",
+        "slug_s": "red-swastika-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "350 Bedok North Avenue 3",
+        "address_t": "350 Bedok North Avenue 3",
+        "postal_code_s": "469719",
+        "school_area_s": "Bedok",
+        "school_area_t": "Bedok",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active",
+          "Specialised Assistance Plan (SAP)"
+        ],
+        "school_type_ss": [
+          "Government-Aided School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Badminton|both",
+          "Physical sports|Track and Field|both",
+          "Physical sports|Table Tennis|both",
+          "Physical sports|Wushu|both",
+          "Physical sports|Bowling|both",
+          "Uniformed groups|Scouts|boys",
+          "Uniformed groups|Girl Guides (Brownies)|girls",
+          "Visual and performing arts|Chinese Orchestra|both",
+          "Visual and performing arts|Guzheng Ensemble|both",
+          "Visual and performing arts|Modern Dance|both",
+          "Visual and performing arts|Chinese Dance|both",
+          "Club and societies|Art and Crafts|both",
+          "Club and societies|Chinese Culture and Language|both",
+          "Club and societies|Robotics|both"
+        ],
+        "subjects_offered_ss": [
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Foundation Mathematics",
+          "Higher Chinese Language",
+          "Mathematics",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese"
+        ],
+        "special_needs_ss": [
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|STEM - Transportation|Tinkers to Thinkers (T2T) Programme",
+          "LLP|Community Service & Student Leadership|Every RSS Student A Leader"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"Red Swastika School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "4F0C3814CC314D879FE5DB9490591D28"
+      },
+      {
+        "school_name_s": "River Valley Primary School",
+        "school_name_ngram": "River Valley Primary School",
+        "name_s": "River Valley Primary School",
+        "school_name_t": "River Valley Primary School",
+        "school_name": "River Valley Primary School",
+        "school_codes_o_level_s": "1217",
+        "school_codes_ip_s": "",
+        "slug_s": "river-valley-primary-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "2 River Valley Green",
+        "address_t": "2 River Valley Green",
+        "postal_code_s": "237993",
+        "school_area_s": "Central",
+        "school_area_t": "Central",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active"
+        ],
+        "school_type_ss": [
+          "Government School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Badminton|boys",
+          "Physical sports|Basketball|boys",
+          "Physical sports|Netball|girls",
+          "Physical sports|Football|boys",
+          "Physical sports|Wushu|both",
+          "Physical sports|Volleyball|girls",
+          "Physical sports|Floorball|boys",
+          "Uniformed groups|Red Cross Youth|both",
+          "Uniformed groups|Scouts|boys",
+          "Uniformed groups|Girl Guides (Brownies)|girls",
+          "Visual and performing arts|Choir|both",
+          "Visual and performing arts|English Drama|both",
+          "Club and societies|Art and Crafts|both",
+          "Club and societies|Infocomm Technology (Computing)|both"
+        ],
+        "subjects_offered_ss": [
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Higher Chinese Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Barrier-free accessibility",
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|Languages|Comms-IT Rt!",
+          "LLP|Community Service & Student Leadership|Every RVian a Leader"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"River Valley Primary School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "0AB2CA3A380A4B63AE8032C4F3B90806"
+      },
+      {
+        "school_name_s": "Riverside Primary School",
+        "school_name_ngram": "Riverside Primary School",
+        "name_s": "Riverside Primary School",
+        "school_name_t": "Riverside Primary School",
+        "school_name": "Riverside Primary School",
+        "school_codes_o_level_s": "1264",
+        "school_codes_ip_s": "",
+        "slug_s": "riverside-primary-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "110 Woodlands Crescent",
+        "address_t": "110 Woodlands Crescent",
+        "postal_code_s": "737803",
+        "school_area_s": "Woodlands",
+        "school_area_t": "Woodlands",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active"
+        ],
+        "school_type_ss": [
+          "Government School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Badminton|both",
+          "Physical sports|Basketball|both",
+          "Physical sports|Netball|girls",
+          "Physical sports|Football|boys",
+          "Physical sports|Track and Field|both",
+          "Physical sports|Floorball|both",
+          "Uniformed groups|Scouts|both",
+          "Visual and performing arts|Choir|both",
+          "Visual and performing arts|String Ensemble|both",
+          "Visual and performing arts|Modern Dance|both",
+          "Visual and performing arts|English Drama|both",
+          "Club and societies|Art and Crafts|both",
+          "Club and societies|Robotics|both",
+          "Club and societies|Environmental Science|both",
+          "Club and societies|Home Economics|both"
+        ],
+        "subjects_offered_ss": [
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Foundation Chinese Language",
+          "Foundation English Language",
+          "Foundation Mathematics",
+          "Foundation Malay Language",
+          "Foundation Science",
+          "Foundation Tamil Language",
+          "Higher Chinese Language",
+          "Higher Malay Language",
+          "Higher Tamil Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese",
+          "Higher Malay",
+          "Higher Tamil",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Barrier-free accessibility",
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|Interdisciplinary|Playworks \u2013 Nurturing Critical and Inventive Thinkers",
+          "LLP|Community Service & Student Leadership|PeerWorks - Building Self, Supporting One Another, Serving the Community Together"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"Riverside Primary School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "E6A17F9132514A7A9C5393467B0A2216"
+      },
+      {
+        "school_name_s": "Rivervale Primary School",
+        "school_name_ngram": "Rivervale Primary School",
+        "name_s": "Rivervale Primary School",
+        "school_name_t": "Rivervale Primary School",
+        "school_name": "Rivervale Primary School",
+        "school_codes_o_level_s": "1752",
+        "school_codes_ip_s": "",
+        "slug_s": "rivervale-primary-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "80 Rivervale Drive",
+        "address_t": "80 Rivervale Drive",
+        "postal_code_s": "545092",
+        "school_area_s": "Seng Kang",
+        "school_area_t": "Seng Kang",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active"
+        ],
+        "school_type_ss": [
+          "Government School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Badminton|both",
+          "Physical sports|Basketball|boys",
+          "Physical sports|Hockey|boys",
+          "Physical sports|Netball|girls",
+          "Physical sports|Football|boys",
+          "Physical sports|Taekwondo|both",
+          "Uniformed groups|Red Cross Youth|both",
+          "Visual and performing arts|Choir|both",
+          "Visual and performing arts|Brass Band|both",
+          "Visual and performing arts|Guzheng Ensemble|both",
+          "Club and societies|Art and Crafts|both",
+          "Club and societies|Debating and Public Speaking|both",
+          "Club and societies|Robotics|both"
+        ],
+        "subjects_offered_ss": [
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Foundation Chinese Language",
+          "Foundation English Language",
+          "Foundation Mathematics",
+          "Foundation Malay Language",
+          "Foundation Science",
+          "Higher Chinese Language",
+          "Higher Malay Language",
+          "Higher Tamil Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese",
+          "Higher Malay",
+          "Higher Tamil",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|STEM - Sustainability|Multi-Literacy Programme (MLP)",
+          "LLP|Music & Performing Arts|Dance and Fitness"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"Rivervale Primary School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "26BD33BC12F3479DA8C9B751A768B695"
+      },
+      {
+        "school_name_s": "Rosyth School",
+        "school_name_ngram": "Rosyth School",
+        "name_s": "Rosyth School",
+        "school_name_t": "Rosyth School",
+        "school_name": "Rosyth School",
+        "school_codes_o_level_s": "1077",
+        "school_codes_ip_s": "",
+        "slug_s": "rosyth-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "21 Serangoon North Avenue 4",
+        "address_t": "21 Serangoon North Avenue 4",
+        "postal_code_s": "555855",
+        "school_area_s": "Serangoon",
+        "school_area_t": "Serangoon",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active",
+          "Gifted Education Programme"
+        ],
+        "school_type_ss": [
+          "Government School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Badminton|both",
+          "Physical sports|Basketball|both",
+          "Physical sports|Football|both",
+          "Physical sports|Track and Field|both",
+          "Physical sports|Tennis|both",
+          "Uniformed groups|Scouts|boys",
+          "Uniformed groups|Girl Guides (Brownies)|girls",
+          "Visual and performing arts|Chinese Orchestra|both",
+          "Visual and performing arts|Choir|both",
+          "Visual and performing arts|Chinese Dance|girls",
+          "Visual and performing arts|Concert Band|both",
+          "Club and societies|Art and Crafts|both",
+          "Club and societies|International Chess|both",
+          "Club and societies|Debating and Public Speaking|both",
+          "Club and societies|English Language, Drama and Debating|both",
+          "Club and societies|Mathematics|both",
+          "Club and societies|Infocomm Technology (Computing)|both",
+          "Club and societies|Robotics|both",
+          "Club and societies|Environmental Science|both",
+          "Visual and performing arts|Comics and Illustration|both"
+        ],
+        "subjects_offered_ss": [
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Foundation Chinese Language",
+          "Foundation English Language",
+          "Foundation Mathematics",
+          "Foundation Science",
+          "Foundation Tamil Language",
+          "Higher Chinese Language",
+          "Higher Malay Language",
+          "Higher Tamil Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Punjabi Language",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese",
+          "Higher Malay",
+          "Higher Tamil",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|STEM - Material Science|Augmenting Science Learning through Innovation",
+          "LLP|Music & Performing Arts|Artistic and Creative Expressions (ACE)"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"Rosyth School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "901C6D2D4E044DB690D3E3BF1916C48E"
+      },
+      {
+        "school_name_s": "Rulang Primary School",
+        "school_name_ngram": "Rulang Primary School",
+        "name_s": "Rulang Primary School",
+        "school_name_t": "Rulang Primary School",
+        "school_name": "Rulang Primary School",
+        "school_codes_o_level_s": "1195",
+        "school_codes_ip_s": "",
+        "slug_s": "rulang-primary-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "6 Jurong West Street 52",
+        "address_t": "6 Jurong West Street 52",
+        "postal_code_s": "649295",
+        "school_area_s": "Jurong West",
+        "school_area_t": "Jurong West",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active"
+        ],
+        "school_type_ss": [
+          "Government School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Badminton|both",
+          "Physical sports|Basketball|both",
+          "Physical sports|Softball|girls",
+          "Physical sports|Wushu|both",
+          "Physical sports|Volleyball|boys",
+          "Physical sports|Rope Skipping|both",
+          "Uniformed groups|Scouts|boys",
+          "Uniformed groups|Girl Guides (Brownies)|girls",
+          "Visual and performing arts|Chinese Orchestra|both",
+          "Visual and performing arts|Choir|both",
+          "Visual and performing arts|Chinese Dance|girls",
+          "Visual and performing arts|Malay Dance|both",
+          "Club and societies|Art and Crafts|both",
+          "Club and societies|Robotics|both",
+          "Club and societies|Environmental Science|both",
+          "Club and societies|Infocomm Technology (Media Production)|both",
+          "Others|Student Leadership (Prefect)|both"
+        ],
+        "subjects_offered_ss": [
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Foundation Chinese Language",
+          "Foundation English Language",
+          "Foundation Mathematics",
+          "Foundation Malay Language",
+          "Foundation Science",
+          "Foundation Tamil Language",
+          "Higher Chinese Language",
+          "Higher Malay Language",
+          "Higher Tamil Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese",
+          "Higher Malay",
+          "Higher Tamil",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|STEM - Transportation|Robotics for a Better World",
+          "LLP|Sports & Outdoor Education|Sports Teach Responsibility, Inventiveness, Values & Excellence (STRIVE) @ Rulang"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"Rulang Primary School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "116EC13273C84F7493F9AED7626E39A3"
+      },
+      {
+        "school_name_s": "Sembawang Primary School",
+        "school_name_ngram": "Sembawang Primary School",
+        "name_s": "Sembawang Primary School",
+        "school_name_t": "Sembawang Primary School",
+        "school_name": "Sembawang Primary School",
+        "school_codes_o_level_s": "1759",
+        "school_codes_ip_s": "",
+        "slug_s": "sembawang-primary-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "10 Sembawang Drive",
+        "address_t": "10 Sembawang Drive",
+        "postal_code_s": "757715",
+        "school_area_s": "Sembawang",
+        "school_area_t": "Sembawang",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active"
+        ],
+        "school_type_ss": [
+          "Government School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Rugby|boys",
+          "Physical sports|Softball|girls",
+          "Physical sports|Track and Field|both",
+          "Physical sports|Table Tennis|both",
+          "Physical sports|Bowling|both",
+          "Uniformed groups|Red Cross Youth|both",
+          "Visual and performing arts|Chinese Orchestra|both",
+          "Visual and performing arts|Choir|both",
+          "Visual and performing arts|Chinese Dance|both",
+          "Visual and performing arts|Indian Dance|both",
+          "Visual and performing arts|Malay Dance|both",
+          "Visual and performing arts|English Drama|both",
+          "Club and societies|Art and Crafts|both",
+          "Club and societies|International Chess|both",
+          "Club and societies|Infocomm Technology (Computing)|both",
+          "Club and societies|Physical Science|both"
+        ],
+        "subjects_offered_ss": [
+          "FTGP",
+          "Higher Chinese",
+          "Higher Malay",
+          "Higher Tamil",
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Foundation Chinese Language",
+          "Foundation English Language",
+          "Foundation Mathematics",
+          "Foundation Malay Language",
+          "Foundation Science",
+          "Foundation Tamil Language",
+          "Higher Chinese Language",
+          "Higher Malay Language",
+          "Higher Tamil Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese",
+          "Higher Malay",
+          "Higher Tamil",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Barrier-free accessibility",
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|STEM - Sustainability|LEAF \u2013 Leading Environmental Action for the Future",
+          "LLP|Community Service & Student Leadership|Future-Ready Leaders: Leading Self, Peers and Community"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"Sembawang Primary School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "3FBF811CC82C4BBDA8911027CAFB000D"
+      },
+      {
+        "school_name_s": "Seng Kang Primary School",
+        "school_name_ngram": "Seng Kang Primary School",
+        "name_s": "Seng Kang Primary School",
+        "school_name_t": "Seng Kang Primary School",
+        "school_name": "Seng Kang Primary School",
+        "school_codes_o_level_s": "1746",
+        "school_codes_ip_s": "",
+        "slug_s": "seng-kang-primary-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "21 Compassvale Walk",
+        "address_t": "21 Compassvale Walk",
+        "postal_code_s": "545166",
+        "school_area_s": "Seng Kang",
+        "school_area_t": "Seng Kang",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active"
+        ],
+        "school_type_ss": [
+          "Government School"
+        ],
+        "subjects_offered_ss": [
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Foundation Chinese Language",
+          "Foundation English Language",
+          "Foundation Mathematics",
+          "Foundation Malay Language",
+          "Foundation Science",
+          "Foundation Tamil Language",
+          "Higher Chinese Language",
+          "Higher Tamil Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese",
+          "Higher Tamil",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Barrier-free accessibility",
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|Languages|Enhanced Spoken Languages",
+          "LLP|Sports & Outdoor Education|Developing Values and Leadership through Sports Education"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"Seng Kang Primary School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "F7785940194E45F99EEAA8F0CB33A34B"
+      },
+      {
+        "school_name_s": "Sengkang Green Primary School",
+        "school_name_ngram": "Sengkang Green Primary School",
+        "name_s": "Sengkang Green Primary School",
+        "school_name_t": "Sengkang Green Primary School",
+        "school_name": "Sengkang Green Primary School",
+        "school_codes_o_level_s": "1261",
+        "school_codes_ip_s": "",
+        "slug_s": "sengkang-green-primary-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "15 Fernvale Road",
+        "address_t": "15 Fernvale Road",
+        "postal_code_s": "797636",
+        "school_area_s": "Seng Kang",
+        "school_area_t": "Seng Kang",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active"
+        ],
+        "school_type_ss": [
+          "Government School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Basketball|both",
+          "Physical sports|Football|both",
+          "Physical sports|Wushu|boys",
+          "Physical sports|Floorball|both",
+          "Uniformed groups|Scouts|both",
+          "Visual and performing arts|Choir|both",
+          "Visual and performing arts|String Ensemble|both",
+          "Visual and performing arts|Guzheng Ensemble|both",
+          "Visual and performing arts|Modern Dance|both",
+          "Visual and performing arts|Chinese Dance|both",
+          "Visual and performing arts|Indian Dance|both",
+          "Visual and performing arts|English Drama|both",
+          "Club and societies|Art and Crafts|both",
+          "Club and societies|Robotics|both",
+          "Club and societies|Digital Media|both",
+          "Club and societies|Environmental Science|both"
+        ],
+        "subjects_offered_ss": [
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Foundation Chinese Language",
+          "Foundation English Language",
+          "Foundation Mathematics",
+          "Foundation Malay Language",
+          "Foundation Science",
+          "Foundation Tamil Language",
+          "Higher Chinese Language",
+          "Higher Malay Language",
+          "Higher Tamil Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese",
+          "Higher Malay",
+          "Higher Tamil",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Barrier-free accessibility",
+          "Special Educational Needs Officers"
+        ],
+        "electives_full_path": [
+          "ALP|Interdisciplinary|Future Skills through Experiential Project Work",
+          "LLP|Music & Performing Arts|Fostering ICAR2E THROUGH THE ARTS"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"Sengkang Green Primary School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "14C4065FEE02400287CB395C4C066FA7"
+      },
+      {
+        "school_name_s": "Shuqun Primary School",
+        "school_name_ngram": "Shuqun Primary School",
+        "name_s": "Shuqun Primary School",
+        "school_name_t": "Shuqun Primary School",
+        "school_name": "Shuqun Primary School",
+        "school_codes_o_level_s": "1220",
+        "school_codes_ip_s": "",
+        "slug_s": "shuqun-primary-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "8 Jurong West Street 51",
+        "address_t": "8 Jurong West Street 51",
+        "postal_code_s": "649332",
+        "school_area_s": "Jurong West",
+        "school_area_t": "Jurong West",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active"
+        ],
+        "school_type_ss": [
+          "Government School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Basketball|boys",
+          "Physical sports|Netball|girls",
+          "Physical sports|Football|boys",
+          "Physical sports|Wushu|both",
+          "Physical sports|Silat|both",
+          "Uniformed groups|Boys' Brigade|boys",
+          "Uniformed groups|Girls' Brigade|girls",
+          "Uniformed groups|Scouts|boys",
+          "Uniformed groups|Girl Guides (Brownies)|girls",
+          "Visual and performing arts|Choir|both",
+          "Visual and performing arts|Brass Band|both",
+          "Visual and performing arts|Modern Dance|girls",
+          "Club and societies|Art and Crafts|both",
+          "Club and societies|Publication|both",
+          "Club and societies|Media Resource Library|both",
+          "Club and societies|Environmental Science|both"
+        ],
+        "subjects_offered_ss": [
+          "Higher Chinese Language",
+          "Higher Malay Language",
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Foundation Chinese Language",
+          "Foundation English Language",
+          "Foundation Mathematics",
+          "Foundation Malay Language",
+          "Foundation Science",
+          "Foundation Tamil Language",
+          "Higher Chinese Language",
+          "Higher Malay Language",
+          "Higher Tamil Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese",
+          "Higher Malay",
+          "Higher Tamil",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Barrier-free accessibility",
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|Interdisciplinary|Caring and Responsible Environmentalist (CaRE) Programme",
+          "LLP|Sports & Outdoor Education|Character and Leadership development through ADventure (CLAD)"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"Shuqun Primary School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "B25C29AEB3DD4608A1BEE1DA45F38062"
+      },
+      {
+        "school_name_s": "Si Ling Primary School",
+        "school_name_ngram": "Si Ling Primary School",
+        "name_s": "Si Ling Primary School",
+        "school_name_t": "Si Ling Primary School",
+        "school_name": "Si Ling Primary School",
+        "school_codes_o_level_s": "1161",
+        "school_codes_ip_s": "",
+        "slug_s": "si-ling-primary-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "61 Woodlands Avenue 1",
+        "address_t": "61 Woodlands Avenue 1",
+        "postal_code_s": "739067",
+        "school_area_s": "Woodlands",
+        "school_area_t": "Woodlands",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active"
+        ],
+        "school_type_ss": [
+          "Government School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Basketball|boys",
+          "Physical sports|Football|boys",
+          "Physical sports|Floorball|both",
+          "Uniformed groups|Girl Guides (Brownies)|girls",
+          "Visual and performing arts|Choir|both",
+          "Visual and performing arts|Guitar Ensemble|both",
+          "Club and societies|Art and Crafts|both",
+          "Club and societies|Environmental Science|both"
+        ],
+        "subjects_offered_ss": [
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Foundation English Language",
+          "Foundation Mathematics",
+          "Higher Chinese Language",
+          "Higher Malay Language",
+          "Higher Tamil Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese",
+          "Higher Malay",
+          "Higher Tamil",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|STEM - Sustainability|Environmental Science Programme",
+          "LLP|Community Service & Student Leadership|Community and Student Leadership"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"Si Ling Primary School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "C76277294B63417881602CF95678F0C7"
+      },
+      {
+        "school_name_s": "Singapore Chinese Girls' Primary School",
+        "school_name_ngram": "Singapore Chinese Girls' Primary School",
+        "name_s": "Singapore Chinese Girls' Primary School",
+        "school_name_t": "Singapore Chinese Girls' Primary School",
+        "school_name": "Singapore Chinese Girls' Primary School",
+        "school_codes_o_level_s": "5026",
+        "school_codes_ip_s": "",
+        "slug_s": "singapore-chinese-girls-primary-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "190 Dunearn Road",
+        "address_t": "190 Dunearn Road",
+        "postal_code_s": "309437",
+        "school_area_s": "Novena",
+        "school_area_t": "Novena",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active"
+        ],
+        "school_type_ss": [
+          "Government-Aided School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Badminton|girls",
+          "Physical sports|Tennis|girls",
+          "Physical sports|Artistic Gymnastics|girls",
+          "Physical sports|Modular CCA (Sports)|girls",
+          "Uniformed groups|Girl Guides (Brownies)|girls",
+          "Visual and performing arts|Choir|girls",
+          "Visual and performing arts|String Ensemble|girls",
+          "Visual and performing arts|Handbell Ensemble|girls",
+          "Visual and performing arts|Modern Dance|girls",
+          "Visual and performing arts|English Drama|girls",
+          "Club and societies|Art and Crafts|girls",
+          "Club and societies|Chinese Culture and Language|girls",
+          "Club and societies|Robotics|girls",
+          "Club and societies|Infocomm Technology (Media Production)|girls"
+        ],
+        "subjects_offered_ss": [
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Higher Chinese Language",
+          "Higher Tamil Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese",
+          "Higher Tamil",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|Languages|Stories Opening Windows to the world: Using narratives to appreciate Culture, build Connections and effect Change",
+          "LLP|Music & Performing Arts|SCGS, Arts For \u201cUr\u201d Life (SC-ArtFUL)"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"Singapore Chinese Girls Primary School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "11D0D2737BA14154A864B1DF245B460B"
+      },
+      {
+        "school_name_s": "South View Primary School",
+        "school_name_ngram": "South View Primary School",
+        "name_s": "South View Primary School",
+        "school_name_t": "South View Primary School",
+        "school_name": "South View Primary School",
+        "school_codes_o_level_s": "1241",
+        "school_codes_ip_s": "",
+        "slug_s": "south-view-primary-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "6 Choa Chu Kang Central",
+        "address_t": "6 Choa Chu Kang Central",
+        "postal_code_s": "689762",
+        "school_area_s": "Choa Chu Kang",
+        "school_area_t": "Choa Chu Kang",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active"
+        ],
+        "school_type_ss": [
+          "Government School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Badminton|both",
+          "Physical sports|Netball|girls",
+          "Physical sports|Football|boys",
+          "Physical sports|Floorball|both",
+          "Physical sports|Modular CCA (Sports)|both",
+          "Uniformed groups|Boys' Brigade|boys",
+          "Uniformed groups|Girls' Brigade|girls",
+          "Uniformed groups|Scouts|both",
+          "Visual and performing arts|Chinese Orchestra|both",
+          "Visual and performing arts|Choir|both",
+          "Visual and performing arts|Chinese Dance|both",
+          "Visual and performing arts|Indian Dance|both",
+          "Visual and performing arts|Malay Dance|both",
+          "Club and societies|Art and Crafts|both",
+          "Club and societies|Robotics|both",
+          "Club and societies|Digital Media|both",
+          "Club and societies|Media Resource Library|both",
+          "Club and societies|Physical Science|both",
+          "Others|Student Leadership (Prefect)|both"
+        ],
+        "subjects_offered_ss": [
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Foundation English Language",
+          "Foundation Mathematics",
+          "Higher Chinese Language",
+          "Higher Malay Language",
+          "Higher Tamil Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese",
+          "Higher Malay",
+          "Higher Tamil",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|Digital Making|Sustaining Gaia",
+          "LLP|Music & Performing Arts|Love Dance.  Love Life!"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"South View Primary School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "A7547F4DD8B8420DA7BFE89D3B59BC67"
+      },
+      {
+        "school_name_s": "Springdale Primary School",
+        "school_name_ngram": "Springdale Primary School",
+        "name_s": "Springdale Primary School",
+        "school_name_t": "Springdale Primary School",
+        "school_name": "Springdale Primary School",
+        "school_codes_o_level_s": "1262",
+        "school_codes_ip_s": "",
+        "slug_s": "springdale-primary-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "71 Anchorvale Link",
+        "address_t": "71 Anchorvale Link",
+        "postal_code_s": "544799",
+        "school_area_s": "Seng Kang",
+        "school_area_t": "Seng Kang",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active"
+        ],
+        "school_type_ss": [
+          "Government School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Badminton|both",
+          "Physical sports|Basketball|both",
+          "Physical sports|Floorball|boys",
+          "Physical sports|Artistic Gymnastics|girls",
+          "Physical sports|Outdoor Adventure|both",
+          "Physical sports|Modular CCA (Sports)|both",
+          "Uniformed groups|Scouts|both",
+          "Visual and performing arts|Choir|both",
+          "Visual and performing arts|Modern Dance|both",
+          "Visual and performing arts|Ukulele Ensemble|both",
+          "Club and societies|Art and Crafts|both",
+          "Club and societies|Design and Innovation|both",
+          "Club and societies|Environmental Science|both",
+          "Club and societies|Infocomm Technology (Media Production)|both"
+        ],
+        "subjects_offered_ss": [
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Higher Chinese Language",
+          "Higher Malay Language",
+          "Higher Tamil Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Chinese",
+          "Higher Malay",
+          "Higher Tamil",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Barrier-free accessibility",
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|Interdisciplinary|Nurturing Empathetic Change Makers",
+          "LLP|Community Service & Student Leadership|Nurturing Leaders with a Heart"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"Springdale Primary School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "C4BB666A47FA4295A733CF3E092A6A64"
+      },
+      {
+        "school_name_s": "St. Andrew's Junior School",
+        "school_name_ngram": "St. Andrew's Junior School",
+        "name_s": "St. Andrew's Junior School",
+        "school_name_t": "St. Andrew's Junior School",
+        "school_name": "St. Andrew's Junior School",
+        "school_codes_o_level_s": "5009",
+        "school_codes_ip_s": "",
+        "slug_s": "st-andrews-junior-school",
+        "type_s": "primary_school",
+        "type_t": "primary_school",
+        "active_b": true,
+        "dsa_ip_types_b": false,
+        "address_s": "2 Francis Thomas Drive",
+        "address_t": "2 Francis Thomas Drive",
+        "postal_code_s": "359337",
+        "school_area_s": "Toa Payoh",
+        "school_area_t": "Toa Payoh",
+        "admission_types_dsa_b": false,
+        "relocated_school_note_t": "",
+        "cop_max_i": 0,
+        "cop_min_i": 0,
+        "cutoff_points_dr": "-1",
+        "is_has_psle_b": false,
+        "sl_express_non_affiliation_max_s": "",
+        "sl_express_non_affiliation_min_s": "",
+        "sl_normal_academic_non_affiliation_max_s": "",
+        "sl_normal_academic_non_affiliation_min_s": "",
+        "sl_normal_technical_non_affiliation_max_s": "",
+        "sl_normal_technical_non_affiliation_min_s": "",
+        "sl_express_affiliation_max_s": "",
+        "sl_express_affiliation_min_s": "",
+        "sl_normal_academic_affiliation_max_s": "",
+        "sl_normal_academic_affiliation_min_s": "",
+        "sl_normal_technical_affiliation_max_s": "",
+        "sl_normal_technical_affiliation_min_s": "",
+        "sl_integrated_programme_affiliation_max_s": "",
+        "sl_integrated_programme_affiliation_min_s": "",
+        "sl_integrated_programme_non_affiliation_max_s": "",
+        "sl_integrated_programme_non_affiliation_min_s": "",
+        "school_journey_ss": [
+          "Primary school"
+        ],
+        "school_status_ss": [
+          "Active"
+        ],
+        "school_type_ss": [
+          "Government-Aided School"
+        ],
+        "co_cirricular_activities_full_path": [
+          "Physical sports|Badminton|boys",
+          "Physical sports|Basketball|boys",
+          "Physical sports|Hockey|boys",
+          "Physical sports|Rugby|boys",
+          "Physical sports|Swimming|boys",
+          "Physical sports|Modular CCA (Sports)|boys",
+          "Uniformed groups|Boys' Brigade|boys",
+          "Uniformed groups|Scouts|boys",
+          "Visual and performing arts|Choir|boys",
+          "Visual and performing arts|Concert Band|boys",
+          "Club and societies|Art and Crafts|boys",
+          "Club and societies|International Chess|boys",
+          "Club and societies|Digital Media|boys",
+          "Club and societies|Environmental Science|boys"
+        ],
+        "subjects_offered_ss": [
+          "Art",
+          "Chinese Language",
+          "English Language",
+          "Foundation Chinese Language",
+          "Foundation English Language",
+          "Foundation Mathematics",
+          "Foundation Malay Language",
+          "Foundation Tamil Language",
+          "Higher Malay Language",
+          "Higher Tamil Language",
+          "Mathematics",
+          "Malay Language",
+          "Music",
+          "Physical Education",
+          "Science",
+          "Social Studies",
+          "Tamil Language"
+        ],
+        "subjects_offered_trimmed_ss": [
+          "Chinese",
+          "Higher Malay",
+          "Higher Tamil",
+          "Malay",
+          "Tamil"
+        ],
+        "special_needs_ss": [
+          "Special Educational Needs Officers",
+          "P1 TRANSIT (Social and Behavioural Needs)"
+        ],
+        "electives_full_path": [
+          "ALP|Interdisciplinary|Saints as Servant Leaders who Bring Life to the Nations",
+          "LLP|Sports & Outdoor Education|Sports for Life"
+        ],
+        "weight": 1000,
+        "payload": "{\"type\":\"Primary school\",\"slug\":\"St Andrews Junior School\",\"schoolActive\":true,\"mergerSchoolName\":\"\",\"content_type\":\"schools\"}",
+        "id": "65FC45C3618842059F8F5DACDECC71E9"
+      }
+    ]
+  },
+  "facet_counts": {
+    "facet_queries": {},
+    "facet_fields": {},
+    "facet_ranges": {},
+    "facet_intervals": {},
+    "facet_heatmaps": {}
+  },
+  "facets": {
+    "count": 182,
+    "school_area": {
+      "buckets": [
+        {
+          "val": "Ang Mo Kio",
+          "count": 7
+        },
+        {
+          "val": "Bedok",
+          "count": 11
+        },
+        {
+          "val": "Bishan",
+          "count": 3
+        },
+        {
+          "val": "Bukit Batok",
+          "count": 6
+        },
+        {
+          "val": "Bukit Merah",
+          "count": 7
+        },
+        {
+          "val": "Bukit Panjang",
+          "count": 7
+        },
+        {
+          "val": "Bukit Timah",
+          "count": 6
+        },
+        {
+          "val": "Central",
+          "count": 3
+        },
+        {
+          "val": "Choa Chu Kang",
+          "count": 8
+        },
+        {
+          "val": "Clementi",
+          "count": 4
+        },
+        {
+          "val": "Geylang",
+          "count": 5
+        },
+        {
+          "val": "Hougang",
+          "count": 9
+        },
+        {
+          "val": "Jurong East",
+          "count": 3
+        },
+        {
+          "val": "Jurong West",
+          "count": 11
+        },
+        {
+          "val": "Kallang",
+          "count": 3
+        },
+        {
+          "val": "Marine Parade",
+          "count": 3
+        },
+        {
+          "val": "Novena",
+          "count": 3
+        },
+        {
+          "val": "Pasir Ris",
+          "count": 6
+        },
+        {
+          "val": "Punggol",
+          "count": 11
+        },
+        {
+          "val": "Queenstown",
+          "count": 3
+        },
+        {
+          "val": "Sembawang",
+          "count": 5
+        },
+        {
+          "val": "Seng Kang",
+          "count": 12
+        },
+        {
+          "val": "Serangoon",
+          "count": 5
+        },
+        {
+          "val": "Tampines",
+          "count": 11
+        },
+        {
+          "val": "Toa Payoh",
+          "count": 8
+        },
+        {
+          "val": "Woodlands",
+          "count": 12
+        },
+        {
+          "val": "Yishun",
+          "count": 10
+        }
+      ]
+    },
+    "co_cirricular_activities_full_path": {
+      "buckets": [
+        {
+          "val": "Club and societies",
+          "count": 171
+        },
+        {
+          "val": "Club and societies|Art and Crafts",
+          "count": 161
+        },
+        {
+          "val": "Club and societies|Art and Crafts|both",
+          "count": 136
+        },
+        {
+          "val": "Club and societies|Art and Crafts|boys",
+          "count": 8
+        },
+        {
+          "val": "Club and societies|Art and Crafts|girls",
+          "count": 17
+        },
+        {
+          "val": "Club and societies|Audio Visual Aid",
+          "count": 3
+        },
+        {
+          "val": "Club and societies|Audio Visual Aid|both",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Audio Visual Aid|boys",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Audio Visual Aid|girls",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Ceramics",
+          "count": 4
+        },
+        {
+          "val": "Club and societies|Ceramics|both",
+          "count": 3
+        },
+        {
+          "val": "Club and societies|Ceramics|girls",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Cheerleading",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Cheerleading|girls",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Chinese Calligraphy and Brush Painting",
+          "count": 7
+        },
+        {
+          "val": "Club and societies|Chinese Calligraphy and Brush Painting|both",
+          "count": 7
+        },
+        {
+          "val": "Club and societies|Chinese Chess",
+          "count": 4
+        },
+        {
+          "val": "Club and societies|Chinese Chess|both",
+          "count": 3
+        },
+        {
+          "val": "Club and societies|Chinese Chess|boys",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Chinese Culture and Language",
+          "count": 8
+        },
+        {
+          "val": "Club and societies|Chinese Culture and Language|both",
+          "count": 7
+        },
+        {
+          "val": "Club and societies|Chinese Culture and Language|girls",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Chinese Weiqi",
+          "count": 5
+        },
+        {
+          "val": "Club and societies|Chinese Weiqi|both",
+          "count": 5
+        },
+        {
+          "val": "Club and societies|Community Service",
+          "count": 3
+        },
+        {
+          "val": "Club and societies|Community Service|both",
+          "count": 3
+        },
+        {
+          "val": "Club and societies|Debating and Public Speaking",
+          "count": 5
+        },
+        {
+          "val": "Club and societies|Debating and Public Speaking|both",
+          "count": 5
+        },
+        {
+          "val": "Club and societies|Design and Innovation",
+          "count": 9
+        },
+        {
+          "val": "Club and societies|Design and Innovation|both",
+          "count": 9
+        },
+        {
+          "val": "Club and societies|Diabolo",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Diabolo|both",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Digital Media",
+          "count": 11
+        },
+        {
+          "val": "Club and societies|Digital Media|both",
+          "count": 9
+        },
+        {
+          "val": "Club and societies|Digital Media|boys",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Digital Media|girls",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Dikir Barat",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Dikir Barat|boys",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|English Culture and Language",
+          "count": 5
+        },
+        {
+          "val": "Club and societies|English Culture and Language|both",
+          "count": 5
+        },
+        {
+          "val": "Club and societies|English Language, Drama and Debating",
+          "count": 16
+        },
+        {
+          "val": "Club and societies|English Language, Drama and Debating|both",
+          "count": 14
+        },
+        {
+          "val": "Club and societies|English Language, Drama and Debating|boys",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|English Language, Drama and Debating|girls",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Entrepreneurship",
+          "count": 2
+        },
+        {
+          "val": "Club and societies|Entrepreneurship|both",
+          "count": 2
+        },
+        {
+          "val": "Club and societies|Environmental Science",
+          "count": 65
+        },
+        {
+          "val": "Club and societies|Environmental Science|both",
+          "count": 62
+        },
+        {
+          "val": "Club and societies|Environmental Science|boys",
+          "count": 2
+        },
+        {
+          "val": "Club and societies|Environmental Science|girls",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Home Economics",
+          "count": 5
+        },
+        {
+          "val": "Club and societies|Home Economics|both",
+          "count": 3
+        },
+        {
+          "val": "Club and societies|Home Economics|girls",
+          "count": 2
+        },
+        {
+          "val": "Club and societies|Infocomm Technology (Computing)",
+          "count": 36
+        },
+        {
+          "val": "Club and societies|Infocomm Technology (Computing)|both",
+          "count": 32
+        },
+        {
+          "val": "Club and societies|Infocomm Technology (Computing)|boys",
+          "count": 2
+        },
+        {
+          "val": "Club and societies|Infocomm Technology (Computing)|girls",
+          "count": 2
+        },
+        {
+          "val": "Club and societies|Infocomm Technology (Media Production)",
+          "count": 61
+        },
+        {
+          "val": "Club and societies|Infocomm Technology (Media Production)|both",
+          "count": 54
+        },
+        {
+          "val": "Club and societies|Infocomm Technology (Media Production)|boys",
+          "count": 2
+        },
+        {
+          "val": "Club and societies|Infocomm Technology (Media Production)|girls",
+          "count": 5
+        },
+        {
+          "val": "Club and societies|International Chess",
+          "count": 20
+        },
+        {
+          "val": "Club and societies|International Chess|both",
+          "count": 14
+        },
+        {
+          "val": "Club and societies|International Chess|boys",
+          "count": 5
+        },
+        {
+          "val": "Club and societies|International Chess|girls",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Journalism",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Journalism|boys",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Lion and Dragon Dance",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Lion and Dragon Dance|both",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Mathematics",
+          "count": 5
+        },
+        {
+          "val": "Club and societies|Mathematics|both",
+          "count": 4
+        },
+        {
+          "val": "Club and societies|Mathematics|boys",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Media Resource Library",
+          "count": 14
+        },
+        {
+          "val": "Club and societies|Media Resource Library|both",
+          "count": 14
+        },
+        {
+          "val": "Club and societies|Photography",
+          "count": 5
+        },
+        {
+          "val": "Club and societies|Photography|both",
+          "count": 5
+        },
+        {
+          "val": "Club and societies|Physical Science",
+          "count": 26
+        },
+        {
+          "val": "Club and societies|Physical Science|both",
+          "count": 19
+        },
+        {
+          "val": "Club and societies|Physical Science|boys",
+          "count": 5
+        },
+        {
+          "val": "Club and societies|Physical Science|girls",
+          "count": 2
+        },
+        {
+          "val": "Club and societies|Publication",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Publication|both",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Robotics",
+          "count": 59
+        },
+        {
+          "val": "Club and societies|Robotics|both",
+          "count": 51
+        },
+        {
+          "val": "Club and societies|Robotics|boys",
+          "count": 5
+        },
+        {
+          "val": "Club and societies|Robotics|girls",
+          "count": 3
+        },
+        {
+          "val": "Club and societies|Speech and Drama",
+          "count": 11
+        },
+        {
+          "val": "Club and societies|Speech and Drama|both",
+          "count": 9
+        },
+        {
+          "val": "Club and societies|Speech and Drama|boys",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Speech and Drama|girls",
+          "count": 1
+        },
+        {
+          "val": "Club and societies|Strategy Games",
+          "count": 5
+        },
+        {
+          "val": "Club and societies|Strategy Games|both",
+          "count": 4
+        },
+        {
+          "val": "Club and societies|Strategy Games|girls",
+          "count": 1
+        },
+        {
+          "val": "Others",
+          "count": 19
+        },
+        {
+          "val": "Others|Student Leadership (Council)",
+          "count": 1
+        },
+        {
+          "val": "Others|Student Leadership (Council)|-",
+          "count": 1
+        },
+        {
+          "val": "Others|Student Leadership (House)",
+          "count": 1
+        },
+        {
+          "val": "Others|Student Leadership (House)|both",
+          "count": 1
+        },
+        {
+          "val": "Others|Student Leadership (Peer Support)",
+          "count": 1
+        },
+        {
+          "val": "Others|Student Leadership (Peer Support)|both",
+          "count": 1
+        },
+        {
+          "val": "Others|Student Leadership (Prefect)",
+          "count": 18
+        },
+        {
+          "val": "Others|Student Leadership (Prefect)|both",
+          "count": 17
+        },
+        {
+          "val": "Others|Student Leadership (Prefect)|boys",
+          "count": 1
+        },
+        {
+          "val": "Physical sports",
+          "count": 173
+        },
+        {
+          "val": "Physical sports|Artistic Gymnastics",
+          "count": 12
+        },
+        {
+          "val": "Physical sports|Artistic Gymnastics|both",
+          "count": 3
+        },
+        {
+          "val": "Physical sports|Artistic Gymnastics|girls",
+          "count": 9
+        },
+        {
+          "val": "Physical sports|Artistic Swimming",
+          "count": 1
+        },
+        {
+          "val": "Physical sports|Artistic Swimming|girls",
+          "count": 1
+        },
+        {
+          "val": "Physical sports|Badminton",
+          "count": 98
+        },
+        {
+          "val": "Physical sports|Badminton|-",
+          "count": 1
+        },
+        {
+          "val": "Physical sports|Badminton|both",
+          "count": 76
+        },
+        {
+          "val": "Physical sports|Badminton|boys",
+          "count": 12
+        },
+        {
+          "val": "Physical sports|Badminton|girls",
+          "count": 9
+        },
+        {
+          "val": "Physical sports|Basketball",
+          "count": 104
+        },
+        {
+          "val": "Physical sports|Basketball|both",
+          "count": 58
+        },
+        {
+          "val": "Physical sports|Basketball|boys",
+          "count": 43
+        },
+        {
+          "val": "Physical sports|Basketball|girls",
+          "count": 3
+        },
+        {
+          "val": "Physical sports|Bowling",
+          "count": 16
+        },
+        {
+          "val": "Physical sports|Bowling|both",
+          "count": 6
+        },
+        {
+          "val": "Physical sports|Bowling|boys",
+          "count": 4
+        },
+        {
+          "val": "Physical sports|Bowling|girls",
+          "count": 6
+        },
+        {
+          "val": "Physical sports|Fencing",
+          "count": 1
+        },
+        {
+          "val": "Physical sports|Fencing|girls",
+          "count": 1
+        },
+        {
+          "val": "Physical sports|Floorball",
+          "count": 49
+        },
+        {
+          "val": "Physical sports|Floorball|both",
+          "count": 27
+        },
+        {
+          "val": "Physical sports|Floorball|boys",
+          "count": 15
+        },
+        {
+          "val": "Physical sports|Floorball|girls",
+          "count": 7
+        },
+        {
+          "val": "Physical sports|Football",
+          "count": 104
+        },
+        {
+          "val": "Physical sports|Football|both",
+          "count": 20
+        },
+        {
+          "val": "Physical sports|Football|boys",
+          "count": 79
+        },
+        {
+          "val": "Physical sports|Football|girls",
+          "count": 5
+        },
+        {
+          "val": "Physical sports|Golf",
+          "count": 1
+        },
+        {
+          "val": "Physical sports|Golf|boys",
+          "count": 1
+        },
+        {
+          "val": "Physical sports|Health and Fitness",
+          "count": 4
+        },
+        {
+          "val": "Physical sports|Health and Fitness|both",
+          "count": 4
+        },
+        {
+          "val": "Physical sports|Hockey",
+          "count": 12
+        },
+        {
+          "val": "Physical sports|Hockey|both",
+          "count": 4
+        },
+        {
+          "val": "Physical sports|Hockey|boys",
+          "count": 7
+        },
+        {
+          "val": "Physical sports|Hockey|girls",
+          "count": 1
+        },
+        {
+          "val": "Physical sports|Modular CCA (Sports)",
+          "count": 20
+        },
+        {
+          "val": "Physical sports|Modular CCA (Sports)|both",
+          "count": 15
+        },
+        {
+          "val": "Physical sports|Modular CCA (Sports)|boys",
+          "count": 2
+        },
+        {
+          "val": "Physical sports|Modular CCA (Sports)|girls",
+          "count": 3
+        },
+        {
+          "val": "Physical sports|Netball",
+          "count": 52
+        },
+        {
+          "val": "Physical sports|Netball|girls",
+          "count": 52
+        },
+        {
+          "val": "Physical sports|Outdoor Adventure",
+          "count": 8
+        },
+        {
+          "val": "Physical sports|Outdoor Adventure|both",
+          "count": 8
+        },
+        {
+          "val": "Physical sports|Rhythmic Gymnastics",
+          "count": 8
+        },
+        {
+          "val": "Physical sports|Rhythmic Gymnastics|girls",
+          "count": 8
+        },
+        {
+          "val": "Physical sports|Rockwall Climbing",
+          "count": 5
+        },
+        {
+          "val": "Physical sports|Rockwall Climbing|both",
+          "count": 4
+        },
+        {
+          "val": "Physical sports|Rockwall Climbing|boys",
+          "count": 1
+        },
+        {
+          "val": "Physical sports|Rope Skipping",
+          "count": 14
+        },
+        {
+          "val": "Physical sports|Rope Skipping|both",
+          "count": 13
+        },
+        {
+          "val": "Physical sports|Rope Skipping|girls",
+          "count": 1
+        },
+        {
+          "val": "Physical sports|Rugby",
+          "count": 19
+        },
+        {
+          "val": "Physical sports|Rugby|boys",
+          "count": 19
+        },
+        {
+          "val": "Physical sports|Sailing",
+          "count": 5
+        },
+        {
+          "val": "Physical sports|Sailing|both",
+          "count": 3
+        },
+        {
+          "val": "Physical sports|Sailing|boys",
+          "count": 1
+        },
+        {
+          "val": "Physical sports|Sailing|girls",
+          "count": 1
+        },
+        {
+          "val": "Physical sports|Sepaktakraw",
+          "count": 4
+        },
+        {
+          "val": "Physical sports|Sepaktakraw|boys",
+          "count": 4
+        },
+        {
+          "val": "Physical sports|Silat",
+          "count": 2
+        },
+        {
+          "val": "Physical sports|Silat|both",
+          "count": 2
+        },
+        {
+          "val": "Physical sports|Softball",
+          "count": 14
+        },
+        {
+          "val": "Physical sports|Softball|both",
+          "count": 4
+        },
+        {
+          "val": "Physical sports|Softball|boys",
+          "count": 4
+        },
+        {
+          "val": "Physical sports|Softball|girls",
+          "count": 6
+        },
+        {
+          "val": "Physical sports|Swimming",
+          "count": 7
+        },
+        {
+          "val": "Physical sports|Swimming|both",
+          "count": 3
+        },
+        {
+          "val": "Physical sports|Swimming|boys",
+          "count": 2
+        },
+        {
+          "val": "Physical sports|Swimming|girls",
+          "count": 2
+        },
+        {
+          "val": "Physical sports|Table Tennis",
+          "count": 40
+        },
+        {
+          "val": "Physical sports|Table Tennis|both",
+          "count": 28
+        },
+        {
+          "val": "Physical sports|Table Tennis|boys",
+          "count": 7
+        },
+        {
+          "val": "Physical sports|Table Tennis|girls",
+          "count": 5
+        },
+        {
+          "val": "Physical sports|Taekwondo",
+          "count": 17
+        },
+        {
+          "val": "Physical sports|Taekwondo|both",
+          "count": 14
+        },
+        {
+          "val": "Physical sports|Taekwondo|boys",
+          "count": 2
+        },
+        {
+          "val": "Physical sports|Taekwondo|girls",
+          "count": 1
+        },
+        {
+          "val": "Physical sports|Tchoukball",
+          "count": 10
+        },
+        {
+          "val": "Physical sports|Tchoukball|both",
+          "count": 10
+        },
+        {
+          "val": "Physical sports|Tennis",
+          "count": 11
+        },
+        {
+          "val": "Physical sports|Tennis|both",
+          "count": 3
+        },
+        {
+          "val": "Physical sports|Tennis|boys",
+          "count": 3
+        },
+        {
+          "val": "Physical sports|Tennis|girls",
+          "count": 5
+        },
+        {
+          "val": "Physical sports|Track and Field",
+          "count": 40
+        },
+        {
+          "val": "Physical sports|Track and Field|both",
+          "count": 33
+        },
+        {
+          "val": "Physical sports|Track and Field|boys",
+          "count": 3
+        },
+        {
+          "val": "Physical sports|Track and Field|girls",
+          "count": 4
+        },
+        {
+          "val": "Physical sports|Volleyball",
+          "count": 37
+        },
+        {
+          "val": "Physical sports|Volleyball|both",
+          "count": 24
+        },
+        {
+          "val": "Physical sports|Volleyball|boys",
+          "count": 6
+        },
+        {
+          "val": "Physical sports|Volleyball|girls",
+          "count": 7
+        },
+        {
+          "val": "Physical sports|Wushu",
+          "count": 68
+        },
+        {
+          "val": "Physical sports|Wushu|-",
+          "count": 1
+        },
+        {
+          "val": "Physical sports|Wushu|both",
+          "count": 61
+        },
+        {
+          "val": "Physical sports|Wushu|boys",
+          "count": 5
+        },
+        {
+          "val": "Physical sports|Wushu|girls",
+          "count": 1
+        },
+        {
+          "val": "Uniformed groups",
+          "count": 165
+        },
+        {
+          "val": "Uniformed groups|Boys' Brigade",
+          "count": 36
+        },
+        {
+          "val": "Uniformed groups|Boys' Brigade|boys",
+          "count": 36
+        },
+        {
+          "val": "Uniformed groups|Girl Guides (Brownies)",
+          "count": 67
+        },
+        {
+          "val": "Uniformed groups|Girl Guides (Brownies)|girls",
+          "count": 67
+        },
+        {
+          "val": "Uniformed groups|Girls' Brigade",
+          "count": 32
+        },
+        {
+          "val": "Uniformed groups|Girls' Brigade|girls",
+          "count": 32
+        },
+        {
+          "val": "Uniformed groups|Red Cross Youth",
+          "count": 30
+        },
+        {
+          "val": "Uniformed groups|Red Cross Youth|both",
+          "count": 28
+        },
+        {
+          "val": "Uniformed groups|Red Cross Youth|girls",
+          "count": 2
+        },
+        {
+          "val": "Uniformed groups|Scouts",
+          "count": 117
+        },
+        {
+          "val": "Uniformed groups|Scouts|both",
+          "count": 70
+        },
+        {
+          "val": "Uniformed groups|Scouts|boys",
+          "count": 47
+        },
+        {
+          "val": "Visual and performing arts",
+          "count": 173
+        },
+        {
+          "val": "Visual and performing arts|Angklung/Kulintang Ensemble",
+          "count": 19
+        },
+        {
+          "val": "Visual and performing arts|Angklung/Kulintang Ensemble|both",
+          "count": 18
+        },
+        {
+          "val": "Visual and performing arts|Angklung/Kulintang Ensemble|girls",
+          "count": 1
+        },
+        {
+          "val": "Visual and performing arts|Ballet",
+          "count": 1
+        },
+        {
+          "val": "Visual and performing arts|Ballet|girls",
+          "count": 1
+        },
+        {
+          "val": "Visual and performing arts|Brass Band",
+          "count": 26
+        },
+        {
+          "val": "Visual and performing arts|Brass Band|both",
+          "count": 23
+        },
+        {
+          "val": "Visual and performing arts|Brass Band|boys",
+          "count": 2
+        },
+        {
+          "val": "Visual and performing arts|Brass Band|girls",
+          "count": 1
+        },
+        {
+          "val": "Visual and performing arts|Chinese Dance",
+          "count": 85
+        },
+        {
+          "val": "Visual and performing arts|Chinese Dance|both",
+          "count": 41
+        },
+        {
+          "val": "Visual and performing arts|Chinese Dance|girls",
+          "count": 44
+        },
+        {
+          "val": "Visual and performing arts|Chinese Drums",
+          "count": 6
+        },
+        {
+          "val": "Visual and performing arts|Chinese Drums|both",
+          "count": 6
+        },
+        {
+          "val": "Visual and performing arts|Chinese Orchestra",
+          "count": 26
+        },
+        {
+          "val": "Visual and performing arts|Chinese Orchestra|both",
+          "count": 25
+        },
+        {
+          "val": "Visual and performing arts|Chinese Orchestra|boys",
+          "count": 1
+        },
+        {
+          "val": "Visual and performing arts|Choir",
+          "count": 137
+        },
+        {
+          "val": "Visual and performing arts|Choir|both",
+          "count": 114
+        },
+        {
+          "val": "Visual and performing arts|Choir|boys",
+          "count": 7
+        },
+        {
+          "val": "Visual and performing arts|Choir|girls",
+          "count": 16
+        },
+        {
+          "val": "Visual and performing arts|Comics and Illustration",
+          "count": 1
+        },
+        {
+          "val": "Visual and performing arts|Comics and Illustration|both",
+          "count": 1
+        },
+        {
+          "val": "Visual and performing arts|Concert Band",
+          "count": 21
+        },
+        {
+          "val": "Visual and performing arts|Concert Band|both",
+          "count": 15
+        },
+        {
+          "val": "Visual and performing arts|Concert Band|boys",
+          "count": 4
+        },
+        {
+          "val": "Visual and performing arts|Concert Band|girls",
+          "count": 2
+        },
+        {
+          "val": "Visual and performing arts|Cultural Dance",
+          "count": 3
+        },
+        {
+          "val": "Visual and performing arts|Cultural Dance|both",
+          "count": 3
+        },
+        {
+          "val": "Visual and performing arts|English Drama",
+          "count": 34
+        },
+        {
+          "val": "Visual and performing arts|English Drama|both",
+          "count": 30
+        },
+        {
+          "val": "Visual and performing arts|English Drama|girls",
+          "count": 4
+        },
+        {
+          "val": "Visual and performing arts|Gamelan Ensemble",
+          "count": 2
+        },
+        {
+          "val": "Visual and performing arts|Gamelan Ensemble|both",
+          "count": 1
+        },
+        {
+          "val": "Visual and performing arts|Gamelan Ensemble|girls",
+          "count": 1
+        },
+        {
+          "val": "Visual and performing arts|Guitar Ensemble",
+          "count": 16
+        },
+        {
+          "val": "Visual and performing arts|Guitar Ensemble|both",
+          "count": 15
+        },
+        {
+          "val": "Visual and performing arts|Guitar Ensemble|boys",
+          "count": 1
+        },
+        {
+          "val": "Visual and performing arts|Guzheng Ensemble",
+          "count": 44
+        },
+        {
+          "val": "Visual and performing arts|Guzheng Ensemble|both",
+          "count": 42
+        },
+        {
+          "val": "Visual and performing arts|Guzheng Ensemble|girls",
+          "count": 2
+        },
+        {
+          "val": "Visual and performing arts|Handbell Ensemble",
+          "count": 12
+        },
+        {
+          "val": "Visual and performing arts|Handbell Ensemble|both",
+          "count": 5
+        },
+        {
+          "val": "Visual and performing arts|Handbell Ensemble|girls",
+          "count": 7
+        },
+        {
+          "val": "Visual and performing arts|Harmonica Ensemble",
+          "count": 3
+        },
+        {
+          "val": "Visual and performing arts|Harmonica Ensemble|both",
+          "count": 3
+        },
+        {
+          "val": "Visual and performing arts|Indian Dance",
+          "count": 35
+        },
+        {
+          "val": "Visual and performing arts|Indian Dance|both",
+          "count": 29
+        },
+        {
+          "val": "Visual and performing arts|Indian Dance|girls",
+          "count": 6
+        },
+        {
+          "val": "Visual and performing arts|Malay Dance",
+          "count": 56
+        },
+        {
+          "val": "Visual and performing arts|Malay Dance|both",
+          "count": 49
+        },
+        {
+          "val": "Visual and performing arts|Malay Dance|girls",
+          "count": 7
+        },
+        {
+          "val": "Visual and performing arts|Modern Dance",
+          "count": 85
+        },
+        {
+          "val": "Visual and performing arts|Modern Dance|-",
+          "count": 1
+        },
+        {
+          "val": "Visual and performing arts|Modern Dance|both",
+          "count": 56
+        },
+        {
+          "val": "Visual and performing arts|Modern Dance|boys",
+          "count": 7
+        },
+        {
+          "val": "Visual and performing arts|Modern Dance|girls",
+          "count": 21
+        },
+        {
+          "val": "Visual and performing arts|Percussion Ensemble",
+          "count": 9
+        },
+        {
+          "val": "Visual and performing arts|Percussion Ensemble|both",
+          "count": 9
+        },
+        {
+          "val": "Visual and performing arts|Pop and Jazz",
+          "count": 1
+        },
+        {
+          "val": "Visual and performing arts|Pop and Jazz|both",
+          "count": 1
+        },
+        {
+          "val": "Visual and performing arts|String Ensemble",
+          "count": 22
+        },
+        {
+          "val": "Visual and performing arts|String Ensemble|both",
+          "count": 16
+        },
+        {
+          "val": "Visual and performing arts|String Ensemble|boys",
+          "count": 2
+        },
+        {
+          "val": "Visual and performing arts|String Ensemble|girls",
+          "count": 4
+        },
+        {
+          "val": "Visual and performing arts|Tap Dance",
+          "count": 1
+        },
+        {
+          "val": "Visual and performing arts|Tap Dance|both",
+          "count": 1
+        },
+        {
+          "val": "Visual and performing arts|Ukulele Ensemble",
+          "count": 2
+        },
+        {
+          "val": "Visual and performing arts|Ukulele Ensemble|both",
+          "count": 2
+        },
+        {
+          "val": "Visual and performing arts|Western Orchestra",
+          "count": 1
+        },
+        {
+          "val": "Visual and performing arts|Western Orchestra|both",
+          "count": 1
+        }
+      ]
+    },
+    "subjects_offered_trimmed": {
+      "buckets": [
+        {
+          "val": "Chinese",
+          "count": 180
+        },
+        {
+          "val": "Higher Chinese",
+          "count": 171
+        },
+        {
+          "val": "Higher Malay",
+          "count": 137
+        },
+        {
+          "val": "Higher Tamil",
+          "count": 141
+        },
+        {
+          "val": "Malay",
+          "count": 166
+        },
+        {
+          "val": "Tamil",
+          "count": 167
+        }
+      ]
+    },
+    "electives_full_path": {
+      "buckets": [
+        {
+          "val": "ALP",
+          "count": 181
+        },
+        {
+          "val": "ALP|Digital Making",
+          "count": 10
+        },
+        {
+          "val": "ALP|Digital Making|ALP I: Start Young, Start It Right \u2013 Curating My Learning (P1 to P4)\nALP II: Orientation to My Future Learning \u2013 Ready for Tomorrow (P5 and P6)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Digital Making|Digital Creativity @ ESPS",
+          "count": 1
+        },
+        {
+          "val": "ALP|Digital Making|Gabrielite Digital Literacy Programme (GDLP)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Digital Making|Makers@WPS",
+          "count": 1
+        },
+        {
+          "val": "ALP|Digital Making|New Media and Artificial Intelligence For Us (AI4U)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Digital Making|Play. Create. Share",
+          "count": 1
+        },
+        {
+          "val": "ALP|Digital Making|Sustaining Gaia",
+          "count": 1
+        },
+        {
+          "val": "ALP|Digital Making|Tech4Good",
+          "count": 1
+        },
+        {
+          "val": "ALP|Digital Making|The E\u00b3 journey \n(Excite, Enable, Excel)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Digital Making|Voyagers@PLVPS",
+          "count": 1
+        },
+        {
+          "val": "ALP|Innovation & Enterprise",
+          "count": 12
+        },
+        {
+          "val": "ALP|Innovation & Enterprise|Chongfu Design Thinkers' Programme",
+          "count": 1
+        },
+        {
+          "val": "ALP|Innovation & Enterprise|D.R.I.V.E. - Developing Resilient Innovative Entrepreneurs",
+          "count": 1
+        },
+        {
+          "val": "ALP|Innovation & Enterprise|D2C@PRPS: Discover, Dream and Create Possibilities",
+          "count": 1
+        },
+        {
+          "val": "ALP|Innovation & Enterprise|DISC in DLSS (Design.Innovate.Service.Community)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Innovation & Enterprise|Designing For InclUsivity (Design4U)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Innovation & Enterprise|EPIC -  Empowering Pupils to Innovate for the Community",
+          "count": 1
+        },
+        {
+          "val": "ALP|Innovation & Enterprise|Future-Makers Eco-Champions (FMEC) @ YZ",
+          "count": 1
+        },
+        {
+          "val": "ALP|Innovation & Enterprise|Innovation through Service and Leadership (iSL@PVPS)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Innovation & Enterprise|Inventive and Critical Thinking Skills through Innovation and Entrepreneurship Excellence Programme",
+          "count": 1
+        },
+        {
+          "val": "ALP|Innovation & Enterprise|PLAY@JPS  (Passion, Learning, Adapt & Apply, asking whY)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Innovation & Enterprise|SPROUT \u2013 Sustainable Problem-solving and Rootedness through OUTreach",
+          "count": 1
+        },
+        {
+          "val": "ALP|Innovation & Enterprise|iDARE @ ATS",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary",
+          "count": 54
+        },
+        {
+          "val": "ALP|Interdisciplinary|A3 Eco-Citizens@MTS",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Advocacy through Thinking",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Advocates and Innovators for Sustainable Living",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|CAR2E : Critical & Appreciative Reading to Respond EMusic & Performing Artsthetically",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Caring and Responsible Environmentalist (CaRE) Programme",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Caring for the Community through Interdisciplinary Learning",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Constructionist Game Design",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Creative Problem Solving at Innova Primary School (CPS@IPS)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Creative Thinkers",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Creative and Inventive Thinking (CIT) Programme",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Curriculum Integration through Innovation",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|D.R.E.A.M.@Yew Tee (Developing Reflective Learners, Empowering Creative Minds)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|E3 (Enable, Enrich and Empower) Reasoning @ Concord",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Education for Sustainable Development (ESD @ Huamin)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Empowered Emissary of the Environment (E3) Programme",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Empowering Learners to be Environmental Activists (ELEA)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Environmental Education (E2@BGPS)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Environmental Education in Xinghua",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Environmental Project-based Learning",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|From Farm to Table",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Future Skills through Experiential Project Work",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Future-ready K-Champs",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|GLOBE@Xinmin Pri Sch (Green Lifestyle Observed By Everyone)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|GreeNovation",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Green Living @ JWPS",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Innovation and Service Learning through Integrated Project Work (IPW@HGS)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Innovative & Inventive Learners through Integration of Curriculum (I to I)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Inquiry-based Learning supported by Thinking Routines",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Inspiring Reflective and Innovative Self-directed learners (IRIS)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Inspiring Thinking Tinkerers @Clementi Primary: An Interdisciplinary Approach to develop Critical and Inventive Thinking, Collaborative and Communication skills",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Learning by Design",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|NHPS Thinking Programme",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Nurturing Critical and Inventive Learners through Interdisciplinary Project Work (IPW)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Nurturing Empathetic Change Makers",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Nurturing Future Learners, Citizens and Leaders through a whole school Interdisciplinary approach in Eco-Environmental Curriculum",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Nurturing Future-ready T(h)inkers through Maker Education",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Nurturing Language Artisans through an Interdisciplinary Approach",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Nurturing Thinking",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Nurturing the Thinking F.A.C.E (Frontierers who are Adaptive, Communicative and Empowered) for tomorrow",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Observe \u2013 Reflect \u2013 Act (ORA @ SJI Junior)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Playworks \u2013 Nurturing Critical and Inventive Thinkers",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Positive Design and Maker Education",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Project THINK (Thinking Holistic Innovative Networked Kids) for Home Earth",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Saints as Servant Leaders who Bring Life to the Nations",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Skilling the Mind, Empowering the Thinking",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Smart, Selfless and Sustainability (SSS) Stewards",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Sustainability \u2013 Nurturing Environment Champions for a Sustainable Future",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|ThInkers with Heart",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Think@Yuhua \u2013 Developing Critical and Creative Thinkers",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Thinking Curriculum @Cantonment Primary School (TC@CPS)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|Urban Food Warriors",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|iDARE2 to be a Critical, Adaptive and Inventive Thinker",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|nuCLEAR@EPPS (nurturing Citizen Leaders with Empathy And Resilience)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Interdisciplinary|scieNcE Alive@NEwTown",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages",
+          "count": 39
+        },
+        {
+          "val": "ALP|Languages|Bilingual LIterature Appreciation Student Series (BLISS)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Bilingual Media Studies (BMS) Programme",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Comms-IT Rt!",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Communication",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Competent, Confident Communicators",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Competent, Confident and Empathetic Communicators in Speech and Writing",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Confident, Competent and Respectful Communicators",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Critical Thinking Accelerated Programme (CAPtivate)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Developing Every Pupil into a Confident Communicator",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Developing a Bilingual and Effective Speaker and wriTer in every pupil (BEST)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Drama and Literary Arts for LifE! (D\u2019LitE)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Dream it, Do it",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|E-Cube: Engage, Excite, Express",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|E2C@PGVP (Effective and Empathetic Communicators)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Effective Communication",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Effective Communication through Drama Pedagogies",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Empathetic Listeners. Effective Communicators. Trailblazing Advocates (ELECTRA@MBS)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Enhanced Spoken Languages",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Every Kong Hwaian an Effective Communicator",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Fairfield wRiters, Reporters and Ambassadors Programme (FR2AP)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Fluent Speakers Future Stars- Developing Gongshangers into Effective Communicators",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Future-ready Communicators Programme for English and Mother Tongue Languages",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Grooming Compassionate and Confident Ladies to Advocate for Worthy Causes",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Holistic English Literacy Programme (HELP)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|I am a TNPS Influencer",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|IGNITE your CONFIDENCE, EXPRESS yourself!",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Journalist-in-Making (JiM)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Joy of Learning Languages (JOL2@WOODS)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|LEAPS (Learn, Engage, Articulate & Perform!)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Literacy Through Photojournalism",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Media Whiz Kids! Nurturing Confident and Media Literate Communicators",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|News Enrichment Xishanites Unitedly Share (NEXUS)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Nurturing Confident Communicators",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|POISE@AMKP \u2013 Programme to develop Outstanding, Inspired and SEnsitive communicators at Ang Mo Kio Primary School",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|STAR ACTtituDE: Students with Strengths, Talents, Aspiration and Resilience to Achieve Creativity and Confidence with Transformation inspired through Drama in Education",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Spark Ideas, Spark Interest, Spark Action: Igniting A Passion for Purposeful Storytelling (SPARKS@MPS)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|Stories Opening Windows to the world: Using narratives to appreciate Culture, build Connections and effect Change",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|The H.E.A.R.T of Communication (Heart, Head and Hands and Ears through Application in Real-life situations and Tiered)",
+          "count": 1
+        },
+        {
+          "val": "ALP|Languages|The Hildan Ambassador Programme",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM  - Material Science",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM  - Material Science|Eureka!",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Game Design and Making",
+          "count": 7
+        },
+        {
+          "val": "ALP|STEM - Game Design and Making|Be a deSign Thinker (B.E.S.T)",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Game Design and Making|C3@TNS \nCritical, Creative & Computational Thinking",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Game Design and Making|CODE@SAPS",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Game Design and Making|Developing 21st Century Competencies through Robotics",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Game Design and Making|I3QUEST \u2013Question, Imagine, Innovate, Inspire",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Game Design and Making|Innovative Thinking through Coding and Robotics",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Game Design and Making|Nurturing 21st Century Competencies through Computational Thinking With Design Thinking",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Health Science",
+          "count": 2
+        },
+        {
+          "val": "ALP|STEM - Health Science|C.O.D.E.R.S (Computational Thinking to Develop Empathetic, Resilient Solvers)",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Health Science|Watch Me SOAR (WMS)",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Material Science",
+          "count": 6
+        },
+        {
+          "val": "ALP|STEM - Material Science|Aspiring Confident Engineers (ACE)@BRPS",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Material Science|Augmenting Science Learning through Innovation",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Material Science|IXORA \u2013 Inspiring Xingnanians with Opportunities to be Responsible individuals and Advocates of Sustainable Living (ECO STEWARDS)",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Material Science|Materials Around Us",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Material Science|Nurturing Joyful Learners through Critical and Inventive Thinking",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Material Science|STREAM - Eco-Science, Techonologies, Robotics, Engineering, Arts and Mathematics",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability",
+          "count": 45
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Action for a Sustainable Future through Science - IGNITE (Inspiring Generations of Novel & Innovative Thinkers & Explorers in Sustainability) @ PGPS Programme",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Be Environmentally Green, Don't Leave Your Footprint",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Beacon Environmental Stewardship",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Coding in Environmental Solutions (CODES)",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Computational Thinking in Mathematics",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Design Thinking for Sustainability (DTS @ Admiralty)",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Developing Zhangde GIVER3S Values Through Environment Education",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Digiminds@HIPS",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|E2SL@BPS (Environment Education in Sustainable Living)",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|ECO@CKP",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|ESTEM@YCKPS (ALP in Environmental STEM-based applied learning at YCKPS)",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Eco-lution",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|EcoSTEM Heros Programme",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Environmental Innovators and Agents of Change",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Environmental Science Programme",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Environmental Science and Sustainability",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|F.R.I.E.N.D of Earth",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|FGPS Maker Education",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Green Explorers @ JS",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Greenovators@Dazhong",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|HPPS ALP Sustainability Programme",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|INquiry Science Projects Involving Research and Experiments (I.N.S.P.I.R.E. the Scientist in Me)",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Inno-Eco-Creator Programme",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|LEAF \u2013 Leading Environmental Action for the Future",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|MAKE@CCPS",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Maker's Fantasy - Innovations in Math and Science for a Sustainable Earth",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Maker\u2019s Sustainability Education",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Montfort STEAM ALP",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Multi-Literacy Programme (MLP)",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Nature-based Education towards Environmental Sustainability",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Nurturing Problem Solvers through Computational Thinking",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Opera Goes Green (OPG)",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|PLANET (Pei Tong Learn and Nurture the Environment with Technology)",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|RoboALERT (Applicative Learning Experience through Robotics at Temasek)",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Robotics, Information and Technology Education (RITE) @ Lianhua",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|STEM in Sustainability",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Sustainability Education \u2013 Nurturing Students to be Stewards of Our Environment",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Sustainable Green",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Sustainable Living Starts with Me",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Sustainabots",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Sustaining the Earth with Applied Solutions (SEAS)",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Thinknovate@ZPS",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|TinkeringG Stars",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|Trash to Treasure",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Sustainability|X-Cell@HGP",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Transportation",
+          "count": 4
+        },
+        {
+          "val": "ALP|STEM - Transportation|MoveIT",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Transportation|Robotics for a Better World",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Transportation|Students As Designers for the 21st Century",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM - Transportation|Tinkers to Thinkers (T2T) Programme",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM-Game Design & Making",
+          "count": 1
+        },
+        {
+          "val": "ALP|STEM-Game Design & Making|imaginEErs \u2013 Creativity unlocked: Excite. Explore. Excel",
+          "count": 1
+        },
+        {
+          "val": "LLP",
+          "count": 182
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership",
+          "count": 58
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|4H Leadership @ YZPS",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|A Leader in Every Child",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|A Leader in Every St Nicks Girl (Student Leadership)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|A Whole-school Student Leadership Development Programme through CCE",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|BEACON FUTURE READY PROGRAMME (BFRP) - Beacon At Your Service (BAYS)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|CharGE UP! (Character Development through Green & Experiential Learning @ Unity Primary)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Character Lives In My Behaviour (CLIMB)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Chong Zheng Community Leaders (CZCL)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Community Student Leadership",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Community and Student Leadership",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Cultivating a Life of Values and Excellence (CLOVE)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Cultural Intelligence (CQ) \u2500 The Code of Life",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Developing Flourishing, Compassionate Yumin Champions who are rooted to Singapore",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|EMPOWER@NCPS",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Empowering the next generation of Eco Stewards through Environment Education",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Environmental Champions @ FHPS Programme",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Every Child A Leader 2.0 (ECAL 2.0)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Every RSS Student A Leader",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Every RVian a Leader",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Flourish @ JS: Character Strengths, Mindfulness and Gratitude in Action",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|From ME to WE (MEWE)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Future-Ready Leaders: Leading Self, Peers and Community",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Future-ready Citizens - Developing the Community Leader",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|GM Earth Warriors Environment Education (EE): To Develop Student Leaders who Empathise, Enrich and Empower",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Gracious Leaders",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Green Education Movement @ Zhonghua Primary School (GEM@ZPS)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Green for Life (G4Life) Programme: Character Building through Environment Education",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Greenova- Innovation in our green efforts",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Growth and Benefit Mindset @ Waterway",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|I can Soar Leadership Programme @WRP",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|I-LEAD, I-SERVE \u2013 Leadership through Service",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Igniting Young Hearts with a Passion for the Community and Service Leadership through Positive Education",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|LEAD (Learn, Engage, Absorb, Demonstrate) to Serve @ MPS",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Lead with a Heart, Changemakers for The Future",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Leader for Life",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Leading Through Serving",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Leading through C.A.R.E",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Meridian Values-Based Student Leadership In Action For 21CC",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Montfortian Leadership Programme (MLP)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|NE2+ (positive): Nurturing Ethical and Effective Leaders with Positive mind-sets",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Nurturing Leaders with a Heart",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Nurturing Mindful Servant Leaders @ De La Salle",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Nurturing Xishan\u2019s I C2ARE Leader",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Nurturing and Developing 21st Century Leaders through Enrichment and Lifeskills (ENL) Programmes",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Nurturing the Confident AMKPian",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|PeerWorks - Building Self, Supporting One Another, Serving the Community Together",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Pei Chun Leaders Programme (PCLP)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Performance Character for Personal Leadership",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Student Leadership (APPLE-Achieving Purpose and Performance in Leadership Excellence @ PGPS Programme)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Student Voice & Advocacy (SVA)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|The 3Rs \u2013 Leader U Development programme- From Values to Action: Developing Community-based Student Leaders",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|The A.B.C. (Aspire, Believe, Commit) of Canossian Student Leadership",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|The LOVE (Learning Our Values through Empathy) Experience",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|The PROACTIVE Leader in Me Development Programme",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|The Palm View Challenge \u2013 A Leader, An Advocate, A Force For Good",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|Upstanding Leaders @ Cedar Primary School",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|We are Thinking, Inventive and Zealous KidZ (WHIZZ) who serve the community",
+          "count": 1
+        },
+        {
+          "val": "LLP|Community Service & Student Leadership|iCARE - Leaders of Tomorrow",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts",
+          "count": 43
+        },
+        {
+          "val": "LLP|Music & Performing Arts/ Visual Arts & Design",
+          "count": 7
+        },
+        {
+          "val": "LLP|Music & Performing Arts/ Visual Arts & Design|Aesthetics Expressions @ PL",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts/ Visual Arts & Design|Arts Alive!",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts/ Visual Arts & Design|Creative Arts @ Zhenghua",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts/ Visual Arts & Design|Forming Hearts & Nurturing Minds through Art Education",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts/ Visual Arts & Design|Grow Every Music Student (GEMS@PC)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts/ Visual Arts & Design|HeARTS: Building Empathy and Social Awareness through the arts",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts/ Visual Arts & Design|PAVE LLP\nPerforming Arts for Values and Excellence\nLearning for Life Programme",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|A.G.P.S Arts (Aspire, Grow, Passion and Serve through the Arts)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|ACE the Arts (Appreciate, Create, Explore to Excel)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Aesthetically Responding To Shine (ARTS)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Aesthetics Alive",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Artistic and Creative Expressions (ACE)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Artivists with a HeART",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Arts Alive! - Nurturing Confident Leaders through the Arts",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Arts Creatively Expressed @ Elias - ACE@Elias",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Arts Education Programme (AEP) @ Dazhong",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|ArtsONE+ : Purposeful Learning of Music and Performing Arts Using the Self-regulated Approach",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Bendemeer\u2019s TEMPO (Towards Enhancement of Music and Performing Arts Opportunities)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Building Culture Quotient through Dance",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Building Good Character through Music and the Performing Arts",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|CREATE@YCKPS",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Character and Leadership through the Performing and Visual Arts",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Creativity Through Dance",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|DANCEFRONT (LLP)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Dance and Fitness",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Developing Aesthetics Appreciation  Through Music Empowerment",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Developing Creativity Through Collaborative Music Making",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|D\u2019ARTS@PCS",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Every Child A Performer (ECAP)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Every Pupil a Confident Performer",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|FLAIR@XINGNAN \u2013 An experience with Performing Arts",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Fostering ICAR2E THROUGH THE ARTS",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|GRowing Appreciation for Creative Expression (GRACE)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Graciousness and Fitness through Music and Dance",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Ignite De Arts @ OEPS",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Immersing in Canberra Experience through Musical Theatre Education",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|I\u2019MADD",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Learning Through The Arts & Learning In The Arts",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Learning through an Ethnic Arts Programme (LEAP)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Love Dance.  Love Life!",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Music for Everyone - Building Empathy and Resilience",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|My Story, My Stage",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Nurturing Confidence to Communicate and Connect through the Arts",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|SCGS, Arts For \u201cUr\u201d Life (SC-ArtFUL)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|STARS witHeARTs - Shine as Thinkers and Responsible Leaders with the Performing ARTs",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Shine and Succeed through Dance",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|VIVACE! - Values Inculcation Via Arts and Creative Experiences",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|Values Inculcation through Dance",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|i2 Can Dance!",
+          "count": 1
+        },
+        {
+          "val": "LLP|Music & Performing Arts|iDARE2 through the ARTs",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education",
+          "count": 61
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|All for Sports, Sports for All @ ACS(Junior)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Anchored and Driven Leaders through Sports Excellence",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Building Character Through Sports",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Building of Character through Outdoor Experiential Learning",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|CHAMP for Life",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|CHAMPS (CHAracter Moulding Programme through Sports)@Qifa",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Character Building Through Outdoor Experiential Learning",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Character Development through Outdoor Education",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Character Development through Sports",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Character Development through Team Sports",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Character and Leadership development through ADventure (CLAD)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Character through Sports",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|DARE@ZPS (Discover, Adventure, Relationship building, Espirit de-Corps)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Developing 21st Century Lifelong Learners through Outdoor Education",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Developing Champions in Life through Sports",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Developing Character and Leadership through STAR (Self-defence, Track & field, Adventure and Racquet games) @ PHPPS",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Developing Learners with G.R.I.T (Gumption, Resilience. Inclusiveness. Trustworthiness) through Sports and Outdoor Education",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Developing Values and Leadership through Sports Education",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|E3 in Sports@PRPS",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|ENRICH@TNS",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Enhancing Holistic Health through Sports and Outdoor Education - Sports Excellence (SPOEEX) @ Marymount",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Experiential Learning of Lifeskills for Personal Excellence",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Exposure-Experience-Excel through Sports",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|G.R.I.T@RMPS - Growth Mindset.Resilience.Independence.Teamwork",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|GOal GR3IT",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Get REAL!@FGPS (Relate, Explore, Acquire for Life)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Growing Character through Sports and Outdoor Education",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|HOPES (Healthy Living/Outdoor Appreciation/Personal Effort & Service) @ NBPS",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Holistic Enriching and Rewarding Outdoor Education & Sports (HEROES) @ YTPS",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|IJSports",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Joyful ExperienC.E. @ West Spring (ExperienC.E. \u2013 Experience Challenging Endeavours)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|L.E.A.D.: Character and Leadership Development through Outdoor Education Programme",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Learning for Life Programme in Sports and Outdoor Education",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Nature & Adventure @ Valour",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Outdoor Education and Caring for our Environment @ Northshore (OCE@N)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Outdoor Education@Concord",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Outdoor and Sports Programme at MGS",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Physical EducAtion and Sports for every StephenIAN  (PASSIAN)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Play Your Hearts Out @  North Spring",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Promotion of School Values through Sports Development Programme (SDP)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|S.O.A.R. (Sports Opportunities and Achievement pRogramme)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|SENCE @ MTS\n(Sports Education Nurturing Character Excellence at Mee Toh School)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|SOAR -- Sports Opportunities for Active lifestyle and physical Resilience",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|SPARKS@Play Programme",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|SPRING for Life - Developing Character through Sports",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Social-emotional learning and character development Through Active paRticipation in Sports & outdoor education (S.T.A.R.S.) programme",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|SporTs, OutdooR Programme and Inculcation of Values Education (STRIVE) @ Northoaks",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Sports A. C\u00b2. E: Sports for All; Sports for Continuity & Character; Sports for Excellence",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Sports Experience Reinforcing Values Education (Serve@SJIJ)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Sports Experiential Programme",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Sports Performance And Character Education (SPACE)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Sports Teach Responsibility, Inventiveness, Values & Excellence (STRIVE) @ Rulang",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Sports and Aesthetics To Reinforce Values Education (STRIVE @ BGPS)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Sports for Life",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Sports, Character Development and Adventure Learning Experiences @ Peiying (SCALE@PEIYING)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Sports, Outdoor, Athletics & Recreation @ Changkat Primary (SOAR@CKP)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Sports4Life@HPPS",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Team Sports Excellence @ TKP",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|The Marist Sports & Life Skills Experience",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|The SPARK\n(Sports for Active and Resilient Kids)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Sports & Outdoor Education|Values Infused Through Active Learning in Sports (VITALS)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Visual Arts & Design",
+          "count": 13
+        },
+        {
+          "val": "LLP|Visual Arts & Design|Artistry in Ceramic @ HIPS",
+          "count": 1
+        },
+        {
+          "val": "LLP|Visual Arts & Design|ArtsALIVE@VISTA",
+          "count": 1
+        },
+        {
+          "val": "LLP|Visual Arts & Design|Building Confidence through Visual Art - Thinking, Communication and Creation",
+          "count": 1
+        },
+        {
+          "val": "LLP|Visual Arts & Design|Connecting the heARTs with ARTs",
+          "count": 1
+        },
+        {
+          "val": "LLP|Visual Arts & Design|Creative Arts Programme for Students (C.A.P.S.)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Visual Arts & Design|HeARTs @ WSPS\n(Heritage ART @ WSPS)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Visual Arts & Design|Holistic Education through the ARTS at Casuarina Primary School (HE\u2019ARTS@CAPS)",
+          "count": 1
+        },
+        {
+          "val": "LLP|Visual Arts & Design|IMPRINTS Alive! Nurturing Creativity and Culture through Performing Arts, Visual Arts and Leadership",
+          "count": 1
+        },
+        {
+          "val": "LLP|Visual Arts & Design|Instilling Lifelong Learning Through Visual Arts",
+          "count": 1
+        },
+        {
+          "val": "LLP|Visual Arts & Design|LLP@MFPS: Development of Character, Citizenship and 21CC through the Arts",
+          "count": 1
+        },
+        {
+          "val": "LLP|Visual Arts & Design|Learning for Life Programme in Visual Art and Design - \u201cLet\u2019s Think Design!\u201d",
+          "count": 1
+        },
+        {
+          "val": "LLP|Visual Arts & Design|SAPS Visual Arts Programme (SAPS VAP): Learn, Grow and Serve",
+          "count": 1
+        },
+        {
+          "val": "LLP|Visual Arts & Design|The Art of Communication through Multimedia",
+          "count": 1
+        }
+      ]
+    },
+    "special_needs": {
+      "buckets": [
+        {
+          "val": "Barrier-free accessibility",
+          "count": 63
+        },
+        {
+          "val": "Moderate to profound hearing loss (Oral Approach)",
+          "count": 1
+        },
+        {
+          "val": "Moderate to profound hearing loss (Signing Approach)",
+          "count": 1
+        },
+        {
+          "val": "P1 TRANSIT (Social and Behavioural Needs)",
+          "count": 179
+        },
+        {
+          "val": "Special Educational Needs Officers",
+          "count": 182
+        }
+      ]
+    },
+    "school_type": {
+      "buckets": [
+        {
+          "val": "Government School",
+          "count": 136
+        },
+        {
+          "val": "Government-Aided School",
+          "count": 46
+        }
+      ]
+    },
+    "school_other_programme": {
+      "buckets": [
+        {
+          "val": "Gifted Education Programme",
+          "count": 9
+        },
+        {
+          "val": "Integrated Programme",
+          "count": 2
+        }
+      ]
+    },
+    "school_status_type": {
+      "buckets": [
+        {
+          "val": "Autonomous",
+          "count": 3
+        },
+        {
+          "val": "Government School",
+          "count": 136
+        },
+        {
+          "val": "Government-Aided School",
+          "count": 46
+        },
+        {
+          "val": "Specialised Assistance Plan (SAP)",
+          "count": 15
+        }
+      ]
+    },
+    "school_affiliated_b": {
+      "buckets": []
+    },
+    "school_nature": {
+      "buckets": [
+        {
+          "val": "Boy",
+          "count": 9
+        },
+        {
+          "val": "Girls",
+          "count": 15
+        },
+        {
+          "val": "Mixed",
+          "count": 158
+        }
+      ]
+    }
+  },
+  "suggest": {
+    "olaSuggesterBlendedInfix": {
+      "*": {
+        "numFound": 0,
+        "suggestions": []
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2938,
+                "BOOTH_KEY": "C458A49C-2AFE-4D99-96A6-42626A76DCB5",
+                "KEY_ID": "17FB3C63-C8DE-3460-38C3-E1892EB88782"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C6954490-D70B-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2938,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Inertial Labs Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/InertialLabs",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 20129,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202456144220_e92d1c8abd5fe12df7754f51fa6ab5f2.gif",
+            "STATE": "VA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "With over 20 years of industry experience, Inertial Labs is a leading designer, integrator, and manufacturer of cutting-edge Inertial Measurement Units (IMUs), GPS-Aided Inertial Navigation Systems (INSs), and Attitude & Heading Reference Systems (AHRSs). Our team leverages highly accurate and temperature calibrated MEMS gyroscopes and accelerometers to provide high performing inertial solutions across many applications.\nAs experts in sensor fusion, Inertial Labs designs and develops quality products at the best price-performance ratio. Our team provides solutions capable of utilizing data from an array of sources including air data computers (ADCs), ToF Mesh-Based Software Defined Radios (SDRs), Visual Odometry, Air Speed Sensors, Odometers, Encoders, and Standalone Magnetic Compasses (SAMCs).\nInertial Labs is a lead developer of exciting technologies. Solutions include Inertial Sensing, Assured Position Navigation and Timing (APNT), GNSS Tracking, LiDAR Scanning, Alternative Navigation (ALTNAV), Visual Navigation, and Programmable Navigation Solutions.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "109CC091-A2D4-C520-5E02-92304DB34164",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/inertial-labs-inc/mycompany/?viewAsMember=true",
+            "TOLL_FREE": "",
+            "KEY_ID": "1819944F-9FF8-1F06-5D15-2D10AB0D62D0",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Inertial Labs Inc.",
+            "CITY": "Paeonian Springs",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://inertiallabs.com/",
+            "TWITTER": "https://twitter.com/InertialLabs"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "4F0369EC-C80A-4723-BAE1-974AE926C8B5"
+    }
+}

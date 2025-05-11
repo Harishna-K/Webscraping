@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3210,
+                "BOOTH_KEY": "1457D1D6-3764-4E10-BE61-E0DA400A7273",
+                "KEY_ID": "F3F3AFAB-65D7-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "7E7E84AD-C001-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3210,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "TrellisWare Technologies Inc",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 92131,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/20252515218_63093dccfb9677c9bf9d2cf2d4ea1bb3.jpg",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "TrellisWare Technologies is a global leader in highly advanced algorithms, waveforms, and communications systems that range from small form factor radio products to fully integrated solutions. TrellisWare waveforms are incorporated into a wide range of systems, including TrellisWare radios and trusted industry partner radios, as well as multiple uncrewed and commercial solutions. Join us in the Trellis//Sphere and see what we can accomplish together!",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "82F2A1E9-FEB5-3B86-7884-23BDB026FFB1",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 100",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/trellisware-technologies/",
+            "TOLL_FREE": "",
+            "KEY_ID": "82D7FEF5-E56A-DB04-B6E0-D18CE0870A31",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "TrellisWare Technologies Inc",
+            "CITY": "San Diego",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.trellisware.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "18B5786F-BCBF-4378-B96C-42CDA743041A"
+    }
+}

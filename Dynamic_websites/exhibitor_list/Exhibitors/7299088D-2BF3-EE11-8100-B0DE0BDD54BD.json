@@ -1,0 +1,108 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1621,
+                "BOOTH_KEY": "8BA0B130-BB0F-410C-B2E6-68A513B286D3",
+                "KEY_ID": "C73FCA84-D560-1F37-9612-123CF6A892AC"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "7299088D-2BF3-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1621,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "BAE Systems",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "GU16 7EX",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "GB",
+            "SALUTATION": "",
+            "DESCRIPTION": "At BAE Systems, we provide some of the world's most advanced, technology-led defence, aerospace and security solutions. We employ a skilled workforce of around 100,000 people in more than 40 countries. Working with customers and local partners, we develop, engineer, manufacture, and support products and systems to deliver military capability, protect national security and people, and keep critical information and infrastructure secure.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6DDF54B7-098B-D2EE-0201-9ED1B2CC96E3",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Victory Point, Lyon Way, Frimley, Camberley",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "4CBEC9BD-A8D7-6FF7-28ED-3C6B88914B8C",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "C788BC15-F701-EDFE-BD53-6C71FA25CDB4",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "BAE Systems",
+            "CITY": "Camberley",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "https://www.baesystems.com/en/home",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "29295513-A0E8-4EA8-B8A8-B1BF9565CCA5"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3804,
+                "BOOTH_KEY": "6B7587E6-DEA8-490A-8FE2-885165FE5D17",
+                "KEY_ID": "640A6DB3-EBE3-9AAE-0B7A-D94EF1A9077B"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "A0F8E97B-D8E3-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3804,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Leica Geosystems",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 30022,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202525105110_580964fb6a40d65cb01d743d77905d90.png",
+            "STATE": "GA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "With more than 200 years of history, Leica Geosystems, part of Hexagon, is the trusted supplier of premium sensors, software and services. Delivering value every day to professionals in surveying, construction, infrastructure, mining, mapping and other geospatial content-dependent industries, Leica Geosystems leads the industry with innovative solutions to empower our autonomous future.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0C7AAC75-E6E5-E8F4-4043-68FA11F73C7C",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "641150CA-C24B-2925-2002-3A012DF2BBC0",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Leica Geosystems",
+            "CITY": "Alpharetta",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://shop.leica-geosystems.com/leica-blk/laser-scanners",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "2ADC491E-4D5A-48E8-869D-399E90C75DBF"
+    }
+}

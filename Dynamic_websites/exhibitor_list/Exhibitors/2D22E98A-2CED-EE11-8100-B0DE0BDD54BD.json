@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3721,
+                "BOOTH_KEY": "E7ED23EF-9B52-4622-8756-CC89D20448B5",
+                "KEY_ID": "41D0DEDA-AE73-3D7A-32BF-9B028FFF86CF"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "2D22E98A-2CED-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3721,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "MicroPilot",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "\u00a0R0C 3A0",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024328134636_296e39b826d317285fc5c0216881f89f.png",
+            "STATE": "MB",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CA",
+            "SALUTATION": "",
+            "DESCRIPTION": "MicroPilot serves UAV manufacturers who maintain high standards for both the hardware they integrate into their systems and the software that drives them. Our customers require products that are reliable, scalable and customizable. We offer a family of lightweight UAV autopilots that fly fixed-wing, transitional, helicopter, and multi-rotor UAVs.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "3FDD054F-0907-6683-B20E-EB3141F1A5BC",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "72067 Road 8E, Sturgeon Rd",
+            "MAP_LOGO": true,
+            "LINKEDIN": "micropilot-inc",
+            "TOLL_FREE": "",
+            "KEY_ID": "3FB1290A-B969-FAF2-87F1-2EEFF1BCDDC9",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "MicroPilot",
+            "CITY": "Stony Mountain",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.micropilot.com",
+            "TWITTER": "MicroPilotUAVs"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "9BCD036A-A41C-4EA2-AE25-EF193A6ADB6A"
+    }
+}

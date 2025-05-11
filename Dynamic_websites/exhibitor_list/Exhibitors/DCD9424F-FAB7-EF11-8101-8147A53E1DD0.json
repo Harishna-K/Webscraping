@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2026,
+                "BOOTH_KEY": "19975647-963C-4889-BEC9-659E44737234",
+                "KEY_ID": "2A39333A-F90C-712B-8505-4179145C389E"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "DCD9424F-FAB7-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2026,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "LOCTITE",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "06067",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241211123613_49522225c9c2edd6c9f7b22253eecb1f.png",
+            "STATE": "CT",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Henkel LOCTITE\u00ae brings industrial application expertise to develop customized products for your industrial requirements.\n\nThe journey of digital manufacturing transformation requires deep industrial know-how and application expertise. Henkel has been transforming processes for more than 100 years across more than 800 industry segments, through our application expertise, strong customer intimacy and global footprint. Our unique engineering team and manufacturing capabilities will guide you from application landscaping to implementation in an industrial environment. We are your partner in your journey towards additive manufacturing.\n\nAt Henkel, innovative thinking and entrepreneurial spirit are in our DNA. We are curious and passionate experts with deep market and application knowledge. Our unrivaled portfolio of adhesives, sealants and functional coatings are designed to transform markets and the way you work. We\u2019re your global partner prepared to handle any challenge and develop a solution that is smart and sustainable \u2014 together with you. For the better.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "040655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "2AA0B776-D897-9ABB-6B8C-E560DAA47A75",
+                    "ANSWER_TITLE": "Composite Material Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "E4A34420-7061-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D0CD8A75-BDA4-D811-5614-E4F34D140A6D",
+                            "ANSWER_TITLE": "Advanced Materials and Manufacturing"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "2A455C77-D3E0-311C-2458-6D6597BD0D1D",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Henkel Corporation",
+            "CITY": "Rocky Hill",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.loctiteam.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "30439D4E-8FFF-4971-BC07-E592245894AB"
+    }
+}

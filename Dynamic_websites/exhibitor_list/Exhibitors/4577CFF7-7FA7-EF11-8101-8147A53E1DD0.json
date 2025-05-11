@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1600,
+                "BOOTH_KEY": "84C172F2-88D4-4E16-801A-82839F121ED9",
+                "KEY_ID": "F12FD4A8-C52B-7CE5-B9DE-8E0C385372AC"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "4577CFF7-7FA7-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1600,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "SMART Modular Technologies",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 94560,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/20241269541_4d8140344d70acebd7c8a4542c218d5d.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "SMART Modular Technologies is a global leader in integrated memory solutions, solid-state drives, and hybrid storage products, SMART Modular helps customers around the world enable high performance computing through the design, development and advanced packaging of integrated memory solutions. Our portfolio ranges from today\u2019s leading edge memory technologies to standard and legacy DRAM and Flash storage products. It's RUGGED brand of flash is designed for defense and military applications where failure is not an option.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "F16C4ECF-F887-1CAE-645A-E6314E86FD9C",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/smart-modular-technologies",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D60EA9AA-ECFB-4B9E-4BA5-D13C240C24C3",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "F137D2B5-D2F2-98E8-542E-59EDF7C1997F",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "SMART Modular Technologies",
+            "CITY": "Newark",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.smartm.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "6E557E7F-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

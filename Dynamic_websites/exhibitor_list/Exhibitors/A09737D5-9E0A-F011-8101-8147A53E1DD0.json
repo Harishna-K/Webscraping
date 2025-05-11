@@ -1,0 +1,86 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1824,
+                "BOOTH_KEY": "A0BF8493-E271-4EB9-8DC1-F5A400994FB9",
+                "KEY_ID": "516146E1-EA59-E0B1-07AD-D76B61ED6052"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "A09737D5-9E0A-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1824,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Packaging Strategies, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "ACTIVE": 1,
+            "ZIP_CODE": 21237,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025326191450_face9686a126c31e936870d7c956b970.jpeg",
+            "STATE": "MD",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Packaging Strategies, Inc. is excited to announce a new era of growth and brand identity. As the company moves into its 35th year of operation, it introduces a modernized brand look that includes a refreshed logo and website. This brand refresh comes at a time of growing demand for Packaging Strategies, Inc.\u2019s specialized packaging solutions in sectors where advanced aerospace technology and electronics require customized protection, particularly in the Federal, Military market sector.\nFounded in 1990, Packaging Strategies, Inc. built a reputation for designing and delivering high-quality packaging products and integration services. For decades, Packaging Strategies, Inc. has set the standard for high-performance, protective cases used in aerospace, military, medical, and advanced technology industries. \nLate last year, Packaging Strategies, Inc. was acquired by private equity firm ArchStar Capital. Their investment provides strategic resources to help PSI scale its operations and continue its leadership in designing, manufacturing and integrating services for advanced \u2013 virtually indestructible \u2013packaging. Under ArchStar\u2019s guidance, they hired and placed Mark Rolfes and Mike Robinson as co-Presidents. Rolfes has been in the custom packaging industry for almost 30 years, having transitioned from his nearly 20 years as Vice President of Sales at Pelican Products to Packaging Strategies, Inc. where he is today. Robinson brings his in-depth experience as a subject matter expert on Kaizen, Six Sigma and Continuous Improvement to the Packaging Strategies, Inc. factory floor with the goal of increasing quality through greater manufacturing efficiency and improved raw materials supply. The team of Rolfes, Robinson and ArchStar share a commitment to driving growth through innovation and excellence. Together, their goal is to expand Packaging Strategies, Inc. into a nationwide powerhouse by way of markets expansion, faster response times and acquisitions under the Packaging Strategies, Inc. new brand identity. \nWith their refreshed look and renewed commitment to quality, Packaging Strategies, Inc. remains steadfast in its mission to provide superior packaging solutions for high-value equipment. Customers can expect the same trusted products and services that have defined Packaging Strategies, Inc. for years, only now with a sharper focus on brand growth and industry leadership. The company\u2019s revitalized presence underscores its dedication to meeting the evolving needs of clients and push the boundaries of advanced packaging solutions for years to come. \nThis is the first time that Packaging Strategies, Inc. has a booth at the AUVSI Exponential show. The company invites all to stop by our booth during the shows run May 19-22, 2025. Learn from the source why aviation industry giants such as Northrop Grumman, United Airlines, AeroVironment, Spirit Airlines and more have put their trust in Packaging Strategies, Inc. to protect their advanced, high-performance aviation equipment. Co-President Mark Rolfes will be there along with members of his team to answer questions and show you exactly how Packaging Strategies, Inc. can meet your advanced packaging needs.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "040655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "51AF60B8-A7B8-3682-2FBE-7D9FBF89BD4F",
+                    "ANSWER_TITLE": "Composite Material Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "516C3FAD-CF9B-A795-2E89-850589F5671D",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Packaging Strategies, Inc.",
+            "CITY": "Baltimore",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.psicases.com",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "C2557E7F-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

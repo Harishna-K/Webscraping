@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3011,
+                "BOOTH_KEY": "5BF273ED-DC15-4E92-9F44-7DCDF3A9F5D2",
+                "KEY_ID": "79040AFB-ACBA-618E-3898-0D43FD79D9C8"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "6ADEA871-B9CC-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3011,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "AIRBILITY",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "06798",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/20251894435_d67f2d80ef3a2d5e1d01c47e19cbe49c.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "KR",
+            "SALUTATION": "",
+            "DESCRIPTION": "Airbility was founded in 2023 to provide next-generation aviation mobility solutions. We focus on developing high-speed electric vertical takeoff and landing (eVTOL) aircraft using novel electric propulsion systems. Our core business sectors involve solutions for emergency logistics, surveillance, and disaster response in the advanced air mobility industry. We are actively engaging in research and development through government projects and partnerships.\n\nAirbility's flagship product is the AB-0, a high-speed unmanned eVTOL aircraft designed for surveillance and emergency logistics. The AB-0 was developed to meet the growing global demand for disaster response and urgent logistics solutions. The AB-0's application can be tailored for various industries, including wildfire monitoring, anti-drone operations, and ship resupply. The aircraft combines a unique fanjet electric propulsion technology with a hybrid energy system to achieve high-speed flight and extended endurance. Airbility's AB-0 offers unique advantages over competitors, including high-speed flight (up to 250 km/h) and vertical takeoff and landing capabilities for operation in confined spaces. Its low-noise fanjet propulsion system allows urban and suburban missions as well. Additionally, the aircraft is equipped with real-time data analysis and AI-based autonomous flight control systems for more efficient and safer operations.\n\nAirbility is targeting the U.S., Japan, and Southeast Asia as its key markets. We aim to enter these regions by providing solutions for disaster response, logistics, and security surveillance. We are seeking partnerships with government agencies and private companies involved in emergency response and logistics. Additionally, partners in infrastructure protection and security surveillance are also key targets.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "7B5518A7-A4B0-B57C-2811-CAB2F4A3360B",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "7ABB96A2-9966-80A4-F0B5-C62075EB2425",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "AIRBILITY",
+            "CITY": "Seoul",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://airbility.co.kr/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "7530EBFE-9F7A-4AD6-96AE-289EC33D7534"
+    }
+}

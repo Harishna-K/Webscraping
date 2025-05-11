@@ -1,0 +1,82 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3809,
+                "BOOTH_KEY": "A5EE7FF1-BAA1-4584-A945-92CEB4ACC748",
+                "KEY_ID": "B42ACAD4-5E06-F011-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "DD38B90F-7862-47DD-AAEC-30E14CEE8E54",
+        "PRIMARY_BOOTH": 3809,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "UAV Battery Co.,Ltd",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 276003,
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "EMAIL": "zhenhan19@qq.com",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CN",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D0044FA5-F81E-7E39-4A10-6004C68B0011",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "64405734-D6FA-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D004532E-D182-AA3F-709B-5B87BD8E3E6C",
+                            "ANSWER_TITLE": "Sunshine Solutions Center Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "CFF5B1BD-0F43-8E0F-4E2D-81FF5D919896",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "UAV Battery Co.,Ltd",
+            "CITY": "Linyi",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.hgbbattery.com/about-us",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "DD38B90F-7862-47DD-AAEC-30E14CEE8E54",
+        "CRM_COMPANY_KEY": "3242CE04-933D-4EC3-95DB-29C58A488AEE"
+    }
+}

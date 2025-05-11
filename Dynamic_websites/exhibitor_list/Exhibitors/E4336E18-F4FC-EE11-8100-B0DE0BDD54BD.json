@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3909,
+                "BOOTH_KEY": "9486EB2D-AA07-412D-B89F-74B13A51AF3D",
+                "KEY_ID": "483B7CB1-FF0D-59EC-7953-252116F5F576"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "E4336E18-F4FC-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3909,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Technology Service Corporation",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 22202,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024417155750_cb9786e5ce5f2d591bcbe28f3e4f354a.jpg",
+            "STATE": "VA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "TSC is an employee-owned, high-technology company primarily engaged in providing engineering services to the U.S. Government. For over 50 years, we have delivered solutions on-time and on-budget. We have a proven track record of overseeing and delivering programs directly to the U.S. Government and collaborating with partners and primes to deliver key technology products for their solutions.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "4889C5DC-F16E-3A4F-EAC0-081359F8CDB1",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 705",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Technology Service Corporation (TSC)",
+            "TOLL_FREE": "",
+            "KEY_ID": "4868CFCD-0A18-CDC7-4A9F-3CC5CD245410",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Technology Service Corporation (TSC)",
+            "CITY": "Arlington",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "tsc.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "F79013B9-F354-46EE-9749-9A12FD2200B9"
+    }
+}

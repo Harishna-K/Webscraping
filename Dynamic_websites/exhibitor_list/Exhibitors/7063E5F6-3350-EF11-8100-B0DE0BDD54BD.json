@@ -1,0 +1,60 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2015,
+                "BOOTH_KEY": "73C21C99-3DF3-45D6-BC2F-072922BF77A0",
+                "KEY_ID": "988BE081-FF3B-4604-707D-69685CCB461B"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "7063E5F6-3350-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2015,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Barfield Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "INSTAGRAM": "https://www.instagram.com/barfieldinc/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 33142,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202481145716_9567092f3706a8e4714ff858fe5e6825.jpg",
+            "STATE": "FL",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Barfield, a US Subsidiary of Air France KLM Engineering & Maintenance (AFIKLM E&M), brings European advanced drone solutions to North America. The company is building, together with its partners and customers, a world to roll out proven, robust, cutting edge and competitive UAS solutions in a safe environment. Barfield markets and supports products and services of its UAS European partners in the Americas\n\u2022\tAeraccess quadricopters are known for their high stability level inherent to their autopilot system and their multifunction capabilities with swappable payloads.\no\tSurveillance, Drone in a box, Search and Rescue, Mapping, Inspection, Communication\n\u2022\tCerbair Counter UAS systems are among the best solutions to detect, characterize, identify and neutralize any drones using radio frequencies with GCS or GPS.\nThese solutions are known for their stability, strength, reliability, and advance technology.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "994DCE8B-EC03-A60D-E44A-31A2F6986D2A",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/375454/",
+            "TOLL_FREE": "",
+            "KEY_ID": "98CFA415-E73F-F3DC-4C66-2479B3929209",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Barfield Inc.",
+            "CITY": "MIAMI",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.barfieldinc.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "1273E6BC-EC6A-4D07-B308-C13F138201C5"
+    }
+}

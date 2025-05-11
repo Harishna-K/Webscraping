@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2308,
+                "BOOTH_KEY": "7689ADAA-A881-4032-A940-34C75F106D48",
+                "KEY_ID": "451AE9A5-FB2E-D575-9A0E-95805DD330C6"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "9327BCBD-A2D7-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2308,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "JIANGXI MAD MOTOR COMPONENTS CO.,LTD.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 330000,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025311115235_96fb07db36deeec2f65416a82b64334c.jpg",
+            "STATE": "Jiangxi",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CN",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "7401C345-EAE6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "21737825-DE85-CF6A-FE1A-02A19112073F",
+                    "ANSWER_TITLE": "Manufacturing Machinery/Contract Manufacturing/Production Equipment"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "No. 1230 Ningyuan Street, Xinjian Economic Development Zone",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "45262CE3-B9BE-3ED9-48C1-B920FF2296E2",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "JIANGXI MAD MOTOR COMPONENTS CO.,LTD.",
+            "CITY": "Nanchang",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://mad-motor.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "38EE6DE2-5C9F-4EB3-9469-4FC578CFBBAF"
+    }
+}

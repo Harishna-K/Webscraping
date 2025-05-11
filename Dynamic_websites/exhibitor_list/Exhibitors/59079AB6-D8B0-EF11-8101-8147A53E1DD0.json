@@ -1,0 +1,254 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1533,
+                "BOOTH_KEY": "251CF00D-29CE-49CB-A3D8-BD14EF96CCC2",
+                "KEY_ID": "55F08541-D97B-236E-C979-1EB165AB5074"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "59079AB6-D8B0-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1533,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Videosoft Global Ltd",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1135,
+                    "TITLE": "Speaking Opportunity - Solutions Theater",
+                    "ID": "EVENTS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "N1 7GU",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202412218213_a6f2f3166d3fa6b4bdde538c17d3dc64.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DOCUMENTS": [
+                {
+                    "CATEGORY_TITLE": "Software/Saas Provider",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "FireLight\u2122 is a user-friendly platform designed to manage camera feeds and stream real-time video over unreliable networks,\r\nincluding cellular, satcom, mesh and radio \u2014even in the most challenging conditions.\r\n\r\nIt delivers reliable, bandwidth-efficient video compression and real-time streaming\u2014without the need for technical expertise.\r\nBuilt for demanding environments, it maintains uninterrupted streaming, ensuring you can view and manage your remote assets\r\nfrom anywhere in the world, where conventional systems fall short.\r\n\r\nUnmatched video quality over any given bitrate and the highest level of performance \u2013 it works when you need it most.",
+                    "KEY_ID": "7769DF6C-DF8B-5289-E534-D91C55029EF9",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317191733_979b7fa9cdd738c141c92c8fcbb11770.jpg",
+                    "TITLE": "FireLight\u2122 - Bandwidth-Efficient Video Streaming Platform",
+                    "URL": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317191754_e9990c145acb703120756d0dd4cb3541.pdf"
+                },
+                {
+                    "CATEGORY_TITLE": "Software/Saas Provider",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Defining a New Era of Comms On The Move\r\n\r\nExceptional Video Streaming Over Satcom, Cell, Mesh & Radio Networks.\r\n\r\nVideosoft\u2019s adaptive video compression software keeps dismounted soldiers connected in real-time, no matter the bandwidth, position or system requirements - supporting on-the-move mission-critical comms, and improving tactical Command and Control.",
+                    "KEY_ID": "78791599-00F4-9709-1139-F1C8C5C2A859",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317194522_dfa5e320b52d22be340c11e80f1b0a6e.jpg",
+                    "TITLE": "The Dismounted Soldier as a Video Sensor",
+                    "URL": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531719457_c7dac14da10d87013d90e90608e8fce6.pdf"
+                },
+                {
+                    "CATEGORY_TITLE": "Software/Saas Provider",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Industrial-Grade Solutions for Demanding UAV Missions\r\n\r\nTried and tested by governments and industry leaders worldwide, it\u2019s\r\nimportant to understand that not all real-time video streaming systems\r\nare created equal.",
+                    "KEY_ID": "77AF9751-DAA3-E598-B112-3E918ECCD8EC",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317192533_b74ca4fd4b5d99d7eabbf8567ae87f37.jpg",
+                    "TITLE": "Mission-Critical Video Compression & Streaming for Airborne Operations",
+                    "URL": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317191932_27a29b1c39014dbc0a11abf0d8b2255a.pdf"
+                }
+            ],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "GB",
+            "SALUTATION": "",
+            "DESCRIPTION": "Mission-Critical Video Streaming for Unmanned & Autonomous Operations \n \nAt Videosoft Global, we specialize in advanced video compression and transmission solutions designed for bandwidth-constrained environments. Our technology enables ultra-low bandwidth video streaming, ensuring uncrewed and autonomous systems operate smoothly even in limited network conditions. By adapting to bandwidth constraints, we provide real-time delivery of low-latency live video and data, supporting critical operational awareness and empowering informed decision-making in any scenario. \n  \n\nOur FireLight\u2122 Platform \n\nFireLight\u2122 is a powerful, yet intuitive platform built to record, stream, and manage real-time video feeds from the edge, even in challenging environments with unreliable networks such as cellular, satellite, mesh, or radio communications. \n\nOptimized for efficiency, it delivers high-quality video from UAVs, robots, and drones while minimizing bandwidth usage. Equipped with cutting-edge technology, FireLight\u2122 outperforms other solutions by providing superior video quality at any given bitrate while using significantly less data. With streaming capabilities starting at just 1 kbps.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "56D7A7D9-F290-CB6D-1B24-CED00176B212",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "www.linkedin.com/videosoftglobal",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D5C16723-F03E-39E1-9182-56C187BE7A93",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "PRESS_RELEASES": [
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "+44 (0) 333 242 0563",
+                    "STATE": "",
+                    "KEY_ID": "95219022-D650-2657-1DAC-2EF93F4CC8EE",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/20253189118_1d4bc6b2ec51e7bd129be7d87ad1fc36.jpg",
+                    "LAST_NAME": "",
+                    "EMAIL": "marketing@videosoftglobal.com",
+                    "FIRST_NAME": "Hayley Defty",
+                    "SUB_TITLE": "Global maritime communication experts Nearshore Networks have added another layer to their satellite and cellular solution portfolio by launching \u201cNEA",
+                    "CITY": "London",
+                    "COUNTRY": "GB",
+                    "DESCRIPTION": "To Read More Visit: https://www.videosoftglobal.com/news/nearshore-network-transforms-live-maritime-communication/",
+                    "TITLE": "Nearshore Transforms Live Maritime Communication with Low-Bandwidth Solutions"
+                },
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "",
+                    "STATE": "",
+                    "KEY_ID": "9579D344-D1DD-78C9-056F-9291AD254882",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/202531891949_5897f0dbda8a852e916484af855cd5cc.jpg",
+                    "LAST_NAME": "",
+                    "EMAIL": "",
+                    "FIRST_NAME": "",
+                    "SUB_TITLE": "SeaOwl Technology, the R&D branch of the SeaOwl Group, specializing in maritime security and asymmetric countermeasure training, has successfully inco",
+                    "CITY": "",
+                    "COUNTRY": "",
+                    "DESCRIPTION": "Read on for More: https://www.videosoftglobal.com/news/usv-specialist-seaowl-optimizes-operational-performance/",
+                    "TITLE": "USV Specialist, SeaOwl, Optimizes Operational Performance with Low Bandwidth Real-Time Video Surveillance"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "5605ABF6-F475-D624-AC86-AC85CD91D0D6",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Videosoft Global Ltd",
+            "CITY": "London",
+            "PRODUCTS": [
+                {
+                    "CATEGORY_TITLE": "Service Provider",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Small, multi-channel video encoder and transmitter with built-in 3G/4G Modem,\r\nGPS and storage",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531720104_ec193b8454b7a86f58690f15cad05c82.pdf",
+                    "KEY_ID": "79487303-0FE0-026C-56A0-BB0576A76D36",
+                    "TITLE": "FireBird\u2122 F-100",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317201324_fcdbaac2a7c2e951187ec3ea714c11aa.jpg",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Service Provider",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "4 Port POE Videosoft Gateway",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317201538_4998bd4a628ec53e598cdb9fb38eb7a5.pdf",
+                    "KEY_ID": "797DAF36-B115-F10B-006B-183A643D160C",
+                    "TITLE": "F-300",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317201439_a05f85d2f0075cf1af106b90fa37ea04.jpg",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Hi-performance video encoder with low bandwidth streaming and full NVR features",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317201637_1f4e9f1c0da737d95f5601b81e82f277.pdf",
+                    "KEY_ID": "798E56C6-BA87-2858-37C6-E2107905D66C",
+                    "TITLE": "F-600",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317202318_eaff4ac6fcc9d528cc74ef1116647107.png",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Software/Saas Provider",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Videosoft\u2019s FireFly is a user-friendly app that effortlessly streams live audio and video from Android\r\nsmartphones. The FireFly Android gateway can be conveniently installed on any compatible\r\nsmartphone or tablet.",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317202018_d2e4bff1f6b2f9608a69dad5c8c522ee.pdf",
+                    "KEY_ID": "79A5CC0E-C333-B3AB-3AC5-215AD9FE5605",
+                    "TITLE": "FireFly Single Stream Gateway",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531720201_24153312cdf398b40fc52bb9155ac100.png",
+                    "DOCUMENT_TYPE": "document"
+                }
+            ],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [
+                {
+                    "CATEGORY_TITLE": "Test Facility",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "080655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Videosoft's cutting-edge compression and transmission software, integrated with the Honeywell HSD-400, ensured seamless real-time connectivity throughout the flight. This collaboration highlights the importance of flight testing in maintaining communication, managing risks effectively, and ensuring absolute safety and compliance in both airborne and ground operations.",
+                    "KEY_ID": "75E7F775-07D7-EE7C-376B-F932BB7A10E6",
+                    "TITLE": "Honeywell Aerospace In-Flight Tests: Enhancing Flight Efficiency & Safety with Real-Time Video Streaming",
+                    "HEADER_IMAGE": "",
+                    "URL": "https://www.videosoftglobal.com/video/honeywell-aerospace-in-flight-tests-enhancing-flight-efficiency/"
+                },
+                {
+                    "CATEGORY_TITLE": "Software/Saas Provider",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Best-in-Class Video Compression & Transmission For Mission-Critical Applications",
+                    "KEY_ID": "78D0D657-9BC5-66D0-E0BC-9724463CDDDC",
+                    "TITLE": "Videosoft Global Brand Video",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025317195539_183814245e1a921e8f3a0c14a15e03be.png",
+                    "URL": "videoProcessing"
+                }
+            ],
+            "WEBSITE": "www.videosoftglobal.com",
+            "TWITTER": "videosoftglobal",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "DEC8B704-2317-4C99-BE67-D5FE22A163B3"
+    }
+}

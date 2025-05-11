@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3930,
+                "BOOTH_KEY": "010F4EC8-C945-4D10-A259-1EB26B3D788A",
+                "KEY_ID": "E52BD15B-0683-B98B-EAD1-3DCB8CEEC526"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "AD162CBB-B741-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3930,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Space One",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": "110-0005",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024714182949_02c7f40687b9278c8243ec4c87511fc8.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "JP",
+            "SALUTATION": "",
+            "DESCRIPTION": "We are running an aerial and underwater drone business in Japan. We have 100 training centers throughout Japan and a network of over 1000 pilots.\nWe can help you expand your business in Japan.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "E5F37BBD-AC42-653D-974B-1D928C8C193B",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "E5BC2CF7-EFEB-6545-B32F-1FC2C1C01F01",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Space One",
+            "CITY": "Tokyo",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://spacexone.com/en/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "63F0D41F-DCAE-4D4E-89EC-7EE465401DD8"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3411,
+                "BOOTH_KEY": "E6481202-E4AF-498C-A6F4-191CB7D7B29F",
+                "KEY_ID": "014EB688-A1EB-14BB-693B-1A2126FF6EBD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "E34E05A3-3EEC-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3411,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "United States Aircraft Insurance Group (USAIG)",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "SUBEXHIBITORS": [
+            {
+                "BOOTH_NO": 3411,
+                "COMPANY_NAME": "AirModo",
+                "BOOTH_KEY": "E6481202-E4AF-498C-A6F4-191CB7D7B29F",
+                "EXHIBITOR_KEY": "5BEC1AB0-38D4-4888-97FF-FCD6ECEF0A4F",
+                "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202532063236_056b8e91d630168cf0ed2764c7725a7d.png"
+            }
+        ],
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/USAIG-229526990583183/",
+            "INSTAGRAM": "https://www.instagram.com/usaig_caig/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 10004,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202432794734_8182fddf791d9c216277b1899cf01f6d.jpg",
+            "STATE": "NY",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "United States Aircraft Insurance Group (USAIG) provides a full spectrum of coverage options for owners, operators, manufacturers & maintainers of corporate, private & commercial aircraft. In 1928 our founders - WW I pilots & businessmen, David Beebe & Reed Chambers, saw the need for an insurance company that truly understood aviation. We remain a world aviation insurance leader delivering innovative, custom-tailored insurance products & services, including Performance Vector Unmanned which provides UAS policyholders annual access to a range of safety & loss control resources at no or reduced cost. USAU manages USAIG, maintaining the industry's largest network of underwriting & field claims offices. USAU's wholly owned subsidiary, Toronto-based CAIM manages the CAIG insurance pool. USAIG is a subsidiary of General Re Corporation, a Berkshire Hathaway company. Follow us on Facebook, X, LinkedIn & Instagram. www.usaig.com",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6F6E7A7E-DB67-5BC4-0878-AE4010694810",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "125 Broad St., 6th floor",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://linkedin.com/company/u-s--aviation-underwriters-inc-/?viewAsMember=true",
+            "TOLL_FREE": "",
+            "KEY_ID": "0182D49F-9155-2B3A-4638-C5D0C6738314",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "United States Aircraft Insurance Group (USAIG)",
+            "CITY": "New York",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.usaig.com",
+            "TWITTER": "https://twitter.com/USAIG_CAIG"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "E34E05A3-3EEC-EE11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "03765CE5-E7F4-4934-8A71-68ECABA0CDFA"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4139,
+                "BOOTH_KEY": "4AECC012-7402-4568-8930-5EAB8CA549B0",
+                "KEY_ID": "AE86DEF6-F70C-8D6A-7D47-DE4B8AFACF2C"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "E89B18AD-DB96-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 4139,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Fullerton College",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 92832,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202410309281_197f14d49df9ea885b182a849c152cd7.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "The Fullerton Drone Lab at Fullerton College is designed to prepare the next generation of skilled and certified drone operators for a rapidly evolving workforce. This hands-on, industry-aligned training equips students with the technical knowledge and operational expertise required for advanced applications in fields such as agriculture, construction, energy, public safety, and environmental monitoring. Through rigorous training in flight operations, autonomous systems, drone photography, and specialized applications like thermal imaging and maritime research, students develop critical skills for high-demand roles.\nOur program emphasizes safety, regulation compliance, and professionalism, offering pathways to FAA certifications and specialized credentials that meet industry standards. With additional focus on extended drone operations, including beyond visual line of sight (BVLOS) and drone operations over people, our graduates are prepared to lead in diverse settings. Students gain real-world experience and build portfolios through project-based learning, internships/apprenticeships, and access to state-of-the-art drone technology. This program is ideal for those looking to launch a rewarding career in drone technology, contributing to advancements in industries that depend on skilled, ethical, and innovative drone professionals. Become a part of tomorrow\u2019s workforce with a program that blends cutting-edge training, certifications, and a focus on real-world application to open doors to dynamic career opportunities in drone technology.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "FA0C3F6F-F5C9-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "AECC750B-C130-55A1-8B99-DBFD8F109D50",
+                    "ANSWER_TITLE": "Academic/Educational/Research"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "AE8A5EE8-FB82-48A3-BBDD-18A23120377F",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Fullerton College",
+            "CITY": "Fullerton",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "drones.fullcoll.edu",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "C5AACBA5-DF95-454A-B714-AF3CA4CB5974"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1904,
+                "BOOTH_KEY": "F84DE755-09B3-4F97-A5CB-7FF01BD9D2D3",
+                "KEY_ID": "A0E59213-9438-6857-90F6-86124CA2D009"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "195261F8-8D9A-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1904,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "UVify",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/uvify/",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "https://www.instagram.com/uvify/?hl=en",
+            "ACTIVE": 1,
+            "ZIP_CODE": 98101,
+            "TIKTOK": "UVify",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024114182725_59879b9e55becc4511368cbd03acf3f6.png",
+            "STATE": "WA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "UVify is proud to be the leader in swarm light show drones, showcasing a remarkable portfolio of advanced aerial solutions at Xponential. With more units deployed than any other company in North America, UVify has set the standard for breathtaking drone light shows that captivate audiences and redefine entertainment.\n\nAs a designer and manufacturer of cutting-edge swarm and autonomous drones, UVify is at the forefront of innovation in the drone industry. Our swarm drones are engineered for coordinated flight, allowing for stunning performances that combine precision and creativity. Each light show is a testament to our expertise, with meticulous choreography that transforms the night sky into a canvas of vibrant colors and shapes.\n\nIn addition to our leadership in light shows, UVify's drones are utilized in various applications, including research and industrial operations. Our commitment to advancing drone technology empowers industries to gather critical data efficiently and effectively. From environmental monitoring to precision agriculture, UVify's solutions enhance operational capabilities across sectors.\n\nSustainability is a core value at UVify, and we prioritize eco-friendly practices in our design and manufacturing processes. Our drones are not only powerful but also energy-efficient, reflecting our dedication to minimizing environmental impact while delivering exceptional performance.\n\nAt Xponential, attendees will have the opportunity to engage with our team of experts and witness firsthand the capabilities of our industry-leading drones. Whether you are interested in cutting-edge technology for research, innovative solutions for industrial applications, or mesmerizing light shows, UVify is your go-to partner for unparalleled drone experiences.\n\nJoin us at Xponential to see why UVify is the foremost authority in swarm light show drones. Experience the magic of our aerial performances and discover how we are shaping the future of drone technology in North America and beyond.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A133906E-F7F1-E212-96FE-3F42DDCD7137",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/uvify",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "A0EA22A8-CD01-6CD9-4F10-D96C0692F843",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "UVify",
+            "CITY": "Seattle",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.uvify.com",
+            "TWITTER": "https://x.com/uvify?lang=bn",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "08FD02D6-BE6B-4EA6-B092-D33BB313B18C"
+    }
+}

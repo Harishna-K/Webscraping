@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1421,
+                "BOOTH_KEY": "6B49738C-6BDD-44E1-9AD4-5549B4E1948F",
+                "KEY_ID": "8C5AD724-D176-3935-2969-7D6319C44BC1"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "6E971D2E-BE37-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1421,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Ophir/ An MKS Brand",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "92606-4814",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20247183132_8f50b73c34c1869cec776f70472b6363.jpg",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Ophir is a brand within the MKS Instruments Photonics Solutions division. The Ophir product portfolio consists of laser and LED measurement products including laser power and energy meters, beam profilers, high-performance IR thermal imaging lenses and optics for CO2 and high-power fiber laser applications. For more information, visit www.ophiropt.com.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "5556A6E4-C345-C4A6-672D-426D440BFA1D",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "-",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "4CD22D4D-C1DA-6513-CB18-8ABADEF59875",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "552FF0E5-96B7-F05A-3BD6-99A0E66329FA",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Ophir/ An MKS Brand",
+            "CITY": "Irvine",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.newport.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "FF332AF6-6310-47E7-B8AC-FC2C6F8128CA",
+        "CRM_COMPANY_KEY": "275C31ED-65A2-4E64-82AB-63E46BC5C5E7"
+    }
+}

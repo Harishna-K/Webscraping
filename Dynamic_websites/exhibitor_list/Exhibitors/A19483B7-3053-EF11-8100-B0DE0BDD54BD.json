@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2939,
+                "BOOTH_KEY": "6B640CCA-4152-40AC-9F78-3EF9C16C73E9",
+                "KEY_ID": "5C28BA0C-A8CA-BDED-D444-515F426EB47F"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "A19483B7-3053-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2939,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "PLASTICA PANARO USA, INC",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 30263,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024859563_896d2b21f08bff9971eea086643d3398.jpg",
+            "STATE": "GA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Panaro USA is an Italian manufacturer of plastic security cases.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "4F243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0CDA234A-F689-B02E-52E4-4B6928A1216C",
+                    "ANSWER_TITLE": "Auxiliary Product Manufacturer (cases, laser engravings, etc.)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "SUITE 100",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "5C3AB93E-93C5-66D7-B912-40DCABCFCE23",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "PLASTICA PANARO USA, INC",
+            "CITY": "NEWNAN",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "panarocases.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "C0D425E2-2B7A-4063-9888-D15DE9DE1FD7"
+    }
+}

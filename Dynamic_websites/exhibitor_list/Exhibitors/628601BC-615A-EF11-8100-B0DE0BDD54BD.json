@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1635,
+                "BOOTH_KEY": "5B6B1BE1-92E5-4B1E-AE77-E5769478DD28",
+                "KEY_ID": "33264CA9-BB07-7348-E65E-9EE40781A6C9"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "628601BC-615A-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1635,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "OKSI",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "@ai.oksi",
+            "ACTIVE": 1,
+            "ZIP_CODE": 90502,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024814132510_68959cd1066e4e7aa5cbea35312ee69c.jpg",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "OKSI is a team of pioneers with over 30 years developing and fielding custom EO/IR sensors within integrated AI/ML. They have taken AI and revolutionized its application into life as we know it - from augmenting human decision making to true system autonomy \u2013 on the battlefield, into deep space, and within the depths of the ocean. Their autonomous and intelligent solutions rapidly analyze, identify, and communicate actionable insights, enabling critical decision making, action prioritization, and outcome optimization. OKSI stands alongside the warfighter delivering novel technologies to fill capability gaps and provide them overmatch where and when they need it most.  \n\nOKSI is a privately held small business headquartered in Los Angeles, California. Learn more at www.oksi.ai",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "334720AA-F778-C0EF-F38F-5DDE2EB7A2EA",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/oksi-ai",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "4CB29658-0495-D0BB-0E81-A05DB2AF826A",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "33289112-B15D-A13A-3F24-8F9728D3952C",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "OKSI",
+            "CITY": "Torrance",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.oksi.ai",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "AC89BFF7-814F-43F5-8CA3-F711B6347FB6"
+    }
+}

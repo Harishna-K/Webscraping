@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3205,
+                "BOOTH_KEY": "8B768EA4-7164-41DF-8D85-1F4A055B4E4B",
+                "KEY_ID": "875AC964-0E76-D6C7-47FA-034A71B8A642"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "54929397-ADF1-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3205,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "DeTect Inc",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 32405,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202443123550_7135f5f9fdc8d2acf16ba31938c1d501.jpg",
+            "STATE": "FL",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "DeTect specializes in advanced 2D and True3D\u2122 radar and remote sensing technologies. DeTect\u2019s Beyond Visual Line of Sight (BVLOS) system is based on DeTect\u2019s HARRIER Airspace Surveillance Radar technology and provides proven long-range airspace monitoring to extend UAS operations beyond visual line-of-sight (BVLOS).\n\nFor drone detection, the DroneWatcher Drone Surveillance Radar (DroneWatcher DSR) configuration of HARRIER provides detection of both cooperative and non-cooperative drones.\n\nDeTect\u2019s proprietary target classification technology and advanced sensors provide airspace awareness for safety, security and surveillance. \u201cThe Right Radar for the Job\u201d is provided to each of our customers across the world in the airspace, defense, environmental protection, and renewable energy industries. HARRIER BVLOS has been used by Unmanned Aerial Systems developers and operators since 2008.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "658D6737-AF09-1F12-7008-11D48B0972FE",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "656BE995-9E10-30ED-9ECD-2E4350E06530",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "DeTect Inc",
+            "CITY": "Panama City",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.detect-inc.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "BBD147CA-6AD3-4FF9-8350-C93D0475F1DB",
+        "CRM_COMPANY_KEY": "4CBDAE0B-0B12-42A3-8DF0-7B23F1C3FD9E"
+    }
+}

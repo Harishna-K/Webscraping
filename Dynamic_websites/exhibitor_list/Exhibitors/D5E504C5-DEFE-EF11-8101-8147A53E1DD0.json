@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2408,
+                "BOOTH_KEY": "545F4FE7-DC96-48E9-9E97-1CEAE12CAD19",
+                "KEY_ID": "4F751D4B-96DD-81A5-4BCE-C5C059DF8394"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D5E504C5-DEFE-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2408,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "AMP Co., Ltd",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 2,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 48058,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025312103343_d41d8cd98f00b204e9800998ecf8427e.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "KR",
+            "SALUTATION": "",
+            "DESCRIPTION": "AMP develops advanced UAV systems for environmental monitoring, including meteorological observation, radiation measurement, and Arctic exploration. Their drones are also used in traffic control, water quality analysis, and delivery services.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "4FD7B91B-DA75-6BCD-047F-E681A7871588",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "A-2405",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "4F9FF22C-B116-1DB4-B55E-5DEAB81223D9",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "AMP Co., Ltd",
+            "CITY": "Busan",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "ampkorea.kr"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "8D65B5CE-C9DA-445C-A8CA-47373435E6AB"
+    }
+}

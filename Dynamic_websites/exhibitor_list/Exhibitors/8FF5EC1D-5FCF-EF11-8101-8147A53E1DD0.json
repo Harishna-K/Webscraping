@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3108,
+                "BOOTH_KEY": "0B359963-6A73-4879-829E-21C4AF08D242",
+                "KEY_ID": "26327C88-DCB2-2946-0197-E2E2D1E9D682"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "8FF5EC1D-5FCF-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3108,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "RIIS, LLC.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 48084,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "MI",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "RIIS specializes in developing tailored software and hardware solutions for drone manufacturers and service providers.  RIIS has collaborated with over 40 different clients in the drone industry, undertaking projects such as custom Ground Control Stations (GCS), Drones as First Responders (DFR) applications, agricultural applications, wind turbine and solar panel inspections, Counter UAS, and ATAK plugins.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "26DEF484-D875-CB41-1116-51CDC53DD8CC",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 211",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "2639E80A-002E-1129-A131-2469CF65242F",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "RIIS, LLC.",
+            "CITY": "Troy",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://riis.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "1ADBD5C7-4A85-4CEC-B161-9785285580AB"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2501,
+                "BOOTH_KEY": "B4D58E3D-AA85-42EF-8508-7C2F660B2AB2",
+                "KEY_ID": "C417DAD8-0109-2DE7-0653-6BE96639E9C0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "2C21D4D6-AF58-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2501,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Tyto Robotics (formerly RCbenchmark)",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/tytorobotics/",
+            "INSTAGRAM": "https://www.instagram.com/tytorobotics/",
+            "ACTIVE": 1,
+            "ZIP_CODE": "J8Y 3S2",
+            "TIKTOK": "https://www.tiktok.com/@tytorobotics",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202481293859_fe442f6a0360ec199131dcac83ef29e1.png",
+            "STATE": "QC",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CA",
+            "SALUTATION": "",
+            "DESCRIPTION": "Tyto Robotics specializes in the development of professional testing tools for the characterization of brushless motors, gas engines, propellers and drones. Our test equipment and software precisely measure thrust, torque, RPM, power and efficiency to help drone designers optimize their propulsion systems. Tyto Robotics also offers custom-designed wind tunnels for testing aircraft in realistic free flight conditions. Thousands of companies across the globe have benefited from Tyto Robotics products, including NASA, Airbus, Zipline and numerous prestigious research institutions. As the world leader in UAV propulsion testing, the company takes pride in giving back to the community by offering knowledge and sponsorship to incoming generations of engineering students.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0CB55A12-95C0-9F79-1605-A600D49FCC82",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://ca.linkedin.com/company/tytorobotics",
+            "TOLL_FREE": "",
+            "KEY_ID": "C41F8BA1-A5D3-2219-5249-9675B0D5D00C",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Tyto Robotics",
+            "CITY": "Gatineau",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.tytorobotics.com/",
+            "TWITTER": "https://twitter.com/tyto_robotics"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "C5D83E8F-A851-44D6-96CD-A55D4757A976"
+    }
+}

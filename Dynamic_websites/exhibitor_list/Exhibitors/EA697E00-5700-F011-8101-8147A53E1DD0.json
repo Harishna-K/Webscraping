@@ -1,0 +1,108 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1927,
+                "BOOTH_KEY": "64B19F6C-E118-4EC4-964B-0B8992294F57",
+                "KEY_ID": "B009C488-CD9E-163E-3F90-91F8D961EC19"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "EA697E00-5700-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1927,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "NextGen Preforms",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 76118,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "TX",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "NextGen Preforms manufactures composite TFP preforms that enables faster and more efficient part layup.  Using this approach reduces kitting and layup time, reduces trim waste, and increased repeatable quality. Tailored Fiber Placement (TFP) is an embroidery-based tow-steering process that enables complete control over fiber placement and directionality in a composite preform.  During the process, continuous tow is stitched to a backing material using numerical control.  The result is highly engineered composite structures that take full advantage of the anisotropic nature of fiber reinforcement.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "040655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "B02E0747-D17C-AA1C-34B3-2A49875A7B4A",
+                    "ANSWER_TITLE": "Composite Material Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "E4A34420-7061-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D6E284BA-C58B-8161-AEDE-F5676EE0274D",
+                            "ANSWER_TITLE": "Advanced Materials and Manufacturing"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "B01113E5-F90A-6F07-4ACB-9EDA313ACC8C",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "NextGen Preforms",
+            "CITY": "Ft. Worth",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.prccal.com",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "EA66AD4B-1DD2-4F4F-A052-660336B7FA7B"
+    }
+}

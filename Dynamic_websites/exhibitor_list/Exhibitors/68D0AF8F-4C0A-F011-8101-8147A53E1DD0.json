@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3405,
+                "BOOTH_KEY": "208D5EE5-705A-46DE-94C7-755942FF1B65",
+                "KEY_ID": "3C14DFDF-9EED-A9ED-09D7-BF9A297D2242"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "68D0AF8F-4C0A-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3405,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Hextronics LLC",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 33186,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025326101940_f414e6d5017815781d74189762d768e3.png",
+            "STATE": "FL",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Hextronics designs and manufactures battery-swapping drone-in-a-box products that service the industry's leading aircrafts.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "3C3BFC8A-02EA-9BAB-D83E-C5AB17B0ED83",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "3C17A2E1-C05D-96D4-AA53-2E3345025B3B",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Hextronics LLC",
+            "CITY": "Miami",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.hextronics.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "AFB47685-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

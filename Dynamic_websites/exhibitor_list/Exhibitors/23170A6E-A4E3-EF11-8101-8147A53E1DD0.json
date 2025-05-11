@@ -1,0 +1,59 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2310,
+                "BOOTH_KEY": "6AEB1C2E-9D9D-4667-A9A1-A4B6AECB75C9",
+                "KEY_ID": "56D1BFAA-D7A6-6B3B-58DD-D2EFB081AC06"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "23170A6E-A4E3-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2310,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Manta-Air",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 3064001,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202525114836_9440b1c55774cb88906eddb216e8222e.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "IL",
+            "SALUTATION": "",
+            "DESCRIPTION": "Manta Air is a global leader in advanced recovery systems for unmanned aerial vehicles, bringing over three decades of expertise to both military and commercial applications.\nOur commitment to innovation and excellence has established us as a trusted partner for leading UAV manufacturers worldwide.\nOur Heritage and Expertise\nManta Air combines extensive engineering experience with modern design methodologies. Operating under ISO 9001:2015 certification, we maintain rigorous quality control throughout development and manufacturing, making us a preferred supplier for military and private sector applications.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6D3BEAEA-08A3-B891-4AB0-DF854861B673",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Manta Air. | UAS Parachutes & AirBags for recovery systems.",
+            "TOLL_FREE": "",
+            "KEY_ID": "5708339A-F815-74B5-FF9C-5493FF86EF6C",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Manta-Air",
+            "CITY": "Or Akiva",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://manta-air.com/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "368BF816-DE67-464B-8DDE-FDDB8B7BE336"
+    }
+}

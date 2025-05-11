@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2414,
+                "BOOTH_KEY": "31CB73B7-D5BD-45BF-A47D-519B13593575",
+                "KEY_ID": "D84F2B4F-F50A-EBAA-106E-2FC50ADE1BF2"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "47ACBFE2-3EF5-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2414,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Zenith Aerotech",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 22920,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202534143538_40e3d0a23eaa2c49726e83675fd5cbce.png",
+            "STATE": "VA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "We at Zenith Aerotech specializes in Tethered Unmanned Aerial Systems (TeUAS), offering advanced solutions for various applications, including defense, public safety, industrial, and media. Our heavy-lift tethered UAVs, such as the Quad-8, are designed to carry payloads up to 20 lbs at altitudes up to 400 feet. These systems can achieve continuous flight times, with the Quad-8 demonstrating over 108 hours of uninterrupted flight. The Zenith QGC software simplifies drone operation with one-button takeoff and landing, making it user-friendly. Equipped with backup batteries and fail-safe mechanisms, these drones ensure safe operation even in power outages. Zenith Aerotech's drones are payload agnostic, supporting various devices, including communication devices, EO/IR cameras, illumination panels, and other custom devices up to 20 lbs. All products are designed, assembled, and tested in the U.S., ensuring compliance with NDAA regulations.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D85BCABA-F53E-67F0-124A-288128F466A2",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "0F155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D06A9764-E332-FEDF-15ED-626EDD2D9D67",
+                            "ANSWER_TITLE": "Public Safety"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "D8512BF8-E615-01D6-8760-3A5D2944ED66",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Zenith Aerotech",
+            "CITY": "Afton",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://zenithaerotech.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "A2D2738B-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

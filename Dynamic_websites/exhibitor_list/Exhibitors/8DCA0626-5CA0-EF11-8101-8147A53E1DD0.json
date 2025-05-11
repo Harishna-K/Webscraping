@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3704,
+                "BOOTH_KEY": "69A0EC38-3DAB-4AFB-BBC5-82C0AA2FF4B1",
+                "KEY_ID": "1D4FB8FA-A99A-65AA-F5B7-B9E617912AAE"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "8DCA0626-5CA0-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3704,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "TruWeather Solutions Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "https://www.instagram.com/truweathersolutions/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 20194,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241111134452_fe382d39049853aacc7ed1978307b303.png",
+            "STATE": "VA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "TruWeather Solutions takes an integrated approach to weather intelligence for advanced air mobility (AAM). By combining a robust Weather Software as a Service (SaaS) platform with carefully planned weather infrastructure (such as ground-based sensors and micro-weather stations), they deliver real-time, hyperlocal insights where they matter most. In addition, TruWeather\u2019s professional services \u2013 including forecasting expertise, data analysis, and regulatory support \u2013 ensure customers not only receive accurate weather data but also understand how to operationalize it. This unique blend of technology, infrastructure, and hands-on guidance enables safer, more efficient, and cost-effective AAM operations for cargo, passenger, and autonomous aerial missions.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "1DA0E30B-DBCF-88EB-429F-1BADF61BF129",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/truweather-solutions/",
+            "TOLL_FREE": "",
+            "KEY_ID": "1D59E978-0F4D-6A11-5BAE-C69FF5DD5DED",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "TruWeather Solutions Inc.",
+            "CITY": "Reston",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "truweathersolutions.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "97812A38-B459-4310-BB20-D9BF587E1248"
+    }
+}

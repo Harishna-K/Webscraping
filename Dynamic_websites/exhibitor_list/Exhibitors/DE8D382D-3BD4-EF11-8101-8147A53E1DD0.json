@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2801,
+                "BOOTH_KEY": "4D3C53E7-7B34-4D5F-8912-DFB83A4C69CC",
+                "KEY_ID": "DDFD2C7B-44D4-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "DE8D382D-3BD4-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2801,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Fotokite-Perspective Robotics",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "Fotokite",
+            "INSTAGRAM": "Fotokite",
+            "ACTIVE": 1,
+            "ZIP_CODE": 80301,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025116135817_27ca85c57ea5e17b49ac7a976dd55410.png",
+            "STATE": "CO",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Fotokite provides public safety teams with mission-critical situational awareness from elevated perspectives. Fotokite\u2019s actively tethered drones conserve personnel by launching, flying, and landing with the single push of a button; no piloting required.  Fotokite is authorized and recognized by aviation authorities as a safer alternative to non-actively tethered drones and free-flying public safety drone systems.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "64DBF462-08AB-880F-A62F-D453D90F6FA7",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "STE 107",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Fotokite",
+            "TOLL_FREE": "",
+            "KEY_ID": "64C714E7-CE2A-A1EF-2B32-541A1BF2E5E7",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Fotokite",
+            "CITY": "Boulder",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.fotokite.com",
+            "TWITTER": "Fotokite"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "F9B37685-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

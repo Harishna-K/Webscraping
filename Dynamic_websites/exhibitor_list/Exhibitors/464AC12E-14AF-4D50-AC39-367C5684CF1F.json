@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 9,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3613,
+                "BOOTH_KEY": "0DAA68AE-EB07-4828-9655-40526A4497A2",
+                "KEY_ID": "0CB12D91-E1F3-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "464AC12E-14AF-4D50-AC39-367C5684CF1F",
+        "PRIMARY_BOOTH": 3613,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "Blueflite",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 48116,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025326163317_badabe04286409c8473f006a9ef2609c.png",
+            "STATE": "MI",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "blueflite inc. is a US-based OEM offering advanced cargo drone solutions through patented, reliable, economical, and scalable hardware paired with integrated software\u2014enabling safe operations at scale and making it an ideal partner for the US government.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D8A4476C-EE4B-DEE1-428F-715614FAD6C2",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "312A1B78-E237-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "06D1759D-C142-C53C-19AF-FF3F6FB5E9CF",
+                            "ANSWER_TITLE": "New York Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "AFB36624-0682-46E5-B282-83EE42C702F1",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "blueflite inc.",
+            "CITY": "Brighton",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.blueflite.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "9DA8B6E4-B6F2-EE11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "2FBDFD03-3D15-4E0F-9139-138583241D04"
+    }
+}

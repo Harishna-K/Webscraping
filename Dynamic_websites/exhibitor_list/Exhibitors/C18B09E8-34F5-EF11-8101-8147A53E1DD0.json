@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1827,
+                "BOOTH_KEY": "2DE5AA6D-2384-47B9-A141-FF58B856B3B6",
+                "KEY_ID": "D5C93595-9FFE-BB61-54E4-5610979D6140"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C18B09E8-34F5-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1827,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Skyways Air Transportation",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 78753,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025227134557_07ba33c88877d92c2313367f75af8634.jpg",
+            "STATE": "TX",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Skyways provides long-range, heavy-payload, autonomous drone solutions for the harshest environments. Unlike traditional logistics methods that are slow, inflexible and costly, Skyways' solutions are fast, flexible and cost-effective.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6DE5D7BA-B21C-3BAA-FCC2-A7A64150B448",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 200",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "D5DBABB4-F05C-6D4A-58B2-969601B58F44",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Skyways Air Transportation",
+            "CITY": "Austin",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.skyways.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "66AEA1A2-0207-48EE-A9C2-A23271944545"
+    }
+}

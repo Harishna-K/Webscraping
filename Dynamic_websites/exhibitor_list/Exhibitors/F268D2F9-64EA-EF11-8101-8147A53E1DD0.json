@@ -1,0 +1,61 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3705,
+                "BOOTH_KEY": "A1669E92-2F80-41CA-B3DA-7C0E78E2DBD2",
+                "KEY_ID": "1145C6A0-B42F-417D-3C2B-D0826ECAC326"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "F268D2F9-64EA-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3705,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Avision",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/AvisionRobotics/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 90403,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025213155759_3ebcd18343075f6901afa0f66d1afd90.jpg",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Avision\u2122 offers commercial and government customers a mobile App and lightweight SaaS solution for integrating, managing, and simplifying drone operations. The company has partnered with NASA on UTM since 2015 and is an FAA approved provider of B4UFLY airspace awareness and LAANC flight authorization. Avision UTM services including strategic deconfliction and conformance monitoring are deployed in US and Switzerland, in compliance with the FAA NTAP, EU Reg 2021/664, ISO 27001/9001, ASTM, and other applicable regulations and standards. Avision UTM platform powers advanced air mobility such as passenger transportation and drone delivery. The company provides BVLOS operations support and extended situational awareness to first responders.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "119C0E97-9DC5-3861-F0A6-0F988DE4847A",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/avisionrobotics/",
+            "TOLL_FREE": "",
+            "KEY_ID": "1158FFCC-C9A2-2D2F-8EE9-7FEFC667E041",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "AVISION",
+            "CITY": "Santa Monica",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.avision.io",
+            "TWITTER": "https://twitter.com/AvisionRobotics/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "E0F8DE9C-7B56-4A5F-A011-ACD2B51EC88E"
+    }
+}

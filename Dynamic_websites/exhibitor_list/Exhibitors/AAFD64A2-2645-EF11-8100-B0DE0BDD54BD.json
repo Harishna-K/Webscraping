@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3412,
+                "BOOTH_KEY": "AA5F67DF-3CC5-44BA-8956-1D59A2609DDC",
+                "KEY_ID": "064405F0-BD76-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "AAFD64A2-2645-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3412,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Advanced Powerplant Solutions, LLC",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "AdvancedPowerplant",
+            "INSTAGRAM": "advancedpowerplant",
+            "ACTIVE": 1,
+            "ZIP_CODE": 53105,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024718121324_56ab480dead79aab443b974f031ae7a8.png",
+            "STATE": "WI",
+            "LAST_NAME": "",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "DESCRIPTION": "Advanced Powerplant Solutions is the Central U.S.A. ROTAX independent Service Centre providing lightweight aircraft engines, parts, service and technician education.",
+            "SALUTATION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "C51C8E49-B210-07C1-FF4D-0E6BCB88AE47",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite A",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "+1 (800) 532-3462",
+            "KEY_ID": "C44BE60E-D1C6-1099-CE4D-833BC20C0D2C",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Advanced Powerplant Solutions, LLC",
+            "CITY": "Burlington",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.advancedpowerplant.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "AAFD64A2-2645-EF11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "54985F56-121E-4DFD-8D8A-74565D85C397"
+    }
+}

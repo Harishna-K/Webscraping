@@ -1,0 +1,271 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3227,
+                "BOOTH_KEY": "E38F6A6A-CADB-4820-A526-AAEAD9655454",
+                "KEY_ID": "812CCDC9-DD74-AD0C-C62E-F80451F97898"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "AEE46989-BA01-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3227,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Silvus Technologies, Inc.",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/silvustechnologies",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1135,
+                    "TITLE": "Speaking Opportunity - Solutions Theater",
+                    "ID": "EVENTS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "https://www.instagram.com/SilvusTechnologies",
+            "ACTIVE": 1,
+            "ZIP_CODE": "90024-3950",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202532810719_de90a943284e3ff82bb1e24e551913b6.jpg",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Designed for today\u2019s leading-edge unmanned systems, the SL5200 delivers the performance of StreamCaster MANET radios in an ultra-low SWaP OEM module. Compact, lightweight and powerfully versatile, the SL5200 unifies C2, data and communications relay capabilities in one streamlined MANET radio solution.\r\n\r\nKey Features: \r\n\u2022\t2 Watts Output Power (4W EIRP)  \r\n\u2022\tSingle/Dual Band (L,S, L&S)\r\n\u2022\t20/10/5 MHz Bandwidth \r\n\u2022\tUp to 100 Mbps Data Rate \r\n\u2022\tInterfaces - Ehternet, USB, RS232  \r\n\u2022\tEncryption - AES256; FIPS 140-3\r\n\u2022\tAvailable Access to Spectrum Dominance - Expansive suite of LPI/LPD and Anti-Jamming resiliency capabilities",
+                    "KEY_ID": "A9C56B87-EBA5-C798-38B3-816CBAE0CDCC",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202532810219_c7a6d3ffface097be665dfc869983826.jpg",
+                    "TITLE": "StreamCaster LITE 5200 (SL5200 OEM Module)",
+                    "URL": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025328102146_9f77167c696da67f0849c2179187dc71.pdf"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "SC4200EP is a 2x2 MIMO ruggedized software-defined radio, delivering best-in-class MANET performance and connectivity at the tactical edge. Low SWaP profile makes it ideal for use in portable GCS and embedded unmanned applications. (IP68 Rated)\r\nFeatures:\r\n\u2022\t10 Watts Output Power (20W EIRP) \r\n\u2022\tSingle/Dual Band (300 MHz \u2013 6 GHz)\r\n\u2022\t20/10/5 MHz Bandwidth \r\n\u2022\tUp to 100 Mbps Data Rate \r\n\u2022\tInterfaces \u2013 Ethernet, USB, RS232 \r\n\u2022\tBlue UAS Framework; Green UAS Certified\r\n\u2022\tEncryption: FIPS 140-3 Level 2; AES256\r\n\u2022\tAvailable Access to Spectrum Dominance - Expansive suite of LPI/LPD and Anti-Jamming resiliency capabilities\r\n\u2022\tOEM module & Drop-In Module option for integration into unmanned platforms",
+                    "KEY_ID": "AA8CE6C2-F60F-0054-BED4-80889867251B",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025328104333_51f72e0786e8462446a0fb11cef3ea83.png",
+                    "TITLE": "StreamCaster SC4200EP MANET Radio",
+                    "URL": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025328104419_54435cd59b30c0bbd074f8843961fe55.pdf"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "StreamCaster PRISM: Precision Integrated Sectorized MIMO is a family of modular antenna radio systems providing long-range sectorized coverage across wide areas of operation. StreamCaster PRISM combines the performance of StreamCaster SC4400E MANET radios providing up to 20 Watts Output Power (80W EIRP) and up to 100 Mbps data throughput \u2013 with high-gain, dual polarity sector antennas to deliver up to 360\u00b0 of coverage for air and ground applications. Powered by Silvus\u2019 battle-proven MN-MIMO waveform ensures native compatibility with StreamCaster MANET radios \u2013 enabling seamless interoperability and connectivity between UAVs, ground-based GCS and other manned/unmanned sensors and nodes connected throughout its powerfully scalable mesh network. Rapidly deployable with toolless set up and ruggedized construction, StreamCaster PRISM delivers operational flexibility with unrivaled coverage and range, making it an ideal solution as a long-range UAV ground control station.\r\nFeatures: \r\n\u2022\tSingle/Dual Frequency Bands (L; S; C; SC)\r\n\u2022\tSingle/Multi-Sector Options \r\n\u2022\tHorizontal Beamwidth: 90\u00b0 to 360\u00b0  \r\n\u2022\tGain (dBi): 12-16 \r\n\u2022\tRapidly Deployable: Less than 15 Minutes\r\n\u2022\tEncryption: FIPS 140-3 Level 2; AES256",
+                    "KEY_ID": "AB2AC791-CA36-4BB9-FB14-5E137BC497EA",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/20253281111_25608df56c02f9fc6854a3de6a51822a.png",
+                    "TITLE": "StreamCaster PRISM - Integrated Antenna Radio Systems",
+                    "URL": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202532811124_7694f278f5e067d71d4afe88cf4856bd.pdf"
+                }
+            ],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "As the world\u2019s leading developer of tactical MANET communication systems, Silvus is reshaping mesh network technology for mission-critical unmanned applications on the ground, in the air, and at sea. \n\nThe Silvus family of StreamCaster MANET radios deliver high-fidelity video, voice & data communications with class leading throughput, range, EW resiliency & scalability \u2013 delivering actionable intelligence at the speed of relevancy. \n\nAt the heart of every StreamCaster MANET radio is Silvus\u2019 proprietary MN-MIMO waveform technology that creates a self-forming and adaptive mesh network \u2013 capable of linking hundreds of nodes with unmatched range, data rate throughput, EW resiliency and scalability. \n\nAvailable for integration into the MN-MIMO waveform is Spectrum Dominance - an expansive suite of LPI/LPD and Anti-Jamming capabilities that provide secure and EW resilient mesh network communications in congested & contested environments. \n\nTrusted by unmanned systems manufacturers around the world, Silvus StreamCaster radios unify C2, sensor and telemetry data with communication relay capabilities \u2013 delivering secure & protected communications for leading edge platforms in any operational environment.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "81571BB1-F044-13DF-89CC-D648A0C662C2",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 1500",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/silvus-technologies-inc./",
+            "FORM": {
+                "QUESTIONS": [
+                    {
+                        "QUESTION_NAME": "Contact Form Message",
+                        "DISPLAY_ORDER": 1,
+                        "QUESTION_TYPE": "textarea",
+                        "ACTIVE": 1,
+                        "KEY_ID": "6B869602-020C-F011-8101-8147A53E1DD0",
+                        "ANSWERS": [
+                            {
+                                "DISPLAY_ORDER": 1,
+                                "ACTIVE": 1,
+                                "KEY_ID": "6C869602-020C-F011-8101-8147A53E1DD0",
+                                "ANSWER_TITLE": "Message"
+                            }
+                        ]
+                    }
+                ],
+                "SUB_TITLE": "",
+                "DESCRIPTION": "Contact Silvus to learn how StreamCaster MANET radios and MN-MIMO waveform are advancing the capabilities of unmanned systems at the tactical edge",
+                "THANK_YOU_MESSAGE": "Thank you for reaching out! We have received your message and someone from the Silvus Unmanned Systems team will respond back to you shortly.",
+                "KEY_ID": "AC04D04F-A38D-9378-76E7-653959E3E26E",
+                "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025328112526_bce0d4129fefaefe86ef9bcd8cb3b015.jpg",
+                "TITLE": "Contact Silvus - Unmanned Systems Team",
+                "EMAIL_NOTIFICATION": "unmanned@silvustechnologies.com"
+            },
+            "PRESS_RELEASES": [
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "310.479.3333",
+                    "STATE": "CA",
+                    "KEY_ID": "AC167307-003F-8A89-86BC-27DE87BD10E8",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/202532811317_c7a6d3ffface097be665dfc869983826.jpg",
+                    "LAST_NAME": "",
+                    "EMAIL": "keith.swenson@silvustechnologies.com",
+                    "FIRST_NAME": "Keith Swenson",
+                    "SUB_TITLE": "Delivering Powerful MANET Radio Performance for Leading-Edge Unmanned Systems",
+                    "CITY": "Los Angeles",
+                    "COUNTRY": "US",
+                    "DESCRIPTION": "",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025328113117_a01c56f2791ee1dc62d5428c65b2097a.pdf",
+                    "TITLE": "Silvus Technologies Unveils StreamCaster LITE 5200 (SL5200): Ultra-Low SWaP OEM Module"
+                },
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "310.479.3333",
+                    "STATE": "CA",
+                    "KEY_ID": "AC3EBAC9-02E9-FFC6-F5DB-34630BBAE88F",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025328113528_8dd66dcfca6796610670ee1ed6536e94.png",
+                    "LAST_NAME": "",
+                    "EMAIL": "keith.swenson@silvustechnologies.com",
+                    "FIRST_NAME": "Keith Swenson",
+                    "SUB_TITLE": "Providing Protected and Secure Communications for Mission-Critical Operations Achieves National Institute of Standards and Technology \u2013 Federal Inform",
+                    "CITY": "Los Angeles",
+                    "COUNTRY": "US",
+                    "DESCRIPTION": "",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025328113542_3905d26664a8173bd551b52b5582ca97.pdf",
+                    "TITLE": "Silvus StreamCaster Leads the Way as The Industry\u2019s First MANET Radio To Receive FIPS 140-3 Level 2 Validation"
+                },
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "310.479.3333",
+                    "STATE": "CA",
+                    "KEY_ID": "AC6C5478-D895-2206-065F-77AB749D2C26",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025328114147_51f72e0786e8462446a0fb11cef3ea83.png",
+                    "LAST_NAME": "",
+                    "EMAIL": "keith.swenson@silvustechnologies.com",
+                    "FIRST_NAME": "Keith Swenson",
+                    "SUB_TITLE": "Providing Advanced & Secure MANET Radio Capabilities to UAS Developers for use in DoD Applications",
+                    "CITY": "Los Angeles",
+                    "COUNTRY": "US",
+                    "DESCRIPTION": "",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/202532811421_c4cbf29be9b1e7e50499bd7d423b9894.pdf",
+                    "TITLE": "Silvus StreamCaster MANET Radios Added to Blue UAS Framework and Green UAS Cleared Components List"
+                },
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "310.479.3333",
+                    "STATE": "CA",
+                    "KEY_ID": "ACEA9756-E2E4-2651-241B-CCE05528DB03",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025328115241_3c0155c69543b6de6e98d359a6f46b9a.png",
+                    "LAST_NAME": "",
+                    "EMAIL": "keith.swenson@silvustechnologies.com",
+                    "FIRST_NAME": "Keith Swenson",
+                    "SUB_TITLE": "Following Rigorous Real-World Validation, MAN-PC is Now Available at 50% Off for a Limited Time",
+                    "CITY": "Los Angeles",
+                    "COUNTRY": "US",
+                    "DESCRIPTION": "",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025328115257_8980fc450941d06208e7c8a9d8fa457d.pdf",
+                    "TITLE": "Silvus Technologies Launches MAN-PC: MANET Power Control for Enhanced LPD"
+                },
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "310.479.3333",
+                    "STATE": "CA",
+                    "KEY_ID": "AD01E2A7-C15C-5858-B871-A645BF75DA82",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025328115456_71eb3cf3f67d0acff619d948151043c1.png",
+                    "LAST_NAME": "",
+                    "EMAIL": "keith.swenson@silvustechnologies.com",
+                    "FIRST_NAME": "Keith Swenson",
+                    "SUB_TITLE": "",
+                    "CITY": "Los Angeles",
+                    "COUNTRY": "US",
+                    "DESCRIPTION": "",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/202532811555_0c09b0d7dcde205aa6dba4f63b9f3ef0.pdf",
+                    "TITLE": "UVision Inc. and Mistral Inc. Selects Silvus StreamCaster SC4400 to Provide Secure C2 and Communications for HERO-120SF in $73.5 Million U.S. SOCOM Lo"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "813F36B3-E354-A605-3505-5FE7CBD6FBF4",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Silvus Technologies, Inc.",
+            "CITY": "Los Angeles",
+            "ACTION_BUTTON_LABEL": "Contact Us",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Engineered for today\u2019s leading-edge unmanned systems, the StreamCaster LITE 5200 unifies C2, sensor and telemetry data with communications relay capabilities in an ultra-low SWaP OEM module. With up to 2 Watts output power, and up to 100 Mbps data rate, the SL5200 provides class-leading power, high-bandwidth throughput and tactical mobility. Powered by Silvus\u2019 battle-proven MN-MIMO waveform \u2013 create massively scalable mesh networks to connect multiple unmanned systems, sensors & personnel. Take your mission further to experience Group 2 UAV capabilities in a Group 1 footprint with a powerfully versatile MANET radio module that is redefining C2 & communications mesh networking at the tactical edge. Learn more: https://silvustechnologies.com/products/streamcaster-lite-5200/",
+                    "KEY_ID": "AB4D2D21-E0E2-9948-6A34-11581F48B2F6",
+                    "TITLE": "StreamCaster LITE 5200 | SL5200 OEM Module: Take Your Mission Further",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202532811457_5f09954b33f38fff936d6a17b9f022a7.png",
+                    "URL": "https://www.youtube.com/watch?v=_dWfDLJt4YA"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "StreamCaster PRISM is a family of modular antenna radio systems providing long-range sectorized coverage across wide areas of operation. \r\n\r\nStreamCaster PRISM combines the performance of StreamCasterr SC4400E MANET radios providing up to 20 Watts Output Power (80W EIRP) and up to 100 Mbps data throughput \u2013 with high-gain, dual polarity sector antennas to deliver up to 360\u00b0 of coverage for air and ground applications. \r\n\r\nPowered by Silvus\u2019 battle-proven MN-MIMO waveform ensures native compatibility with StreamCaster MANET radios \u2013 enabling seamless interoperability and connectivity between UAVs, ground-based GCS and other manned/unmanned sensors and nodes connected throughout its powerfully scalable mesh network. Rapidly deployable with toolless set up and ruggedized construction, StreamCaster PRISM delivers operational flexibility with unrivaled coverage and range, making it an ideal solution as a long-range UAV ground control station. \r\n\r\nSilvus teamed up with Quantum Systems  to put its capabilities to the test, with C2 and video downlink from multiple Vector and Twister UAVs operating simultaneously across multiple sectors at extended link range. \r\n\r\nFor more information visit: https://bit.ly/3VGgD6y",
+                    "KEY_ID": "AB79B582-A4B6-4B2F-5310-581692861A55",
+                    "TITLE": "StreamCaster PRISM: UAV Ground Control Station - Case Study",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202532811935_89d806eda3ce238cf1b874d7404f0f33.png",
+                    "URL": "https://www.youtube.com/watch?v=iAXp575lLu8"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Silvus Technologies is dedicated to One Mission: Solving the toughest tactical communications problems facing the warfighter. \r\n\r\nSilvus\u2019 StreamCaster family of MANET radios provide high-fidelity video, voice and IP data communications \u2013 delivering actionable intelligence at the speed of relevance. At the heart of every StreamCaster MANET radio is Silvus\u2019 proprietary MN-MIMO waveform that creates a self-forming, self-healing and adaptive mesh network \u2013 capability of linking hundreds of nodes with unmatched range, data throughput, EW resiliency and scalability. \r\n\r\nTogether, Silvus\u2019 StreamCaster MANET radios and MN-MIMO waveform deliver C2 and protected comms for leading-edge unmanned platforms \u2013 on the ground, in the air and at sea. \r\n\r\nDiscover how through an interoperable systems of systems approach, we\u2019re creating powerful unified network communications for multi-domain operations. \r\n\r\nLearn more at https://silvustechnologies.com/",
+                    "KEY_ID": "AB9FAD46-0289-A38C-053C-55EC818F4A8E",
+                    "TITLE": "Silvus Technologies | Unified Network Communications For Multi-Domain Unmanned Operations",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202532811143_d3f706f776e9ef06e90b2dbdf46568b9.png",
+                    "URL": "https://www.youtube.com/watch?v=vBViQrIvlIE"
+                }
+            ],
+            "WEBSITE": "www.silvustechnologies.com",
+            "TWITTER": "https://twitter.com/SilvusTech",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "6CBE1CA5-D76D-4357-AE19-61EB6E884FD1"
+    }
+}

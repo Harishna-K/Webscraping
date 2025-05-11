@@ -1,0 +1,86 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 2,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2639,
+                "BOOTH_KEY": "216BB641-1BB4-4CE6-85C4-D87A83D0FD81",
+                "KEY_ID": "240C9D90-CEF0-EE11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "E5581BF6-CDF0-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2639,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "Phase One",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "ACTIVE": 1,
+            "ZIP_CODE": 80021,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202442105448_7e10c2b7a763985fef6b2ce652720ef0.jpg",
+            "STATE": "CO",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Phase One is a global leader in digital imaging technology. The company provides unrivaled imaging quality for a wide range of applications, from professional photography to heritage digitization, industrial inspections, aerial mapping, security and space.  \n\nFor more than three decades, Phase One has developed core imaging technologies and a range of digital cameras and imaging modules, setting new standards for image quality in terms of resolution, dynamic range, color fidelity and geometric accuracy. \n\nBased in Copenhagen, Denmark, and with regional offices strategically located in Denver, Cologne, Tel Aviv, Saku, Tokyo, Beijing, Shanghai, and Hong Kong, Phase One nurtures long-term relationships with customers, technology partners and its global network of distributors, often playing the role of digital imaging partner to customers with unique requirements. It is with this passion for service that Phase One continually exceeds expectations and drives the imaging industry forward.?? \n\nWe deliver Imaging Beyond Imagination.?",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "2C39358C-902C-404B-69E4-84960E6AFF5E",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "2C284F50-D4BC-9C9C-4CC1-ED08004122A2",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Phase One",
+            "CITY": "Broomfield",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "phaseone.com",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "C3DD9AE8-38F0-EF11-8101-8147A53E1DD0",
+        "CRM_COMPANY_KEY": "24C35033-8CC7-42C8-8855-D771CCA95368"
+    }
+}

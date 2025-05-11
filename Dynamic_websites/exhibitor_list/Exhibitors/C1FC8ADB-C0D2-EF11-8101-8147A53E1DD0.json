@@ -1,0 +1,86 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3305,
+                "BOOTH_KEY": "8539A34F-8430-48C9-9B08-3FB0B6AF9110",
+                "KEY_ID": "18C07BF9-C4D2-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C1FC8ADB-C0D2-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3305,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Starling Inc",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "ACTIVE": 1,
+            "ZIP_CODE": "92130-2466",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202511413497_57d05aa645ba6a259acd3a04a143ef23.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Pathfinder is a group one (13 lb.) Fixed-Wing Electric Vertical Take Off and Landing (FX-eVTOL) small Unmanned Aerial System (sUAS) with a 3-hour flight time and a maximum speed of over 100 mph that takes-off and land precisely back to a small ground station (less than 3 ft x 3ft) where its battery is automatically swapped in less than 15 seconds, before the Pathfinder can take-off again to another mission.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "03FD816E-E41C-F474-900D-05F7F3920172",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "03E3E7AE-FDFE-411D-029F-1DB81EE283BF",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Starling Inc",
+            "CITY": "San Diego",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.starling-systems.com",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "7DCA2821-1DD7-484F-BC99-5ED1AA0AA0F2"
+    }
+}

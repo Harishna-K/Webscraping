@@ -1,0 +1,87 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2133,
+                "BOOTH_KEY": "D103B366-577E-4309-BA03-D101C9983374",
+                "KEY_ID": "B34BB499-FDA1-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C97BBA17-E1A1-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2133,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "New York UAS Test Site",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "ACTIVE": 1,
+            "ZIP_CODE": 13416,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241113121112_3f54436109faf369ff5125e15b7f87f7.png",
+            "STATE": "NY",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "One of only seven FAA-Designated UAS Test Sites, the NY UAS Test Site supports government and private sector UAS technology research and development, safety case analysis,  and airworthiness certification for Beyond Visual Line of Sight (BVLOS) operations. We have a 50-mile instrumented UAS BVLOS corridor that provides real-time reach back to a State-of-the-Art Operations and Data Management Center. The Operations Center hosts a data wall with a 3D visualization capability for real-time Air Domain Awareness and 4 Beyond Visual Line of Sight (BVLOS) pilot workstations. We provide flight-testing opportunities for all classes of UAS, from small drones to full-sized aircraft with access to an unparalleled variety of test environments, including urban, suburban, and rural areas, mountainous terrain, and overwater. The Griffiss FAA Contract Tower supports true BVLOS UAS operations in the Class D airspace.  Adjacent to the Operations Center, is an indoor/outdoor instrumented UAS, IoT, and Cyber Physical System experimentation facility that supports year-round UAS pilot training and testing for autonomous swarms, counter-UAS, Detect and Avoid (DAA), mobile networking, navigation systems, radio frequency (RF) spectrum for Command and Control and Communications, remote identification and Vehicle to Vehicle Communications (V2V).",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "080655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "8143735F-D3C2-6BBD-0D9A-85A4DAE7D69D",
+                    "ANSWER_TITLE": "Test Facility"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/ny-uas-test-site",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "8101BB2B-9D61-9C9C-B244-73BA5E5A8138",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "New York UAS Test Site",
+            "CITY": "Rome",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "https://nyuastestsite.com/",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "D9DEA47A-985E-49E1-ABB6-DE16D84F1652"
+    }
+}

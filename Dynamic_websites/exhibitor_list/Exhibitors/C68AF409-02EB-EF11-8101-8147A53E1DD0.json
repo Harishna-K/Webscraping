@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2226,
+                "BOOTH_KEY": "1C0E33B1-E729-48EA-9A6F-D49E0AF5321C",
+                "KEY_ID": "3A022776-A36B-5062-3441-D41D3A0453DA"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C68AF409-02EB-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2226,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "ABTECH TECNOLOGIAS",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 47170110,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "Goi\u00e1s",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "BR",
+            "SALUTATION": "",
+            "DESCRIPTION": "offers innovative solutions in public and private security, combining technology, strategy and expertise to protect people, property and institutions. Our commitment is to guarantee efficiency, reliability and excellence in every service we provide.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "3AA8D00E-B409-1FDE-CD0B-8B37B79CBF2B",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "3A186C3F-9D73-9131-4675-5D2B8F2BFF79",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "ABTECH TECNOLOGIAS",
+            "CITY": "goiania",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://abntek.com.br/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "0C5CCA54-16DB-4054-89E3-E131AF22762F"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2715,
+                "BOOTH_KEY": "E7C736B4-3908-4DFE-867C-423BA6CD75E8",
+                "KEY_ID": "7A373DA3-C2AA-8B8B-7579-C8E6378AB752"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "356F9B53-E5F5-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2715,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "NovAtel, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "SUBEXHIBITORS": [
+            {
+                "BOOTH_NO": 2715,
+                "COMPANY_NAME": "Antcom Corporation",
+                "BOOTH_KEY": "E7C736B4-3908-4DFE-867C-423BA6CD75E8",
+                "EXHIBITOR_KEY": "73F501AC-D2A9-4DF7-891E-625AD53F27A5"
+            },
+            {
+                "BOOTH_NO": 2715,
+                "COMPANY_NAME": "Hexagon",
+                "BOOTH_KEY": "E7C736B4-3908-4DFE-867C-423BA6CD75E8",
+                "EXHIBITOR_KEY": "E36EAA4E-FD55-4261-893A-084888FED20B"
+            }
+        ],
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": "T3K 2L5",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "AB",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CA",
+            "SALUTATION": "",
+            "DESCRIPTION": "Hexagon | NovAtel, is a global technology leader, pioneering end-to-end solutions for assured autonomy and positioning on land, sea, and air. Our technologies focus on GNSS and INS (Inertial Navigation Systems), including global corrections services, anti-jamming and anti-spoofing, as well as advanced algorithms for specialised applications.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "7AD44E91-C091-FCCF-2100-87442CB37960",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "7A3DD34B-980F-754D-B505-49979A94B10A",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "NovAtel, Inc.",
+            "CITY": "Calgary",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://novatel.com/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "356F9B53-E5F5-EE11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "B2D82B7F-E864-49D8-A412-FA63F675DCBE"
+    }
+}

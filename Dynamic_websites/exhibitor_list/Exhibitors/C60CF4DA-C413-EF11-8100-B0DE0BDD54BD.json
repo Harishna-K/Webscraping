@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1905,
+                "BOOTH_KEY": "A33B8C48-53E1-464F-8374-FD86C6A5CA20",
+                "KEY_ID": "1F753258-FEEC-28F6-369F-885537AA5189"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C60CF4DA-C413-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1905,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Americase, LLC.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/americasellc",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 75165,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024516164613_0372e90c0a0dd650103d80ac4af1c0ae.jpg",
+            "STATE": "TX",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Americase designs and fabricates cutting-edge protection containers for the transportation and storage of high value and hazmat goods. We are an AS9100 and ISO 9001 certified manufacturing specialist. Americase solves complex and challenging transportation and handling problems. With over 50 years of case design and manufacturing experience, a full in-house design and engineering department, precision fabrication, and one of the best production units in the industry, we offer the complexity and capability to overcome any challenge. Superior functionality and performance are the cornerstones of every Americase container, and each one is meticulously designed and exhaustively tested by our in-house labs to meet only the highest standards. AMERICASE is in the business of mission critical, problem-solving innovation. Our product is protection, we just happen to make the world\u2019s best cases. \n \nWhen you use Americase, you get the peace of mind that your hazardous materials, dangerous goods, or high value products, will be safely transported, stored, and moved through your manufacturing and supply chain with the complete confidence that you meet all current, and future regulations. We are the industry experts. We don\u2019t just research the industry standards and regulations; we actively contribute to the writing process as well as assist regulatory bodies in the practical application of these requirements.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "4F243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0CA1C102-ECBC-B6C5-AECC-12A14C9D0D6D",
+                    "ANSWER_TITLE": "Auxiliary Product Manufacturer (cases, laser engravings, etc.)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/americasellc/",
+            "TOLL_FREE": "",
+            "KEY_ID": "1F87597C-9172-024B-FAC5-2055ED1B5477",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Americase, LLC.",
+            "CITY": "Waxahachie",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.americase.com/",
+            "TWITTER": "https://twitter.com/americases"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "81CDDF58-B1F2-4192-BADB-BF968BFBF19A"
+    }
+}

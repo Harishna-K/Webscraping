@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3514,
+                "BOOTH_KEY": "E2D32217-D627-4A4D-B250-82C1D19C274F",
+                "KEY_ID": "DC9B4B0E-CE01-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "57412919-B5F2-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3514,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Aeronix, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 32901,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20244415415_062aedf24cf55f1e4628836d3040ea4a.png",
+            "STATE": "FL",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Aeronix, Inc., a system engineering and custom electronics development company, specializing in communications and data acquisition technologies for commercial, aerospace, government, U.S. Department of Defense and consumer electronics applications. Our products include software defined datalinks, high speed networking, and ELINT/SIGINT systems.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A9177051-0A41-F657-84B0-94D83B2980F3",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 200",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "A8D82DDB-CC5E-F14E-D9A4-8A88D3116387",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Aeronix, Inc.",
+            "CITY": "Melbourne",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.aeronix.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "F8C81B0C-74E5-4883-9008-7A9C6CCCB4CF"
+    }
+}

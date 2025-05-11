@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2123,
+                "BOOTH_KEY": "9FB88306-A3A6-4E04-8B3C-7E63BDB87214",
+                "KEY_ID": "F552A2C0-0206-91C2-A8C4-42E008036094"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "658B4CA4-9DCE-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2123,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "MP Antenna",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 44035,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202521913427_b12f09c399539fb90ce09c4e8c129cca.png",
+            "STATE": "OH",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "MP Antenna is an antenna solutions manufacturer that specializes in the design and manufacturing of multi-polarized antennas. This type of antenna features a three-dimensional element design that incorporates built in Spatial and Polarization Diversity and improves wireless communications in any application. Our patented antennas outperform all other NLOS purported antennas in quality and reliability, while providing network users with consistent and predictable connectivity.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "3F0CE6C8-9A16-DA86-1E4C-37FD36C975DF",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "F55D6432-E43F-BDF8-AD3B-BE374A18993B",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "MP Antenna",
+            "CITY": "Elyria",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "mpantenna.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "039C20B4-FE22-4B71-A042-631EBF4F2218"
+    }
+}

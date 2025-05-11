@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1601,
+                "BOOTH_KEY": "844CDEA5-2FA4-4BE9-AD21-06D2B9DA0B73",
+                "KEY_ID": "15256F01-F6ED-1A0E-8964-B9561684A556"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "6A8E4E5A-5CEE-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1601,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Meadowlark Aircraft Company",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 58203,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202521819022_682ca38e179f23a2bda68948268b0497.png",
+            "STATE": "ND",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Meadowlark Aircraft Company is a manufacturer of bespoke unmanned aerial systems. Our current focus is light Group 3 [100-300 LB TOW] fixed-wing unmanned aerial systems for defense [stealth] and civilian [agriculture, mid-range parcel delivery] applications.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "7401C345-EAE6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "153BCF0B-B017-C13A-D364-CDCC3813F740",
+                    "ANSWER_TITLE": "Manufacturing Machinery/Contract Manufacturing/Production Equipment"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/meadowlark-aircraft-company/?viewAsMember=true",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D61199D6-F3E4-3A0C-629E-F73915DA4DFC",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "152C736B-A1A5-C637-B1DB-0DDEDBE2B4FB",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Meadowlark Aircraft Company",
+            "CITY": "Grand Forks",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.meadowlarkaircraft.com",
+            "TWITTER": "@MeadowlarkAirCo"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "1BA9F28C-8B7C-44CB-9275-101C1A8CE546"
+    }
+}

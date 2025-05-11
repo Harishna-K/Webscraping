@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1639,
+                "BOOTH_KEY": "E5F0473F-8D26-47DD-BBE3-7ACB51052FA0",
+                "KEY_ID": "6827D23E-DA2F-B2F7-BDD4-7E85FA39F43B"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "2B3727E4-D0E7-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1639,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Safran Sensing Technologies Norway AS",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 14586,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202521012459_d1d21ba5c53bff1ddf4bf15f03a8e220.png",
+            "STATE": "NY",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Safran Electronics & Defense offers its customers on-board intelligence solutions allowing them to\nunderstand the environment, to reduce mental load and to guarantee a trajectory, even in critical\nsituations, in all environments: on land, at sea, in the sky or space. The company harnesses the\nexpertise of its 13,000 employees towards these three functions: observe, decide and guide, for the\ncivil and military markets.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6842686F-F230-E32C-66C5-62331E21442C",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite A",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D5938F5D-A555-80E9-B439-BCF0CE663EC2",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "682EF73F-F153-3E4D-8BC3-E368EAA7B40D",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Safran Electronics & Defense",
+            "CITY": "West Henrietta",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.safran-group.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "C0557E7F-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2705,
+                "BOOTH_KEY": "CBB312FD-817A-42CD-85A5-363223AD7244",
+                "KEY_ID": "DA943C89-DEC7-F06E-DDA5-12BC2715552E"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "408384C4-A7EB-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2705,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Kongsberg Geospatial",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "\u00a0K2K 3C9",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2024917135424_fd0ef488d50c809e31fe38dcbe043875.png",
+            "STATE": "ON",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CA",
+            "SALUTATION": "",
+            "DESCRIPTION": "Based in Ottawa, Canada, Kongsberg Geospatial, developer of the TerraLens Geospatial SDK, creates precision real-time software for air traffic control and UAS situational awareness. The Company\u2019s products are primarily deployed in air-traffic control, Command, and Control, and air defense solutions. Over three decades of delivering dependable performance under extreme conditions, Kongsberg Geospatial has become the leading geospatial technology provider for mission-critical applications in Aerospace, Defense, and the rapidly evolving Commercial UAV market Over three decades of providing dependable performance under extreme conditions, Kongsberg Geospatial has become the leading geospatial technology provider for mission-critical applications where lives are on the line. Kongsberg Geospatial make and market IRIS Terminal Electronic Observer UI for UAS situational awareness in BVLOS missions. Kongsberg Geospatial is a subsidiary of Kongsberg Defense & Aerospace.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "DAA405F2-C6D4-17DB-FAF5-D13DD62CD6CC",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 400",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "DA8E42E3-9CDE-3083-1948-CF1309B7CAAC",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Kongsberg Geospatial",
+            "CITY": "Ottawa",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.kongsberggeospatial.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "13B2C79A-BCFA-4730-98DE-2EBC432AE2FB"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3829,
+                "BOOTH_KEY": "41C42F86-3EDA-42E8-9576-91ABBDF0F620",
+                "KEY_ID": "C1292CF3-9956-0C62-E073-C766F087E0CF"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "02307334-8487-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3829,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "GREMSY",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/@Gremsy",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1135,
+                    "TITLE": "Speaking Opportunity - Solutions Theater",
+                    "ID": "EVENTS"
+                }
+            ],
+            "INSTAGRAM": "https://www.instagram.com/gremsytech/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 70000,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531094726_a68edd9417d4a536ca4f423d53308b9b.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "VN",
+            "SALUTATION": "",
+            "DESCRIPTION": "Gremsy is leading in designing and manufacturing cutting-edge gimbal and payload systems tailored for unmanned aerial vehicles (UAVs). Over a decade, Gremsy has consistently delivered high-quality products and innovative solutions for a diverse range of drone-mounted cameras and sensors.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "C1C1E0C0-9D18-D1BD-6841-A78C750EA2FF",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "152-154 Street No.02, Van Phuc Residential City, Hiep Binh Phuoc Ward, Thu Duc City, Ho Chi Minh City, Vietnam",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/gremsy/",
+            "TOLL_FREE": "",
+            "KEY_ID": "C158479A-F9A3-1019-C49A-4A87559A76DE",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "GREMSY",
+            "CITY": "HO CHI MINH",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "gremsy.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "52DCE7F1-F101-423E-BF5E-2E54BA10C47D"
+    }
+}

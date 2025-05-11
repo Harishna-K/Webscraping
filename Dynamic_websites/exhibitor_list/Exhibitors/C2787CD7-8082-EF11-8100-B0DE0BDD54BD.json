@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3828,
+                "BOOTH_KEY": "B839BBE5-A5EE-4E5C-8EC0-58BDF63C6D15",
+                "KEY_ID": "78905947-F9A7-FA21-C004-8702D4016F21"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C2787CD7-8082-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3828,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "ModalAI",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 92121,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024104114811_8abf083209791025f05f48f6247355d6.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "ModalAI\u00ae accelerates autonomy by providing innovators with robot and drone perception and communications systems that are manufactured in the U.S.A. Our highly-integrated VOXL autopilots empower a variety of industries to utilize aerial and ground autonomous navigations systems that communicate on 4G and 5G cellular networks.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "44170441-E0F6-E1ED-D926-58241D1E2ECD",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 2",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "7895A6D4-CC2E-CF09-3BCC-5C0B6627F9BB",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "ModalAI",
+            "CITY": "San Diego",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.modalai.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "E2E3321A-F325-49C0-B73F-7A92D91BF427"
+    }
+}

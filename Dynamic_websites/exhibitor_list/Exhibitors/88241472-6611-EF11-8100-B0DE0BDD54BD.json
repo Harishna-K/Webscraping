@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3215,
+                "BOOTH_KEY": "C6146F35-68DB-431E-BEF8-8D6993BAA74D",
+                "KEY_ID": "844044A2-987F-4FF8-2D62-B8A598292588"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "88241472-6611-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3215,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Systel, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 77478,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "TX",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Systel, Inc. is a leading manufacturer of rugged compute solutions, including rackmount and embedded computer products, with a core value proposition of delivering rugged compute superiority where mission meets critical. Founded in 1988, Systel\u2019s pedigree of capabilities spans numerous advanced platforms with thousands of successful deployments in the defense and commercial sectors. Systel\u2019s rugged systems are designed and manufactured for continuous operation under the most extreme and austere environmental conditions. All Systel products are proudly made in the USA in the company\u2019s headquarters in Sugar Land, TX. Systel is AS9100:2016 and ISO 9001:2015 certified.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "848AA18B-F8A7-EC8E-DCCD-D5775382CC0F",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "844EBC64-D5BE-E7AD-4897-AD68FB27FC05",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Systel, Inc.",
+            "CITY": "Sugar Land",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "systelusa.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "70391F62-1B0E-4F13-9ECF-97B47D753464"
+    }
+}

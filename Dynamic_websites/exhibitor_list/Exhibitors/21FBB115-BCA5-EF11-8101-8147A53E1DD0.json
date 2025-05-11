@@ -1,0 +1,114 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2433,
+                "BOOTH_KEY": "D85D9A36-FFCF-4214-B4C4-632C2E0D680A",
+                "KEY_ID": "7DA4808F-B462-CEE2-19DF-540C6EADE91A"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "21FBB115-BCA5-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2433,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "WindShape, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "ACTIVE": 1,
+            "ZIP_CODE": 74127,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025320155058_dfd945c543f1073e8ca64aea71aaebd2.png",
+            "STATE": "OK",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Since our inception in 2016, WindShape has made waves in the scientific community with our game-changing wind generator. Recognized worldwide by the scientific community, this innovative technology quickly gained traction. Today, we\u2019ve transitioned from solely selling products to providing top-notch services, elevating the world of drone testing, inspection, and validation. By offering our cutting-edge technology as a service, we proudly stand as the go-to partner for ensuring the smooth entry of tomorrow\u2019s UAS applications into the market. Our vision is clear: redefine industry standards, drive innovation, and lead the charge in drone testing, validation, and inspection.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "080655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "7FA1115B-D73C-42AC-CD7B-4418ECBCC0F3",
+                    "ANSWER_TITLE": "Test Facility"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "windshape",
+            "FORM": {
+                "QUESTIONS": [
+                    {
+                        "QUESTION_NAME": "Contact Form Message",
+                        "DISPLAY_ORDER": 1,
+                        "QUESTION_TYPE": "textarea",
+                        "ACTIVE": 1,
+                        "KEY_ID": "32A4469F-A705-F011-8101-8147A53E1DD0",
+                        "ANSWERS": [
+                            {
+                                "DISPLAY_ORDER": 1,
+                                "ACTIVE": 1,
+                                "KEY_ID": "33A4469F-A705-F011-8101-8147A53E1DD0",
+                                "ANSWER_TITLE": "Message"
+                            }
+                        ]
+                    }
+                ],
+                "SUB_TITLE": "",
+                "DESCRIPTION": "Leave a message and we will get back to you!",
+                "THANK_YOU_MESSAGE": "Thank you for reaching out! We have received your message and will be in touch shortly to address your inquiry.",
+                "KEY_ID": "0BA88C9E-F37E-994A-6E7D-C129BA0327EC",
+                "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202532017232_ce1e60ef6c1915cce7f6fdd38d44315c.jpg",
+                "TITLE": "Contact Us",
+                "EMAIL_NOTIFICATION": "tiziano.fiorucci@windshape.com"
+            },
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "7DE649EA-E4F7-B210-ED73-0FD6A2D76EDF",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "WindShape, Inc.",
+            "CITY": "Tulsa",
+            "ACTION_BUTTON_LABEL": "Contact Us",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.windshape.com",
+            "HEADERIMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202532017199_1d89e5c8dc6636649db8ef750120b8b8.png"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "A7F3CFA2-53C7-4E93-AD82-675D92A6B8CA"
+    }
+}

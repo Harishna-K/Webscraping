@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4321,
+                "BOOTH_KEY": "51802A4E-F524-4E20-95DC-949C427B9D93",
+                "KEY_ID": "20896945-C601-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D956C09C-EEF1-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 4321,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Michigan Economic Development Corporation",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/MEDC/",
+            "INSTAGRAM": "www.Instagram.com/MichiganBusiness",
+            "ACTIVE": 1,
+            "ZIP_CODE": 48913,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20244315517_423b2d2037741f34bb90c5aa882d57c4.png",
+            "STATE": "MI",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "The Michigan Economic Development Corporation is the state\u2019s marketing arm and lead advocate for business development, job awareness and community development with the focus on growing Michigan\u2019s economy. For more information on the MEDC and our initiatives, visit www.MichiganBusiness.org. For Pure Michigan\u00ae tourism information, your trip begins at www.michigan.org. Join the conversation on: Facebook Instagram LinkedIn, and Twitter.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "63243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "77292B01-F967-E5CA-FF48-B680FC26AAA3",
+                    "ANSWER_TITLE": "Government Entity (Non-Defense)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/27036/admin/",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "2F2A1B78-E237-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "5E6D0C01-929C-C97B-D5E6-7486784C732F",
+                            "ANSWER_TITLE": "Michigan Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "76E7CEEB-CBF9-82DE-A52D-1E45B0EA871F",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Michigan Pavilion",
+            "CITY": "Lansing",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.michiganbusiness.org/",
+            "TWITTER": "www.twitter.com/MEDC"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "991CD55D-DCAF-487F-ABF5-7DCDACDA90F3",
+        "CRM_COMPANY_KEY": "39EE1E62-EE74-4015-AA7C-00EE366FB4A4"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3015,
+                "BOOTH_KEY": "1D6ACCED-D885-488C-9A15-74BF8A940522",
+                "KEY_ID": "D1A0411A-ED57-4099-2210-34B4ADE7E0D4"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "486D00B8-E458-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3015,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Canadian UAV",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "T2E 8M4",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024812135745_760225d28dee51e7999f00dcf952c99c.png",
+            "STATE": "AB",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CA",
+            "SALUTATION": "",
+            "DESCRIPTION": "Canadian UAVs is a UAV service provider who builds technologies to enable BVLOS operations over wide areas.  Our two focus products are the ground based Sparrowhawk Radar, and Tasker Fleet Management software.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D1C7743D-AF03-F69E-5B85-8F74912718A5",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "D1A5FAA4-DD70-B7D7-DFE5-6FF1E5D48B15",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Canadian UAVs/ Sparrowhawk",
+            "CITY": "Calgary",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.canadianuavs.ca",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "8234E9FC-8894-43B7-99B3-466023310858"
+    }
+}

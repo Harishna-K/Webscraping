@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2039,
+                "BOOTH_KEY": "2BD6D299-7BF6-47BC-BDD7-19333088625C",
+                "KEY_ID": "134A4B93-0763-A984-23DD-D92BE1B82158"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "859404E3-6CF0-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2039,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Teledyne DALSA, a business unit of Teledyne Digital Imaging Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 93117,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Teledyne FLIR designs, develops, manufactures, markets, and distributes technologies that enhance perception and awareness. We bring innovative sensing solutions into daily life through our thermal imaging, visible-light imaging, video analytics, measurement and diagnostic, and advanced threat detection systems.\n\nTeledyne FLIR offers a diversified portfolio that serves a number of applications in government & defense, industrial, and commercial markets. Our products help first responders and military personnel protect and save lives, promote efficiency within the trades, and innovate consumer-facing technologies. Teledyne FLIR strives to strengthen public safety and well-being, increase energy and time efficiency, and contribute to healthy and intelligent communities.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "137C2334-CD42-90AA-4C27-92E1BD379C1E",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "1360DBC1-B244-348A-DB47-91C675A03B5A",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Teledyne FLIR",
+            "CITY": "Goleta",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.teledyneflir.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "A5EA464A-2483-4D1F-A976-6AD5FC0ABAC1"
+    }
+}

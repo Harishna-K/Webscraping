@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1531,
+                "BOOTH_KEY": "F13632A1-EDDE-4F4C-9953-E3F5CDC8587B",
+                "KEY_ID": "2500D41A-F526-55AE-8C96-89506D8C99EF"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "0AF57402-B2EA-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1531,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Alpine Eagle GmbH",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 286074,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025319115037_94d8ba76096f9fc980d651975f1cab50.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "Alpine Eagle has outlined the capabilities of its Sentinel counter-drone system to target weaponized drones at borders and critical infrastructure, leveraging AI-driven drone swarms to detect, track, and intercept UAS in real-time. \n\nKey features of the Sentinel's countermeasures include air-to-air and air-to-ground Active Radar sensors that enable early detection of drones, AI-driven tracking and classification, and the ability to intercept drones at stand-off distances, well before they can reach their targets.\n\nSentinel is not only designed to deal with drones with ISR roles or carrying explosives but also aims to protect moving assets and secure areas that might otherwise be vulnerable to aerial threats.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "2523E1E3-0A2C-F349-59CD-DA4D7348732C",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/alpineeagle/posts/?feedView=all",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D5C53962-F555-0755-913B-9DAB36835005",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "25072A55-F775-5A2F-8A3C-B1E558A044DF",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Alpine Eagle GmbH",
+            "CITY": "Munich",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "alpineeagle.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "3672E4AF-804C-424D-9A9C-691D64F57E39"
+    }
+}

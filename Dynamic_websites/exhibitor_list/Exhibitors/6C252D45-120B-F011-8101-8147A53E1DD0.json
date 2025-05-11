@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2309,
+                "BOOTH_KEY": "9B377513-0E44-4254-89E4-F3E0C6F4DC20",
+                "KEY_ID": "6EC409BE-F59C-3020-43A5-0A60A5D71AC9"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "6C252D45-120B-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2309,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "MyDefence North America",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 73102,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025327145444_0677091edab91b85a1dedce92600a523.png",
+            "STATE": "OK",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "MyDefence North America, led by former military personnel, delivers innovative anti-drone technology at the vanguard of the industry, designed to safeguard critical infrastructure and enhance operational efficiency for both military and civilian clients. Specializing in wearable, vehicle, and perimeter systems, we provide comprehensive drone detection and mitigation solutions. By partnering with leading industry providers, we ensure top-tier detection capabilities along with advanced soft and hard mitigation options.\n\nOur mission is clear: We Save Lives.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "0C0655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "Counter Drone Technology",
+                    "KEY_ID": "6EED340A-BE88-C16B-3015-3DC9959D57D1",
+                    "ANSWER_TITLE": "Other"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "6EC69428-9C6F-0862-1535-5DB17CC46A2E",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "MyDefence North America",
+            "CITY": "Oklahoma City",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://mydefence.com/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "9131CB5B-7B01-41B5-9257-2A6B21BD5B07"
+    }
+}

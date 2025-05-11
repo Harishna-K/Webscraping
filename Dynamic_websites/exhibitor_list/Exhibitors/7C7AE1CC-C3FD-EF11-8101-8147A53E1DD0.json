@@ -1,0 +1,59 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3315,
+                "BOOTH_KEY": "7DA2CBFC-6409-473D-B6B9-EE48839F2E80",
+                "KEY_ID": "9E6C88C6-EAFD-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "7C7AE1CC-C3FD-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3315,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Sierra-Olympia Technologies Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 97031,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202531083241_0561d2a33a04710c4dffabb476ad6d1a.png",
+            "STATE": "OR",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Sierra-Olympia was founded in 1995 and is a leading developer of infrared thermal imaging camera modules. Our cameras are integrated into crewed and uncrewed ground or aerial vehicles, handheld portable and fixed mounted continuous monitoring systems. Our standard and high-definition thermal cameras are engineered with SWaP (size, weight and power) efficiency. Our cutting edge cameras and components can be added upon or fine tuned for your specific thermal system. We strive to earn and uphold the reputation as a trusted and respected authority on practical, high-value infrared camera products and services.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "06F88668-D099-7F91-60E3-75CFE0564617",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 100",
+            "MAP_LOGO": true,
+            "LINKEDIN": "sierraolympiatechnologiesinc",
+            "TOLL_FREE": "",
+            "KEY_ID": "06CB5AA3-0EB8-6558-B150-6F9A8E409500",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Sierra-Olympia Technologies Inc.",
+            "CITY": "Hood River",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://sierraolympia.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "93CEEA79-5B9E-41AA-BBED-9657D382507E"
+    }
+}

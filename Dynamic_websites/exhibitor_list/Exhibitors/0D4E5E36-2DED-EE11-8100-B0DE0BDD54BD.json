@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3932,
+                "BOOTH_KEY": "67F1FF50-CCF3-49C4-9FFA-1021945D2EE1",
+                "KEY_ID": "3E72537A-CCAA-EF51-6DF4-1FA60D6E9A0D"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "0D4E5E36-2DED-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3932,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Calian",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "\u00a0K2K 2A9",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202432814856_fbf13dae239fc7c443b5cf0634643261.jpg",
+            "STATE": "ON",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CA",
+            "SALUTATION": "",
+            "DESCRIPTION": "Calian\u00ae is a developer, manufacturer, and provider of GNSS,\nIridium antennas and accessories in support of our customers\nwho are engaged in a broad range of satellite-based positioning,\nnavigation, and data applications.\n\nFocused on high function, high performance technology and\nsolutions, our core competencies include digital wireless networks,\nRF and Global Navigation Satellite Systems (GNSS) component\ndesign.\n\nCalian is known for its Accutenna\u00ae and VeraPhase\u00ae technology, as\nwell as the VeroStarTM and Helical innovations. These technologies\nhave proven themselves to provide the highest performance\nantennas (low axial ratios, high multi-path signal rejection, tight\nPCV) in their size and weight, while setting lower economical price\npoints. Calian\u2019s antennas are the antennas of choice for a wide\nvariety of applications.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "3F18C8D6-B4D0-854D-8CAF-CB695050DF6D",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/caliangnss",
+            "TOLL_FREE": "",
+            "KEY_ID": "3E7C7EC9-A780-13F3-144F-1573867B6890",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Calian",
+            "CITY": "Ottawa",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "Calian.com/GNSS",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "1A91B927-E167-45EF-8553-3B584410A001"
+    }
+}

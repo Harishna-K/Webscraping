@@ -1,0 +1,90 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3033,
+                "BOOTH_KEY": "862D5EE9-54B8-4E9F-A8AE-DDE8476494F8",
+                "KEY_ID": "DF3CCF83-A26D-A17C-FEB6-0BC3DFDDBFAB"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "23A04245-98F2-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3033,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "uAvionix Corporation",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/uavionix",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "https://www.instagram.com/uavionix_corp",
+            "ACTIVE": 1,
+            "ZIP_CODE": 59911,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202518153929_7e67e7fc4951256669b72cf4b7be490d.png",
+            "STATE": "MT",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "uAvionix develops, manufactures and delivers the world\u2019s smallest, lightest and most-innovative avionics and connectivity solutions for safe, mission-critical crewed and uncrewed flight operations. Servicing customers globally, uAvionix's cross-disciplinary team of experts is shaping the future of aviation communication, awareness, navigation and display for commercial, civil and defense customers.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A2128A54-09E2-7C27-057C-E8FD12A50FEC",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/uavionix-corporation",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": 8448272372,
+            "KEY_ID": "A1E69346-96CA-6556-22D6-9102FC917C54",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "uAvionix Corporation",
+            "CITY": "Bigfork",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.uAvionix.com",
+            "TWITTER": "https://x.com/uavionix",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "990F4E60-9A9C-465B-BBBF-38DCE3031A64",
+        "CRM_COMPANY_KEY": "805A208E-C303-47A6-8373-D0A79335EFC9"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3217,
+                "BOOTH_KEY": "1624E291-4DA9-40AA-9B80-7E7E8A9223F1",
+                "KEY_ID": "9CD62243-3B95-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "AEF95B1E-7AF2-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3217,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Impact Electronic Solutions",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 98661,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "WA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "We seamlessly meet our customers\u2019 \nunique and comprehensive needs at \nevery stage \u2014 from exclusive design \nservices to comprehensive manufacturing, \ntroubleshooting, and bottom-up design \nand manufacturing \u2014 ensuring a reliable \nand tailored experience.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "99FB741B-D3FC-59C9-BFD6-3B58F2CEC152",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "99D638EC-DECB-9B58-65F1-2C8CEB5CDB3B",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Impact Electronic Solutions",
+            "CITY": "Vancouver",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "impactelectronics.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "EF6844F8-02B2-46A7-ACAC-E2CDC19ED82D"
+    }
+}

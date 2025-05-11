@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2515,
+                "BOOTH_KEY": "93EDE624-877B-48E8-AF63-F0D1E6B040F5",
+                "KEY_ID": "89838677-FD4E-6E35-3F07-3D3164F63140"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "8602C39B-51E8-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2515,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Elistair",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 69570,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202521194554_20955de21d6dc4919060f0b98979a937.jpg",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "FR",
+            "SALUTATION": "",
+            "DESCRIPTION": "Created in 2014 and based in Lyon (France), and Wilmington (USA), Elistair designs and manufactures smart and automated\ntethered drone systems for perimeter protection, border surveillance and large event security. Thanks to its micro-tether technology, Elistair has solved the problem of drone battery life. \n\nElistair\u2019s products are used by armed forces, civil security services and a number of private companies, in more than 70 countries.\n\nWhen connected to a generator or the electric grid, the micro-tether powers the drone flies continuously for up to 24 hours, allowing it to function for day into night operations without interruption. It also secures data exchanges between the drone and its operator, which is effective against hacking and other interference. \n\nElistair mainly works with national security and defense organizations, offering them two patented product ranges: the KHRONOS fully automated tethered DroneBox, which meets the actively tethered drone requirements and the SAFE-T and LIGH-T tethering stations capable of transforming free flying drones into tethered drones.\n\nElistair references include the French Defence Agency, Thales, the US Army, the UK police, Total, Paris Airports, Securitas, ENGIE, Vodafone.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "8A47871A-FAAA-04EB-49E3-23222B96F3BF",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Elistair",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "0F155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D0954238-B015-0557-37AC-4F854EC5223F",
+                            "ANSWER_TITLE": "Public Safety"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "89AAC2E3-CB76-3AE8-25A5-A1F9B9F33853",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Elistair",
+            "CITY": "Dardilly",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://elistair.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "746F3BD0-FC24-4B7F-B198-C1F69EF5D14D"
+    }
+}

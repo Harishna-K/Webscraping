@@ -1,0 +1,60 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2904,
+                "BOOTH_KEY": "4E579E2D-395B-4319-9B3B-4797684852C8",
+                "KEY_ID": "5BFB635C-DE00-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D09CA229-45EC-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2904,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "GEMSTAR Protective Hard Cases",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/gemstarmfg/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 55009,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202432792729_6102299229565a9f9ec336d245ec3182.png",
+            "STATE": "MN",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Gemstar\u00ae manufactures hard plastic cases to meet your most extreme demands and protection requirements. We have hundreds of sizes to pack, protect, and organize your mission-critical cargo, tested to meet the most rigorous military standards. Gemstar offers the innovation, experts, and service to provide you trust for the long haul.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "4F243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "032DFFF4-DCDD-35CE-65F5-42A345B2E251",
+                    "ANSWER_TITLE": "Auxiliary Product Manufacturer (cases, laser engravings, etc.)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/gemstar-manufacturing",
+            "TOLL_FREE": "",
+            "KEY_ID": "0304D84A-CA7D-2EA5-9F5C-514F97672B49",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "GEMSTAR Protective Hard Cases",
+            "CITY": "Cannon Falls",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "gemstarmfg.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "81831F62-6C66-446D-8DA9-DDEB615E496A"
+    }
+}

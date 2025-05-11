@@ -1,0 +1,90 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3415,
+                "BOOTH_KEY": "7A7D7BEA-02D2-4234-B6DB-06CC9D4512E9",
+                "KEY_ID": "17AA13AF-D101-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "DA90B6D7-D4EA-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3415,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Connect Tech Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "ConnectTechInc",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "connecttechinc",
+            "ACTIVE": 1,
+            "ZIP_CODE": "\u00a0N1L 0H7",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2024102395333_aa2afa940c04edfcc200d323b6813b11.png",
+            "STATE": "ON",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CA",
+            "SALUTATION": "",
+            "DESCRIPTION": "Connect Tech is an NVIDIA\u00ae Elite Partner and global leader in providing embedded computing solutions for a wide range of industries, including industrial automation, defense, robotics, transportation, and more. With a strong focus on innovation, Connect Tech offers a diverse portfolio of products delivering high reliability, robust solutions for AI at the Edge.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A4E8D910-A8FD-3558-CC0C-449C92C46194",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "connect-tech-inc",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "A4B13F82-0A88-8A38-B086-FFFF849361BA",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Connect Tech Inc.",
+            "CITY": "Guelph",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.connecttech.com",
+            "TWITTER": "ConnectTechInc",
+            "HEADERIMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/20241023101058_c3281f1b6fa3ba030d6a036b799d472e.png"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "EDD899F5-0926-4CE2-BAED-71D68C0320BD"
+    }
+}

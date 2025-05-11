@@ -1,0 +1,170 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3816,
+                "BOOTH_KEY": "E0AA701C-A270-4474-9816-8ADE2721100B",
+                "KEY_ID": "E91E9FA8-F9A8-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "27A24253-E5A8-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3816,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Chance Maritime Technologies",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 70508,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202411221046_4343bcd999e553779d9402694231ba87.png",
+            "STATE": "LA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Chance Maritime Technologies designs, builds, and operates long-endurance high-power autonomous vessels, and maintains a state-of-the-art fleet of diesel-powered uncrewed vessels (USVs) available for lease. All Chance Maritime USVs have multi-week endurance and can be transported by road or 40' container. Chance Maritime also provides custom-engineered solutions tailored to your specific need to ensure your competitive advantage.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "4E5F3535-CBE6-9C96-91DD-A60E573B0405",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/chance-maritime-technologies/",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "13155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D03337C8-EBB1-5D46-EC2F-644FA37FD246",
+                            "ANSWER_TITLE": "Critical Infrastructure"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "FORM": {
+                "QUESTIONS": [
+                    {
+                        "QUESTION_NAME": "Contact Form Message",
+                        "DISPLAY_ORDER": 1,
+                        "QUESTION_TYPE": "textarea",
+                        "ACTIVE": 1,
+                        "KEY_ID": "77E17004-99FA-EF11-8101-8147A53E1DD0",
+                        "ANSWERS": [
+                            {
+                                "DISPLAY_ORDER": 1,
+                                "ACTIVE": 1,
+                                "KEY_ID": "78E17004-99FA-EF11-8101-8147A53E1DD0",
+                                "ANSWER_TITLE": "Message"
+                            }
+                        ]
+                    }
+                ],
+                "SUB_TITLE": "",
+                "DESCRIPTION": "Leave a message and we will get back to you!",
+                "THANK_YOU_MESSAGE": "Thank you for reaching out! We have received your message and will be in touch shortly to address your inquiry.",
+                "KEY_ID": "37062802-F9BB-C77E-E4D8-2A741AAD4ADB",
+                "HEADER_IMAGE": "",
+                "TITLE": "Contact Us",
+                "EMAIL_NOTIFICATION": "Sales@ChanceMaritime.com"
+            },
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "4E1DF8BD-9190-1F57-7B7D-02B43B13FFDA",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Chance Maritime Technologies",
+            "CITY": "Lafayette",
+            "ACTION_BUTTON_LABEL": "Contact Us",
+            "PRODUCTS": [
+                {
+                    "CATEGORY_TITLE": "Platform Manufacturer",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "The LR30 USV is optimized for long endurance hydrographic and fisheries survey. The LR30 has unparalleled flexibility for mounting your sensor payload, whether it\u2019s hard mounted, retracted, or towed.",
+                    "KEY_ID": "36A4D0F8-C004-6E3F-1611-4BC1A0AB0F59",
+                    "TITLE": "LR30",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/20253683415_6a094097e87da596852ad08c10c87179.jpg"
+                },
+                {
+                    "CATEGORY_TITLE": "Service Provider",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "The Mission Capable 29 is a high-power long-endurance USV, capable of 20+ days of continuous operation at sea. The interior moon pool can be outfitted with a broad variety of custom payloads. The MC29 additionally features ample power to support full ocean depth data collection.",
+                    "KEY_ID": "36D86BD9-95AE-12A9-787D-0F2E6BF38844",
+                    "TITLE": "MC29",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/20253683615_22cf118efe88ec7aad061bf1854a47ef.jpg"
+                }
+            ],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [
+                {
+                    "CATEGORY_TITLE": "Service Provider",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "The MC-29 is one of Chance Maritime Technologies' long-endurance, high-power uncrewed surface vessels (USVs). The MC-29 can run for more than 20 days while delivering kilowatts of payload power continuously. Bring your own payload, and Chance Maritime Technologies will assist with integration and piloting of the USV. Available for lease now!",
+                    "KEY_ID": "36F193A9-D291-A266-F634-DEDDF3D97ACB",
+                    "TITLE": "MC29 Long Endurance USV",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025368398_08edf7ab0422a95c6cf4ed1b8b801326.jpg",
+                    "URL": "https://www.youtube.com/watch?v=PQKMdxi_xYw"
+                }
+            ],
+            "WEBSITE": "www.chancemaritime.com",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "8850188A-F29C-403B-B5B9-41CB066D169D"
+    }
+}

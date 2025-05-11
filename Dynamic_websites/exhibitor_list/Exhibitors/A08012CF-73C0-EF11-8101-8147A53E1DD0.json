@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1539,
+                "BOOTH_KEY": "1921186C-6F91-44CD-AE89-93A0D7007F1B",
+                "KEY_ID": "547BDD25-98C8-86ED-F2D2-FAA75980C673"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "A08012CF-73C0-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1539,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "NASA Langley Research Center",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 20024,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241222101425_67363a1108c9cef71af9d718a9feb520.jpg",
+            "STATE": "DC",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "NASA\u2019s Advanced Air Mobility research will transform our communities by bringing the movement of people and goods off the ground, on demand, and into the sky. NASA is delivering data to guide the industry's development of electric air taxis and drones and to assist the FAA in safely integrating these vehicles into the national airspace.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "63243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "55AF150B-E3A1-1E20-6863-54068C152A2C",
+                    "ANSWER_TITLE": "Government Entity (Non-Defense)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D58F00F1-EF69-F15B-C911-A6E62D3EA10B",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "548E5068-BD13-5725-9074-3C7112A06516",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "NASA Aeronautics",
+            "CITY": "Washington",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.nasa.gov/mission/aam/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "EF8A17FE-3585-44BC-96FB-DE05B0383ACD"
+    }
+}

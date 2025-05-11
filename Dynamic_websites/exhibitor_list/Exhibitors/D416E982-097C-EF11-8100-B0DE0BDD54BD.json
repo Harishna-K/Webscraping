@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2929,
+                "BOOTH_KEY": "3C805097-E691-4AC4-9170-8A5DB315B4FF",
+                "KEY_ID": "9C475DA7-7CFF-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D416E982-097C-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2929,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "AIR6 SYSTEMS",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 9020,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024926143252_51b285c6f55c9e4d6795fad487f48629.jpg",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "AT",
+            "SALUTATION": "",
+            "DESCRIPTION": "AIR6 SYSTEMS is a leading European developer/manufacturer of high-performance drones, providing professional work-tools for many industries, including surveying, energy (solar, wind, oil & gas, distribution), agriculture & forestry and logistics. The drones streamline time-consuming, data-intensive tasks with cm-accuracy for surveys and provide advanced autonomy and AI. The group comprises AIRBORNE ROBOTICS based in the UK.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D1875A74-DC1D-DB2E-4686-9357F2036D0B",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "D568D496-D9F9-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "46863462-D95F-447A-B520-85A86277D24E",
+                            "ANSWER_TITLE": "German Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "D14ADC45-0877-12B8-9A60-6CB27B172EBA",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "AIR6 SYSTEMS",
+            "CITY": "Klagenfurt",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.air6systems.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "739FC6CE-61F4-4FDE-B43C-39A39F55902A"
+    }
+}

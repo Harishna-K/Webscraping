@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4320,
+                "BOOTH_KEY": "B53707F0-F36D-4E62-B79D-73ECCA6A00D2",
+                "KEY_ID": "20E4E3C3-ABC8-7B06-5E37-EB85DC2A56DD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "912F5A58-5227-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 4320,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Airspace Link",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 48216,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202461013566_3a412068a1c7f0b2dd70f07b4ac9013d.png",
+            "STATE": "MI",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Airspace Link is an FAA-approved UAS Service Supplier of the Low Altitude Authorization and Notification Capability (LAANC) and is approved to provide FAA B4UFLY Services. Our mission is to enable the safe integration of drones into the national airspace and communities at scale through digital infrastructure, strategic partnerships and thought leadership.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "20F5C9C2-BFB0-C024-7CF0-8E136846CE21",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 3-100",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "20E97266-B5E6-4BDF-B47A-07ECDB06D780",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Airspace Link",
+            "CITY": "Detroit",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "airspacelink.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "4D4B35E6-31FC-4A31-8059-D1FB996C47D3"
+    }
+}

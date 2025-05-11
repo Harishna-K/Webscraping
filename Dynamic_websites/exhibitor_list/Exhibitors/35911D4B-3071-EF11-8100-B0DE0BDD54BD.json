@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4004,
+                "BOOTH_KEY": "916CA881-8B46-499E-8C5A-E228A840E86B",
+                "KEY_ID": "09DECEDF-9515-89CF-E460-47560CBE3730"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "35911D4B-3071-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 4004,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Accipiter Radar",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "people/Accipiter-Radar/100064835841347/#",
+            "INSTAGRAM": "accipiterradar",
+            "ACTIVE": 1,
+            "ZIP_CODE": 14127,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024912142953_bf1f9922b44932a56fb65f49bfb5f0f3.jpg",
+            "STATE": "NY",
+            "LAST_NAME": "",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "DESCRIPTION": "Accipiter is a global leader in providing affordable, smart surveillance networks to deliver live airspace situational awareness and situational understanding to safety and security practitioners, who require user-friendly, tactical and strategic decision support to ensure aviation safety, protect the public and reduce security risks. \n\nAccipiter\u00ae BVLOS DAA Surveillance Solutions enable true BVLOS without the need for visual observers. Accipiter\u2019s sensor agnosticism and advanced data fusion make airspace deconfliction and safety simplified for the remote pilot in command, so that they can focus on the mission at hand, whether it be infrastructure inspections, delivery missions and surveillance operations, or whether it concerns flying a single drone over a short distance or operating a fleet of drones nationwide. Our systems are specifically designed to provide automatic detection, tracking, and sophisticated alerting of intruder aircraft, including non-ADS-B aircraft, that enter the operational airspace of your drone allowing for swift and effective risk mitigation action. Moreover, Accipiter\u2019s sophisticated mission analytics enable intelligence-led and data-driven programs, analyzing the safety and efficacy of every flight, to ensure safety and support continuous improvement.\n\nUsers can also monitor other drone activity in their airspace which they may be concerned with, using Accipiter\u2019s user-friendly, web-based Common Operating Picture (COP) which provides real-time situational awareness and automated alerting to threats of interest 24/7/365. Geozone(s) can also be configured to automatically flag drones of concern for easy continuous monitoring.",
+            "SALUTATION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "D41A414A-570A-F011-8101-8147A53E1DD0",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "3EC8E7A2-B379-4D5A-3F5A-9F93DF43D10A",
+                    "ANSWER_TITLE": "Airspace Awareness & Management"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "accipiter-radar",
+            "TOLL_FREE": "",
+            "KEY_ID": "09E0AA75-B188-6E26-9BF8-F77952F9AD21",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Accipiter Radar",
+            "CITY": "Orchard Park",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.accipiterradar.com",
+            "TWITTER": "accipiterradar"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "CB1623EF-A2EF-49F6-BA3B-2920B0B6D06B"
+    }
+}

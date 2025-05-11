@@ -1,0 +1,61 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2729,
+                "BOOTH_KEY": "E3B420DD-F238-4AEC-905F-002CB004073D",
+                "KEY_ID": "72F6C02E-9EE9-3947-8CC7-90A27D3FE262"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "7A8A42EF-FAED-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2729,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "VersaLogic Corp.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "VersaLogic",
+            "ACTIVE": 1,
+            "ZIP_CODE": 97062,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024329115122_4378536eda2b104974f1b52edc667d8b.jpg",
+            "STATE": "OR",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "VersaLogic delivers state-of-the-art embedded computers built to meet industry standard specifications. Featuring long-term availability, -40\u00b0 to +85\u00b0C operation, MIL-STD-202 shock & vibe testing \u2013 ideal for critical applications that value ruggedness, reliability, and long life. US Made, Designed, and Supported. ISO 9001:2015 / AS9100D certif",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "739AB921-C057-8DE5-C529-A30233921D39",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "versalogic-corporation",
+            "TOLL_FREE": "",
+            "KEY_ID": "730D248F-E2FF-7778-40E3-E35314DF2EF9",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "VersaLogic Corp.",
+            "CITY": "Tualatin",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.VersaLogic.com",
+            "TWITTER": "versalogic"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "B02CE1DA-9D3C-44FC-9535-0AFB5631EC9C"
+    }
+}

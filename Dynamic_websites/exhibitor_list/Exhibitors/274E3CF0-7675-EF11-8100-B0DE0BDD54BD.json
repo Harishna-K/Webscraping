@@ -1,0 +1,59 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3000,
+                "BOOTH_KEY": "5DEAD8D9-7261-4B0C-A158-A3DB615F2EB3",
+                "KEY_ID": "6C85D959-D875-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "274E3CF0-7675-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3000,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Hargrave Technologies",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 2154,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202491814417_2c2d893fb5367bac12bfbcefc4e7c764.png",
+            "STATE": "NSW",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "AU",
+            "SALUTATION": "",
+            "DESCRIPTION": "Hargrave Technologies is a leading developer of UAS power electronics solutions,\nspecialising in electronic speed controllers (ESCs) for driving brushless electric\nmotors in the most demanding applications. Designed and manufactured in\nAustralia, they offer NDAA-compliant options for all products.\n\nAll Hargrave Technologies\u2019 ESCs utilize a groundbreaking high-efficiency FOCAL\nalgorithm that has set a new standard for sensorless motor drive and extends the\nlow-speed efficiency of FOC to the high-RPM performance of the trapezoidal drive\nwith no tuning required.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "229EE23E-C7C1-A46E-B8E5-6ABED8B737B1",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/hargravetechnologies",
+            "TOLL_FREE": "",
+            "KEY_ID": "2242C089-DB9C-AE3C-0B96-433629620CA2",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Hargrave Technologies",
+            "CITY": "Castle Hill",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://hargravetechnologies.com/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "E88B1280-A0D1-4B98-AA3A-30DE37FD3612"
+    }
+}

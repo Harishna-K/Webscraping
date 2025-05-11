@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2805,
+                "BOOTH_KEY": "3E658DFD-EA56-48A1-96E2-F949AA391AC3",
+                "KEY_ID": "4ED51EF3-EC80-03BE-8A26-44EA9BF6A40F"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "4C410CBE-6DED-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2805,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "DPSS Lasers Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 95051,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "DPSS Lasers Inc. specializes in manufacturing ultraviolet (UV 355 nm) laser markers and low-cost UV lasers with high peak powers and repetition rates that are ideal for marking and engraving materials, such as ceramic, plastics, and metals. Applications using the company's Samurai UV \u201ccold laser\u201d marker include product coding, micromachining, marking, sapphire scribing, ITO removal, semiconductor, and medical packaging. Our parent company, Laserax, offers integrated & automated Fiber Laser systems for a wide range of applications - including cleaning, texturing and welding for the battery markets.\nIntegrated Lasers include UV, Green, Fiber and CO2 wavelengths, as well as nanosecond, picosecond or femtosecond pulse widths. \nIf your application needs a commercially available laser system to be integrated or automated, DPSS Lasers can help.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "7401C345-EAE6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "4F175839-C1CB-87A6-9111-DDCFD1BAD44F",
+                    "ANSWER_TITLE": "Manufacturing Machinery/Contract Manufacturing/Production Equipment"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "4EF0D9B1-A143-B98E-6002-5B8746B3506A",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "DPSS Lasers Inc.",
+            "CITY": "Santa Clara",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.DPSS-Lasers.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "D42A1CDB-2D1C-4C49-9751-E3C61043DA05"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3526,
+                "BOOTH_KEY": "11A28ABB-7E0E-4981-A315-B9841FBD540E",
+                "KEY_ID": "530ABD56-12E3-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "3BD41C2A-BAE2-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3526,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Raindance Systems Pty Ltd",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "https://www.instagram.com/raindancesystems/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 6018,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "WA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "AU",
+            "SALUTATION": "",
+            "DESCRIPTION": "Raindance Aerial Incendiary Systems: Revolutionizing Fire Management with Precision and Safety\n\nRaindance is a global leader in Aerial Incendiary System technology, offering safe, efficient, and reliable solutions for controlled burns and fire breaks. Our advanced technology empowers personnel to initiate and manage controlled burns from the air, using fixed-wing aircraft, helicopters, and unmanned aerial platforms (UAVs). This removes the need for personnel on the ground, enhancing safety while maintaining optimal control over fire management.\n\nUsing GPS technology and aerial surveillance, our systems enable precise tracking and management of controlled burns, reducing fuel loads, maximising carbon capture, and promoting vegetation regeneration. This sustainable approach supports environmental conservation and reduces the risks associated with traditional ground-based fire management.\n\nAt Raindance, we design, develop, and manufacture all our products at our purpose-built facility, ensuring cutting-edge functionality and performance. We collaborate with stakeholders across industries to continually improve our products, ensuring they remain at the forefront of innovation. Lightweight, safe, and easy to use, our products are built with a commitment to quality and reliability.\n\nR4  UAV System Features:\n\n* Capsule options of 250g, 500g, 1000g, and 2000g, all within a 25kg UAS weight limit\n* Single-point attachment for R4/250 and R4/500 models\n* Multiple drop rates up to 150 per minute for efficient operations\n* A reliable belt feed system for seamless operation\n* Quick-change bottle replacements for fluid replenishment\n* Rapid swap-out of incendiary boxes for operational efficiency\n* Low pre- and post-flight maintenance requirements for operational ease\n* Purple catalyst ensures consistent burn performance with guaranteed ignition delay\n* Automatic water extinguisher system for added safety\n* Low frontal area for streamlined performance\n\nRaindance Systems offers a complete range of aerial incendiary machines designed for flexibility across payload capabilities. Whether for small-scale operations or beyond line-of-sight aerial incendiary missions, our solutions integrate seamlessly with drones to enhance fire management operations safely and effectively.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "1D0F0785-FAFA-1DF1-7533-25430D890F6F",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/raindance-systems/?viewAsMember=true",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "1BC2B6C4-00AF-D929-E9A7-C794AE65961E",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Raindance Systems Pty Ltd",
+            "CITY": "Perth",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.raindancesystems.com.au",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "180A3D4F-C73F-4A97-B448-BDEAE813918E"
+    }
+}

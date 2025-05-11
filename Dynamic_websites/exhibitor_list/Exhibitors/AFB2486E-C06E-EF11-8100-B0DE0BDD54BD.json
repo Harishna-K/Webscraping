@@ -1,0 +1,140 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3725,
+                "BOOTH_KEY": "B8FA7A61-3457-4EF5-89B2-4A9799887D61",
+                "KEY_ID": "6A1FE58B-9E02-8C73-C4F6-FA21BBB0D8D1"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "AFB2486E-C06E-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3725,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "embeddedTS",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 43040,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202499113336_33cd5164741f64db6c4b01f63e22fcbb.jpg",
+            "STATE": "AZ",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "embeddedTS is a US-based manufacturer of industrial single board computers, systems on modules, and HMI.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6AFD2987-F7AD-5823-00D8-7305CE4A31D3",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "FORM": {
+                "QUESTIONS": [
+                    {
+                        "QUESTION_NAME": "Contact Form Message",
+                        "DISPLAY_ORDER": 1,
+                        "QUESTION_TYPE": "textarea",
+                        "ACTIVE": 1,
+                        "KEY_ID": "EC3244C8-CA08-F011-8101-8147A53E1DD0",
+                        "ANSWERS": [
+                            {
+                                "DISPLAY_ORDER": 1,
+                                "ACTIVE": 1,
+                                "KEY_ID": "ED3244C8-CA08-F011-8101-8147A53E1DD0",
+                                "ANSWER_TITLE": "Message"
+                            }
+                        ]
+                    }
+                ],
+                "SUB_TITLE": "",
+                "DESCRIPTION": "Thank you for stopping by.  Please leave a note and we'll get back to you, or go to www.embeddedts.com for more info.",
+                "THANK_YOU_MESSAGE": "Thank you for reaching out! We have received your message and will be in touch shortly to address your inquiry.",
+                "KEY_ID": "D94485CA-0BFD-E6D6-3316-F60BC2BB2723",
+                "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202532412124_4b655eff19faa13f357be040a0eaa847.png",
+                "TITLE": "Contact Us",
+                "EMAIL_NOTIFICATION": "alan@embeddedts.com"
+            },
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "6A2CE938-B996-D1C1-04D1-640055F68759",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "embeddedTS",
+            "CITY": "Fountain HIlls",
+            "ACTION_BUTTON_LABEL": "Contact Us",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [
+                {
+                    "CATEGORY_TITLE": "Other",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "0C0655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Powered by the Marvell Armada 385 Dual Core 1.3 GHz Arm-based CPU, the TS-7800-V2 industrial Single Board Computer (SBC) stands out with its high-performance components, connectivity options, and an unbelievable feature set.",
+                    "KEY_ID": "D91EA622-E2B0-FEE4-1330-1CBD24D643C2",
+                    "TITLE": "TS-7800-V2 Single Board Computer",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/20253241282_4b655eff19faa13f357be040a0eaa847.png",
+                    "URL": "https://www.youtube.com/watch?v=6P6HW4wIEC4"
+                },
+                {
+                    "CATEGORY_TITLE": "Other",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "0C0655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Powered by the Marvell Armada 385 Dual Core 1.3 GHz Arm-based CPU, the TS-7800-V2 industrial Single Board Computer (SBC) stands out with its high-performance components, connectivity options, and an unbelievable feature set. It's a general purpose, low-power SBC ready to tackle demanding applications including data acquisition, IoT, industrial automation, and anything in between.\r\n\r\nwww.embeddedts.com/products/ts-7800-v2",
+                    "KEY_ID": "D92E2652-F407-81CB-7560-434C157859AF",
+                    "TITLE": "Industrial Grade Embedded Solutions",
+                    "HEADER_IMAGE": "",
+                    "URL": "https://www.youtube.com/watch?v=t6FXbabWOp0"
+                }
+            ],
+            "WEBSITE": "www.embeddedTS.com",
+            "TWITTER": "@ts_embedded",
+            "HEADERIMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202411113258_0843c73436e80e69149373b03623ab99.jpg"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "AF004F05-4B82-494B-A861-8403F9F5EE48"
+    }
+}

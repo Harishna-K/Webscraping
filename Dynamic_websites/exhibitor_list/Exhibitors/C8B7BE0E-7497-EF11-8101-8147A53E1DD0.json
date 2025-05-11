@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2528,
+                "BOOTH_KEY": "D54E2E25-BBC5-435C-BE2C-FD4C0C36FAD1",
+                "KEY_ID": "D589C5CF-FDF3-99E0-8ABE-EFA62DD15D28"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C8B7BE0E-7497-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2528,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Blitz Technology",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 34906,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531114820_a8098522165847fbc12c7fb02b3e1dad.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "TR",
+            "SALUTATION": "",
+            "DESCRIPTION": "Blitz Technology is a leading provider of gyro-stabilized gimbal payloads for aerial platforms, offering cutting-edge video processing hardware and software solutions fully developed in-house. Our payloads, ranging from 200 grams (0.44 lbs.) to 6.5 kilograms (14.33 lbs.), are equipped with advanced Electro-Optical (EO), Long-Wave Infrared (LWIR), Medium-Wave Infrared (MWIR), Laser Range Finder (LRF), and laser illuminator options, all tailored to meet mission-specific requirements. We also provide customized solutions for UAS developers, ensuring that our technology aligns perfectly with their unique requirements.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "060655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D5A31DD8-EF8A-F5D4-A943-886CC636581C",
+                    "ANSWER_TITLE": "Integrator"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Teknopark Blv. 9C, Z10",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "D58E7379-9F47-5FB0-881D-79611B2414AD",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Blitz Technology",
+            "CITY": "Pendik/ Istanbul",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.blitztech.com.tr",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "1CAB8727-E8F9-4CCE-A148-47432A3536D5"
+    }
+}

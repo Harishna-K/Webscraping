@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1608,
+                "BOOTH_KEY": "74EA8C32-D10C-4515-A1CC-5558FA8C9893",
+                "KEY_ID": "74DD7BAF-EDBC-4F16-21F5-ADA835F45444"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "5D45067A-EAF1-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1608,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "AFWERX",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 45402,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "OH",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "As the innovation arm of the Department of the Air Force and powered by the Air Force Research Laboratory (AFRL), AFWERX brings cutting edge American ingenuity from small businesses and start-ups to address the most pressing challenges of the DAFThe four core arms of AFWERX \u2013 AFVentures, Spark, Prime and SpaceWERX \u2013 serve to expand the defense industrial base for advanced technologies, empower Airmen and Guardian talent, and drive faster technology transition to operational capability. AFWERX teams internationally across academia, industry and government to develop technology, expand talent and transition dual-use capabilities.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "61243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "7500A5E6-0593-3D92-8D86-8DBF52C18B51",
+                    "ANSWER_TITLE": "Government Entity (Defense)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "4CF11381-BA29-4BB0-F469-4DA20B11910C",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "74F1674A-C81C-2E2F-4AA8-B9064FD10045",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "AFWERX",
+            "CITY": "Dayton",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "afwerx.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "47CF13A8-6249-4498-AFDF-B689B02E4473"
+    }
+}

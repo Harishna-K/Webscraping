@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3715,
+                "BOOTH_KEY": "98B5D319-EFB5-4DB8-8D34-BAA4D5DFF046",
+                "KEY_ID": "00C87CEE-D5FA-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "BF0CD0D9-C9FA-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3715,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Xer Technologies AG",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 8953,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "Zurich",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CH",
+            "SALUTATION": "",
+            "DESCRIPTION": "Xer\u2019s current Unmanned Aerial System in production is the X8, a hybrid-electric UAV in octocopter configuration with a 30 kg maximum take-off weight. Xer brings a new standard to demanding unmanned airborne applications such as Power Line Inspection, Gas Leakage Detection, Inspection of Offshore Assets, Wildfire Management, Surveillance, Search & Rescue and Batyhmetric Surveys. \n\nFlight Time:\nThe strong hybrid engine provides the power needed for demanding missions offering 2.5 hours flight time fully fuelled.\n\nPayload:\nXer\u2019s proprietary system design and strong hybrid engine allows the platform to carry up to 7kg payload for long endurance missions. \n\nRange:\nXer enables BVLOS operations by offering a variety of data link options such as long range radio telemetry, mobile network connection and satellite communication.\n\nWind & weather resilient:\nXer\u2019s heavy-duty construction means your team can rely on our platform, even in 35 knot winds, rain/snow, sub-zero temperatures and +40\u00b0C heat.\n\nSwiss and European quality:\nXer drones are proudly designed and manufactured in Switzerland by seasoned experts from both the manned and unmanned industries.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "7401C345-EAE6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "43D9EDD4-E686-7695-47BB-2B479C02300D",
+                    "ANSWER_TITLE": "Manufacturing Machinery/Contract Manufacturing/Production Equipment"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/xer-technologies",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "13155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "46A47B29-D8D7-39C6-5D77-84CEA4C0A5D3",
+                            "ANSWER_TITLE": "Critical Infrastructure"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "439FDC05-9F5F-2F7D-B03C-2C70CDC3AC33",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Xer Technologies AG",
+            "CITY": "Dietikon",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.xer-tech.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "8A3B3465-ECFE-4CDB-85E8-39CE6BF3C2A8"
+    }
+}

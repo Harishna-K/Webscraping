@@ -1,0 +1,90 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3605,
+                "BOOTH_KEY": "382CFB51-E4CB-4343-B088-0AB2B641152E",
+                "KEY_ID": "A739447C-A4E1-E452-FC07-F4064A108E5A"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "BE3C1E1B-DEEA-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3605,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Kutta Technologies, LLC",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 85027,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202512410418_60edf90963767645e64f524132b420be.png",
+            "STATE": "AZ",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "We are a trusted leader in providing safety-critical uncrewed systems software and products. We develop innovative and reliable Command, Control, and Communications (C3) software, components, and subsystems with autonomous applications for defense and national security customers.\nWe are creating new autonomous technologies, certifying software for uncrewed systems (DO-178C) and building novel control technologies for soldiers and first responders.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A7AB5F39-FA88-E8CA-56D4-24941B481166",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 102",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "A7808C18-EF83-FAB1-01F1-7AA83A34B64B",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Kutta Technologies, LLC",
+            "CITY": "Phoenix",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.kuttatech.com",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "57AA8A4A-3468-443F-95C9-AA1A2213D9B4"
+    }
+}

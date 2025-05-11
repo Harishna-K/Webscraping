@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3414,
+                "BOOTH_KEY": "37FEE048-81C9-45E1-972F-87A81C02A952",
+                "KEY_ID": "DDB0D2B7-D600-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "A52BC11F-81EC-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3414,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Northern Plains UAS Test Site",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 58202,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024327163618_c87f4ba1399a9caa2c52c116ed3b3e1f.png",
+            "STATE": "ND",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "The Northern Plains UAS Test Site (NPUASTS) is one of seven Federal Aviation Administration (FAA) unmanned aircraft systems (UAS) test sites in the nation. Its mission is to collaborate with FAA and industry partners to develop systems, rules, and procedures to safely integrate unmanned aircraft into the National Airspace System without negatively impacting existing general or commercial aviation. NPUASTS also administers Vantis, North Dakota's Beyond Visual Line of Site (BVLOS) system.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "63243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "1284CBEC-DE44-0667-146E-21342ABD8352",
+                    "ANSWER_TITLE": "Government Entity (Non-Defense)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Stop 8392",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "12587BB0-A104-6A3E-0826-25650ACA91AE",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Northern Plains UAS Test Site",
+            "CITY": "Grand Forks",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.npuasts.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "1AEED0C1-53FA-4991-984A-D1E9AA92A524"
+    }
+}

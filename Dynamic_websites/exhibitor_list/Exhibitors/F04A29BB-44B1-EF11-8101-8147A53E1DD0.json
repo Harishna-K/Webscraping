@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4105,
+                "BOOTH_KEY": "3F6AE15B-D3AC-4446-8FA5-115F7B62912D",
+                "KEY_ID": "71B64AF0-E339-9349-728A-E60CCE41883E"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "F04A29BB-44B1-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 4105,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Guangdong Hangyu Composite Material Technology Company Ltd.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 510800,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025312161721_5456d29c9f8cf7fcf4384ad84ea1c9dc.png",
+            "STATE": "Guangzhou",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CN",
+            "SALUTATION": "",
+            "DESCRIPTION": "Guangdong Hangyu Composite Technology Company,Ltd. is a high-tech enterprise integrating mold design, product research and development, manufacturing and sales of professional carbon fiber and its composite products.Our company has a wealth of professional experience in the field of carbon fiber and composites, the main products are devided into two series :reinforced thermosetting and thermoplastic carbon fiber composites; For all kinds of molding process, molding, air blowing molding, autoclave, rolling, RTM we have large supporting equipment. We can provide composite product design, development and production services for our customers.\nOur company's main products are all kinds of carbon fiber fabric, prepreg, carbon fiber composite sheet, tube,pipe, special-shaped parts and so on. Can be widely used in aerospace, automotive parts, digital 3C, sports equipment, medical and health, auto parts,unmanned aerial vehicle, robot, industrial and other fields.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "040655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "71FA14B6-032C-56E6-54FF-80AD164ABAF4",
+                    "ANSWER_TITLE": "Composite Material Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "71D12D3A-F30D-B9CC-33C8-E16A61B2D12E",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Guangdong Hangyu Composite Material Technology Company Ltd.",
+            "CITY": "Guangzhou",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "86 020 3770 8896",
+            "WEBSITE": "http://www.carbonfiberproduct.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "E01E0E55-2E4A-40F4-8891-DA1494938E53"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4121,
+                "BOOTH_KEY": "52DB05E3-A01F-4E2E-8332-6DC11AB09F72",
+                "KEY_ID": "06237261-C19F-26ED-81F5-CB6886CC7840"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "EB2212D4-81DE-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 4121,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "MFE Inspection Solutions",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "SUBEXHIBITORS": [
+            {
+                "BOOTH_NO": 4121,
+                "COMPANY_NAME": "Flyability",
+                "BOOTH_KEY": "52DB05E3-A01F-4E2E-8332-6DC11AB09F72",
+                "EXHIBITOR_KEY": "633E01B4-F8A7-4CCF-8F1B-CE56BCDABABB"
+            }
+        ],
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/MFEInspectionSolutions/",
+            "INSTAGRAM": "mfeinspectionsolutions",
+            "ACTIVE": 1,
+            "ZIP_CODE": 78620,
+            "TIKTOK": "N/A",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202512915836_1f94eeeb44f75b6fdc552629fea7c264.png",
+            "STATE": "TX",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "MFE Inspection Solutions is a leading NDT, RVI, Environmental, and UAV solutions provider. MFE Specialists partner with their customers to provide comprehensive support from making the initial appropriate equipment choices to implementation and assessment. MFE offers a large inventory of equipment from top manufacturers including Skydio, Flyability, and Boston Dynamics ensuring their customers have access to the most advanced, innovative technology available. MFE\u2019s offerings expand beyond sales and rentals to include equipment calibrations, repairs, and training. MFE offers Advanced UAV Piloting courses, Infrared Thermography Courses, MFL Inspection, and specialized advanced Elios indoor drone inspection training.\n\nFrom its inception in 2009 in Houston, MFE Inspection Solutions has grown to 14 locations across the United States, Canada, Mexico, Egypt, and United Arab Emirates.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6E016D47-05F1-0B61-D202-1C021669534E",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/mfeis",
+            "TOLL_FREE": "",
+            "KEY_ID": "065BE2E2-A017-F35D-F832-957AA75E4A3F",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "MFE Inspection Solutions",
+            "CITY": "Dripping Springs",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.mfe-is.com",
+            "TWITTER": "@MFE_IS"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "EB2212D4-81DE-EF11-8101-8147A53E1DD0",
+        "CRM_COMPANY_KEY": "03D3738B-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

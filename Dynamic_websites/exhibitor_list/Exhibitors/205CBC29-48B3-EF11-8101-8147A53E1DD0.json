@@ -1,0 +1,86 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2633,
+                "BOOTH_KEY": "D8563F6F-CCFB-4798-AEBD-B63CCE814AE4",
+                "KEY_ID": "F55D862C-B9BE-C600-386C-C59237311F72"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "205CBC29-48B3-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2633,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "ACSL Inc.",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "ACTIVE": 1,
+            "ZIP_CODE": 94085,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024125124727_e40c37855a76595a286d7a611406aa0e.jpg",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "ACSL Inc. is the US subsidiary of ACSL Ltd., Japan's largest drone manufacturer and a publicly listed company on the Tokyo Stock Exchange.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "F5E4760D-9119-EE05-41BE-63132D5EC7BF",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "F57CEF7E-B5EA-9CF1-1506-B676BA33DC4F",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "ACSL Inc.",
+            "CITY": "Sunnyvale",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.acsl-usa.com",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "1EA5719C-A2AF-4BBB-8D23-23952FC08BB4"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1514,
+                "BOOTH_KEY": "C83AF63C-EC79-489C-80FF-5AEC1FE9992C",
+                "KEY_ID": "40A6FF6A-0447-33EA-ED8B-0DA2C0C0620F"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "975765E9-1DEB-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1514,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Stratasys Direct",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1135,
+                    "TITLE": "Speaking Opportunity - Solutions Theater",
+                    "ID": "EVENTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 55344,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202521413593_0770a85c9074c55ec9b3e976a0770216.jpg",
+            "STATE": "MN",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Stratasys Direct: Advanced 3D Printing & Manufacturing for Aerospace and Defense\n\nStratasys Direct, a division of Stratasys, is a trusted manufacturing partner for leading aerospace, defense, and UAV companies. With over 30 years of experience, we provide cutting-edge additive and traditional manufacturing solutions to meet the industry's most demanding requirements.\n\nOur extensive capabilities include seven additive manufacturing technologies\u2014FDM, PolyJet, SLA, SLS, SAF, P3, and MJF\u2014powered by a fleet of over 200 industrial-grade 3D printers. From rapid prototyping to flight-ready production parts, we deliver high-performance components with precision, repeatability, and speed.\n\nAs an ITAR-registered and AS9100- and ISO 9001-certified manufacturer, we meet stringent aerospace and defense quality standards. Our team of experts collaborates closely with engineers and fabricators to optimize designs, reduce lead times, and enhance part performance. Whether you need lightweight components, heat-resistant materials, or mission-critical production, Stratasys Direct is your partner in innovation.\n\nLet\u2019s build the future of UAVs together. Visit us to discuss your next project.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "415EB16F-0B66-67A4-48FA-7DA4B83ECEDC",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D5E9C0A9-9D13-E7F3-3CFD-091C6F8802A5",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "40B360EB-DF3F-C7FD-9004-9F2B887480FA",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Stratasys Direct",
+            "CITY": "Eden Prairie",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "stratasysdirect.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "13159196-6C48-4DCD-BB99-4E9313344955"
+    }
+}

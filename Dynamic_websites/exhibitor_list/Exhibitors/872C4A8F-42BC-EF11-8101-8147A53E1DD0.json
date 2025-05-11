@@ -1,0 +1,240 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1906,
+                "BOOTH_KEY": "5E744A50-FDAF-44AC-A463-950F849C16C5",
+                "KEY_ID": "41AEB6F8-AB73-68FC-FDBF-FC74A3DEA92A"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "872C4A8F-42BC-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1906,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Amicell - Amit Industries ltd",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "Amicell-Amit-Industries-Ltd-100063971382017",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 7760909,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024121784827_c4ca4238a0b923820dcc509a6f75849b.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DOCUMENTS": [
+                {
+                    "CATEGORY_TITLE": "Integrator",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "060655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "About AMICELL",
+                    "KEY_ID": "6B41F534-E699-2C65-A2D6-A154EFEEEE7C",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531715353_2c13db762e706132123573778f5c4567.png",
+                    "TITLE": "Amicell",
+                    "URL": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531715344_2c13db762e706132123573778f5c4567.pdf"
+                }
+            ],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "IL",
+            "SALUTATION": "",
+            "DESCRIPTION": "Amicell Amit Industries Ltd. \u2013 Advanced Battery Solutions\n\nAmicell Amit Industries Ltd. is a leading Israeli manufacturer of custom-made battery packs and charging systems, providing fully optimized solutions tailored to each customer\u2019s specific needs and application requirements.\nWith expertise in all cell technologies, Amicell specializes in designing high-performance energy solutions based on the unique characteristics of each system profile.\nAmicell is the only company worldwide to achieve an unprecedented energy density of 350Wh/kg in Lithium-Polymer technology, a breakthrough primarily designed for aerospace, UAV, and drone applications\u2014enabling extended flight duration with minimal weight. Currently, we are advancing toward 370Wh/kg.\n \n Headquartered in Israel, Amicell operates a 2,500 sqm state-of-the-art facility, delivering custom energy solutions for over 35 years.\n \n Trusted by Industry Leaders\nOur customers include IDF, MOD, ELBIT, RAFAEL, LOCKHEED MARTIN, STARK AEROSPACE, EDGE AUTONOMY, DELAIR TECH, and many more.\n\nOUR POWER, YOUR WAY!",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "42313B14-DE79-57C0-3665-72D337C04BEF",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "amit-industries",
+            "FORM": {
+                "QUESTIONS": [
+                    {
+                        "QUESTION_NAME": "Contact Form Message",
+                        "DISPLAY_ORDER": 1,
+                        "QUESTION_TYPE": "textarea",
+                        "ACTIVE": 1,
+                        "KEY_ID": "C8FA700B-0C03-F011-8101-8147A53E1DD0",
+                        "ANSWERS": [
+                            {
+                                "DISPLAY_ORDER": 1,
+                                "ACTIVE": 1,
+                                "KEY_ID": "C9FA700B-0C03-F011-8101-8147A53E1DD0",
+                                "ANSWER_TITLE": "Message"
+                            }
+                        ]
+                    }
+                ],
+                "SUB_TITLE": "",
+                "DESCRIPTION": "Leave a message and we will get back to you!",
+                "THANK_YOU_MESSAGE": "Thank you for reaching out! We have received your message and will be in touch shortly to address your inquiry.",
+                "KEY_ID": "60C28612-AE26-76C6-EF8F-04B42B5281C4",
+                "HEADER_IMAGE": "",
+                "TITLE": "Contact Us",
+                "EMAIL_NOTIFICATION": "meital@amicell.co.il"
+            },
+            "PRESS_RELEASES": [
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "",
+                    "STATE": "",
+                    "KEY_ID": "6B64DD7F-9652-DC14-A927-DADBB34AC1DC",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/202531715405_d790e9c517c7f35479f60ced13cb7631.png",
+                    "LAST_NAME": "",
+                    "EMAIL": "",
+                    "FIRST_NAME": "",
+                    "SUB_TITLE": "",
+                    "CITY": "",
+                    "COUNTRY": "",
+                    "DESCRIPTION": "Amicell Amit Industries Ltd. is at the forefront of high-energy-density innovation in Li-Polymer (Li-Po) battery technology. Our journey began in 2006, when we achieved 200Wh/kg. Nearly two decades later, in 2024, we continue to lead the industry, reaching an impressive 360Wh/kg&mdash;with ongoing development toward 370Wh/kg. Innovation. Performance. Limitless Power.",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025317154014_a3f093f5028883ae15c88988d051ae08.pdf",
+                    "TITLE": "Amicell Amit Industries \u2013 Pushing the Limits of Energy Density"
+                },
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "",
+                    "STATE": "",
+                    "KEY_ID": "6B7ACDA3-C9C7-C571-494A-D2FC3C5EB814",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025317154211_ac050460a431e1f1adc280d0ef4d41d3.png",
+                    "LAST_NAME": "",
+                    "EMAIL": "",
+                    "FIRST_NAME": "",
+                    "SUB_TITLE": "",
+                    "CITY": "",
+                    "COUNTRY": "",
+                    "DESCRIPTION": "The UBA6 is AMICELL\u2019s next-generation battery analyzer, designed for high-voltage (up to 70V) and high-capacity battery packs. Unlike the UBA5, the UBA6 operates fully stand-alone, displaying real-time data without needing a computer connection. Optimize your battery performance with UBA6 \u2013 Contact us today!",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/202532381740_e7b22b2a2880f598f04cdd01d71daec1.pdf",
+                    "TITLE": "UBA6 \u2013 High-Voltage, Stand-Alone Battery Testing"
+                },
+                {
+                    "ACTIVE": 1,
+                    "PHONE": "",
+                    "STATE": "",
+                    "KEY_ID": "6B84ED85-DFBF-3511-AAD4-E07B7ED862F7",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/202531715430_cb6ca0a4392912f5b52eb65b11635db2.png",
+                    "LAST_NAME": "",
+                    "EMAIL": "",
+                    "FIRST_NAME": "",
+                    "SUB_TITLE": "",
+                    "CITY": "",
+                    "COUNTRY": "",
+                    "DESCRIPTION": "At Amicell, we utilize advanced 3D printing technology to develop high-precision, durable components tailored to each customer&rsquo;s needs. ? Stratasys Fortus 450mc &ndash; Industrial FDM printing for functional prototypes and production parts. ? Markforged X7 &amp; Mark Two &ndash; High-strength composite printing with Carbon Fiber, Kevlar&reg;, and Fiberglass reinforcements. Our in-house capabilities ensure rapid production, full customization, and superior quality for defense, aerospace, medical, and industrial applications.",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/pressReleases/2025317154310_f8757365b45dadf80854afa7a653d40e.pdf",
+                    "TITLE": "In-House 3D Printing for Custom Solutions"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "41BBFC6D-003F-A5F7-0A90-D53F04E2E035",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Amicell - Amit Industries Ltd.",
+            "CITY": "Ashdod",
+            "ACTION_BUTTON_LABEL": "Contact Us",
+            "PRODUCTS": [
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "AMICELL sets a new benchmark in battery technology, achieving an industry-leading energy density of up to 370 Wh/kg with our Li-Ion Polymer batteries.",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025318103439_c298b1c9388850df92af5df0aa326442.pdf",
+                    "KEY_ID": "9401B04F-DF80-EC51-1656-09B098F8E2DF",
+                    "TITLE": "Li-Ion Polymer (Pouch) Batteries",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025318103432_b334a3f9120be70a92beca9163dce9a0.png",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "AMICELL brings extensive expertise in battery testing and analysis.",
+                    "DOCUMENT": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531810371_3151316a43a961e085a9cdb931d8c1ce.pdf",
+                    "KEY_ID": "9418B594-B9C7-BCA1-C616-57FCE7E064D7",
+                    "TITLE": "Battery Analyzers",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531810379_e8328d6dcd3b710596354d419c58bd97.png",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "AMICELL offers intelligent charging systems that ensure fast, efficient, and safe charging while maximizing battery lifespan and performance.",
+                    "KEY_ID": "940E1CF4-D8DF-C872-C5B5-8E9444477B67",
+                    "TITLE": "Charging Solutions",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025318103549_0851996e850d3914fe5282daf38dce29.png"
+                },
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Discover the versatility of Li-Ion technology the most widely used battery cell for mobile applications.",
+                    "KEY_ID": "93CCA760-EF4D-2CC5-32F6-A533A8B918D3",
+                    "TITLE": "Li-Ion Batteries",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025318104256_a63c9dd3b877cbc0b18b10dda4547778.png"
+                }
+            ],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "+97288561612",
+            "FEATURED": true,
+            "VIDEOS": [
+                {
+                    "CATEGORY_TITLE": "Integrator",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "060655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Powering Innovation with Advanced Battery Solutions",
+                    "KEY_ID": "9CC40C83-A51A-9BCE-A00A-462191C9FE02",
+                    "TITLE": "Amicell",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025313152046_44f188f43ee2f0f112b60384d96a0636.png",
+                    "URL": "https://www.youtube.com/watch?v=Mxafve4kgHY"
+                }
+            ],
+            "WEBSITE": "http://www.amicell.co.il",
+            "TWITTER": "",
+            "HEADERIMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025313145940_dfc0b6d4998ab9ec5eeca6bf01d5a7c1.png"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "33557E7F-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

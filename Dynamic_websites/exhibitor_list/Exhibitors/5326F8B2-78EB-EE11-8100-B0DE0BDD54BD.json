@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2820,
+                "BOOTH_KEY": "CDAED06F-7DF2-47E7-9BF7-E06590D08D2A",
+                "KEY_ID": "CE92AD89-D6AE-02F9-CBA4-D8EE1428AE93"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "5326F8B2-78EB-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2820,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Embry-Riddle Aeronautical University",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "@EmbryRiddleUniversity",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 32114,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202432610234_e8f5d2b058d4bf0ebe89d9b8c1b8099b.png",
+            "STATE": "FL",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Embry-Riddle Aeronautical University is the world\u2019s largest and most comprehensive institution specializing in aviation, business, aerospace and STEM-related degree programs.  \n\nEmbry-Riddle is a fully accredited university and a major research center. Students and faculty seek solutions to real-world problems in partnership with industry leaders, other universities and government agencies.  \n\nAs a nonprofit, independent institution, Embry-Riddle offers more than 100 associate, bachelor\u2019s, master\u2019s and doctoral programs, spanning topics in applied sciences, aviation, business, technology, engineering, security, intelligence, safety and space.  \n\nThe university educates students at residential campuses in Daytona Beach, Florida, and Prescott, Arizona, and offers online programs through its Worldwide Campus, with more than 110 locations around the globe. \n\nU.S. News & World Report\u2019s 2024-2025 rankings placed Embry-Riddle at twelve top 10 rankings throughout all three campuses. Embry-Riddle\u2019s residential campuses were named as no. 1 Most Innovative Schools in both the South and West regions, while the Worldwide Campus was highly ranked in Best Online Bachelor\u2019s Programs and no. 5 in Online Bachelors Programs for Veterans.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "FA0C3F6F-F5C9-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "CEC570A3-A6AE-DF6F-A079-A650DD8C93AB",
+                    "ANSWER_TITLE": "Academic/Educational/Research"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Embry-Riddle Aeronautical University",
+            "TOLL_FREE": "",
+            "KEY_ID": "CE9B1273-A271-2DBA-B447-A7EF183B8794",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Embry-Riddle Aeronautical University",
+            "CITY": "Daytona Beach",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.erau.edu",
+            "TWITTER": "@EmbryRiddle"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "08A3D874-818D-4BFE-9D6C-2B7C11C4C570"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 2,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2921,
+                "BOOTH_KEY": "4D21F530-617E-4587-850D-0693A2F10ED7",
+                "KEY_ID": "33C2958F-2500-F011-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "83F83C5E-BA67-4CE6-987C-6102207AD028",
+        "PRIMARY_BOOTH": 2921,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "German American Chamber of Commerce of the Southern U.S., Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 30363,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "GA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "63243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "9B585574-C637-A081-1EA8-445E1C9010E2",
+                    "ANSWER_TITLE": "Government Entity (Non-Defense)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "D568D496-D9F9-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "6A8F85E1-B508-F4EE-27F7-66B2C2D6243E",
+                            "ANSWER_TITLE": "German Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "BFA83C91-229A-4F4D-9BC5-2D1F70BEDC60",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "German American Chamber of Commerce of the Southern U.S., Inc.",
+            "CITY": "Atlanta",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.gaccsouth.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "D2BA3584-C6CF-4F1B-B769-FD66631CC1C1",
+        "CRM_COMPANY_KEY": "5C835B15-6C38-434C-A292-B844A266DB42"
+    }
+}

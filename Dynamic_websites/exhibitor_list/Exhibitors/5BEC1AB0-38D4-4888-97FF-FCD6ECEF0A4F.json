@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 2,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3411,
+                "BOOTH_KEY": "E6481202-E4AF-498C-A6F4-191CB7D7B29F",
+                "KEY_ID": "C24538E0-09AD-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "5BEC1AB0-38D4-4888-97FF-FCD6ECEF0A4F",
+        "PRIMARY_BOOTH": 3411,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "AirModo",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 10004,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202532063236_056b8e91d630168cf0ed2764c7725a7d.png",
+            "STATE": "NY",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "AirModo offers drone operators fast, simple, & affordable drone insurance in an easy-to-use app. It gives instant, best in class drone insurance coverage for less. We supply annual or hourly coverage.  AirModo costs less than other drone insurance providers.  Download the app on the App Store or Google Play and visit www.airmodo.com",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "695D8B96-9145-CF68-AD1D-2A1514E6B061",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "CE26EA7F-9DA1-4465-9DA2-8845812F7DC9",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "AirModo",
+            "CITY": "New York",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.airmodo.com/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "E34E05A3-3EEC-EE11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "43B47685-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

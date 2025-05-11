@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3005,
+                "BOOTH_KEY": "A4C2AD39-0572-415C-BD73-DA9CD2DDAAFB",
+                "KEY_ID": "C32E0E20-C3BA-06B5-5DB7-5BAE929B6386"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "43E6C456-DCCD-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3005,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Zarges, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/ZargesUSA",
+            "INSTAGRAM": "https://www.instagram.com/zarges.usa/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 28217,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025227114653_f28007f93f58278f214535999ef5343e.png",
+            "STATE": "NC",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "ZARGES, an 90 year-old company manufactures UN-certified, IATA, 49CFR, and IMDG-compliant shipping and storage cases which can be used for Li Ion batteries in all stages of battery life.  Design methods allow for OEM custom case sizing to protect UAVs, AUVs etc. as well as customized inner packaging configurations for one or more batteries.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "4F243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0C954B57-AB48-2E62-42F2-1DD8E651798E",
+                    "ANSWER_TITLE": "Auxiliary Product Manufacturer (cases, laser engravings, etc.)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/zarges/",
+            "TOLL_FREE": "800-357-6285",
+            "KEY_ID": "C34A001B-9B1C-B95F-6D51-3D3CAC8E313A",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Zarges, Inc.",
+            "CITY": "Charlotte",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "704-357-6289",
+            "WEBSITE": "https://www.zargesusa.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "D2557E7F-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

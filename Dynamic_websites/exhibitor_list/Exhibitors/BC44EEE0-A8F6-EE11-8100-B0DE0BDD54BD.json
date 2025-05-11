@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2023,
+                "BOOTH_KEY": "3E65C370-CB7B-4967-820E-B6077AD63353",
+                "KEY_ID": "4EBA54C4-E875-FCD9-6836-FA1CCC0502CF"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "BC44EEE0-A8F6-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2023,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Ensinger Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 15301,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202449154458_0f9a83f2937cf0db1931ee10e15ea6a8.jpg",
+            "STATE": "PA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "We offer thermoplastic solutions for the Aerospace industry including compounds, shapes, machined parts, injection molding, compression molding, additive manufacturing/3D printing (FDM) & filaments, profiles & tubes, and thermoplastic composites.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "040655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "ABFC4D9F-F61A-4C2F-8511-7D327958B9A3",
+                    "ANSWER_TITLE": "Composite Material Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "E4A34420-7061-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "3E1995D9-E647-C76A-A707-6753FA420E48",
+                            "ANSWER_TITLE": "Advanced Materials and Manufacturing"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "ABE89B94-E961-7ED1-6CEF-DC255E975DC9",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Ensinger Inc.",
+            "CITY": "Washington,",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "ensingerplastics.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "B1395A42-D7A0-46A4-8A69-A6BBECD71DA3"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1933,
+                "BOOTH_KEY": "E6987377-B6CB-47A4-B00C-1D040E05EA3C",
+                "KEY_ID": "F56DC202-D7D6-3E76-2A03-17EC6C650876"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D828FB6D-80FD-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1933,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Rayvatek",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 350,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "Miaoli County",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "TW",
+            "SALUTATION": "",
+            "DESCRIPTION": "Rayvatek is a drone manufacturer out of Taiwan. Rayvatek has eVTOL fixed-wing drone designs that specialize in wind-resistance. In addition, Rayvatek also provides contract manufacturing services for drone components and subsystems, including 3D printing and CNC machining. We are proud to have a completely \"non-RED\" supply chain.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "F59DFEBF-E2A8-6DB1-7DAF-059A1E20F753",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "E4A34420-7061-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "FC08CB53-E367-9A8F-E84D-7CE5220C8C5F",
+                            "ANSWER_TITLE": "Advanced Materials and Manufacturing"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "F572A1AA-AFF5-8D60-61C6-FF15D1F9DDBC",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Rayvatek",
+            "CITY": "Zhunan Township",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.rayvatek.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "C7CF4607-85CF-46FD-8112-0A3350E3BCF2"
+    }
+}

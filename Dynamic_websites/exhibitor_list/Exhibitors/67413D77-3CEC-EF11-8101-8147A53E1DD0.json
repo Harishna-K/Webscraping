@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2304,
+                "BOOTH_KEY": "E4B3E06B-611E-41DA-B5F0-712188992A0B",
+                "KEY_ID": "8C701730-C32A-CD78-469E-F5CBF4575300"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "67413D77-3CEC-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2304,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "NextVision Stabilized Systems",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 4365201,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025216111834_83338ed82af77176453581be94b57fff.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "IL",
+            "SALUTATION": "",
+            "DESCRIPTION": "NextVision Stabilized Systems Ltd (TASE: NXSN) specializes in the design, manufacturing, sales, and support of cutting-edge observation solutions for micro and mini platforms.\nWith the industry\u2019s most comprehensive range of field-proven stabilized cameras and accessories, NextVision serves commercial, industrial, and security applications. Our advanced solutions can be seamlessly integrated into ground, aerial, and maritime vehicles, making them the preferred choice for applications where low SWaP\u00b2 (Size, Weight, Power, and Price) is essential\u2014without compromising performance.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "8CBED690-900E-13B8-2352-5E086742226A",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "8C7A37BE-C039-AAE3-294F-05CB058C1119",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "NextVision Stabilized Systems",
+            "CITY": "Ra'anana",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.nextvision-sys.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "6006B21D-E3E5-4A39-B52E-15FCABDA31F8"
+    }
+}

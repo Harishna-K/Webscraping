@@ -1,0 +1,3730 @@
+{
+    "total_pages": 10,
+    "current_page": 3,
+    "total_records": 499,
+    "records": [
+        {
+            "id": "60b8dce506d2a9001e8be29e",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62b0819632e6cd001ed8d2f5/thumb_1/cyclogo.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62b0819632e6cd001ed8d2f5/original/cyclogo.png\" />",
+            "field_39_raw": {
+                "id": "62b0819632e6cd001ed8d2f5",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "cyclogo.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62b0819632e6cd001ed8d2f5/original/cyclogo.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62b0819632e6cd001ed8d2f5/original/cyclogo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=a60344e4e0779c5ebbace868fc9e3ec1107cc81475f48383d3d483ecebea1bbb&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22cyclogo.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62b0819632e6cd001ed8d2f5/thumb/cyclogo.png",
+                "size": 20685,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Chester Senior High",
+            "field_1_raw": "Chester Senior High",
+            "field_34": "1330 J. A. Cochran By-Pass<br />Chester, SC 29706",
+            "field_34_raw": {
+                "street": "1330 J. A. Cochran By-Pass",
+                "street2": null,
+                "city": "Chester",
+                "state": "SC",
+                "zip": "29706",
+                "country": null,
+                "longitude": -81.20297,
+                "latitude": 34.68966,
+                "full": "1330 J. A. Cochran By-Pass Chester, SC 29706"
+            },
+            "field_35": "<a href=\"tel:8033773161\">(803) 377-3161</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "3773161",
+                "ext": null,
+                "full": "8033773161",
+                "country": null,
+                "formatted": "(803) 377-3161"
+            },
+            "field_40": "<a href=\"https://www.chester.k12.sc.us/o/chs/\">https://www.chester.k12.sc.us/o/chs/</a>",
+            "field_40_raw": {
+                "url": "https://www.chester.k12.sc.us/o/chs/",
+                "label": null
+            },
+            "field_41": "<a href=\"https://chesterathletics.com/\">https://chesterathletics.com/</a>",
+            "field_41_raw": {
+                "url": "https://chesterathletics.com/",
+                "label": null
+            },
+            "field_44": "AA",
+            "field_44_raw": "AA",
+            "field_45": "3",
+            "field_45_raw": "3",
+            "field_37": "Cyclones",
+            "field_37_raw": "Cyclones",
+            "field_38": "Navy, Red & White",
+            "field_38_raw": "Navy, Red & White",
+            "field_25": "<span class=\"60b8db3bf7d937001fc85f1a\">Ricky Campbell</span>",
+            "field_25_raw": [
+                {
+                    "id": "60b8db3bf7d937001fc85f1a",
+                    "identifier": "Ricky Campbell"
+                }
+            ],
+            "field_47": "06/03/2021 09:45",
+            "field_47_raw": {
+                "date": "06/03/2021",
+                "date_formatted": "06/03/2021",
+                "hours": "09",
+                "minutes": "45",
+                "am_pm": "AM",
+                "unix_timestamp": 1622713500000,
+                "iso_timestamp": "2021-06-03T09:45:00.000Z",
+                "timestamp": "06/03/2021 09:45 am",
+                "time": 585,
+                "proper_unix_timestamp": 1622727900000,
+                "proper_iso_timestamp": "2021-06-03T13:45:00.000Z"
+            }
+        },
+        {
+            "id": "60f993824944ba00201d2d60",
+            "field_39_raw": "",
+            "field_39": "",
+            "field_1": "Chestnut Oaks Middle",
+            "field_1_raw": "Chestnut Oaks Middle",
+            "field_34": "1200 Oswego Road<br />Sumter, South Carolina 29153",
+            "field_34_raw": {
+                "street": "1200 Oswego Road",
+                "street2": null,
+                "city": "Sumter",
+                "state": "South Carolina",
+                "zip": "29153",
+                "country": null,
+                "longitude": -80.3247,
+                "latitude": 33.92972,
+                "full": "1200 Oswego Road Sumter, South Carolina 29153"
+            },
+            "field_35": "<a href=\"tel:8037757272\">(803) 775-7272</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "7757272",
+                "ext": null,
+                "full": "8037757272",
+                "country": null,
+                "formatted": "(803) 775-7272"
+            },
+            "field_40": "<a href=\"https://coms.sumterschools.net\">coms.sumterschools.net</a>",
+            "field_40_raw": {
+                "url": "coms.sumterschools.net",
+                "label": null
+            },
+            "field_41": "<a href=\"https://coms.sumterschools.net\">coms.sumterschools.net</a>",
+            "field_41_raw": {
+                "url": "coms.sumterschools.net",
+                "label": null
+            },
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Falcons",
+            "field_37_raw": "Falcons",
+            "field_38": "Forest Green and Black",
+            "field_38_raw": "Forest Green and Black",
+            "field_25": "<span class=\"60f8420b3f261d001e4d3489\">Stacey Shaw</span>",
+            "field_25_raw": [
+                {
+                    "id": "60f8420b3f261d001e4d3489",
+                    "identifier": "Stacey Shaw"
+                }
+            ],
+            "field_47": "07/22/2021 11:49",
+            "field_47_raw": {
+                "date": "07/22/2021",
+                "date_formatted": "07/22/2021",
+                "hours": "11",
+                "minutes": "49",
+                "am_pm": "AM",
+                "unix_timestamp": 1626954540000,
+                "iso_timestamp": "2021-07-22T11:49:00.000Z",
+                "timestamp": "07/22/2021 11:49 am",
+                "time": 709,
+                "proper_unix_timestamp": 1626968940000,
+                "proper_iso_timestamp": "2021-07-22T15:49:00.000Z"
+            }
+        },
+        {
+            "id": "620a92b5b41eff001e8826d3",
+            "field_39_raw": "",
+            "field_39": "",
+            "field_1": "Chestnut Oaks Middle",
+            "field_1_raw": "Chestnut Oaks Middle",
+            "field_34": "1200 Oswego Road<br />Sumter, SC 29153",
+            "field_34_raw": {
+                "street": "1200 Oswego Road",
+                "street2": null,
+                "city": "Sumter",
+                "state": "SC",
+                "zip": "29153",
+                "country": null,
+                "longitude": -80.3247,
+                "latitude": 33.92972,
+                "full": "1200 Oswego Road Sumter, SC 29153"
+            },
+            "field_35": "<a href=\"tel:8037757272\">(803) 775-7272</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "7757272",
+                "ext": null,
+                "full": "8037757272",
+                "country": null,
+                "formatted": "(803) 775-7272"
+            },
+            "field_40": "<a href=\"https://coms.sumterschools.net/\">https://coms.sumterschools.net/</a>",
+            "field_40_raw": {
+                "url": "https://coms.sumterschools.net/",
+                "label": null
+            },
+            "field_41": "",
+            "field_41_raw": "",
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Falcons",
+            "field_37_raw": "Falcons",
+            "field_38": "Green and Black",
+            "field_38_raw": "Green and Black",
+            "field_25": "<span class=\"620a9073d04b50001f213525\">Jenaii Edwards</span>",
+            "field_25_raw": [
+                {
+                    "id": "620a9073d04b50001f213525",
+                    "identifier": "Jenaii Edwards"
+                }
+            ],
+            "field_47": "02/14/2022 12:34",
+            "field_47_raw": {
+                "date": "02/14/2022",
+                "date_formatted": "02/14/2022",
+                "hours": "12",
+                "minutes": "34",
+                "am_pm": "PM",
+                "unix_timestamp": 1644842040000,
+                "iso_timestamp": "2022-02-14T12:34:00.000Z",
+                "timestamp": "02/14/2022 12:34 pm",
+                "time": 754,
+                "proper_unix_timestamp": 1644860040000,
+                "proper_iso_timestamp": "2022-02-14T17:34:00.000Z"
+            }
+        },
+        {
+            "id": "60bec7d514aa7a001e5b4281",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60bec6e6ee059c001ee063f2/thumb_1/cavalierhead_navy.jpg\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60bec6e6ee059c001ee063f2/original/cavalierhead_navy.jpg\" />",
+            "field_39_raw": {
+                "id": "60bec6e6ee059c001ee063f2",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "cavalierhead_navy.jpg",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60bec6e6ee059c001ee063f2/original/cavalierhead_navy.jpg",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60bec6e6ee059c001ee063f2/original/cavalierhead_navy.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=a059fd2d381f7c3c15541ba4406a0c51a128b77ca31da21fd61b8cb40ac8dcf7&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22cavalierhead_navy.jpg%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60bec6e6ee059c001ee063f2/thumb/cavalierhead_navy.jpg",
+                "size": 36352,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Christ Church",
+            "field_1_raw": "Christ Church",
+            "field_34": "245 Cavalier Drive<br />GREENVILLE, ",
+            "field_34_raw": {
+                "street": "245 Cavalier Drive",
+                "street2": null,
+                "city": "GREENVILLE",
+                "state": null,
+                "zip": null,
+                "country": null,
+                "longitude": -82.34956,
+                "latitude": 34.79612,
+                "full": "245 Cavalier Drive GREENVILLE, "
+            },
+            "field_35": "<a href=\"tel:8642991522\">(864) 299-1522</a>",
+            "field_35_raw": {
+                "area": "864",
+                "number": "2991522",
+                "ext": null,
+                "full": "8642991522",
+                "country": null,
+                "formatted": "(864) 299-1522"
+            },
+            "field_40": "<a href=\"https://www.cces.org\">www.cces.org</a>",
+            "field_40_raw": {
+                "url": "www.cces.org",
+                "label": null
+            },
+            "field_41": "<a href=\"https://www.cces.org/athletics\">https://www.cces.org/athletics</a>",
+            "field_41_raw": {
+                "url": "https://www.cces.org/athletics",
+                "label": null
+            },
+            "field_44": "A",
+            "field_44_raw": "A",
+            "field_45": "1",
+            "field_45_raw": "1",
+            "field_37": "Cavaliers",
+            "field_37_raw": "Cavaliers",
+            "field_38": "Carolina Blue/Navy/White",
+            "field_38_raw": "Carolina Blue/Navy/White",
+            "field_25": "<span class=\"60bec65cd894c0001e3318c9\">Molly Miller</span>",
+            "field_25_raw": [
+                {
+                    "id": "60bec65cd894c0001e3318c9",
+                    "identifier": "Molly Miller"
+                }
+            ],
+            "field_47": "06/07/2021 21:28",
+            "field_47_raw": {
+                "date": "06/07/2021",
+                "date_formatted": "06/07/2021",
+                "hours": "09",
+                "minutes": "28",
+                "am_pm": "PM",
+                "unix_timestamp": 1623101280000,
+                "iso_timestamp": "2021-06-07T21:28:00.000Z",
+                "timestamp": "06/07/2021 09:28 pm",
+                "time": 1288,
+                "proper_unix_timestamp": 1623115680000,
+                "proper_iso_timestamp": "2021-06-08T01:28:00.000Z"
+            }
+        },
+        {
+            "id": "60e2fdfa19d032001eae4801",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60e2fdb584f2b9001fb65cf2/thumb_1/clifdale_badge_social_blue_white002.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60e2fdb584f2b9001fb65cf2/original/clifdale_badge_social_blue_white002.png\" />",
+            "field_39_raw": {
+                "id": "60e2fdb584f2b9001fb65cf2",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "clifdale_badge_social_blue_white002.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60e2fdb584f2b9001fb65cf2/original/clifdale_badge_social_blue_white002.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60e2fdb584f2b9001fb65cf2/original/clifdale_badge_social_blue_white002.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=f9f0b4604cef0faf10da208ed1cfdbf4b0bfb62f10239f531eaaf57947cbe277&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22clifdale_badge_social_blue_white002.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60e2fdb584f2b9001fb65cf2/thumb/clifdale_badge_social_blue_white002.png",
+                "size": 45670,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Clifdale Middle School",
+            "field_1_raw": "Clifdale Middle School",
+            "field_34": "451 Heritage Hill Road<br />Spartanburg, SC 29307",
+            "field_34_raw": {
+                "street": "451 Heritage Hill Road",
+                "street2": null,
+                "city": "Spartanburg",
+                "state": "SC",
+                "zip": "29307",
+                "country": null,
+                "longitude": -81.76493,
+                "latitude": 34.95155,
+                "full": "451 Heritage Hill Road Spartanburg, SC 29307"
+            },
+            "field_35": "<a href=\"tel:8642796200\">(864) 279-6200</a>",
+            "field_35_raw": {
+                "area": "864",
+                "number": "2796200",
+                "ext": null,
+                "full": "8642796200",
+                "country": null,
+                "formatted": "(864) 279-6200"
+            },
+            "field_40": "<a href=\"https://www.spartanburg3.org/clifdalemiddle_home.aspx\">https://www.spartanburg3.org/clifdalemiddle_home.aspx</a>",
+            "field_40_raw": {
+                "url": "https://www.spartanburg3.org/clifdalemiddle_home.aspx",
+                "label": null
+            },
+            "field_41": "<a href=\"https://www.spartanburg3.org/clifdalemiddle_home.aspx\">https://www.spartanburg3.org/clifdalemiddle_home.aspx</a>",
+            "field_41_raw": {
+                "url": "https://www.spartanburg3.org/clifdalemiddle_home.aspx",
+                "label": null
+            },
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Centurions",
+            "field_37_raw": "Centurions",
+            "field_38": "Royal and White",
+            "field_38_raw": "Royal and White",
+            "field_25": "<span class=\"60e2fc5c92e5af001ebd9336\">Kevin Coy</span>",
+            "field_25_raw": [
+                {
+                    "id": "60e2fc5c92e5af001ebd9336",
+                    "identifier": "Kevin Coy"
+                }
+            ],
+            "field_47": "07/05/2021 08:41",
+            "field_47_raw": {
+                "date": "07/05/2021",
+                "date_formatted": "07/05/2021",
+                "hours": "08",
+                "minutes": "41",
+                "am_pm": "AM",
+                "unix_timestamp": 1625474460000,
+                "iso_timestamp": "2021-07-05T08:41:00.000Z",
+                "timestamp": "07/05/2021 08:41 am",
+                "time": 521,
+                "proper_unix_timestamp": 1625488860000,
+                "proper_iso_timestamp": "2021-07-05T12:41:00.000Z"
+            }
+        },
+        {
+            "id": "60ca0d9822401b001e15c684",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/667d5ea04a22bf0027ccc207/thumb_1/candpitchfork.jpg\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/667d5ea04a22bf0027ccc207/original/candpitchfork.jpg\" />",
+            "field_39_raw": {
+                "id": "667d5ea04a22bf0027ccc207",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "candpitchfork.jpg",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/667d5ea04a22bf0027ccc207/original/candpitchfork.jpg",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/667d5ea04a22bf0027ccc207/original/candpitchfork.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=80aa9952aa2993ac947aa3bcdff5b456eede1c6c102eaf368287352d63b8ed8f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22candpitchfork.jpg%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/667d5ea04a22bf0027ccc207/thumb/candpitchfork.jpg",
+                "size": 16998,
+                "field_key": "field_39",
+                "checksum": "qiSXk/1yNPP6SGyR3vjn67MIpQHsJX2y4hduoWf8KQ4="
+            },
+            "field_1": "Clinton High",
+            "field_1_raw": "Clinton High",
+            "field_34": "18132 Hwy 72 E<br />Clinton, ",
+            "field_34_raw": {
+                "street": "18132 Hwy 72 E",
+                "street2": null,
+                "city": "Clinton",
+                "state": null,
+                "zip": null,
+                "country": null,
+                "longitude": -81.853782,
+                "latitude": 34.485134,
+                "full": "18132 Hwy 72 E Clinton, "
+            },
+            "field_35": "<a href=\"tel:8648330817\">(864) 833-0817</a>",
+            "field_35_raw": {
+                "area": "864",
+                "number": "8330817",
+                "ext": null,
+                "full": "8648330817",
+                "country": null,
+                "formatted": "(864) 833-0817"
+            },
+            "field_40": "<a href=\"https://chs.lcsd56.org\">https://chs.lcsd56.org</a>",
+            "field_40_raw": {
+                "url": "https://chs.lcsd56.org",
+                "label": null
+            },
+            "field_41": "<a href=\"https://chsreddevils.org\">chsreddevils.org</a>",
+            "field_41_raw": {
+                "url": "chsreddevils.org",
+                "label": null
+            },
+            "field_44": "AA",
+            "field_44_raw": "AA",
+            "field_45": "3",
+            "field_45_raw": "3",
+            "field_37": "Red Devil",
+            "field_37_raw": "Red Devil",
+            "field_38": "Red,Black,White",
+            "field_38_raw": "Red,Black,White",
+            "field_25": "<span class=\"64c2c4e67d8da70029ea0627\">Louie Alexander</span>",
+            "field_25_raw": [
+                {
+                    "id": "64c2c4e67d8da70029ea0627",
+                    "identifier": "Louie Alexander"
+                }
+            ],
+            "field_47": "06/16/2021 10:41",
+            "field_47_raw": {
+                "date": "06/16/2021",
+                "date_formatted": "06/16/2021",
+                "hours": "10",
+                "minutes": "41",
+                "am_pm": "AM",
+                "unix_timestamp": 1623840060000,
+                "iso_timestamp": "2021-06-16T10:41:00.000Z",
+                "timestamp": "06/16/2021 10:41 am",
+                "time": 641,
+                "proper_unix_timestamp": 1623854460000,
+                "proper_iso_timestamp": "2021-06-16T14:41:00.000Z"
+            }
+        },
+        {
+            "id": "60ca1ac9d8e487001ead4fe3",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/623c728943d48c0022de2636/thumb_1/clintonwildcatlogo.jpeg\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/623c728943d48c0022de2636/original/clintonwildcatlogo.jpeg\" />",
+            "field_39_raw": {
+                "id": "623c728943d48c0022de2636",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "clintonwildcatlogo.jpeg",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/623c728943d48c0022de2636/original/clintonwildcatlogo.jpeg",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/623c728943d48c0022de2636/original/clintonwildcatlogo.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=4515b9228458dd72eb6e0f636ea341f3eb723a710701fc0bb0e4fd50f485c626&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22clintonwildcatlogo.jpeg%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/623c728943d48c0022de2636/thumb/clintonwildcatlogo.jpeg",
+                "size": 10342,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Clinton Middle",
+            "field_1_raw": "Clinton Middle",
+            "field_34": "800 North Adair Street<br />Clinton, sc 29325",
+            "field_34_raw": {
+                "street": "800 North Adair Street",
+                "street2": null,
+                "city": "Clinton",
+                "state": "sc",
+                "zip": "29325",
+                "country": null,
+                "longitude": -81.86475,
+                "latitude": 34.4811,
+                "full": "800 North Adair Street Clinton, sc 29325"
+            },
+            "field_35": "<a href=\"tel:8648330807\">(864) 833-0807</a>",
+            "field_35_raw": {
+                "area": "864",
+                "number": "8330807",
+                "ext": null,
+                "full": "8648330807",
+                "country": null,
+                "formatted": "(864) 833-0807"
+            },
+            "field_40": "<a href=\"https://cms.lcsd56.org/\">https://cms.lcsd56.org/</a>",
+            "field_40_raw": {
+                "url": "https://cms.lcsd56.org/",
+                "label": null
+            },
+            "field_41": "<a href=\"https://CHSRedDevils.org\">CHSRedDevils.org</a>",
+            "field_41_raw": {
+                "url": "CHSRedDevils.org",
+                "label": null
+            },
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Wildcats",
+            "field_37_raw": "Wildcats",
+            "field_38": "Red and black",
+            "field_38_raw": "Red and black",
+            "field_25": "<span class=\"60ca0a59a558ac001ef8c7fe\">KATHY SCHUMPERT</span>",
+            "field_25_raw": [
+                {
+                    "id": "60ca0a59a558ac001ef8c7fe",
+                    "identifier": "KATHY SCHUMPERT"
+                }
+            ],
+            "field_47": "06/16/2021 11:37",
+            "field_47_raw": {
+                "date": "06/16/2021",
+                "date_formatted": "06/16/2021",
+                "hours": "11",
+                "minutes": "37",
+                "am_pm": "AM",
+                "unix_timestamp": 1623843420000,
+                "iso_timestamp": "2021-06-16T11:37:00.000Z",
+                "timestamp": "06/16/2021 11:37 am",
+                "time": 697,
+                "proper_unix_timestamp": 1623857820000,
+                "proper_iso_timestamp": "2021-06-16T15:37:00.000Z"
+            }
+        },
+        {
+            "id": "60e6ff974a4229001e27daba",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60e6fed9f7fd460020c10247/thumb_1/cloverhsmascotallblue.jpg\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60e6fed9f7fd460020c10247/original/cloverhsmascotallblue.jpg\" />",
+            "field_39_raw": {
+                "id": "60e6fed9f7fd460020c10247",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "cloverhsmascotallblue.jpg",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60e6fed9f7fd460020c10247/original/cloverhsmascotallblue.jpg",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60e6fed9f7fd460020c10247/original/cloverhsmascotallblue.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=17cb6b141fb128e051cb8496e157be583066bd726a29daf9eb358b79e792492f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22cloverhsmascotallblue.jpg%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60e6fed9f7fd460020c10247/thumb/cloverhsmascotallblue.jpg",
+                "size": 35021,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Clover High",
+            "field_1_raw": "Clover High",
+            "field_34": "1625 Hwy 55 East<br />Clover, SC 29710",
+            "field_34_raw": {
+                "street": "1625 Hwy 55 East",
+                "street2": null,
+                "city": "Clover",
+                "state": "SC",
+                "zip": "29710",
+                "country": null,
+                "longitude": -81.18211,
+                "latitude": 35.09699,
+                "full": "1625 Hwy 55 East Clover, SC 29710"
+            },
+            "field_35": "<a href=\"tel:8038108200\">(803) 810-8200</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "8108200",
+                "ext": null,
+                "full": "8038108200",
+                "country": null,
+                "formatted": "(803) 810-8200"
+            },
+            "field_40": "<a href=\"https://www.clover.k12.sc.us\">www.clover.k12.sc.us</a>",
+            "field_40_raw": {
+                "url": "www.clover.k12.sc.us",
+                "label": null
+            },
+            "field_41": "<a href=\"https://www.cloverathletics.org\">www.cloverathletics.org</a>",
+            "field_41_raw": {
+                "url": "www.cloverathletics.org",
+                "label": null
+            },
+            "field_44": "AAAAA",
+            "field_44_raw": "AAAAA",
+            "field_45": "3",
+            "field_45_raw": "3",
+            "field_37": "Blue Eagles",
+            "field_37_raw": "Blue Eagles",
+            "field_38": "Navy, White, Gray",
+            "field_38_raw": "Navy, White, Gray",
+            "field_25": "<span class=\"60e6fe152fd847001f8e150c\">Bailey Jackson</span>",
+            "field_25_raw": [
+                {
+                    "id": "60e6fe152fd847001f8e150c",
+                    "identifier": "Bailey Jackson"
+                }
+            ],
+            "field_47": "07/08/2021 09:37",
+            "field_47_raw": {
+                "date": "07/08/2021",
+                "date_formatted": "07/08/2021",
+                "hours": "09",
+                "minutes": "37",
+                "am_pm": "AM",
+                "unix_timestamp": 1625737020000,
+                "iso_timestamp": "2021-07-08T09:37:00.000Z",
+                "timestamp": "07/08/2021 09:37 am",
+                "time": 577,
+                "proper_unix_timestamp": 1625751420000,
+                "proper_iso_timestamp": "2021-07-08T13:37:00.000Z"
+            }
+        },
+        {
+            "id": "61054d1b83b326001e215ec6",
+            "field_39_raw": "",
+            "field_39": "",
+            "field_1": "Clover Middle",
+            "field_1_raw": "Clover Middle",
+            "field_34": "1233 Soaring Eagles Road<br />",
+            "field_34_raw": {
+                "street": "1233 Soaring Eagles Road",
+                "street2": null,
+                "city": null,
+                "state": null,
+                "zip": null,
+                "country": null,
+                "longitude": null,
+                "latitude": null,
+                "full": "1233 Soaring Eagles Road "
+            },
+            "field_35": "<a href=\"tel:8038108300\">(803) 810-8300</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "8108300",
+                "ext": null,
+                "full": "8038108300",
+                "country": null,
+                "formatted": "(803) 810-8300"
+            },
+            "field_40": "",
+            "field_40_raw": "",
+            "field_41": "",
+            "field_41_raw": "",
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Blue Eagles",
+            "field_37_raw": "Blue Eagles",
+            "field_38": "navy blue & gray",
+            "field_38_raw": "navy blue & gray",
+            "field_25": "<span class=\"61054a3152f3f8001e45013f\">Rodney Hall</span>",
+            "field_25_raw": [
+                {
+                    "id": "61054a3152f3f8001e45013f",
+                    "identifier": "Rodney Hall"
+                }
+            ],
+            "field_47": "07/31/2021 09:16",
+            "field_47_raw": {
+                "date": "07/31/2021",
+                "date_formatted": "07/31/2021",
+                "hours": "09",
+                "minutes": "16",
+                "am_pm": "AM",
+                "unix_timestamp": 1627722960000,
+                "iso_timestamp": "2021-07-31T09:16:00.000Z",
+                "timestamp": "07/31/2021 09:16 am",
+                "time": 556,
+                "proper_unix_timestamp": 1627737360000,
+                "proper_iso_timestamp": "2021-07-31T13:16:00.000Z"
+            }
+        },
+        {
+            "id": "667ab944df44e60027ae8e87",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/667ab914463ba80029c13b40/thumb_1/logo1.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/667ab914463ba80029c13b40/original/logo1.png\" />",
+            "field_39_raw": {
+                "id": "667ab914463ba80029c13b40",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "logo1.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/667ab914463ba80029c13b40/original/logo1.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/667ab914463ba80029c13b40/original/logo1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=843f0ea92a9f363e588ef11e576e89cdea36085367f5147e3ab6c8de9f0d8c49&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22logo1.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/667ab914463ba80029c13b40/thumb/logo1.png",
+                "size": 46387,
+                "field_key": "field_39",
+                "checksum": "asKiZE/y3HlY+sBzXUtmVFNImwuR3dt4VG9GtV5n5iA="
+            },
+            "field_1": "Clover School District (York 2)",
+            "field_1_raw": "Clover School District (York 2)",
+            "field_34": "1625 Hwy 55 East<br />Clover, SC 29710",
+            "field_34_raw": {
+                "street": "1625 Hwy 55 East",
+                "street2": null,
+                "city": "Clover",
+                "state": "SC",
+                "zip": "29710",
+                "country": null,
+                "longitude": -81.186375,
+                "latitude": 35.099123,
+                "full": "1625 Hwy 55 East Clover, SC 29710"
+            },
+            "field_35": "<a href=\"tel:8038108200\">(803) 810-8200</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "8108200",
+                "ext": null,
+                "full": "8038108200",
+                "country": null,
+                "formatted": "(803) 810-8200"
+            },
+            "field_40": "<a href=\"https://www.clover.k12.sc.us/o/chs\">https://www.clover.k12.sc.us/o/chs</a>",
+            "field_40_raw": {
+                "url": "https://www.clover.k12.sc.us/o/chs",
+                "label": null
+            },
+            "field_41": "<a href=\"https://www.cloverathletics.org\">www.cloverathletics.org</a>",
+            "field_41_raw": {
+                "url": "www.cloverathletics.org",
+                "label": null
+            },
+            "field_44": "AAAAA",
+            "field_44_raw": "AAAAA",
+            "field_45": "3",
+            "field_45_raw": "3",
+            "field_37": "Blue Eagles",
+            "field_37_raw": "Blue Eagles",
+            "field_38": "Navy, Gray, White",
+            "field_38_raw": "Navy, Gray, White",
+            "field_25": "<span class=\"60e6fe152fd847001f8e150c\">Bailey Jackson</span>",
+            "field_25_raw": [
+                {
+                    "id": "60e6fe152fd847001f8e150c",
+                    "identifier": "Bailey Jackson"
+                }
+            ],
+            "field_47": "06/25/2024 08:34",
+            "field_47_raw": {
+                "date": "06/25/2024",
+                "date_formatted": "06/25/2024",
+                "hours": "08",
+                "minutes": "34",
+                "am_pm": "AM",
+                "unix_timestamp": 1719304440000,
+                "iso_timestamp": "2024-06-25T08:34:00.000Z",
+                "timestamp": "06/25/2024 08:34 am",
+                "time": 514,
+                "proper_unix_timestamp": 1719318840000,
+                "proper_iso_timestamp": "2024-06-25T12:34:00.000Z"
+            }
+        },
+        {
+            "id": "60b8ce209fc220001ed7a66c",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b8cd49fd30bf001f37db5d/thumb_1/cougarhead.jpg\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b8cd49fd30bf001f37db5d/original/cougarhead.jpg\" />",
+            "field_39_raw": {
+                "id": "60b8cd49fd30bf001f37db5d",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "cougarhead.jpg",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b8cd49fd30bf001f37db5d/original/cougarhead.jpg",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b8cd49fd30bf001f37db5d/original/cougarhead.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=d96f84cc11710d4fa185cf82a3ba8ea12a18aa326db678a05491bc6d513550c5&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22cougarhead.jpg%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b8cd49fd30bf001f37db5d/thumb/cougarhead.jpg",
+                "size": 4403,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Colleton County High School",
+            "field_1_raw": "Colleton County High School",
+            "field_34": "150 Cougar Nation Drive<br />Walterboro, SC 29488",
+            "field_34_raw": {
+                "street": "150 Cougar Nation Drive",
+                "street2": null,
+                "city": "Walterboro",
+                "state": "SC",
+                "zip": "29488",
+                "country": null,
+                "longitude": -80.65401,
+                "latitude": 32.95119,
+                "full": "150 Cougar Nation Drive Walterboro, SC 29488"
+            },
+            "field_35": "<a href=\"tel:8437820031\">(843) 782-0031</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "7820031",
+                "ext": null,
+                "full": "8437820031",
+                "country": null,
+                "formatted": "(843) 782-0031"
+            },
+            "field_40": "<a href=\"https://cchs.colleton.k12.sc.us/\">https://cchs.colleton.k12.sc.us/</a>",
+            "field_40_raw": {
+                "url": "https://cchs.colleton.k12.sc.us/",
+                "label": null
+            },
+            "field_41": "<a href=\"https://colletoncountycougars.com\">colletoncountycougars.com</a>",
+            "field_41_raw": {
+                "url": "colletoncountycougars.com",
+                "label": null
+            },
+            "field_44": "AAAA",
+            "field_44_raw": "AAAA",
+            "field_45": "7",
+            "field_45_raw": "7",
+            "field_37": "Cougar",
+            "field_37_raw": "Cougar",
+            "field_38": "Blue & Silver",
+            "field_38_raw": "Blue & Silver",
+            "field_25": "<span class=\"60b8ccc65723a50021864136\">Holli Glover</span>",
+            "field_25_raw": [
+                {
+                    "id": "60b8ccc65723a50021864136",
+                    "identifier": "Holli Glover"
+                }
+            ],
+            "field_47": "06/03/2021 08:42",
+            "field_47_raw": {
+                "date": "06/03/2021",
+                "date_formatted": "06/03/2021",
+                "hours": "08",
+                "minutes": "42",
+                "am_pm": "AM",
+                "unix_timestamp": 1622709720000,
+                "iso_timestamp": "2021-06-03T08:42:00.000Z",
+                "timestamp": "06/03/2021 08:42 am",
+                "time": 522,
+                "proper_unix_timestamp": 1622724120000,
+                "proper_iso_timestamp": "2021-06-03T12:42:00.000Z"
+            }
+        },
+        {
+            "id": "62bbb15d013c13001f2e620f",
+            "field_39_raw": "",
+            "field_39": "",
+            "field_1": "Colleton County Middle",
+            "field_1_raw": "Colleton County Middle",
+            "field_34_raw": "",
+            "field_34": "",
+            "field_35": "<a href=\"tel:8437820040\">(843) 782-0040</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "7820040",
+                "ext": null,
+                "full": "8437820040",
+                "country": null,
+                "formatted": "(843) 782-0040"
+            },
+            "field_40": "<a href=\"https://www.ccms.colleton.k12.sc.us\">www.ccms.colleton.k12.sc.us</a>",
+            "field_40_raw": {
+                "url": "www.ccms.colleton.k12.sc.us",
+                "label": null
+            },
+            "field_41": "",
+            "field_41_raw": "",
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Cougar",
+            "field_37_raw": "Cougar",
+            "field_38": "Blue, sliver, and white",
+            "field_38_raw": "Blue, sliver, and white",
+            "field_25": "<span class=\"60b8ccc65723a50021864136\">Holli Glover</span>",
+            "field_25_raw": [
+                {
+                    "id": "60b8ccc65723a50021864136",
+                    "identifier": "Holli Glover"
+                }
+            ],
+            "field_47": "06/28/2022 21:56",
+            "field_47_raw": {
+                "date": "06/28/2022",
+                "date_formatted": "06/28/2022",
+                "hours": "09",
+                "minutes": "56",
+                "am_pm": "PM",
+                "unix_timestamp": 1656453360000,
+                "iso_timestamp": "2022-06-28T21:56:00.000Z",
+                "timestamp": "06/28/2022 09:56 pm",
+                "time": 1316,
+                "proper_unix_timestamp": 1656467760000,
+                "proper_iso_timestamp": "2022-06-29T01:56:00.000Z"
+            }
+        },
+        {
+            "id": "60b67c88acd80e001e8ad834",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b67c4c8a968f002043b55a/thumb_1/starlogo.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b67c4c8a968f002043b55a/original/starlogo.png\" />",
+            "field_39_raw": {
+                "id": "60b67c4c8a968f002043b55a",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "starlogo.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b67c4c8a968f002043b55a/original/starlogo.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b67c4c8a968f002043b55a/original/starlogo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=d3dbb7a361317d7df4c2c2f7f37a0c21f57d6a843f717ef0423f78c94c26cc38&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22starlogo.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b67c4c8a968f002043b55a/thumb/starlogo.png",
+                "size": 29594,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Columbia High",
+            "field_1_raw": "Columbia High",
+            "field_34": "1701 Westchester Drive<br />Columbia, SC 29210",
+            "field_34_raw": {
+                "street": "1701 Westchester Drive",
+                "street2": null,
+                "city": "Columbia",
+                "state": "SC",
+                "zip": "29210",
+                "country": null,
+                "longitude": -81.094641,
+                "latitude": 34.047401,
+                "full": "1701 Westchester Drive Columbia, SC 29210"
+            },
+            "field_35": "<a href=\"tel:8037318950\">(803) 731-8950</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "7318950",
+                "ext": null,
+                "full": "8037318950",
+                "country": null,
+                "formatted": "(803) 731-8950"
+            },
+            "field_40": "<a href=\"https://www.richlandone.org/Domain/46\">https://www.richlandone.org/Domain/46</a>",
+            "field_40_raw": {
+                "url": "https://www.richlandone.org/Domain/46",
+                "label": null
+            },
+            "field_41": "<a href=\"https://www.columbiacaps.com\">www.columbiacaps.com</a>",
+            "field_41_raw": {
+                "url": "www.columbiacaps.com",
+                "label": null
+            },
+            "field_44": "AA",
+            "field_44_raw": "AA",
+            "field_45": "3",
+            "field_45_raw": "3",
+            "field_37": "Capitals",
+            "field_37_raw": "Capitals",
+            "field_38": "Maroon and Vegas Gold",
+            "field_38_raw": "Maroon and Vegas Gold",
+            "field_25": "<span class=\"64c2b1b42af8cc002758266d\">Joe Lovier</span>",
+            "field_25_raw": [
+                {
+                    "id": "64c2b1b42af8cc002758266d",
+                    "identifier": "Joe Lovier"
+                }
+            ],
+            "field_47": "06/01/2021 14:29",
+            "field_47_raw": {
+                "date": "06/01/2021",
+                "date_formatted": "06/01/2021",
+                "hours": "02",
+                "minutes": "29",
+                "am_pm": "PM",
+                "unix_timestamp": 1622557740000,
+                "iso_timestamp": "2021-06-01T14:29:00.000Z",
+                "timestamp": "06/01/2021 02:29 pm",
+                "time": 869,
+                "proper_unix_timestamp": 1622572140000,
+                "proper_iso_timestamp": "2021-06-01T18:29:00.000Z"
+            }
+        },
+        {
+            "id": "60b69af18d7ead001ecfd786",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b69a9cf15d2000208b891c/thumb_1/blockctiger.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b69a9cf15d2000208b891c/original/blockctiger.png\" />",
+            "field_39_raw": {
+                "id": "60b69a9cf15d2000208b891c",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "blockctiger.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b69a9cf15d2000208b891c/original/blockctiger.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b69a9cf15d2000208b891c/original/blockctiger.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=76cdb919b5c3c8b8c08ec9397eb93e47792a7a72cfb908142982fdf742810de3&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22blockctiger.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b69a9cf15d2000208b891c/thumb/blockctiger.png",
+                "size": 44032,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Conway High",
+            "field_1_raw": "Conway High",
+            "field_34": "2301 Church Street<br />Conway, SC 29526",
+            "field_34_raw": {
+                "street": "2301 Church Street",
+                "street2": null,
+                "city": "Conway",
+                "state": "SC",
+                "zip": "29526",
+                "country": null,
+                "longitude": -79.07641,
+                "latitude": 33.85126,
+                "full": "2301 Church Street Conway, SC 29526"
+            },
+            "field_35": "<a href=\"tel:8434880662\">(843) 488-0662</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "4880662",
+                "ext": null,
+                "full": "8434880662",
+                "country": null,
+                "formatted": "(843) 488-0662"
+            },
+            "field_40": "<a href=\"https://www.horrycountyschools.net/Conway_High_School\">https://www.horrycountyschools.net/Conway_High_School</a>",
+            "field_40_raw": {
+                "url": "https://www.horrycountyschools.net/Conway_High_School",
+                "label": null
+            },
+            "field_41": "<a href=\"https://www.conwaytigerathletics.com\">www.conwaytigerathletics.com</a>",
+            "field_41_raw": {
+                "url": "www.conwaytigerathletics.com",
+                "label": null
+            },
+            "field_44": "AAAAA",
+            "field_44_raw": "AAAAA",
+            "field_45": "6",
+            "field_45_raw": "6",
+            "field_37": "Tigers",
+            "field_37_raw": "Tigers",
+            "field_38": "Forest Green and Athletic Gold",
+            "field_38_raw": "Forest Green and Athletic Gold",
+            "field_25": "<span class=\"60f98c5a7b7a5f001e9d48d0\">Anthony Carroll</span>",
+            "field_25_raw": [
+                {
+                    "id": "60f98c5a7b7a5f001e9d48d0",
+                    "identifier": "Anthony Carroll"
+                }
+            ],
+            "field_47": "06/01/2021 16:39",
+            "field_47_raw": {
+                "date": "06/01/2021",
+                "date_formatted": "06/01/2021",
+                "hours": "04",
+                "minutes": "39",
+                "am_pm": "PM",
+                "unix_timestamp": 1622565540000,
+                "iso_timestamp": "2021-06-01T16:39:00.000Z",
+                "timestamp": "06/01/2021 04:39 pm",
+                "time": 999,
+                "proper_unix_timestamp": 1622579940000,
+                "proper_iso_timestamp": "2021-06-01T20:39:00.000Z"
+            }
+        },
+        {
+            "id": "60b69c123018b4001ea4ab3d",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b69bd743f9bc001e229bc3/thumb_1/cms.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b69bd743f9bc001e229bc3/original/cms.png\" />",
+            "field_39_raw": {
+                "id": "60b69bd743f9bc001e229bc3",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "cms.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b69bd743f9bc001e229bc3/original/cms.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b69bd743f9bc001e229bc3/original/cms.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=3704d3941d82e2c5bcccb2bfe2ad945c600052f84080b20a51981797d1ba21ff&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22cms.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b69bd743f9bc001e229bc3/thumb/cms.png",
+                "size": 45568,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Conway Middle",
+            "field_1_raw": "Conway Middle",
+            "field_34": "1104 Elm Street<br />Conway, SC 29526",
+            "field_34_raw": {
+                "street": "1104 Elm Street",
+                "street2": null,
+                "city": "Conway",
+                "state": "SC",
+                "zip": "29526",
+                "country": null,
+                "longitude": -79.05429,
+                "latitude": 33.84385,
+                "full": "1104 Elm Street Conway, SC 29526"
+            },
+            "field_35": "<a href=\"tel:8434886040\">(843) 488-6040</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "4886040",
+                "ext": null,
+                "full": "8434886040",
+                "country": null,
+                "formatted": "(843) 488-6040"
+            },
+            "field_40": "<a href=\"https://www.horrycountyschools.net/Conway_Middle_School\">https://www.horrycountyschools.net/Conway_Middle_School</a>",
+            "field_40_raw": {
+                "url": "https://www.horrycountyschools.net/Conway_Middle_School",
+                "label": null
+            },
+            "field_41": "<a href=\"https://www.conwaytigerathletics.com\">www.conwaytigerathletics.com</a>",
+            "field_41_raw": {
+                "url": "www.conwaytigerathletics.com",
+                "label": null
+            },
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Tigers",
+            "field_37_raw": "Tigers",
+            "field_38": "Forest Green and Athletic Gold",
+            "field_38_raw": "Forest Green and Athletic Gold",
+            "field_25": "<span class=\"60f98c5a7b7a5f001e9d48d0\">Anthony Carroll</span>",
+            "field_25_raw": [
+                {
+                    "id": "60f98c5a7b7a5f001e9d48d0",
+                    "identifier": "Anthony Carroll"
+                }
+            ],
+            "field_47": "06/01/2021 16:44",
+            "field_47_raw": {
+                "date": "06/01/2021",
+                "date_formatted": "06/01/2021",
+                "hours": "04",
+                "minutes": "44",
+                "am_pm": "PM",
+                "unix_timestamp": 1622565840000,
+                "iso_timestamp": "2021-06-01T16:44:00.000Z",
+                "timestamp": "06/01/2021 04:44 pm",
+                "time": 1004,
+                "proper_unix_timestamp": 1622580240000,
+                "proper_iso_timestamp": "2021-06-01T20:44:00.000Z"
+            }
+        },
+        {
+            "id": "64edebaf93b15e00271a7d99",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/64edeade518e46001dfd7c7d/thumb_1/cavlogo_final_31.jpg\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/64edeade518e46001dfd7c7d/original/cavlogo_final_31.jpg\" />",
+            "field_39_raw": {
+                "id": "64edeade518e46001dfd7c7d",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "cavlogo_final_31.jpg",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/64edeade518e46001dfd7c7d/original/cavlogo_final_31.jpg",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/64edeade518e46001dfd7c7d/original/cavlogo_final_31.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=1ac5308351bdbf5598d867ad7dbfb92cf011d6ec47485a318a513ed19a4447dd&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22cavlogo_final_31.jpg%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/64edeade518e46001dfd7c7d/thumb/cavlogo_final_31.jpg",
+                "size": 618496,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Crayton Middle",
+            "field_1_raw": "Crayton Middle",
+            "field_34": "5000 Clemson Ave<br />Columbia, SC 29206",
+            "field_34_raw": {
+                "street": "5000 Clemson Ave",
+                "street2": null,
+                "city": "Columbia",
+                "state": "SC",
+                "zip": "29206",
+                "country": null,
+                "longitude": -80.97376,
+                "latitude": 34.01678,
+                "full": "5000 Clemson Ave Columbia, SC 29206"
+            },
+            "field_35": "<a href=\"tel:8037387224\">(803) 738-7224</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "7387224",
+                "ext": null,
+                "full": "8037387224",
+                "country": null,
+                "formatted": "(803) 738-7224"
+            },
+            "field_40": "<a href=\"https://richlandone.org//site/Default.aspx?PageID=67\">richlandone.org//site/Default.aspx?PageID=67</a>",
+            "field_40_raw": {
+                "url": "richlandone.org//site/Default.aspx?PageID=67",
+                "label": null
+            },
+            "field_41": "<a href=\"https://richlandone.org//site/Default.aspx?PageID=67\">richlandone.org//site/Default.aspx?PageID=67</a>",
+            "field_41_raw": {
+                "url": "richlandone.org//site/Default.aspx?PageID=67",
+                "label": null
+            },
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Cavaliers",
+            "field_37_raw": "Cavaliers",
+            "field_38": "Blue and Red",
+            "field_38_raw": "Blue and Red",
+            "field_25": "<span class=\"64edea636611d8002955fc3c\">Matthew Speedy</span>",
+            "field_25_raw": [
+                {
+                    "id": "64edea636611d8002955fc3c",
+                    "identifier": "Matthew Speedy"
+                }
+            ],
+            "field_47": "08/29/2023 08:59",
+            "field_47_raw": {
+                "date": "08/29/2023",
+                "date_formatted": "08/29/2023",
+                "hours": "08",
+                "minutes": "59",
+                "am_pm": "AM",
+                "unix_timestamp": 1693299540000,
+                "iso_timestamp": "2023-08-29T08:59:00.000Z",
+                "timestamp": "08/29/2023 08:59 am",
+                "time": 539,
+                "proper_unix_timestamp": 1693313940000,
+                "proper_iso_timestamp": "2023-08-29T12:59:00.000Z"
+            }
+        },
+        {
+            "id": "62d0274316d1b5001e54b86e",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62d02935e6543c001e875461/thumb_1/outlook4quf5zz5.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62d02935e6543c001e875461/original/outlook4quf5zz5.png\" />",
+            "field_39_raw": {
+                "id": "62d02935e6543c001e875461",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "outlook4quf5zz5.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62d02935e6543c001e875461/original/outlook4quf5zz5.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62d02935e6543c001e875461/original/outlook4quf5zz5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=0b67ed1d6013be1f8e87a606b6d3828a02cb5b967aed9277cd4ee31e4bb487cb&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22outlook4quf5zz5.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62d02935e6543c001e875461/thumb/outlook4quf5zz5.png",
+                "size": 43725,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Creek Bridge STEM Academy",
+            "field_1_raw": "Creek Bridge STEM Academy",
+            "field_34": "6641 S Hwy 41<br />Marion, SC 29571",
+            "field_34_raw": {
+                "street": "6641 S Hwy 41",
+                "street2": null,
+                "city": "Marion",
+                "state": "SC",
+                "zip": "29571",
+                "country": null,
+                "longitude": -79.33862,
+                "latitude": 34.0325,
+                "full": "6641 S Hwy 41 Marion, SC 29571"
+            },
+            "field_35": "<a href=\"tel:8433623500\">(843) 362-3500</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "3623500",
+                "ext": null,
+                "full": "8433623500",
+                "country": null,
+                "formatted": "(843) 362-3500"
+            },
+            "field_40": "<a href=\"https://www.marion.k12.sc.us/Domain/12\">www.marion.k12.sc.us/Domain/12</a>",
+            "field_40_raw": {
+                "url": "www.marion.k12.sc.us/Domain/12",
+                "label": null
+            },
+            "field_41": "<a href=\"https://www.marion.k12.sc.us/Domain/12\">www.marion.k12.sc.us/Domain/12</a>",
+            "field_41_raw": {
+                "url": "www.marion.k12.sc.us/Domain/12",
+                "label": null
+            },
+            "field_44": "A",
+            "field_44_raw": "A",
+            "field_45": "7",
+            "field_45_raw": "7",
+            "field_37": "Warrior",
+            "field_37_raw": "Warrior",
+            "field_38": "Green Black White",
+            "field_38_raw": "Green Black White",
+            "field_25": "<span class=\"62d024b79730d6001e4646ff\">Kelvin Edwards</span>",
+            "field_25_raw": [
+                {
+                    "id": "62d024b79730d6001e4646ff",
+                    "identifier": "Kelvin Edwards"
+                }
+            ],
+            "field_47": "07/14/2022 10:25",
+            "field_47_raw": {
+                "date": "07/14/2022",
+                "date_formatted": "07/14/2022",
+                "hours": "10",
+                "minutes": "25",
+                "am_pm": "AM",
+                "unix_timestamp": 1657794300000,
+                "iso_timestamp": "2022-07-14T10:25:00.000Z",
+                "timestamp": "07/14/2022 10:25 am",
+                "time": 625,
+                "proper_unix_timestamp": 1657808700000,
+                "proper_iso_timestamp": "2022-07-14T14:25:00.000Z"
+            }
+        },
+        {
+            "id": "6425b61b35391200283ca635",
+            "field_39_raw": "",
+            "field_39": "",
+            "field_1": "Creek Bridge STEM Academy",
+            "field_1_raw": "Creek Bridge STEM Academy",
+            "field_34": "6641 Highway 41<br />Marion, SC 29571",
+            "field_34_raw": {
+                "street": "6641 Highway 41",
+                "street2": null,
+                "city": "Marion",
+                "state": "SC",
+                "zip": "29571",
+                "country": null,
+                "longitude": -79.33862,
+                "latitude": 34.0325,
+                "full": "6641 Highway 41    Marion , SC 29571"
+            },
+            "field_35": "<a href=\"tel:8433623500\">(843) 362-3500</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "3623500",
+                "ext": null,
+                "full": "8433623500",
+                "country": null,
+                "formatted": "(843) 362-3500"
+            },
+            "field_40": "",
+            "field_40_raw": "",
+            "field_41": "",
+            "field_41_raw": "",
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Warriors",
+            "field_37_raw": "Warriors",
+            "field_38": "Kelly Green and Black",
+            "field_38_raw": "Kelly Green and Black",
+            "field_25": "<span class=\"617969f10c98a7001f5e0971\">myron gerald</span>",
+            "field_25_raw": [
+                {
+                    "id": "617969f10c98a7001f5e0971",
+                    "identifier": "myron gerald"
+                }
+            ],
+            "field_47": "03/30/2023 12:17",
+            "field_47_raw": {
+                "date": "03/30/2023",
+                "date_formatted": "03/30/2023",
+                "hours": "12",
+                "minutes": "17",
+                "am_pm": "PM",
+                "unix_timestamp": 1680178620000,
+                "iso_timestamp": "2023-03-30T12:17:00.000Z",
+                "timestamp": "03/30/2023 12:17 pm",
+                "time": 737,
+                "proper_unix_timestamp": 1680193020000,
+                "proper_iso_timestamp": "2023-03-30T16:17:00.000Z"
+            }
+        },
+        {
+            "id": "60f992f577152f001ed76676",
+            "field_39_raw": "",
+            "field_39": "",
+            "field_1": "Crescent High",
+            "field_1_raw": "Crescent High",
+            "field_34": "9104 Hwy. 81 South<br />29655, SC ",
+            "field_34_raw": {
+                "street": "9104 Hwy. 81 South",
+                "street2": null,
+                "city": "29655",
+                "state": "SC",
+                "zip": null,
+                "country": null,
+                "longitude": -82.68974,
+                "latitude": 34.33773,
+                "full": "9104 Hwy. 81 South 29655, SC "
+            },
+            "field_35": "<a href=\"tel:8643526175\">(864) 352-6175</a>",
+            "field_35_raw": {
+                "area": "864",
+                "number": "3526175",
+                "ext": null,
+                "full": "8643526175",
+                "country": null,
+                "formatted": "(864) 352-6175"
+            },
+            "field_40": "<a href=\"https://www.acsd3.org/o/crescent-high-school\">https://www.acsd3.org/o/crescent-high-school</a>",
+            "field_40_raw": {
+                "url": "https://www.acsd3.org/o/crescent-high-school",
+                "label": null
+            },
+            "field_41": "<a href=\"https://www.acsd3.org/o/tiger-athletics\">https://www.acsd3.org/o/tiger-athletics</a>",
+            "field_41_raw": {
+                "url": "https://www.acsd3.org/o/tiger-athletics",
+                "label": null
+            },
+            "field_44": "AAA",
+            "field_44_raw": "AAA",
+            "field_45": "1",
+            "field_45_raw": "1",
+            "field_37": "Tigers",
+            "field_37_raw": "Tigers",
+            "field_38": "Black and Gold",
+            "field_38_raw": "Black and Gold",
+            "field_25": "<span class=\"60f98c687b7a5f001e9d48de\">Jeff Craft</span>",
+            "field_25_raw": [
+                {
+                    "id": "60f98c687b7a5f001e9d48de",
+                    "identifier": "Jeff Craft"
+                }
+            ],
+            "field_47": "07/22/2021 11:47",
+            "field_47_raw": {
+                "date": "07/22/2021",
+                "date_formatted": "07/22/2021",
+                "hours": "11",
+                "minutes": "47",
+                "am_pm": "AM",
+                "unix_timestamp": 1626954420000,
+                "iso_timestamp": "2021-07-22T11:47:00.000Z",
+                "timestamp": "07/22/2021 11:47 am",
+                "time": 707,
+                "proper_unix_timestamp": 1626968820000,
+                "proper_iso_timestamp": "2021-07-22T15:47:00.000Z"
+            }
+        },
+        {
+            "id": "60b68d12bb2e1c001e63d029",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b68c5a43f9bc001e229441/thumb_1/2015knightslogo_blackbackground.jpg\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b68c5a43f9bc001e229441/original/2015knightslogo_blackbackground.jpg\" />",
+            "field_39_raw": {
+                "id": "60b68c5a43f9bc001e229441",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "2015knightslogo_blackbackground.jpg",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b68c5a43f9bc001e229441/original/2015knightslogo_blackbackground.jpg",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b68c5a43f9bc001e229441/original/2015knightslogo_blackbackground.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=eb21965c2bc4abb8dc7276d5ce6fe24d19a2379262ae4155b8b544071a2acbfa&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%222015knightslogo_blackbackground.jpg%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b68c5a43f9bc001e229441/thumb/2015knightslogo_blackbackground.jpg",
+                "size": 37786,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Crestwood High",
+            "field_1_raw": "Crestwood High",
+            "field_34": "2000 Oswego Road<br />Sumter, SC 29153",
+            "field_34_raw": {
+                "street": "2000 Oswego Road",
+                "street2": null,
+                "city": "Sumter",
+                "state": "SC",
+                "zip": "29153",
+                "country": null,
+                "longitude": -80.3247,
+                "latitude": 33.92972,
+                "full": "2000 Oswego Road  Sumter , SC 29153"
+            },
+            "field_35": "<a href=\"tel:8034696200\">(803) 469-6200</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "4696200",
+                "ext": null,
+                "full": "8034696200",
+                "country": null,
+                "formatted": "(803) 469-6200"
+            },
+            "field_40": "<a href=\"http://chs.sumterschools..net\">http://chs.sumterschools..net</a>",
+            "field_40_raw": {
+                "url": "http://chs.sumterschools..net",
+                "label": null
+            },
+            "field_41": "<a href=\"https://crestwood.athletics.com\">https://crestwood.athletics.com</a>",
+            "field_41_raw": {
+                "url": "https://crestwood.athletics.com",
+                "label": null
+            },
+            "field_44": "AAA",
+            "field_44_raw": "AAA",
+            "field_45": "6",
+            "field_45_raw": "6",
+            "field_37": "Knight ",
+            "field_37_raw": "Knight ",
+            "field_38": "Black/Silver/Purple",
+            "field_38_raw": "Black/Silver/Purple",
+            "field_25": "<span class=\"62ffa186f1c87a00225d8140\">Terrence Scriven</span>",
+            "field_25_raw": [
+                {
+                    "id": "62ffa186f1c87a00225d8140",
+                    "identifier": "Terrence Scriven"
+                }
+            ],
+            "field_47": "06/01/2021 15:40",
+            "field_47_raw": {
+                "date": "06/01/2021",
+                "date_formatted": "06/01/2021",
+                "hours": "03",
+                "minutes": "40",
+                "am_pm": "PM",
+                "unix_timestamp": 1622562000000,
+                "iso_timestamp": "2021-06-01T15:40:00.000Z",
+                "timestamp": "06/01/2021 03:40 pm",
+                "time": 940,
+                "proper_unix_timestamp": 1622576400000,
+                "proper_iso_timestamp": "2021-06-01T19:40:00.000Z"
+            }
+        },
+        {
+            "id": "62cef2673ff1850021ce0e9a",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62cef25f37b693001e05ebca/thumb_1/chslogorev111721.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62cef25f37b693001e05ebca/original/chslogorev111721.png\" />",
+            "field_39_raw": {
+                "id": "62cef25f37b693001e05ebca",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "chslogorev111721.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62cef25f37b693001e05ebca/original/chslogorev111721.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62cef25f37b693001e05ebca/original/chslogorev111721.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=7af030284569d228e3053fdd90daf084cd7881b2f1be1effa547570e812a9282&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22chslogorev111721.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62cef25f37b693001e05ebca/thumb/chslogorev111721.png",
+                "size": 24166,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Cross High",
+            "field_1_raw": "Cross High",
+            "field_34": "1293 Old Highway 6<br />Cross, SC 29436",
+            "field_34_raw": {
+                "street": "1293 Old Highway 6",
+                "street2": null,
+                "city": "Cross",
+                "state": "SC",
+                "zip": "29436",
+                "country": null,
+                "longitude": -80.16464,
+                "latitude": 33.35092,
+                "full": "1293 Old Highway 6 Cross, SC 29436"
+            },
+            "field_35": "<a href=\"tel:8438998900\">(843) 899-8900</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "8998900",
+                "ext": null,
+                "full": "8438998900",
+                "country": null,
+                "formatted": "(843) 899-8900"
+            },
+            "field_40": "<a href=\"https://www.bcsdschools.net/Domain/333\">https://www.bcsdschools.net/Domain/333</a>",
+            "field_40_raw": {
+                "url": "https://www.bcsdschools.net/Domain/333",
+                "label": null
+            },
+            "field_41": "<a href=\"https://www.bcsdschools.net/domain/6364\">https://www.bcsdschools.net/domain/6364</a>",
+            "field_41_raw": {
+                "url": "https://www.bcsdschools.net/domain/6364",
+                "label": null
+            },
+            "field_44": "A",
+            "field_44_raw": "A",
+            "field_45": "8",
+            "field_45_raw": "8",
+            "field_37": "Trojans",
+            "field_37_raw": "Trojans",
+            "field_38": "Blue and White",
+            "field_38_raw": "Blue and White",
+            "field_25": "<span class=\"62cee244c2e503001e381c70\">Matthew Bradberry</span>",
+            "field_25_raw": [
+                {
+                    "id": "62cee244c2e503001e381c70",
+                    "identifier": "Matthew Bradberry"
+                }
+            ],
+            "field_47": "07/13/2022 12:27",
+            "field_47_raw": {
+                "date": "07/13/2022",
+                "date_formatted": "07/13/2022",
+                "hours": "12",
+                "minutes": "27",
+                "am_pm": "PM",
+                "unix_timestamp": 1657715220000,
+                "iso_timestamp": "2022-07-13T12:27:00.000Z",
+                "timestamp": "07/13/2022 12:27 pm",
+                "time": 747,
+                "proper_unix_timestamp": 1657729620000,
+                "proper_iso_timestamp": "2022-07-13T16:27:00.000Z"
+            }
+        },
+        {
+            "id": "60fc05610d2d79001e532550",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60fc0501e120aa001ed7cc31/thumb_1/dacusvillewaveguywhite.jpg\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60fc0501e120aa001ed7cc31/original/dacusvillewaveguywhite.jpg\" />",
+            "field_39_raw": {
+                "id": "60fc0501e120aa001ed7cc31",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "dacusvillewaveguywhite.jpg",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60fc0501e120aa001ed7cc31/original/dacusvillewaveguywhite.jpg",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60fc0501e120aa001ed7cc31/original/dacusvillewaveguywhite.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=242ec043f062fddbde49176ed824ccec580db2299191e9a2cde1eada36bfff2f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22dacusvillewaveguywhite.jpg%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60fc0501e120aa001ed7cc31/thumb/dacusvillewaveguywhite.jpg",
+                "size": 8192,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Dacusville Middle",
+            "field_1_raw": "Dacusville Middle",
+            "field_34": "899 Thomas Mill Road<br />Easley, SC 29642",
+            "field_34_raw": {
+                "street": "899 Thomas Mill Road",
+                "street2": null,
+                "city": "Easley",
+                "state": "SC",
+                "zip": "29642",
+                "country": null,
+                "longitude": -82.54305,
+                "latitude": 34.91313,
+                "full": "899 Thomas Mill Road Easley, SC 29642"
+            },
+            "field_35": "<a href=\"tel:8643973500\">(864) 397-3500</a>",
+            "field_35_raw": {
+                "area": "864",
+                "number": "3973500",
+                "ext": null,
+                "full": "8643973500",
+                "country": null,
+                "formatted": "(864) 397-3500"
+            },
+            "field_40": "<a href=\"https://dms.pickens.k12.sc.us/\">https://dms.pickens.k12.sc.us/</a>",
+            "field_40_raw": {
+                "url": "https://dms.pickens.k12.sc.us/",
+                "label": null
+            },
+            "field_41": "<a href=\"https://dms.pickens.k12.sc.us/\">https://dms.pickens.k12.sc.us/</a>",
+            "field_41_raw": {
+                "url": "https://dms.pickens.k12.sc.us/",
+                "label": null
+            },
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Gold Wave",
+            "field_37_raw": "Gold Wave",
+            "field_38": "Purple and Gold",
+            "field_38_raw": "Purple and Gold",
+            "field_25": "<span class=\"62c759f347610d001faefe06\">Brad Evatt</span>",
+            "field_25_raw": [
+                {
+                    "id": "62c759f347610d001faefe06",
+                    "identifier": "Brad Evatt"
+                }
+            ],
+            "field_47": "07/24/2021 08:19",
+            "field_47_raw": {
+                "date": "07/24/2021",
+                "date_formatted": "07/24/2021",
+                "hours": "08",
+                "minutes": "19",
+                "am_pm": "AM",
+                "unix_timestamp": 1627114740000,
+                "iso_timestamp": "2021-07-24T08:19:00.000Z",
+                "timestamp": "07/24/2021 08:19 am",
+                "time": 499,
+                "proper_unix_timestamp": 1627129140000,
+                "proper_iso_timestamp": "2021-07-24T12:19:00.000Z"
+            }
+        },
+        {
+            "id": "630799d10f8f170021b27f94",
+            "field_39_raw": "",
+            "field_39": "",
+            "field_1": "Darlington County School District",
+            "field_1_raw": "Darlington County School District",
+            "field_34": "400 East Cartersville Hwy.<br />Lamar, SC 29069",
+            "field_34_raw": {
+                "street": "400 East Cartersville Hwy.",
+                "street2": null,
+                "city": "Lamar",
+                "state": "SC",
+                "zip": "29069",
+                "country": null,
+                "longitude": -80.06027,
+                "latitude": 34.16207,
+                "full": "400 East Cartersville Hwy. Lamar, SC 29069"
+            },
+            "field_35": "<a href=\"tel:8433267625\">(843) 326-7625</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "3267625",
+                "ext": null,
+                "full": "8433267625",
+                "country": null,
+                "formatted": "(843) 326-7625"
+            },
+            "field_40": "<a href=\"https://spm.dcsdschools.org/\">https://spm.dcsdschools.org/</a>",
+            "field_40_raw": {
+                "url": "https://spm.dcsdschools.org/",
+                "label": null
+            },
+            "field_41": "",
+            "field_41_raw": "",
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Tiger",
+            "field_37_raw": "Tiger",
+            "field_38": "Blue and Gold",
+            "field_38_raw": "Blue and Gold",
+            "field_25": "<span class=\"630797e10f8f170021b27a21\">CHRISSY JONES</span>",
+            "field_25_raw": [
+                {
+                    "id": "630797e10f8f170021b27a21",
+                    "identifier": "CHRISSY JONES"
+                }
+            ],
+            "field_47": "08/25/2022 11:48",
+            "field_47_raw": {
+                "date": "08/25/2022",
+                "date_formatted": "08/25/2022",
+                "hours": "11",
+                "minutes": "48",
+                "am_pm": "AM",
+                "unix_timestamp": 1661428080000,
+                "iso_timestamp": "2022-08-25T11:48:00.000Z",
+                "timestamp": "08/25/2022 11:48 am",
+                "time": 708,
+                "proper_unix_timestamp": 1661442480000,
+                "proper_iso_timestamp": "2022-08-25T15:48:00.000Z"
+            }
+        },
+        {
+            "id": "60b67bbb3b58540020d16e30",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/63eba685f6e000002a19e516/thumb_1/clawdnew.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/63eba685f6e000002a19e516/original/clawdnew.png\" />",
+            "field_39_raw": {
+                "id": "63eba685f6e000002a19e516",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "clawdnew.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/63eba685f6e000002a19e516/original/clawdnew.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/63eba685f6e000002a19e516/original/clawdnew.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=37a74c9593e715956e62971adaf424bc748f0eea67f181f7184a45dd65f0b1ef&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22clawdnew.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/63eba685f6e000002a19e516/thumb/clawdnew.png",
+                "size": 35635,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Darlington High",
+            "field_1_raw": "Darlington High",
+            "field_34": "525 SPRING STREET<br />DARLINGTON, SC 29532",
+            "field_34_raw": {
+                "street": "525 SPRING STREET",
+                "street2": null,
+                "city": "DARLINGTON",
+                "state": "SC",
+                "zip": "29532",
+                "country": null,
+                "longitude": -79.87742,
+                "latitude": 34.31886,
+                "full": "525 SPRING STREET DARLINGTON, SC 29532"
+            },
+            "field_35": "<a href=\"tel:8433982730\">(843) 398-2730</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "3982730",
+                "ext": null,
+                "full": "8433982730",
+                "country": null,
+                "formatted": "(843) 398-2730"
+            },
+            "field_40": "<a href=\"https://dhs.dcsdschools.org\">dhs.dcsdschools.org</a>",
+            "field_40_raw": {
+                "url": "dhs.dcsdschools.org",
+                "label": null
+            },
+            "field_41": "<a href=\"https://darlingtonfalcons.com\">darlingtonfalcons.com</a>",
+            "field_41_raw": {
+                "url": "darlingtonfalcons.com",
+                "label": null
+            },
+            "field_44": "AAAA",
+            "field_44_raw": "AAAA",
+            "field_45": "5",
+            "field_45_raw": "5",
+            "field_37": "FALCONS",
+            "field_37_raw": "FALCONS",
+            "field_38": "PURPLE /BLACK /GRAY",
+            "field_38_raw": "PURPLE /BLACK /GRAY",
+            "field_25": "<span class=\"60b67824d77d42001e4888c4\">Jamie Norris</span>",
+            "field_25_raw": [
+                {
+                    "id": "60b67824d77d42001e4888c4",
+                    "identifier": "Jamie Norris"
+                }
+            ],
+            "field_47": "06/01/2021 14:26",
+            "field_47_raw": {
+                "date": "06/01/2021",
+                "date_formatted": "06/01/2021",
+                "hours": "02",
+                "minutes": "26",
+                "am_pm": "PM",
+                "unix_timestamp": 1622557560000,
+                "iso_timestamp": "2021-06-01T14:26:00.000Z",
+                "timestamp": "06/01/2021 02:26 pm",
+                "time": 866,
+                "proper_unix_timestamp": 1622571960000,
+                "proper_iso_timestamp": "2021-06-01T18:26:00.000Z"
+            }
+        },
+        {
+            "id": "611af19f1d4be50020e990da",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611af159730362001ea300d1/thumb_1/dlogo.jpg\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611af159730362001ea300d1/original/dlogo.jpg\" />",
+            "field_39_raw": {
+                "id": "611af159730362001ea300d1",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "dlogo.jpg",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611af159730362001ea300d1/original/dlogo.jpg",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611af159730362001ea300d1/original/dlogo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=caaba57944b750b5ae224435ec5fcadfd73c5b175d60b9de0d8af2be10a50c7f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22dlogo.jpg%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611af159730362001ea300d1/thumb/dlogo.jpg",
+                "size": 6554,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Darlington Middle",
+            "field_1_raw": "Darlington Middle",
+            "field_34_raw": "",
+            "field_34": "",
+            "field_35": "<a href=\"tel:8433985088\">(843) 398-5088</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "3985088",
+                "ext": null,
+                "full": "8433985088",
+                "country": null,
+                "formatted": "(843) 398-5088"
+            },
+            "field_40": "<a href=\"https://dms.dcsdschools.org\">dms.dcsdschools.org</a>",
+            "field_40_raw": {
+                "url": "dms.dcsdschools.org",
+                "label": null
+            },
+            "field_41": "",
+            "field_41_raw": "",
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Falcon",
+            "field_37_raw": "Falcon",
+            "field_38": "Purple and Silver",
+            "field_38_raw": "Purple and Silver",
+            "field_25": "<span class=\"611af0976dbc53001f99dfa7\">Eddie Shuler</span>",
+            "field_25_raw": [
+                {
+                    "id": "611af0976dbc53001f99dfa7",
+                    "identifier": "Eddie Shuler"
+                }
+            ],
+            "field_47": "08/16/2021 19:15",
+            "field_47_raw": {
+                "date": "08/16/2021",
+                "date_formatted": "08/16/2021",
+                "hours": "07",
+                "minutes": "15",
+                "am_pm": "PM",
+                "unix_timestamp": 1629141300000,
+                "iso_timestamp": "2021-08-16T19:15:00.000Z",
+                "timestamp": "08/16/2021 07:15 pm",
+                "time": 1155,
+                "proper_unix_timestamp": 1629155700000,
+                "proper_iso_timestamp": "2021-08-16T23:15:00.000Z"
+            }
+        },
+        {
+            "id": "61019ed5491361001e484e75",
+            "field_39_raw": "",
+            "field_39": "",
+            "field_1": "Dawkins Middle",
+            "field_1_raw": "Dawkins Middle",
+            "field_34": "300 East Blackstock Road<br />Moore, South Carolina 29369",
+            "field_34_raw": {
+                "street": "300 East Blackstock Road",
+                "street2": null,
+                "city": "Moore",
+                "state": "South Carolina",
+                "zip": "29369",
+                "country": null,
+                "longitude": -81.97335,
+                "latitude": 34.90163,
+                "full": "300 East Blackstock Road  Moore, South Carolina 29369"
+            },
+            "field_35": "<a href=\"tel:8645768088\">(864) 576-8088</a>",
+            "field_35_raw": {
+                "area": "864",
+                "number": "5768088",
+                "ext": null,
+                "full": "8645768088",
+                "country": null,
+                "formatted": "(864) 576-8088"
+            },
+            "field_40": "<a href=\"https://dms.spart6.org/\">https://dms.spart6.org/</a>",
+            "field_40_raw": {
+                "url": "https://dms.spart6.org/",
+                "label": null
+            },
+            "field_41": "<a href=\"https://dms.spart6.org/\">https://dms.spart6.org/</a>",
+            "field_41_raw": {
+                "url": "https://dms.spart6.org/",
+                "label": null
+            },
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Bearcats",
+            "field_37_raw": "Bearcats",
+            "field_38": "Royal Blue, Gray, and White ",
+            "field_38_raw": "Royal Blue, Gray, and White ",
+            "field_25": "<span class=\"62b1f79085d0ed001f5c7311\">Leigh Smith</span>",
+            "field_25_raw": [
+                {
+                    "id": "62b1f79085d0ed001f5c7311",
+                    "identifier": "Leigh Smith"
+                }
+            ],
+            "field_47": "07/28/2021 14:15",
+            "field_47_raw": {
+                "date": "07/28/2021",
+                "date_formatted": "07/28/2021",
+                "hours": "02",
+                "minutes": "15",
+                "am_pm": "PM",
+                "unix_timestamp": 1627481700000,
+                "iso_timestamp": "2021-07-28T14:15:00.000Z",
+                "timestamp": "07/28/2021 02:15 pm",
+                "time": 855,
+                "proper_unix_timestamp": 1627496100000,
+                "proper_iso_timestamp": "2021-07-28T18:15:00.000Z"
+            }
+        },
+        {
+            "id": "6193bafc24af42002053202d",
+            "field_39_raw": "",
+            "field_39": "",
+            "field_1": "Denmark Olar High",
+            "field_1_raw": "Denmark Olar High",
+            "field_34_raw": "",
+            "field_34": "",
+            "field_35": "<a href=\"tel:8037933307\">(803) 793-3307</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "7933307",
+                "ext": null,
+                "full": "8037933307",
+                "country": null,
+                "formatted": "(803) 793-3307"
+            },
+            "field_40": "",
+            "field_40_raw": "",
+            "field_41": "",
+            "field_41_raw": "",
+            "field_44": "A",
+            "field_44_raw": "A",
+            "field_45": "3",
+            "field_45_raw": "3",
+            "field_37": "Vikings",
+            "field_37_raw": "Vikings",
+            "field_38": "Royal blue and gold ",
+            "field_38_raw": "Royal blue and gold ",
+            "field_25": "<span class=\"65c24a53c98b0f00279bb2e3\">Jarvis Littlejohn</span>",
+            "field_25_raw": [
+                {
+                    "id": "65c24a53c98b0f00279bb2e3",
+                    "identifier": "Jarvis Littlejohn"
+                }
+            ],
+            "field_47": "11/16/2021 09:06",
+            "field_47_raw": {
+                "date": "11/16/2021",
+                "date_formatted": "11/16/2021",
+                "hours": "09",
+                "minutes": "06",
+                "am_pm": "AM",
+                "unix_timestamp": 1637053560000,
+                "iso_timestamp": "2021-11-16T09:06:00.000Z",
+                "timestamp": "11/16/2021 09:06 am",
+                "time": 546,
+                "proper_unix_timestamp": 1637071560000,
+                "proper_iso_timestamp": "2021-11-16T14:06:00.000Z"
+            }
+        },
+        {
+            "id": "60bfd1a914b9b1001e6f10c5",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60bfd14b09f7b50024b3639b/thumb_1/dmslogo.jpg\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60bfd14b09f7b50024b3639b/original/dmslogo.jpg\" />",
+            "field_39_raw": {
+                "id": "60bfd14b09f7b50024b3639b",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "dmslogo.jpg",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60bfd14b09f7b50024b3639b/original/dmslogo.jpg",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60bfd14b09f7b50024b3639b/original/dmslogo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=b7e70d02f57108e8287c19ea1c3698c804f45597881bdf453c96c0397fa53d8d&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22dmslogo.jpg%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60bfd14b09f7b50024b3639b/thumb/dmslogo.jpg",
+                "size": 9421,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Dent Middle",
+            "field_1_raw": "Dent Middle",
+            "field_34": "2721 Decker Blvd.<br />Columbia, South Carolina 29206",
+            "field_34_raw": {
+                "street": "2721 Decker Blvd.",
+                "street2": null,
+                "city": "Columbia",
+                "state": "South Carolina",
+                "zip": "29206",
+                "country": null,
+                "longitude": -80.953706,
+                "latitude": 34.06213,
+                "full": "2721 Decker Blvd. Columbia, South Carolina 29206"
+            },
+            "field_35": "<a href=\"tel:8036992750\">(803) 699-2750</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "6992750",
+                "ext": null,
+                "full": "8036992750",
+                "country": null,
+                "formatted": "(803) 699-2750"
+            },
+            "field_40": "<a href=\"https://www.richland2.org/dm\">www.richland2.org/dm</a>",
+            "field_40_raw": {
+                "url": "www.richland2.org/dm",
+                "label": null
+            },
+            "field_41": "<a href=\"https://www.richland2.org/DM/Athletics/Athletics-Information\">https://www.richland2.org/DM/Athletics/Athletics-Information</a>",
+            "field_41_raw": {
+                "url": "https://www.richland2.org/DM/Athletics/Athletics-Information",
+                "label": null
+            },
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Blue Diamonds",
+            "field_37_raw": "Blue Diamonds",
+            "field_38": "Blue and White",
+            "field_38_raw": "Blue and White",
+            "field_25": "<span class=\"60bfd0b23c4af1001eb0a286\">Tamala Ashford</span>",
+            "field_25_raw": [
+                {
+                    "id": "60bfd0b23c4af1001eb0a286",
+                    "identifier": "Tamala Ashford"
+                }
+            ],
+            "field_47": "06/08/2021 16:23",
+            "field_47_raw": {
+                "date": "06/08/2021",
+                "date_formatted": "06/08/2021",
+                "hours": "04",
+                "minutes": "23",
+                "am_pm": "PM",
+                "unix_timestamp": 1623169380000,
+                "iso_timestamp": "2021-06-08T16:23:00.000Z",
+                "timestamp": "06/08/2021 04:23 pm",
+                "time": 983,
+                "proper_unix_timestamp": 1623183780000,
+                "proper_iso_timestamp": "2021-06-08T20:23:00.000Z"
+            }
+        },
+        {
+            "id": "60b78b577bc587001ef66a20",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b78b27a42f5c001ea88175/thumb_1/realdillondsmall.jpg\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b78b27a42f5c001ea88175/original/realdillondsmall.jpg\" />",
+            "field_39_raw": {
+                "id": "60b78b27a42f5c001ea88175",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "realdillondsmall.jpg",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b78b27a42f5c001ea88175/original/realdillondsmall.jpg",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b78b27a42f5c001ea88175/original/realdillondsmall.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=c69558b49fcd3567eeea114578c696deda892396dfc78012eb49a5cd4b5b0ac0&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22realdillondsmall.jpg%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60b78b27a42f5c001ea88175/thumb/realdillondsmall.jpg",
+                "size": 19354,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Dillon High",
+            "field_1_raw": "Dillon High",
+            "field_34_raw": "",
+            "field_34": "",
+            "field_35": "<a href=\"tel:8437741230\">(843) 774-1230</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "7741230",
+                "ext": null,
+                "full": "8437741230",
+                "country": null,
+                "formatted": "(843) 774-1230"
+            },
+            "field_40": "<a href=\"https://www.dillon.k12.sc.us\">www.dillon.k12.sc.us</a>",
+            "field_40_raw": {
+                "url": "www.dillon.k12.sc.us",
+                "label": null
+            },
+            "field_41": "",
+            "field_41_raw": "",
+            "field_44": "AAA",
+            "field_44_raw": "AAA",
+            "field_45": "7",
+            "field_45_raw": "7",
+            "field_37": "Wildcats",
+            "field_37_raw": "Wildcats",
+            "field_38": "Black and Gold",
+            "field_38_raw": "Black and Gold",
+            "field_25": "<span class=\"667c227dfc56900028c67238\">Keith Coward</span>",
+            "field_25_raw": [
+                {
+                    "id": "667c227dfc56900028c67238",
+                    "identifier": "Keith Coward"
+                }
+            ],
+            "field_47": "06/02/2021 09:45",
+            "field_47_raw": {
+                "date": "06/02/2021",
+                "date_formatted": "06/02/2021",
+                "hours": "09",
+                "minutes": "45",
+                "am_pm": "AM",
+                "unix_timestamp": 1622627100000,
+                "iso_timestamp": "2021-06-02T09:45:00.000Z",
+                "timestamp": "06/02/2021 09:45 am",
+                "time": 585,
+                "proper_unix_timestamp": 1622641500000,
+                "proper_iso_timestamp": "2021-06-02T13:45:00.000Z"
+            }
+        },
+        {
+            "id": "60b92e3bb539e9001f9a1ee5",
+            "field_39_raw": "",
+            "field_39": "",
+            "field_1": "Dillon Middle",
+            "field_1_raw": "Dillon Middle",
+            "field_34": "1803 Joan Drive<br />Dillon, SC 29536",
+            "field_34_raw": {
+                "street": "1803 Joan Drive",
+                "street2": null,
+                "city": "Dillon",
+                "state": "SC",
+                "zip": "29536",
+                "country": null,
+                "longitude": -79.35186,
+                "latitude": 34.433,
+                "full": "1803 Joan Drive Dillon, SC 29536"
+            },
+            "field_35": "<a href=\"tel:8437741212\">(843) 774-1212</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "7741212",
+                "ext": null,
+                "full": "8437741212",
+                "country": null,
+                "formatted": "(843) 774-1212"
+            },
+            "field_40": "<a href=\"https://dillon.k12.sc.us\">dillon.k12.sc.us</a>",
+            "field_40_raw": {
+                "url": "dillon.k12.sc.us",
+                "label": null
+            },
+            "field_41": "",
+            "field_41_raw": "",
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Wildcats",
+            "field_37_raw": "Wildcats",
+            "field_38": "Black & Gold",
+            "field_38_raw": "Black & Gold",
+            "field_25": "<span class=\"60b92cf6c56998001ee4a1c4\">Shirl Carter</span>",
+            "field_25_raw": [
+                {
+                    "id": "60b92cf6c56998001ee4a1c4",
+                    "identifier": "Shirl Carter"
+                }
+            ],
+            "field_47": "06/03/2021 15:32",
+            "field_47_raw": {
+                "date": "06/03/2021",
+                "date_formatted": "06/03/2021",
+                "hours": "03",
+                "minutes": "32",
+                "am_pm": "PM",
+                "unix_timestamp": 1622734320000,
+                "iso_timestamp": "2021-06-03T15:32:00.000Z",
+                "timestamp": "06/03/2021 03:32 pm",
+                "time": 932,
+                "proper_unix_timestamp": 1622748720000,
+                "proper_iso_timestamp": "2021-06-03T19:32:00.000Z"
+            }
+        },
+        {
+            "id": "610bd6b1c10bc5001e55058b",
+            "field_39_raw": "",
+            "field_39": "",
+            "field_1": "Dillon School District Four",
+            "field_1_raw": "Dillon School District Four",
+            "field_34_raw": "",
+            "field_34": "",
+            "field_35": "<a href=\"tel:8437741200\">(843) 774-1200</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "7741200",
+                "ext": null,
+                "full": "8437741200",
+                "country": null,
+                "formatted": "(843) 774-1200"
+            },
+            "field_40": "<a href=\"https://www.dillon.k12.sc.us\">www.dillon.k12.sc.us</a>",
+            "field_40_raw": {
+                "url": "www.dillon.k12.sc.us",
+                "label": null
+            },
+            "field_41": "",
+            "field_41_raw": "",
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "NA",
+            "field_37_raw": "NA",
+            "field_38": "NA",
+            "field_38_raw": "NA",
+            "field_25": "<span class=\"667c227dfc56900028c67238\">Keith Coward</span>",
+            "field_25_raw": [
+                {
+                    "id": "667c227dfc56900028c67238",
+                    "identifier": "Keith Coward"
+                }
+            ],
+            "field_47": "08/05/2021 08:16",
+            "field_47_raw": {
+                "date": "08/05/2021",
+                "date_formatted": "08/05/2021",
+                "hours": "08",
+                "minutes": "16",
+                "am_pm": "AM",
+                "unix_timestamp": 1628151360000,
+                "iso_timestamp": "2021-08-05T08:16:00.000Z",
+                "timestamp": "08/05/2021 08:16 am",
+                "time": 496,
+                "proper_unix_timestamp": 1628165760000,
+                "proper_iso_timestamp": "2021-08-05T12:16:00.000Z"
+            }
+        },
+        {
+            "id": "62975dd5d24b880023fae97b",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62975d4905a31a001e27ac4e/thumb_1/download.jpg\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62975d4905a31a001e27ac4e/original/download.jpg\" />",
+            "field_39_raw": {
+                "id": "62975d4905a31a001e27ac4e",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "download.jpg",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62975d4905a31a001e27ac4e/original/download.jpg",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62975d4905a31a001e27ac4e/original/download.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=86a57ab5cb6ee4056c3a7f4f9e16666fbcdb672a2003953a006ea9124cbcbf9c&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22download.jpg%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/62975d4905a31a001e27ac4e/thumb/download.jpg",
+                "size": 5427,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Dixie High",
+            "field_1_raw": "Dixie High",
+            "field_34": "1 Haynes Street<br />Due West, SC 29639",
+            "field_34_raw": {
+                "street": "1 Haynes Street",
+                "street2": null,
+                "city": "Due West",
+                "state": "SC",
+                "zip": "29639",
+                "country": null,
+                "longitude": -82.388386,
+                "latitude": 34.327527,
+                "full": "1 Haynes Street Due West, SC 29639"
+            },
+            "field_35": "<a href=\"tel:8643792186\">(864) 379-2186</a>",
+            "field_35_raw": {
+                "area": "864",
+                "number": "3792186",
+                "ext": null,
+                "full": "8643792186",
+                "country": null,
+                "formatted": "(864) 379-2186"
+            },
+            "field_40": "<a href=\"https://dxhs.acsdsc.org\">https://dxhs.acsdsc.org</a>",
+            "field_40_raw": {
+                "url": "https://dxhs.acsdsc.org",
+                "label": null
+            },
+            "field_41": "<a href=\"https://dixiehornets.com\">dixiehornets.com</a>",
+            "field_41_raw": {
+                "url": "dixiehornets.com",
+                "label": null
+            },
+            "field_44": "A",
+            "field_44_raw": "A",
+            "field_45": "1",
+            "field_45_raw": "1",
+            "field_37": "Hornet",
+            "field_37_raw": "Hornet",
+            "field_38": "Kelly Green",
+            "field_38_raw": "Kelly Green",
+            "field_25": "<span class=\"62975c588132d600216bc732\">Jason Burton</span>",
+            "field_25_raw": [
+                {
+                    "id": "62975c588132d600216bc732",
+                    "identifier": "Jason Burton"
+                }
+            ],
+            "field_47": "06/01/2022 08:38",
+            "field_47_raw": {
+                "date": "06/01/2022",
+                "date_formatted": "06/01/2022",
+                "hours": "08",
+                "minutes": "38",
+                "am_pm": "AM",
+                "unix_timestamp": 1654072680000,
+                "iso_timestamp": "2022-06-01T08:38:00.000Z",
+                "timestamp": "06/01/2022 08:38 am",
+                "time": 518,
+                "proper_unix_timestamp": 1654087080000,
+                "proper_iso_timestamp": "2022-06-01T12:38:00.000Z"
+            }
+        },
+        {
+            "id": "61e6c24cd69549001e4408d1",
+            "field_39_raw": "",
+            "field_39": "",
+            "field_1": "Dorchester School District Four",
+            "field_1_raw": "Dorchester School District Four",
+            "field_34": "500 Ridge Street<br />St. George, SC 29477",
+            "field_34_raw": {
+                "street": "500 Ridge Street",
+                "street2": null,
+                "city": "St. George",
+                "state": "SC",
+                "zip": "29477",
+                "country": null,
+                "longitude": -80.5738,
+                "latitude": 33.18995,
+                "full": "500 Ridge Street St. George, SC 29477"
+            },
+            "field_35": "<a href=\"tel:8435634535\">(843) 563-4535</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "5634535",
+                "ext": null,
+                "full": "8435634535",
+                "country": null,
+                "formatted": "(843) 563-4535"
+            },
+            "field_40": "<a href=\"https://www.dorchester4.k12.sc.us/\">https://www.dorchester4.k12.sc.us/</a>",
+            "field_40_raw": {
+                "url": "https://www.dorchester4.k12.sc.us/",
+                "label": null
+            },
+            "field_41": "",
+            "field_41_raw": "",
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "NA",
+            "field_37_raw": "NA",
+            "field_38": "Green",
+            "field_38_raw": "Green",
+            "field_25": "",
+            "field_25_raw": [],
+            "field_47": "01/18/2022 08:32",
+            "field_47_raw": {
+                "date": "01/18/2022",
+                "date_formatted": "01/18/2022",
+                "hours": "08",
+                "minutes": "32",
+                "am_pm": "AM",
+                "unix_timestamp": 1642494720000,
+                "iso_timestamp": "2022-01-18T08:32:00.000Z",
+                "timestamp": "01/18/2022 08:32 am",
+                "time": 512,
+                "proper_unix_timestamp": 1642512720000,
+                "proper_iso_timestamp": "2022-01-18T13:32:00.000Z"
+            }
+        },
+        {
+            "id": "62e826e0fd967c0024e73548",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/636cffb6b0cf190021daa3e3/thumb_1/dd2highschoolscopy22.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/636cffb6b0cf190021daa3e3/original/dd2highschoolscopy22.png\" />",
+            "field_39_raw": {
+                "id": "636cffb6b0cf190021daa3e3",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "dd2highschoolscopy22.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/636cffb6b0cf190021daa3e3/original/dd2highschoolscopy22.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/636cffb6b0cf190021daa3e3/original/dd2highschoolscopy22.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=c1fb406cf0a026d9a7e68e2b7dc211df5b05f98211fdfa584ca2753d2abb9e48&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22dd2highschoolscopy22.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/636cffb6b0cf190021daa3e3/thumb/dd2highschoolscopy22.png",
+                "size": 38093,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Dorchester School District Two",
+            "field_1_raw": "Dorchester School District Two",
+            "field_34": "815 South Main Street<br />Summerville, SC 29483",
+            "field_34_raw": {
+                "street": "815 South Main Street",
+                "street2": null,
+                "city": "Summerville",
+                "state": "SC",
+                "zip": "29483",
+                "country": null,
+                "longitude": -80.18226,
+                "latitude": 33.01048,
+                "full": "815 South Main Street Summerville, SC 29483"
+            },
+            "field_35": "<a href=\"tel:8438732901\">(843) 873-2901</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "8732901",
+                "ext": null,
+                "full": "8438732901",
+                "country": null,
+                "formatted": "(843) 873-2901"
+            },
+            "field_40": "<a href=\"https://www.ddtwo.org/\">https://www.ddtwo.org/</a>",
+            "field_40_raw": {
+                "url": "https://www.ddtwo.org/",
+                "label": null
+            },
+            "field_41": "",
+            "field_41_raw": "",
+            "field_44": "AAAAA",
+            "field_44_raw": "AAAAA",
+            "field_45": "8",
+            "field_45_raw": "8",
+            "field_37": "Crest",
+            "field_37_raw": "Crest",
+            "field_38": "multi-colors",
+            "field_38_raw": "multi-colors",
+            "field_25": "<span class=\"62e8253fad2bc20021241dae\">Tyronne Drakeford</span>",
+            "field_25_raw": [
+                {
+                    "id": "62e8253fad2bc20021241dae",
+                    "identifier": "Tyronne Drakeford"
+                }
+            ],
+            "field_47": "08/01/2022 15:17",
+            "field_47_raw": {
+                "date": "08/01/2022",
+                "date_formatted": "08/01/2022",
+                "hours": "03",
+                "minutes": "17",
+                "am_pm": "PM",
+                "unix_timestamp": 1659367020000,
+                "iso_timestamp": "2022-08-01T15:17:00.000Z",
+                "timestamp": "08/01/2022 03:17 pm",
+                "time": 917,
+                "proper_unix_timestamp": 1659381420000,
+                "proper_iso_timestamp": "2022-08-01T19:17:00.000Z"
+            }
+        },
+        {
+            "id": "60c000f9de77d4001e6b9918",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/612664716ff84f001eb931bf/thumb_1/dormanlogo.jpg\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/612664716ff84f001eb931bf/original/dormanlogo.jpg\" />",
+            "field_39_raw": {
+                "id": "612664716ff84f001eb931bf",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "dormanlogo.jpg",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/612664716ff84f001eb931bf/original/dormanlogo.jpg",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/612664716ff84f001eb931bf/original/dormanlogo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=7b49f6a1b86e97e77140c2d2a88284bee18bc94db8ab013597dee411fae60cf4&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22dormanlogo.jpg%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/612664716ff84f001eb931bf/thumb/dormanlogo.jpg",
+                "size": 3482,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Dorman High",
+            "field_1_raw": "Dorman High",
+            "field_34": "1050 Cavalier Way<br />Roebuck, SC 29376",
+            "field_34_raw": {
+                "street": "1050 Cavalier Way",
+                "street2": null,
+                "city": "Roebuck",
+                "state": "SC",
+                "zip": "29376",
+                "country": null,
+                "longitude": -81.97154,
+                "latitude": 34.84793,
+                "full": "1050 Cavalier Way Roebuck, SC 29376"
+            },
+            "field_35": "<a href=\"tel:8645824347\">(864) 582-4347</a>",
+            "field_35_raw": {
+                "area": "864",
+                "number": "5824347",
+                "ext": null,
+                "full": "8645824347",
+                "country": null,
+                "formatted": "(864) 582-4347"
+            },
+            "field_40": "<a href=\"https://www.spart6.org\">www.spart6.org</a>",
+            "field_40_raw": {
+                "url": "www.spart6.org",
+                "label": null
+            },
+            "field_41": "<a href=\"https://Dormanathletics.com\">Dormanathletics.com</a>",
+            "field_41_raw": {
+                "url": "Dormanathletics.com",
+                "label": null
+            },
+            "field_44": "AAAAA",
+            "field_44_raw": "AAAAA",
+            "field_45": "2",
+            "field_45_raw": "2",
+            "field_37": "Cavalier",
+            "field_37_raw": "Cavalier",
+            "field_38": "Navy Blue, Columbia Blue, White",
+            "field_38_raw": "Navy Blue, Columbia Blue, White",
+            "field_25": "<span class=\"60beba8100fa03001e57f914\">Letitia Neuder</span>",
+            "field_25_raw": [
+                {
+                    "id": "60beba8100fa03001e57f914",
+                    "identifier": "Letitia Neuder"
+                }
+            ],
+            "field_47": "06/08/2021 19:45",
+            "field_47_raw": {
+                "date": "06/08/2021",
+                "date_formatted": "06/08/2021",
+                "hours": "07",
+                "minutes": "45",
+                "am_pm": "PM",
+                "unix_timestamp": 1623181500000,
+                "iso_timestamp": "2021-06-08T19:45:00.000Z",
+                "timestamp": "06/08/2021 07:45 pm",
+                "time": 1185,
+                "proper_unix_timestamp": 1623195900000,
+                "proper_iso_timestamp": "2021-06-08T23:45:00.000Z"
+            }
+        },
+        {
+            "id": "60ca758dae68bb0020a1b6b8",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60ca74cb88dd4b001efe82de/thumb_1/img_0904.jpg\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60ca74cb88dd4b001efe82de/original/img_0904.jpg\" />",
+            "field_39_raw": {
+                "id": "60ca74cb88dd4b001efe82de",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "img_0904.jpg",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60ca74cb88dd4b001efe82de/original/img_0904.jpg",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60ca74cb88dd4b001efe82de/original/img_0904.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=7f6112ca0b16c0fe65f369ad946422ae45d07058a12ad671f4bb0c1f05a0922c&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22img_0904.jpg%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60ca74cb88dd4b001efe82de/thumb/img_0904.jpg",
+                "size": 5939,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Dreher High",
+            "field_1_raw": "Dreher High",
+            "field_34_raw": "",
+            "field_34": "",
+            "field_35": "<a href=\"tel:8032537000\">(803) 253-7000</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "2537000",
+                "ext": null,
+                "full": "8032537000",
+                "country": null,
+                "formatted": "(803) 253-7000"
+            },
+            "field_40": "<a href=\"https://www.richlandone.org/Domain/47\">https://www.richlandone.org/Domain/47</a>",
+            "field_40_raw": {
+                "url": "https://www.richlandone.org/Domain/47",
+                "label": null
+            },
+            "field_41": "<a href=\"https://Dreherathletics.com\">Dreherathletics.com</a>",
+            "field_41_raw": {
+                "url": "Dreherathletics.com",
+                "label": null
+            },
+            "field_44": "AAA",
+            "field_44_raw": "AAA",
+            "field_45": "5",
+            "field_45_raw": "5",
+            "field_37": "Blue Devil",
+            "field_37_raw": "Blue Devil",
+            "field_38": "Royal Blue and White",
+            "field_38_raw": "Royal Blue and White",
+            "field_25": "<span class=\"60ca73c46ce423001e330de5\">Daryl Jarvis</span>",
+            "field_25_raw": [
+                {
+                    "id": "60ca73c46ce423001e330de5",
+                    "identifier": "Daryl Jarvis"
+                }
+            ],
+            "field_47": "06/16/2021 18:05",
+            "field_47_raw": {
+                "date": "06/16/2021",
+                "date_formatted": "06/16/2021",
+                "hours": "06",
+                "minutes": "05",
+                "am_pm": "PM",
+                "unix_timestamp": 1623866700000,
+                "iso_timestamp": "2021-06-16T18:05:00.000Z",
+                "timestamp": "06/16/2021 06:05 pm",
+                "time": 1085,
+                "proper_unix_timestamp": 1623881100000,
+                "proper_iso_timestamp": "2021-06-16T22:05:00.000Z"
+            }
+        },
+        {
+            "id": "60fc82162f84c1001ee8fca7",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60fc801e6b7e63001e8ab07e/thumb_1/tigersfontfinal2020nowhiteoutline.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60fc801e6b7e63001e8ab07e/original/tigersfontfinal2020nowhiteoutline.png\" />",
+            "field_39_raw": {
+                "id": "60fc801e6b7e63001e8ab07e",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "tigersfontfinal2020nowhiteoutline.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60fc801e6b7e63001e8ab07e/original/tigersfontfinal2020nowhiteoutline.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60fc801e6b7e63001e8ab07e/original/tigersfontfinal2020nowhiteoutline.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=33f80dff662ddfc68bc047c2e5433abd5b854c6f7c9a8d09adfed68ece0a7db4&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22tigersfontfinal2020nowhiteoutline.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60fc801e6b7e63001e8ab07e/thumb/tigersfontfinal2020nowhiteoutline.png",
+                "size": 15462,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "D. R. Hill Middle",
+            "field_1_raw": "D. R. Hill Middle",
+            "field_34": "1303 Holly Springs Rd.<br />Lyman, South Carolina 29365",
+            "field_34_raw": {
+                "street": "1303 Holly Springs Rd.",
+                "street2": null,
+                "city": "Lyman",
+                "state": "South Carolina",
+                "zip": "29365",
+                "country": null,
+                "longitude": -82.16493,
+                "latitude": 34.97667,
+                "full": "1303 Holly Springs Rd. Lyman, South Carolina 29365"
+            },
+            "field_35": "<a href=\"tel:8649492370\">(864) 949-2370</a>",
+            "field_35_raw": {
+                "area": "864",
+                "number": "9492370",
+                "ext": null,
+                "full": "8649492370",
+                "country": null,
+                "formatted": "(864) 949-2370"
+            },
+            "field_40": "<a href=\"https://www.spart5.net/drh\">https://www.spart5.net/drh</a>",
+            "field_40_raw": {
+                "url": "https://www.spart5.net/drh",
+                "label": null
+            },
+            "field_41": "<a href=\"https://www.spart5.net/domain/520\">https://www.spart5.net/domain/520</a>",
+            "field_41_raw": {
+                "url": "https://www.spart5.net/domain/520",
+                "label": null
+            },
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Tigers",
+            "field_37_raw": "Tigers",
+            "field_38": "Silver, Black, Varsity Gold",
+            "field_38_raw": "Silver, Black, Varsity Gold",
+            "field_25": "<span class=\"60fc7dd242e36d002058343e\">Zachary Johnson</span>",
+            "field_25_raw": [
+                {
+                    "id": "60fc7dd242e36d002058343e",
+                    "identifier": "Zachary Johnson"
+                }
+            ],
+            "field_47": "07/24/2021 17:11",
+            "field_47_raw": {
+                "date": "07/24/2021",
+                "date_formatted": "07/24/2021",
+                "hours": "05",
+                "minutes": "11",
+                "am_pm": "PM",
+                "unix_timestamp": 1627146660000,
+                "iso_timestamp": "2021-07-24T17:11:00.000Z",
+                "timestamp": "07/24/2021 05:11 pm",
+                "time": 1031,
+                "proper_unix_timestamp": 1627161060000,
+                "proper_iso_timestamp": "2021-07-24T21:11:00.000Z"
+            }
+        },
+        {
+            "id": "6425cfaf9bb5600028e7e3a7",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/6425c0fe9a1fc800282f2c79/thumb_1/tigersfontfinal2022.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/6425c0fe9a1fc800282f2c79/original/tigersfontfinal2022.png\" />",
+            "field_39_raw": {
+                "id": "6425c0fe9a1fc800282f2c79",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "tigersfontfinal2022.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/6425c0fe9a1fc800282f2c79/original/tigersfontfinal2022.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/6425c0fe9a1fc800282f2c79/original/tigersfontfinal2022.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=4dddac0ef8e56f6bcfc8095026f04a21946965ef9984356962b279bce16863d3&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22tigersfontfinal2022.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/6425c0fe9a1fc800282f2c79/thumb/tigersfontfinal2022.png",
+                "size": 14950,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "D. R. Hill Middle",
+            "field_1_raw": "D. R. Hill Middle",
+            "field_34": "1303 Holly Springs Road<br />",
+            "field_34_raw": {
+                "street": "1303 Holly Springs Road",
+                "street2": null,
+                "city": null,
+                "state": null,
+                "zip": null,
+                "country": null,
+                "longitude": null,
+                "latitude": null,
+                "full": "1303 Holly Springs Road "
+            },
+            "field_35": "<a href=\"tel:8649492370\">(864) 949-2370</a>",
+            "field_35_raw": {
+                "area": "864",
+                "number": "9492370",
+                "ext": null,
+                "full": "8649492370",
+                "country": null,
+                "formatted": "(864) 949-2370"
+            },
+            "field_40": "<a href=\"https://www.spart5.net/drh\">https://www.spart5.net/drh</a>",
+            "field_40_raw": {
+                "url": "https://www.spart5.net/drh",
+                "label": null
+            },
+            "field_41": "<a href=\"https://www.spart5.net/domain/520\">https://www.spart5.net/domain/520</a>",
+            "field_41_raw": {
+                "url": "https://www.spart5.net/domain/520",
+                "label": null
+            },
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Tigers",
+            "field_37_raw": "Tigers",
+            "field_38": "Black, Varsity Gold, Silver",
+            "field_38_raw": "Black, Varsity Gold, Silver",
+            "field_25": "<span class=\"60fc7dd242e36d002058343e\">Zachary Johnson</span>",
+            "field_25_raw": [
+                {
+                    "id": "60fc7dd242e36d002058343e",
+                    "identifier": "Zachary Johnson"
+                }
+            ],
+            "field_47": "03/30/2023 14:06",
+            "field_47_raw": {
+                "date": "03/30/2023",
+                "date_formatted": "03/30/2023",
+                "hours": "02",
+                "minutes": "06",
+                "am_pm": "PM",
+                "unix_timestamp": 1680185160000,
+                "iso_timestamp": "2023-03-30T14:06:00.000Z",
+                "timestamp": "03/30/2023 02:06 pm",
+                "time": 846,
+                "proper_unix_timestamp": 1680199560000,
+                "proper_iso_timestamp": "2023-03-30T18:06:00.000Z"
+            }
+        },
+        {
+            "id": "61662197b9db5c001e68173a",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/6166213232607a001fa62497/thumb_1/wildcathead1.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/6166213232607a001fa62497/original/wildcathead1.png\" />",
+            "field_39_raw": {
+                "id": "6166213232607a001fa62497",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "wildcathead1.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/6166213232607a001fa62497/original/wildcathead1.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/6166213232607a001fa62497/original/wildcathead1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=61d77e40a3198aedaa6e3b9df82a41279a88b9a5a8fbe978f12950b1cee9ac78&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22wildcathead1.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/6166213232607a001fa62497/thumb/wildcathead1.png",
+                "size": 16486,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "DuBose Middle",
+            "field_1_raw": "DuBose Middle",
+            "field_34": "1005 DuBose School Rd<br />Summerville, SC 29483",
+            "field_34_raw": {
+                "street": "1005 DuBose School Rd",
+                "street2": null,
+                "city": "Summerville",
+                "state": "SC",
+                "zip": "29483",
+                "country": null,
+                "longitude": -80.23814,
+                "latitude": 33.03368,
+                "full": "1005 DuBose School Rd Summerville, SC 29483"
+            },
+            "field_35": "<a href=\"tel:8438757012\">(843) 875-7012</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "8757012",
+                "ext": null,
+                "full": "8438757012",
+                "country": null,
+                "formatted": "(843) 875-7012"
+            },
+            "field_40": "<a href=\"https://www.ddtwo.org/DMS\">https://www.ddtwo.org/DMS</a>",
+            "field_40_raw": {
+                "url": "https://www.ddtwo.org/DMS",
+                "label": null
+            },
+            "field_41": "<a href=\"https://www.ddtwo.org/site/Default.aspx?PageType=1&amp;SiteID=411&amp;ChannelID=425&amp;DirectoryType=6\">https://www.ddtwo.org/site/Default.aspx?PageType=1&SiteID=411&ChannelID=425&DirectoryType=6</a>",
+            "field_41_raw": {
+                "url": "https://www.ddtwo.org/site/Default.aspx?PageType=1&SiteID=411&ChannelID=425&DirectoryType=6",
+                "label": null
+            },
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Wildcat",
+            "field_37_raw": "Wildcat",
+            "field_38": "Burgundy, black, gray",
+            "field_38_raw": "Burgundy, black, gray",
+            "field_25": "<span class=\"663cca2c3bdaac0029dc4cdf\">Stephen DiPaolo</span>",
+            "field_25_raw": [
+                {
+                    "id": "663cca2c3bdaac0029dc4cdf",
+                    "identifier": "Stephen DiPaolo"
+                }
+            ],
+            "field_47": "10/12/2021 20:00",
+            "field_47_raw": {
+                "date": "10/12/2021",
+                "date_formatted": "10/12/2021",
+                "hours": "08",
+                "minutes": "00",
+                "am_pm": "PM",
+                "unix_timestamp": 1634068800000,
+                "iso_timestamp": "2021-10-12T20:00:00.000Z",
+                "timestamp": "10/12/2021 08:00 pm",
+                "time": 1200,
+                "proper_unix_timestamp": 1634083200000,
+                "proper_iso_timestamp": "2021-10-13T00:00:00.000Z"
+            }
+        },
+        {
+            "id": "60b78d3f117652001e0db006",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611fc2d474c8dd001e266bd6/thumb_1/dfimage.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611fc2d474c8dd001e266bd6/original/dfimage.png\" />",
+            "field_39_raw": {
+                "id": "611fc2d474c8dd001e266bd6",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "dfimage.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611fc2d474c8dd001e266bd6/original/dfimage.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611fc2d474c8dd001e266bd6/original/dfimage.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=e1f45d08ebb3bc6b70f291dbcfeb31f295ee1ea4e0b704266cb8421614f26856&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22dfimage.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611fc2d474c8dd001e266bd6/thumb/dfimage.png",
+                "size": 33997,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Dutch Fork High",
+            "field_1_raw": "Dutch Fork High",
+            "field_34": "1400 Old Tamah Rd<br />Irmo, SC 29063",
+            "field_34_raw": {
+                "street": "1400 Old Tamah Rd",
+                "street2": null,
+                "city": "Irmo",
+                "state": "SC",
+                "zip": "29063",
+                "country": null,
+                "longitude": -81.2008,
+                "latitude": 34.15381,
+                "full": "1400 Old Tamah Rd Irmo, SC 29063"
+            },
+            "field_35": "<a href=\"tel:8034763300\">(803) 476-3300</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "4763300",
+                "ext": null,
+                "full": "8034763300",
+                "country": null,
+                "formatted": "(803) 476-3300"
+            },
+            "field_40": "<a href=\"https://www.lexrich5.org/dfhs\">https://www.lexrich5.org/dfhs</a>",
+            "field_40_raw": {
+                "url": "https://www.lexrich5.org/dfhs",
+                "label": null
+            },
+            "field_41": "",
+            "field_41_raw": "",
+            "field_44": "AAAAA",
+            "field_44_raw": "AAAAA",
+            "field_45": "5",
+            "field_45_raw": "5",
+            "field_37": "Silver Foxes",
+            "field_37_raw": "Silver Foxes",
+            "field_38": "Green / Silver",
+            "field_38_raw": "Green / Silver",
+            "field_25": "<span class=\"60b78a074822a0001eb63160\">Renita Hacklen</span>",
+            "field_25_raw": [
+                {
+                    "id": "60b78a074822a0001eb63160",
+                    "identifier": "Renita Hacklen"
+                }
+            ],
+            "field_47": "06/02/2021 09:53",
+            "field_47_raw": {
+                "date": "06/02/2021",
+                "date_formatted": "06/02/2021",
+                "hours": "09",
+                "minutes": "53",
+                "am_pm": "AM",
+                "unix_timestamp": 1622627580000,
+                "iso_timestamp": "2021-06-02T09:53:00.000Z",
+                "timestamp": "06/02/2021 09:53 am",
+                "time": 593,
+                "proper_unix_timestamp": 1622641980000,
+                "proper_iso_timestamp": "2021-06-02T13:53:00.000Z"
+            }
+        },
+        {
+            "id": "60b8f6cb9fc220001ed7f9fd",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611fc7cbb0e17f001f924649/thumb_1/dfimage.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611fc7cbb0e17f001f924649/original/dfimage.png\" />",
+            "field_39_raw": {
+                "id": "611fc7cbb0e17f001f924649",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "dfimage.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611fc7cbb0e17f001f924649/original/dfimage.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611fc7cbb0e17f001f924649/original/dfimage.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=845de0809f580604a0b0db350e15cf2c240bf1561c871ead929601f8aad13936&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22dfimage.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611fc7cbb0e17f001f924649/thumb/dfimage.png",
+                "size": 33997,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Dutch Fork Middle",
+            "field_1_raw": "Dutch Fork Middle",
+            "field_34": "1528 Old Tamah Rd<br />Irmo, SC 29063",
+            "field_34_raw": {
+                "street": "1528 Old Tamah Rd",
+                "street2": null,
+                "city": "Irmo",
+                "state": "SC",
+                "zip": "29063",
+                "country": null,
+                "longitude": -81.20152,
+                "latitude": 34.15152,
+                "full": "1528 Old Tamah Rd Irmo, SC 29063"
+            },
+            "field_35": "<a href=\"tel:8034764800\">(803) 476-4800</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "4764800",
+                "ext": null,
+                "full": "8034764800",
+                "country": null,
+                "formatted": "(803) 476-4800"
+            },
+            "field_40": "<a href=\"https://www.lexrich5.org/dms\">https://www.lexrich5.org/dms</a>",
+            "field_40_raw": {
+                "url": "https://www.lexrich5.org/dms",
+                "label": null
+            },
+            "field_41": "",
+            "field_41_raw": "",
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Silver Foxes",
+            "field_37_raw": "Silver Foxes",
+            "field_38": "Green / Silver",
+            "field_38_raw": "Green / Silver",
+            "field_25": "<span class=\"60b78a074822a0001eb63160\">Renita Hacklen</span>",
+            "field_25_raw": [
+                {
+                    "id": "60b78a074822a0001eb63160",
+                    "identifier": "Renita Hacklen"
+                }
+            ],
+            "field_47": "06/03/2021 11:35",
+            "field_47_raw": {
+                "date": "06/03/2021",
+                "date_formatted": "06/03/2021",
+                "hours": "11",
+                "minutes": "35",
+                "am_pm": "AM",
+                "unix_timestamp": 1622720100000,
+                "iso_timestamp": "2021-06-03T11:35:00.000Z",
+                "timestamp": "06/03/2021 11:35 am",
+                "time": 695,
+                "proper_unix_timestamp": 1622734500000,
+                "proper_iso_timestamp": "2021-06-03T15:35:00.000Z"
+            }
+        },
+        {
+            "id": "60f5861f7dcde1001fd1fd18",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60f586157ec609001eb94624/thumb_1/dcmsnewlogogreensquare.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60f586157ec609001eb94624/original/dcmsnewlogogreensquare.png\" />",
+            "field_39_raw": {
+                "id": "60f586157ec609001eb94624",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "dcmsnewlogogreensquare.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60f586157ec609001eb94624/original/dcmsnewlogogreensquare.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60f586157ec609001eb94624/original/dcmsnewlogogreensquare.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=283269fe273136680122c9a4e908c3f078547a7781b592ad919f4d023cb26c2b&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22dcmsnewlogogreensquare.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60f586157ec609001eb94624/thumb/dcmsnewlogogreensquare.png",
+                "size": 14131,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Dutchman Creek Middle",
+            "field_1_raw": "Dutchman Creek Middle",
+            "field_34": "4757 Mt. Gallant Rd.<br />Rock Hill, SC 29732",
+            "field_34_raw": {
+                "street": "4757 Mt. Gallant Rd.",
+                "street2": null,
+                "city": "Rock Hill",
+                "state": "SC",
+                "zip": "29732",
+                "country": null,
+                "longitude": -81.06604,
+                "latitude": 35.010394,
+                "full": "4757 Mt. Gallant Rd. Rock Hill, SC 29732"
+            },
+            "field_35": "<a href=\"tel:8039851700\">(803) 985-1700</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "9851700",
+                "ext": null,
+                "full": "8039851700",
+                "country": null,
+                "formatted": "(803) 985-1700"
+            },
+            "field_40": "<a href=\"https://www.rock-hill.k12.sc.us/DCMS\">https://www.rock-hill.k12.sc.us/DCMS</a>",
+            "field_40_raw": {
+                "url": "https://www.rock-hill.k12.sc.us/DCMS",
+                "label": null
+            },
+            "field_41": "<a href=\"https://www.rock-hill.k12.sc.us/domain/2782\">https://www.rock-hill.k12.sc.us/domain/2782</a>",
+            "field_41_raw": {
+                "url": "https://www.rock-hill.k12.sc.us/domain/2782",
+                "label": null
+            },
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Gators",
+            "field_37_raw": "Gators",
+            "field_38": "Forest Green, Black, Silver, and White",
+            "field_38_raw": "Forest Green, Black, Silver, and White",
+            "field_25": "<span class=\"66708bec37463d0028b83ef7\">Clayton Moton</span>",
+            "field_25_raw": [
+                {
+                    "id": "66708bec37463d0028b83ef7",
+                    "identifier": "Clayton Moton"
+                }
+            ],
+            "field_47": "07/19/2021 10:03",
+            "field_47_raw": {
+                "date": "07/19/2021",
+                "date_formatted": "07/19/2021",
+                "hours": "10",
+                "minutes": "03",
+                "am_pm": "AM",
+                "unix_timestamp": 1626688980000,
+                "iso_timestamp": "2021-07-19T10:03:00.000Z",
+                "timestamp": "07/19/2021 10:03 am",
+                "time": 603,
+                "proper_unix_timestamp": 1626703380000,
+                "proper_iso_timestamp": "2021-07-19T14:03:00.000Z"
+            }
+        },
+        {
+            "id": "60da13ea93105a00202b4da4",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611eaceab0e17f001f91cf71/thumb_1/daniellionpouncinglogo.jpg\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611eaceab0e17f001f91cf71/original/daniellionpouncinglogo.jpg\" />",
+            "field_39_raw": {
+                "id": "611eaceab0e17f001f91cf71",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "daniellionpouncinglogo.jpg",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611eaceab0e17f001f91cf71/original/daniellionpouncinglogo.jpg",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611eaceab0e17f001f91cf71/original/daniellionpouncinglogo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=37ccb9521b38154cd92001586c33b1f184f80c51f0a62027e58eba7d4eab5f91&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22daniellionpouncinglogo.jpg%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611eaceab0e17f001f91cf71/thumb/daniellionpouncinglogo.jpg",
+                "size": 31642,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "D. W. Daniel High",
+            "field_1_raw": "D. W. Daniel High",
+            "field_34": "140 Blue and Gold Blvd.<br />Central, SC 29630",
+            "field_34_raw": {
+                "street": "140 Blue and Gold Blvd.",
+                "street2": null,
+                "city": "Central",
+                "state": "SC",
+                "zip": "29630",
+                "country": null,
+                "longitude": -82.74081,
+                "latitude": 34.6954,
+                "full": "140 Blue and Gold Blvd. Central, SC 29630"
+            },
+            "field_35": "<a href=\"tel:8643972900\">(864) 397-2900</a>",
+            "field_35_raw": {
+                "area": "864",
+                "number": "3972900",
+                "ext": null,
+                "full": "8643972900",
+                "country": null,
+                "formatted": "(864) 397-2900"
+            },
+            "field_40": "<a href=\"http://dhs.pickens.k12.sc.us\">http://dhs.pickens.k12.sc.us</a>",
+            "field_40_raw": {
+                "url": "http://dhs.pickens.k12.sc.us",
+                "label": null
+            },
+            "field_41": "<a href=\"https://dhs.pickens.k12.sc.us/o/dhs/page/athletics\">https://dhs.pickens.k12.sc.us/o/dhs/page/athletics</a>",
+            "field_41_raw": {
+                "url": "https://dhs.pickens.k12.sc.us/o/dhs/page/athletics",
+                "label": null
+            },
+            "field_44": "AAA",
+            "field_44_raw": "AAA",
+            "field_45": "1",
+            "field_45_raw": "1",
+            "field_37": "Lion",
+            "field_37_raw": "Lion",
+            "field_38": "Colonial Blue and Vegas Gold",
+            "field_38_raw": "Colonial Blue and Vegas Gold",
+            "field_25": "<span class=\"60da121e198982001e796e63\">Beth Brittain</span>",
+            "field_25_raw": [
+                {
+                    "id": "60da121e198982001e796e63",
+                    "identifier": "Beth Brittain"
+                }
+            ],
+            "field_47": "06/28/2021 14:24",
+            "field_47_raw": {
+                "date": "06/28/2021",
+                "date_formatted": "06/28/2021",
+                "hours": "02",
+                "minutes": "24",
+                "am_pm": "PM",
+                "unix_timestamp": 1624890240000,
+                "iso_timestamp": "2021-06-28T14:24:00.000Z",
+                "timestamp": "06/28/2021 02:24 pm",
+                "time": 864,
+                "proper_unix_timestamp": 1624904640000,
+                "proper_iso_timestamp": "2021-06-28T18:24:00.000Z"
+            }
+        },
+        {
+            "id": "60be0204dd1d1b001facce94",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60be0132dfc2a7001fd5a77e/thumb_1/easleylog.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60be0132dfc2a7001fd5a77e/original/easleylog.png\" />",
+            "field_39_raw": {
+                "id": "60be0132dfc2a7001fd5a77e",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "easleylog.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60be0132dfc2a7001fd5a77e/original/easleylog.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60be0132dfc2a7001fd5a77e/original/easleylog.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=6ca028b285956c36655057891dacf396fef7dbb31451854a4e5470da8254457e&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22easleylog.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60be0132dfc2a7001fd5a77e/thumb/easleylog.png",
+                "size": 24781,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Easley High",
+            "field_1_raw": "Easley High",
+            "field_34": "154 GREEN WAVE BLVD<br />EASLEY, SC 29642",
+            "field_34_raw": {
+                "street": "154 GREEN WAVE BLVD",
+                "street2": null,
+                "city": "EASLEY",
+                "state": "SC",
+                "zip": "29642",
+                "country": null,
+                "longitude": -82.556812,
+                "latitude": 34.81854,
+                "full": "154 GREEN WAVE BLVD EASLEY, SC 29642"
+            },
+            "field_35": "<a href=\"tel:8643973100\">(864) 397-3100</a>",
+            "field_35_raw": {
+                "area": "864",
+                "number": "3973100",
+                "ext": null,
+                "full": "8643973100",
+                "country": null,
+                "formatted": "(864) 397-3100"
+            },
+            "field_40": "<a href=\"http://ehs.pickens.k12.sc.us/\">http://ehs.pickens.k12.sc.us/</a>",
+            "field_40_raw": {
+                "url": "http://ehs.pickens.k12.sc.us/",
+                "label": null
+            },
+            "field_41": "<a href=\"https://easleyathletics.com\">easleyathletics.com</a>",
+            "field_41_raw": {
+                "url": "easleyathletics.com",
+                "label": null
+            },
+            "field_44": "AAAAA",
+            "field_44_raw": "AAAAA",
+            "field_45": "1",
+            "field_45_raw": "1",
+            "field_37": "Green Wave",
+            "field_37_raw": "Green Wave",
+            "field_38": "Kelly Green and White",
+            "field_38_raw": "Kelly Green and White",
+            "field_25": "<span class=\"64b83692709dda00270e2538\">Ana Harrison</span>",
+            "field_25_raw": [
+                {
+                    "id": "64b83692709dda00270e2538",
+                    "identifier": "Ana Harrison"
+                }
+            ],
+            "field_47": "06/07/2021 07:24",
+            "field_47_raw": {
+                "date": "06/07/2021",
+                "date_formatted": "06/07/2021",
+                "hours": "07",
+                "minutes": "24",
+                "am_pm": "AM",
+                "unix_timestamp": 1623050640000,
+                "iso_timestamp": "2021-06-07T07:24:00.000Z",
+                "timestamp": "06/07/2021 07:24 am",
+                "time": 444,
+                "proper_unix_timestamp": 1623065040000,
+                "proper_iso_timestamp": "2021-06-07T11:24:00.000Z"
+            }
+        },
+        {
+            "id": "617ae82452244500204bda78",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/64c27f8a9982fc0028bca708/thumb_1/ecbluelogograystroke.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/64c27f8a9982fc0028bca708/original/ecbluelogograystroke.png\" />",
+            "field_39_raw": {
+                "id": "64c27f8a9982fc0028bca708",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "ecbluelogograystroke.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/64c27f8a9982fc0028bca708/original/ecbluelogograystroke.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/64c27f8a9982fc0028bca708/original/ecbluelogograystroke.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=2e7f9a76b6b0b78b752ba7bd49488e893167fa0dbb67da25f0cddc6091fa06a2&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22ecbluelogograystroke.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/64c27f8a9982fc0028bca708/thumb/ecbluelogograystroke.png",
+                "size": 24269,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "East Clarendon Middle-High",
+            "field_1_raw": "East Clarendon Middle-High",
+            "field_34_raw": "",
+            "field_34": "",
+            "field_35": "<a href=\"tel:8436592185\">(843) 659-2185</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "6592185",
+                "ext": null,
+                "full": "8436592185",
+                "country": null,
+                "formatted": "(843) 659-2185"
+            },
+            "field_40": "<a href=\"https://www.clarendoncsd.org/o/ecmhs\">https://www.clarendoncsd.org/o/ecmhs</a>",
+            "field_40_raw": {
+                "url": "https://www.clarendoncsd.org/o/ecmhs",
+                "label": null
+            },
+            "field_41": "",
+            "field_41_raw": "",
+            "field_44": "AA",
+            "field_44_raw": "AA",
+            "field_45": "7",
+            "field_45_raw": "7",
+            "field_37": "Wolverines",
+            "field_37_raw": "Wolverines",
+            "field_38": "Navy and White",
+            "field_38_raw": "Navy and White",
+            "field_25": "<span class=\"6411db6af477c700298a47ec\">Curtis Johnson</span>",
+            "field_25_raw": [
+                {
+                    "id": "6411db6af477c700298a47ec",
+                    "identifier": "Curtis Johnson"
+                }
+            ],
+            "field_47": "10/28/2021 14:12",
+            "field_47_raw": {
+                "date": "10/28/2021",
+                "date_formatted": "10/28/2021",
+                "hours": "02",
+                "minutes": "12",
+                "am_pm": "PM",
+                "unix_timestamp": 1635430320000,
+                "iso_timestamp": "2021-10-28T14:12:00.000Z",
+                "timestamp": "10/28/2021 02:12 pm",
+                "time": 852,
+                "proper_unix_timestamp": 1635444720000,
+                "proper_iso_timestamp": "2021-10-28T18:12:00.000Z"
+            }
+        },
+        {
+            "id": "622f6c02f941c4001ec3a4b4",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/622f612bf6359b001e246e6a/thumb_1/eemswolf1.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/622f612bf6359b001e246e6a/original/eemswolf1.png\" />",
+            "field_39_raw": {
+                "id": "622f612bf6359b001e246e6a",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "eemswolf1.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/622f612bf6359b001e246e6a/original/eemswolf1.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/622f612bf6359b001e246e6a/original/eemswolf1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=46af3b17d24fd3e3e9a0a2626aca2c0392ae93847506417312b7818254d66d9c&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22eemswolf1.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/622f612bf6359b001e246e6a/thumb/eemswolf1.png",
+                "size": 39014,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "East Edisto Middle School",
+            "field_1_raw": "East Edisto Middle School",
+            "field_34_raw": "",
+            "field_34": "",
+            "field_35": "<a href=\"tel:8436952451\">(843) 695-2451</a>",
+            "field_35_raw": {
+                "area": "843",
+                "number": "6952451",
+                "ext": null,
+                "full": "8436952451",
+                "country": null,
+                "formatted": "(843) 695-2451"
+            },
+            "field_40": "<a href=\"https://www.ddtwo.org/Domain/8673\">https://www.ddtwo.org/Domain/8673</a>",
+            "field_40_raw": {
+                "url": "https://www.ddtwo.org/Domain/8673",
+                "label": null
+            },
+            "field_41": "",
+            "field_41_raw": "",
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "The Wolves",
+            "field_37_raw": "The Wolves",
+            "field_38": "Midnight Blue and Rust Orange",
+            "field_38_raw": "Midnight Blue and Rust Orange",
+            "field_25": "<span class=\"619507d62ee58f001e99d2fd\">Brion Rutherford</span>",
+            "field_25_raw": [
+                {
+                    "id": "619507d62ee58f001e99d2fd",
+                    "identifier": "Brion Rutherford"
+                }
+            ],
+            "field_47": "03/14/2022 12:23",
+            "field_47_raw": {
+                "date": "03/14/2022",
+                "date_formatted": "03/14/2022",
+                "hours": "12",
+                "minutes": "23",
+                "am_pm": "PM",
+                "unix_timestamp": 1647260580000,
+                "iso_timestamp": "2022-03-14T12:23:00.000Z",
+                "timestamp": "03/14/2022 12:23 pm",
+                "time": 743,
+                "proper_unix_timestamp": 1647274980000,
+                "proper_iso_timestamp": "2022-03-14T16:23:00.000Z"
+            }
+        },
+        {
+            "id": "6114053913e9430020fcd7fa",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611404f54a4514001e7b95e9/thumb_1/hybrid3copy.jpg\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611404f54a4514001e7b95e9/original/hybrid3copy.jpg\" />",
+            "field_39_raw": {
+                "id": "611404f54a4514001e7b95e9",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "hybrid3copy.jpg",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611404f54a4514001e7b95e9/original/hybrid3copy.jpg",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611404f54a4514001e7b95e9/original/hybrid3copy.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=db24e39cccde35606a508873b0fbde6a33b2f4bacbd0bf4c92c9287c5feef9dc&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22hybrid3copy.jpg%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/611404f54a4514001e7b95e9/thumb/hybrid3copy.jpg",
+                "size": 28262,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Eastside High",
+            "field_1_raw": "Eastside High",
+            "field_34": "1300 BRUSHY CREEK RD<br />TAYLORS, sc 29687",
+            "field_34_raw": {
+                "street": "1300 BRUSHY CREEK RD",
+                "street2": null,
+                "city": "TAYLORS",
+                "state": "sc",
+                "zip": "29687",
+                "country": null,
+                "longitude": -82.30225,
+                "latitude": 34.89461,
+                "full": "1300 BRUSHY CREEK RD TAYLORS, sc 29687"
+            },
+            "field_35": "<a href=\"tel:8643552800\">(864) 355-2800</a>",
+            "field_35_raw": {
+                "area": "864",
+                "number": "3552800",
+                "ext": null,
+                "full": "8643552800",
+                "country": null,
+                "formatted": "(864) 355-2800"
+            },
+            "field_40": "<a href=\"https://www.greenville.k12.sc.us/eastside/\">https://www.greenville.k12.sc.us/eastside/</a>",
+            "field_40_raw": {
+                "url": "https://www.greenville.k12.sc.us/eastside/",
+                "label": null
+            },
+            "field_41": "<a href=\"https://eastsideeaglesathletics.com\">eastsideeaglesathletics.com</a>",
+            "field_41_raw": {
+                "url": "eastsideeaglesathletics.com",
+                "label": null
+            },
+            "field_44": "AAAAA",
+            "field_44_raw": "AAAAA",
+            "field_45": "2",
+            "field_45_raw": "2",
+            "field_37": "Eagles",
+            "field_37_raw": "Eagles",
+            "field_38": "Royal Blue/White/Gold",
+            "field_38_raw": "Royal Blue/White/Gold",
+            "field_25": "<span class=\"61140336d369eb002314bd43\">Jack Kosmicki</span>",
+            "field_25_raw": [
+                {
+                    "id": "61140336d369eb002314bd43",
+                    "identifier": "Jack Kosmicki"
+                }
+            ],
+            "field_47": "08/11/2021 13:13",
+            "field_47_raw": {
+                "date": "08/11/2021",
+                "date_formatted": "08/11/2021",
+                "hours": "01",
+                "minutes": "13",
+                "am_pm": "PM",
+                "unix_timestamp": 1628687580000,
+                "iso_timestamp": "2021-08-11T13:13:00.000Z",
+                "timestamp": "08/11/2021 01:13 pm",
+                "time": 793,
+                "proper_unix_timestamp": 1628701980000,
+                "proper_iso_timestamp": "2021-08-11T17:13:00.000Z"
+            }
+        },
+        {
+            "id": "6113caf92136a800200d85d0",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/6113c8562f0167001ed664be/thumb_1/shamrocklogo.jpg\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/6113c8562f0167001ed664be/original/shamrocklogo.jpg\" />",
+            "field_39_raw": {
+                "id": "6113c8562f0167001ed664be",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "shamrocklogo.jpg",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/6113c8562f0167001ed664be/original/shamrocklogo.jpg",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/6113c8562f0167001ed664be/original/shamrocklogo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=e379eb8d50cf32ddefcfa5ea54acd98dd56d4dfbf2ed653ae757b531ff39f499&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22shamrocklogo.jpg%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/6113c8562f0167001ed664be/thumb/shamrocklogo.jpg",
+                "size": 18637,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Eau Claire High",
+            "field_1_raw": "Eau Claire High",
+            "field_34": "4800 Monticello Road<br />Columbia, SC 29203",
+            "field_34_raw": {
+                "street": "4800 Monticello Road",
+                "street2": null,
+                "city": "Columbia",
+                "state": "SC",
+                "zip": "29203",
+                "country": null,
+                "longitude": -81.04328,
+                "latitude": 34.04764,
+                "full": "4800 Monticello Road Columbia, SC 29203"
+            },
+            "field_35": "<a href=\"tel:8037357600\">(803) 735-7600</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "7357600",
+                "ext": null,
+                "full": "8037357600",
+                "country": null,
+                "formatted": "(803) 735-7600"
+            },
+            "field_40": "<a href=\"https://www.richlandone.org/Eau%20Claire%20High\">https://www.richlandone.org/Eau%20Claire%20High</a>",
+            "field_40_raw": {
+                "url": "https://www.richlandone.org/Eau%20Claire%20High",
+                "label": null
+            },
+            "field_41": "<a href=\"https://eauclaireathletics.org/\">https://eauclaireathletics.org/</a>",
+            "field_41_raw": {
+                "url": "https://eauclaireathletics.org/",
+                "label": null
+            },
+            "field_44": "AA",
+            "field_44_raw": "AA",
+            "field_45": "4",
+            "field_45_raw": "4",
+            "field_37": "Shamrocks",
+            "field_37_raw": "Shamrocks",
+            "field_38": "Green, Orange, White",
+            "field_38_raw": "Green, Orange, White",
+            "field_25": "<span class=\"611306602e60db001e1828f9\">Jamil Canada</span>",
+            "field_25_raw": [
+                {
+                    "id": "611306602e60db001e1828f9",
+                    "identifier": "Jamil Canada"
+                }
+            ],
+            "field_47": "08/11/2021 09:04",
+            "field_47_raw": {
+                "date": "08/11/2021",
+                "date_formatted": "08/11/2021",
+                "hours": "09",
+                "minutes": "04",
+                "am_pm": "AM",
+                "unix_timestamp": 1628672640000,
+                "iso_timestamp": "2021-08-11T09:04:00.000Z",
+                "timestamp": "08/11/2021 09:04 am",
+                "time": 544,
+                "proper_unix_timestamp": 1628687040000,
+                "proper_iso_timestamp": "2021-08-11T13:04:00.000Z"
+            }
+        },
+        {
+            "id": "6306310a92b0fd0021054a86",
+            "field_39_raw": "",
+            "field_39": "",
+            "field_1": "Ebenezer",
+            "field_1_raw": "Ebenezer",
+            "field_34": "3440 Ebenezer Rd, Sumter, SC 29153<br />Sumter, SC 29153",
+            "field_34_raw": {
+                "street": "3440 Ebenezer Rd, Sumter, SC 29153",
+                "street2": null,
+                "city": "Sumter",
+                "state": "SC",
+                "zip": "29153",
+                "country": null,
+                "longitude": -80.40274,
+                "latitude": 34.01568,
+                "full": "3440 Ebenezer Rd, Sumter, SC 29153 Sumter, SC 29153"
+            },
+            "field_35": "<a href=\"tel:8034698571\">(803) 469-8571</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "4698571",
+                "ext": null,
+                "full": "8034698571",
+                "country": null,
+                "formatted": "(803) 469-8571"
+            },
+            "field_40": "<a href=\"https://ems.sumterschools.net/\">https://ems.sumterschools.net/</a>",
+            "field_40_raw": {
+                "url": "https://ems.sumterschools.net/",
+                "label": null
+            },
+            "field_41": "",
+            "field_41_raw": "",
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Tiger",
+            "field_37_raw": "Tiger",
+            "field_38": "Orange and Maroon",
+            "field_38_raw": "Orange and Maroon",
+            "field_25": "<span class=\"6306300fb8e6a40023eda6c3\">Terry Lowery</span>",
+            "field_25_raw": [
+                {
+                    "id": "6306300fb8e6a40023eda6c3",
+                    "identifier": "Terry Lowery"
+                }
+            ],
+            "field_47": "08/24/2022 10:09",
+            "field_47_raw": {
+                "date": "08/24/2022",
+                "date_formatted": "08/24/2022",
+                "hours": "10",
+                "minutes": "09",
+                "am_pm": "AM",
+                "unix_timestamp": 1661335740000,
+                "iso_timestamp": "2022-08-24T10:09:00.000Z",
+                "timestamp": "08/24/2022 10:09 am",
+                "time": 609,
+                "proper_unix_timestamp": 1661350140000,
+                "proper_iso_timestamp": "2022-08-24T14:09:00.000Z"
+            }
+        },
+        {
+            "id": "60be34f35f36d2001edcec2a",
+            "field_39:thumb_1": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60be33f8dfc2a7001fd5bf86/thumb_1/capture.png\" />",
+            "field_39": "<img src=\"https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60be33f8dfc2a7001fd5bf86/original/capture.png\" />",
+            "field_39_raw": {
+                "id": "60be33f8dfc2a7001fd5bf86",
+                "application_id": "60991a70e3ac80001ca1ff5e",
+                "s3": true,
+                "type": "image",
+                "source": null,
+                "filename": "capture.png",
+                "url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60be33f8dfc2a7001fd5bf86/original/capture.png",
+                "signed_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60be33f8dfc2a7001fd5bf86/original/capture.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIATZ3LH5HGOWIYE7DV%2F20250502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250502T073653Z&X-Amz-Expires=604800&X-Amz-Signature=72d3485d6dae2fdc7245744fe082b5e85428c45d67c8826e3be3ce878f4b0858&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22capture.png%22&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "thumb_url": "https://s3.us-east-1.amazonaws.com/assets.knackhq.com/assets/60991a70e3ac80001ca1ff5e/60be33f8dfc2a7001fd5bf86/thumb/capture.png",
+                "size": 26931,
+                "field_key": "field_39",
+                "checksum": null
+            },
+            "field_1": "Ebenezer Middle",
+            "field_1_raw": "Ebenezer Middle",
+            "field_34": "3440 Ebenezer Rd<br />Sumter, SC 29153",
+            "field_34_raw": {
+                "street": "3440 Ebenezer Rd",
+                "street2": null,
+                "city": "Sumter",
+                "state": "SC",
+                "zip": "29153",
+                "country": null,
+                "longitude": -80.40274,
+                "latitude": 34.01568,
+                "full": "3440 Ebenezer Rd Sumter, SC 29153"
+            },
+            "field_35": "<a href=\"tel:8034698571\">(803) 469-8571</a>",
+            "field_35_raw": {
+                "area": "803",
+                "number": "4698571",
+                "ext": null,
+                "full": "8034698571",
+                "country": null,
+                "formatted": "(803) 469-8571"
+            },
+            "field_40": "<a href=\"http://ems.sumterschools.net/\">http://ems.sumterschools.net/</a>",
+            "field_40_raw": {
+                "url": "http://ems.sumterschools.net/",
+                "label": null
+            },
+            "field_41": "<a href=\"http://ems.sumterschools.net/athletics/\">http://ems.sumterschools.net/athletics/</a>",
+            "field_41_raw": {
+                "url": "http://ems.sumterschools.net/athletics/",
+                "label": null
+            },
+            "field_44_raw": "",
+            "field_44": "",
+            "field_45_raw": "",
+            "field_45": "",
+            "field_37": "Tigers",
+            "field_37_raw": "Tigers",
+            "field_38": "Orange/Maroon/White",
+            "field_38_raw": "Orange/Maroon/White",
+            "field_25": "<span class=\"60be3286c0e8db001fc431bc\">Nolan Hunter</span>",
+            "field_25_raw": [
+                {
+                    "id": "60be3286c0e8db001fc431bc",
+                    "identifier": "Nolan Hunter"
+                }
+            ],
+            "field_47": "06/07/2021 11:02",
+            "field_47_raw": {
+                "date": "06/07/2021",
+                "date_formatted": "06/07/2021",
+                "hours": "11",
+                "minutes": "02",
+                "am_pm": "AM",
+                "unix_timestamp": 1623063720000,
+                "iso_timestamp": "2021-06-07T11:02:00.000Z",
+                "timestamp": "06/07/2021 11:02 am",
+                "time": 662,
+                "proper_unix_timestamp": 1623078120000,
+                "proper_iso_timestamp": "2021-06-07T15:02:00.000Z"
+            }
+        }
+    ]
+}

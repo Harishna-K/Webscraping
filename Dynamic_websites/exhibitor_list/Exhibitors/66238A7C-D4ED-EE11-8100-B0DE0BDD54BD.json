@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4415,
+                "BOOTH_KEY": "F0ED34D8-45A0-4A2E-88B3-0978B24FE57C",
+                "KEY_ID": "692980FF-C781-C994-E37D-D27323A8B2C3"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "66238A7C-D4ED-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 4415,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Near Earth Autonomy",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "Near Earth Autonomy",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 15208,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202532492819_60ce3ec1efbd8e84ee7f5607916b6897.jpg",
+            "STATE": "PA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Near Earth\u2019s technology allows aircraft to autonomously take off, fly, and land safely, with or without GPS. Their solutions enable aerial mobility applications for partners in the commercial and defense sectors. Near Earth bridges the gap between aerospace and robotics with complete systems that improve efficiency, performance, and safety for aircraft ranging from small drones to full-size helicopters. Their work won the 2022 Pittsburgh Technology Council AI/ML/Robotics - Innovator of the Year Award, the 2018 Howard Hughes Award recognizing outstanding improvements in fundamental helicopter technology, and was a 2017 finalist for the Collier Trophy, one of the top aviation awards in the world. More information is available at https://www.nearearth.aero.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6963C538-0274-7939-42DE-DE10408BFD0B",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Near Earth Autonomy",
+            "TOLL_FREE": "",
+            "KEY_ID": "6946CBEF-0F4F-1479-9D06-5B0F54BB8B89",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Near Earth Autonomy",
+            "CITY": "Pittsburgh",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.nearearth.aero/",
+            "TWITTER": "NEAutonomy"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "FB9CDD0E-0B47-4F89-8133-683FF2019144"
+    }
+}

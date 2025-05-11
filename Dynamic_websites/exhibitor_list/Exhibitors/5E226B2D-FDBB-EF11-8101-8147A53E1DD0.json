@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2224,
+                "BOOTH_KEY": "9131187F-8BB9-476B-B243-41AD1EEE5ED1",
+                "KEY_ID": "90A61E4D-94BC-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "5E226B2D-FDBB-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2224,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Applied Physics Systems, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 94043,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Applied Physics Systems designs and manufactures high accuracy fluxgate magnetometers and accelerometer sensors for use in navigation and mapping applications involving unmanned vehicles used in underwater, ground and aerial environments.  We offer a standard product line of sensors and have a full engineering staff to consult with end users and capability to provide custom solutions for specific applications.  All products are designed and manufactured in the USA and do not use  any parts or components sourced from China or any sanctioned country.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0C6A7D57-91CF-9589-0936-76CDAC254CFB",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "30036265-E358-3357-333A-69F773229746",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Applied Physics Systems, Inc.",
+            "CITY": "Mountain View",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "appliedphysics.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "C573ABBE-9573-43DB-AF58-29D0EE4CA7C0"
+    }
+}

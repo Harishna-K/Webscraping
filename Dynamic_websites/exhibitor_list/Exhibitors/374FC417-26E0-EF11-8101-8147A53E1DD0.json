@@ -1,0 +1,65 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1939,
+                "BOOTH_KEY": "210AE267-EC1D-4EAB-A700-8CD6F7F8BA38",
+                "KEY_ID": "30EA6F85-064A-FAC0-76C1-383D3E9FC694"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "374FC417-26E0-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1939,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Aevex Aerospace",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1135,
+                    "TITLE": "Speaking Opportunity - Solutions Theater",
+                    "ID": "EVENTS"
+                }
+            ],
+            "ACTIVE": 1,
+            "ZIP_CODE": 92075,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025131145649_c947a45898b71e12ee1522952ac899da.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "AEVEX Aerospace supports U.S. and partner nation security objectives by providing full-spectrum aviation and technology-based solutions. The company\u2019s expanded capabilities include a wide variety of Unmanned Aircraft Systems (UAS), a combat-proven portfolio of loitering munitions, and a family of multi-mission Unmanned Surface Vehicles (USV). These additions complement AEVEX\u2019s offerings in custom design & engineering, manned/unmanned aircraft modification & certification, sensor integration & sustainment, and other fielded solutions, including advanced intelligence analysis and tailored mission-system tools. AEVEX is headquartered in Solana Beach, California, with other major locations in Florida, Ohio, and Virginia.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "71F3D712-A484-8C42-3A2C-CFFA0C967FFC",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Ste 175",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "71BA73F7-0BFB-94EA-F239-B6BB4008B96C",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Aevex Aerospace",
+            "CITY": "Solana Beach",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "aevex.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "15B2CA91-A7EB-4B24-86F4-8B1107CD3A12",
+        "CRM_COMPANY_KEY": "9A80FA10-670B-4EE0-8F97-1E3D705ED8EF"
+    }
+}

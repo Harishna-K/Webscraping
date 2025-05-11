@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4008,
+                "BOOTH_KEY": "69179784-EE0D-4F85-88EE-58EF6C436B2A",
+                "KEY_ID": "E7C172E5-DFE7-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "336D482E-7DE5-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 4008,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Aerora",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 95054,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20252710838_4bea4815ec3061ebb8aa7119e03090aa.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Aerora\u2122 streamlines your  drone innovation.  \n\nOur onshore and offshore manufacturing and design services lower R&D costs with the flexibility to scale production as needed. Our solutions help designers reduce time to market and enable rapid scaling for production teams. With a full range of proven NDAA-compliant options\u2014from bespoke to standard systems\u2014covering propulsion, payloads, gimbals, and controllers, Aerora\u2122 gets your drones ready for work, fast.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "CFFFEA8D-D44C-9FC2-3E89-4D287C552C88",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "CFD240A2-CE24-AD1E-2147-2A770740F475",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Aerora",
+            "CITY": "Santa Clara",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.aeroratech.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "3E0A7CB2-6E51-4E05-B2B3-30F17E4EF676"
+    }
+}

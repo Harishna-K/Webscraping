@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1700,
+                "BOOTH_KEY": "7F8F7207-C48D-4133-BB78-E1A7E71B3730",
+                "KEY_ID": "5648B593-0002-D442-9504-E1081ACC4941"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "FE7E2B4A-F2AC-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1700,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Johanson Technology/Johanson Dielectrics",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 93012,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Johanson Technology provides High Frequency Ceramic Solutions.\nJohanson Dielectrics provides Power Electronics Solutions",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6D2E6BE5-0937-13BC-A230-AC9D24AA7F3C",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D69F3E5B-B257-BEE9-6079-CFDAC7259267",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "5654657E-9823-4B1A-4D2C-45A120339ECA",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Johanson Technology/Johanson Dielectrics",
+            "CITY": "Camarillo",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.johansontechnology.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "2DAFBE11-8C37-4CB8-BBDD-DB5E2E7658AB"
+    }
+}

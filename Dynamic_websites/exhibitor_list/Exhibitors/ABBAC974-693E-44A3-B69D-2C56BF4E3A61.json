@@ -1,0 +1,84 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4532,
+                "BOOTH_KEY": "C87C77EA-6BA9-415B-A1AC-3660944F5031",
+                "KEY_ID": "1EF02DA4-EA00-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "ABBAC974-693E-44A3-B69D-2C56BF4E3A61",
+        "PRIMARY_BOOTH": 4532,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Suter Industries AG",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 8488,
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/20241125165317_d4408cf362d742e808367491fc93cd69.jpg",
+            "STATE": "",
+            "LAST_NAME": "",
+            "EMAIL": "l.jaeger@suter-industries.ch",
+            "DOCUMENTS": [],
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CH",
+            "SALUTATION": "",
+            "DESCRIPTION": "Suter Industries AG collaborated with CAE GmbH to design/produce UAV engines in Switzerland.  Current solutions include 2-stroke opposed cylinder air and water cooled engines that can operate on gasoline or heavy fuel (Jet A1, JP5, JP8).  Gasoline engines include TOA288 17.6kW (23.9hp), TOW288 20.0kW (27.2hp), TOA330 21.5kW (29.2hp) and heavy fuel engine HF-TOA288-SDI 16.5kW (22.5hp).",
+            "CATEGORY": [],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "4B4CD642-B38E-91B9-E3D8-4361FC852BB6",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Suter Industries AG",
+            "CITY": "Turbenthal",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "https://www.suter-aviation.ch/",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "ABBAC974-693E-44A3-B69D-2C56BF4E3A61",
+        "CRM_COMPANY_KEY": "97A625C0-DEE4-4677-A77F-FFCDF423E855"
+    }
+}

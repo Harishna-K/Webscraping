@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3510,
+                "BOOTH_KEY": "6D8EAA80-9364-48FC-A8FA-B607C7C70CCD",
+                "KEY_ID": "A8F0402C-B80C-50B0-A575-FBF91B7BDF67"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "B6BAA8DB-9DF6-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3510,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "MicroStrain by HBK",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "05495",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202449142513_ddb6e05bf9f3b4e221a18d815a3d746e.png",
+            "STATE": "VT",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "MicroStrain by HBK manufactures precision inertial sensing systems for control and navigation of autonomous systems. We get users up and running faster and with fewer headaches by providing easy-to-use sensing systems, software, and ROS drivers designed for quick setup and seamless integration into new and existing platforms. By prioritizing user-friendly design and comprehensive support, we ensure that our customers can easily leverage our technology to enhance their applications, reducing the complexity and time involved in deployment.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A91D288F-BEFC-51E6-D943-BEAE3B5C3617",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "microstrain",
+            "TOLL_FREE": "",
+            "KEY_ID": "A908C62D-BF8A-51B5-8F3C-543F8E912748",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "MicroStrain by HBK",
+            "CITY": "Williston",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.microstrain.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "4AB90724-6AD1-4E0C-B89E-D4FBDA0D4104"
+    }
+}

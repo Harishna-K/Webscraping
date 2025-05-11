@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3127,
+                "BOOTH_KEY": "780605CE-D5C6-4C4A-A07C-93E1F126A910",
+                "KEY_ID": "3D98F871-FBEA-0128-4E39-BF2101E78C7D"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "4B264175-650C-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3127,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Vectoflow GmbH",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 82205,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "Flow measurement technology from Vectoflow\nVectoflow produces standardized and tailor-made flow measurement technology for every area of ??application! Flow measurement systems and air data systems from Vectoflow reliably measure the static and total pressure, the speed and the angle of attack of a flow.\n\nIn terms of shape, size and material, they are perfectly adapted to the respective area of ??application in motorsport, aviation, turbomachinery development and research. The innovative manufacturing process greatly increases robustness, so that our probes function reliably even under demanding environmental conditions.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "3DC05163-D4AF-94CF-0C35-21BCB4002797",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "3DA8199A-B169-7114-C92E-E4BAD89A4E6A",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Vectoflow GmbH",
+            "CITY": "Gilching",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.vectoflow.de"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "C8DE3D63-54F5-49D7-BDAE-79C77271E48B"
+    }
+}

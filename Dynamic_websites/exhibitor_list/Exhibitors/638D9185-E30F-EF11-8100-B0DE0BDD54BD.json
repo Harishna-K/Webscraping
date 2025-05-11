@@ -1,0 +1,91 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3505,
+                "BOOTH_KEY": "E779BF87-7207-47E4-B63A-C465855ED2BE",
+                "KEY_ID": "212FF5A4-97A1-E8AE-8C24-561AEB14C7CE"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "638D9185-E30F-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3505,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "CubePilot Pty. Ltd.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 3219,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241030101314_e9ecf312689930e0f60c089bb8ed07a6.png",
+            "STATE": "VIC",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "AU",
+            "SALUTATION": "",
+            "DESCRIPTION": "CubePilot provides Hardware and embedded software ecosystem for the ever-evolving Civilian Unmanned Systems Industry. The CubePilot team understands the diversity of problems that can be solved using Unmanned Systems. And that, having ability to tailor the system for the application makes it possible to get the best out of this cutting-edge technology. With Open Source and Community as the soul, Reliability and Quality as the character, CubePilot has been continually bringing premium hardware to the market. CubePilot Ecosystem currently consists of Cube Autopilot range serving as the core with variety of Accessories and Carrier Boards developed with massive support from the Community and Industry.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "CCA08577-A2CF-3385-F398-E69011696796",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Unit 2",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "21138031-F84C-491C-309E-64A6169349A8",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "CubePilot Pty. Ltd.",
+            "CITY": "Geelong",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.cubepilot.com",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "B72885C5-7A5E-4AFF-A4FA-3B60A52EECFB"
+    }
+}

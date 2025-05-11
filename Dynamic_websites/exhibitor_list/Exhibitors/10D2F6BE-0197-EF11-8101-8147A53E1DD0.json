@@ -1,0 +1,89 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3533,
+                "BOOTH_KEY": "2D26545B-73C7-4AC6-87B8-CD8BEF58768B",
+                "KEY_ID": "B84F571A-F211-6A40-A123-2D63FE366224"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "10D2F6BE-0197-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3533,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Volatus Aerospace",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/volatusaerospace",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "ACTIVE": 1,
+            "ZIP_CODE": "L0L 2E0",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241127202215_62f3389a7720ee0bc4dc8b45be01be74.png",
+            "STATE": "ON",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CA",
+            "SALUTATION": "",
+            "DESCRIPTION": "Volatus Aerospace is a leader in innovative global aerial solutions for intelligence and cargo. With deep technological and subject matter expertise and over 100 years' worth of combined institutional knowledge in aviation, Volatus provides meaningful aerial solutions for end users across various industries using both piloted and remotely piloted aircraft systems (RPAS or drones). We are committed to enhancing operational efficiency, safety, and sustainability through innovative, real-world aerial solutions.\n\nExplore our services and connect with us at http://www.volatusaerospace.com",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "B895EE1B-02B6-DC69-FBF0-EE24ADA27C55",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/volatus-aerospace",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "B853D17B-C691-7DDB-CA7C-D4438DF63C7D",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Volatus Aerospace",
+            "CITY": "Oro-Medonte",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "https://volatusaerospace.com/",
+            "TWITTER": "@VolatusAero",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "D5FA7819-7ED3-4188-86F5-D7EA2810C6D4"
+    }
+}

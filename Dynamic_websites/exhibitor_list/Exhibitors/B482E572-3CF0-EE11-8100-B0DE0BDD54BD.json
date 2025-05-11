@@ -1,0 +1,90 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3138,
+                "BOOTH_KEY": "EB74B2A5-6A5C-4707-AF97-36F9211C8EEE",
+                "KEY_ID": "4717E3F0-CEB6-32C1-A2A6-4AEFD80E9EFF"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "B482E572-3CF0-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3138,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "XIMEA Corp.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "80215-3799",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "CO",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "XIMEA is the premier manufacturer of digital cameras for scientific and industrial cameras. Our products are designed with highest quality and usability in mind, and comprise a wide range of cameras, with fast and small CMOS cameras, cooled scientific cameras and superfast PCIe interfaces with the latest sensors, we can provide the right camera for your application. We have also recently added a line of incredibly small and lightweight hyperspectral cameras. Please visit our booth or website and see how we can provide for you!",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "07278B6F-A4BF-89F9-38E6-9DE75C0DF76C",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite A130",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "06FC7662-C999-CD57-7321-4B0D22575C22",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "XIMEA Corp.",
+            "CITY": "Lakewood",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.ximea.com",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "2CC259A6-296A-4B13-80A5-4B0718876239"
+    }
+}

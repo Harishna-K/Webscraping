@@ -1,0 +1,102 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1715,
+                "BOOTH_KEY": "2FE6F61A-2253-4E78-882A-4E9D402EFF8A",
+                "KEY_ID": "3FBD273A-DF80-901E-A557-5DF4A2229C24"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "0887CB27-33ED-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1715,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "VectorNav Technologies",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 75238,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025218122716_2abf8a902e3fbc1174ac2ed812d2c60d.png",
+            "STATE": "TX",
+            "LAST_NAME": "",
+            "DOCUMENTS": [
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "VectorNav Product Brochure",
+                    "KEY_ID": "072EDA0F-9D80-00BF-0641-0F79AB9C2ECB",
+                    "HEADER_IMAGE": "",
+                    "TITLE": "VectorNav Product Brochure",
+                    "URL": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025218122818_3451d04e59a3b10509d7d6d70f45a2dd.pdf"
+                }
+            ],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "At VectorNav Technologies, we\u2019re solving the world\u2019s most daring inertial navigation challenges across military, aerospace, marine, and robotics. We design and develop industry-leading inertial sensors coupled with advanced navigation algorithms to deliver unmatched performance at an unheard-of low Size, Weight, Power, and Cost (SWaP-C).\n \nOur promise goes beyond the spec sheet. Every sensor is pushed to the limit in real-world conditions, built to our exceptional quality standard at our AS9100D-certified facility, and backed by our navigation support experts. With VectorNav as your navigation partner, you can have absolute confidence in your navigation system\u2019s accuracy in even the most demanding conditions.\n \nVectorNav Technologies is headquartered in Dallas, TX, USA.\nLearn more about our solutions at vectornav.com.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "3FE4CBBE-9A11-3178-C665-949EEBC51098",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "3FC7B648-FCDE-3D04-B89C-DD25A88B3705",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "VectorNav Technologies",
+            "CITY": "Dallas",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "VectorNav.com",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "B47A1580-9338-4E6C-A2DF-ED0C78D311A0"
+    }
+}

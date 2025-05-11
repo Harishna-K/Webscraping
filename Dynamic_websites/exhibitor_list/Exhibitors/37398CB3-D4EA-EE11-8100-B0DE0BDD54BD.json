@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1921,
+                "BOOTH_KEY": "7F373B17-D1F9-40D9-A5E6-8021348293C8",
+                "KEY_ID": "4D207D38-93F9-76EA-ECEC-18E2ECA1D5AF"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "37398CB3-D4EA-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1921,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Decavo, LLC",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 97031,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202522412725_c72dfef47f416b2658bef5da6bd1717a.png",
+            "STATE": "OR",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Our integrated design, engineering and manufacturing expertise\nallows us to offer price-competitive composite solutions for a wide\nrange of industries. We excel in small-scale intricate, complex\ngeometries often considered non manufacturable by the rest of\nthe industry. We are vertically integrated to include value-added\nassembly services such as detailed bonding, mechanical assembly,\ntesting, finishing and packaging.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "040655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A4F568C7-08CA-1ACD-C048-E202809BA2D9",
+                    "ANSWER_TITLE": "Composite Material Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 104",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/764090/admin/dashboard/",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "E4A34420-7061-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "3E25E06C-CFA9-1526-6487-1C852E84F2D3",
+                            "ANSWER_TITLE": "Advanced Materials and Manufacturing"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "A4D63D92-D613-CA23-E5A6-319EDD10FD33",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Decavo, LLC",
+            "CITY": "Hood River",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.decavo.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "997B428F-2104-45E4-AFF8-D1DF2BBEFC30"
+    }
+}

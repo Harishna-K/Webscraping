@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2714,
+                "BOOTH_KEY": "E69D0ED7-A046-488A-88F4-E412D842812D",
+                "KEY_ID": "80AB8487-0724-6C5F-58AE-6A0E74092617"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "B16EACE5-17F2-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2714,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Edge Autonomy",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/edgeautonomyio",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 20171,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202443201833_b56498ba49381356ee78e8a5646032ff.png",
+            "STATE": "VA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Edge Autonomy is a leader in providing innovative autonomous systems, advanced optics, and resilient energy solutions to the U.S. Department of Defense, U.S. Federal Civilian Agencies, allied governments, academic institutions, and commercial entities. We believe that innovation \u2013 in all forms, from all sources, and at all stages of development \u2013 creates solutions that enable mission success. Our uncrewed technologies are used in nearly 80 countries by government, commercial, and academic customers.\n\nEdge Autonomy has a team of 600 employees and draws on nearly four decades of proven aerospace engineering, manufacturing expertise, and advanced technology. With headquarters in San Luis Obispo, CA and 300,000 square feet of manufacturing and production capabilities across the U.S. and abroad, Edge Autonomy\u2019s experienced team delivers mission-focused results around the world.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "80CEFA62-93F5-5E19-4C3C-39883374FFF5",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/edgeautonomy/",
+            "TOLL_FREE": "",
+            "KEY_ID": "80AFFAF7-DF5F-00EA-A73F-F0295AD47CC3",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Edge Autonomy",
+            "CITY": "Herndon",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://edgeautonomy.io",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "FA9F1333-F38F-4129-B421-F5941597C9F9"
+    }
+}

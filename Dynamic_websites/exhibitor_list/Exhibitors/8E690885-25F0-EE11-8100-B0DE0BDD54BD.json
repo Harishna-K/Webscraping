@@ -1,0 +1,86 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2721,
+                "BOOTH_KEY": "6EAFC686-DFCD-4065-A12B-37EB5B03FFDF",
+                "KEY_ID": "01761527-D72F-4424-4509-1CC7B5B44497"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "8E690885-25F0-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2721,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Acutronic Group",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "ACTIVE": 1,
+            "ZIP_CODE": "21237-2304",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024419926_25ae6d00dca8abd8abeea7001bcaf2ed.png",
+            "STATE": "MD",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Acutronic Aerospace Components was established by the Acutronic to support the needs of the ever increasing use of unmanned systems for defense and aerospace.  The division consists of our Power Systems (Formerly Sullivan UV), Turbines, and Actuation companies.   \nAcutronic provides its customers with a high performance, reliable, customizable and affordable eco-system of components that support unmanned systems. Our UAV Power Systems group is an established market leader.  Acutronic Turbines also provides micro turbine jet engines for higher speed platforms and turbo generators for hybrid powered aerial vehicles. Acutronic also has a line of standard or customizable electro-mechanical rotary and linear actuators for UAS and UAM systems.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "01F01CF7-FCCD-A839-E087-13F87474F91E",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "01C0E749-D852-0DE9-442C-2F8DA7D021D9",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Acutronic Group",
+            "CITY": "ROSEDALE",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.acutronic.com",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "9729E9CB-54C0-4CC8-965A-871EE9F2E323"
+    }
+}

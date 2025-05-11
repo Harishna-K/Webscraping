@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2012,
+                "BOOTH_KEY": "C3DF793E-E494-4C89-B9E5-DDBC54588C5C",
+                "KEY_ID": "4C03FB61-DA7B-3463-22B4-20BF2D266DEE"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "0B6F6731-BBD7-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2012,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Snellwing Sdn. Bhd.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 50088,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025311114136_8b7a7352c54d8a78572ab64d4c71b4ad.jpg",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "MY",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "2124E971-CDA5-FDCC-31EF-092E3958B000",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "4C267AA0-D10A-A2A6-0511-01DF54F52704",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Snellwing Sdn. Bhd.",
+            "CITY": "Lumpur",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.lighterpropeller.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "A2580033-5BB9-4095-B14F-1EF2D0B54350"
+    }
+}

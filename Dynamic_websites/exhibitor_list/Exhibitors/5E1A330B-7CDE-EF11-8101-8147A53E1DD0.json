@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1528,
+                "BOOTH_KEY": "559AB34F-6C8E-4266-A716-EA34C65FB742",
+                "KEY_ID": "62DD49D5-38DF-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "5E1A330B-7CDE-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1528,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "AgEagle Aerial Systems Inc",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/AgEagleLLC/",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 67226,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531810116_9090eadadadc09d6137a713f05635925.png",
+            "STATE": "KS",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Headquartered in Wichita, Kansas - the \u201cAir Capital of the World\u201d - AgEagle Aerial Systems Inc. is a premier manufacturer of industry-leading eBee drones and MicaSense sensors, serving commercial and government customers worldwide.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "04E64CB2-0A03-2980-D9CD-199ED4CDC3EF",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/ageagle-aerial-systems",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D5B9B2E3-DF62-09BA-DD6B-CBE47F0CBF5E",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "04C67551-90E9-9572-207D-3185F3D16D87",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "AgEagle Aerial Systems Inc",
+            "CITY": "Wichita",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://ageagle.com/",
+            "TWITTER": "https://x.com/AgEagleUAVS"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "E004F98A-C019-43D9-99FC-A495705F3905"
+    }
+}

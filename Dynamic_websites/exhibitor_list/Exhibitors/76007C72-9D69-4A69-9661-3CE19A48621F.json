@@ -1,0 +1,82 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3022,
+                "BOOTH_KEY": "FB38DE7F-8197-4252-8209-2553A84A4DF9",
+                "KEY_ID": "484433E8-C8F1-41A4-1CAA-2C6B15DE315F"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "76007C72-9D69-4A69-9661-3CE19A48621F",
+        "PRIMARY_BOOTH": 3022,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Schneider Digital Josef J. Schneider e.K.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "schneiderdigital",
+            "ACTIVE": 1,
+            "ZIP_CODE": 83607,
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025320151757_b89b47f6c16fb2066766c7d5f9083275.jpg",
+            "STATE": "",
+            "LAST_NAME": "",
+            "EMAIL": "heidi.schneider@schneider-digital.com",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "Schneider Digital is your solution partner when it comes to the design and implementation of professional visualization and workstation hardware for sophisticated workplace solutions.\nOur focus is on maximum performance and fast, stable workloads of compute-intensive computing and visualization applications.\n\nAs a specialist with over 30 years of project experience, Schneider Digital has industry-specific expertise and deep technology know-how combined with an extensive product range of all relevant manufacturers around professional 4K/8K and 3D/VR/AR hardware solutions.\n\nThe high level of customer proximity with product and manufacturer-neutral, personal consulting by specialists always guarantees an optimal, sustainable and secure solution for individual complex requirements with a very good price-performance ratio.\n\nSchneider Digital sees itself both as a distributor of high-quality professional hardware components and as a project partner for complete workstation solutions in the area of high-end requirements.\n\n Made in Germany \u2013 Schneider Digital is manufacturer\n\n    of the innovative LASER projection system  smart VR-Wall Gen3\n    of the stereoscopic desktop monitor  3D PluraView\n    of the HighEnd Workstation series  CENTURON, NEPTURON and PULSARON",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "060655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D78A253A-BC4E-D8A8-D995-AB30DC3F4817",
+                    "ANSWER_TITLE": "Integrator"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": 5538849,
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "D568D496-D9F9-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "4850741C-C7B0-992E-479E-572420C38D3F",
+                            "ANSWER_TITLE": "German Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "484890BC-B7C1-04A7-8757-8DF8089E6452",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Schneider Digital GmbH",
+            "CITY": "Holzkirchen",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.schneider-digital.com/en",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "76007C72-9D69-4A69-9661-3CE19A48621F",
+        "CRM_COMPANY_KEY": "CEBC23DC-690B-43E2-BE5E-958F4CDD70F9"
+    }
+}

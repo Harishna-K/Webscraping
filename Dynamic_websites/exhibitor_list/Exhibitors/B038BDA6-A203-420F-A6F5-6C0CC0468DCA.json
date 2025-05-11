@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 2,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4421,
+                "BOOTH_KEY": "DAC6729F-E2A9-4F3B-9BF1-EC3E648BB129",
+                "KEY_ID": "A4BE1827-1DFD-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "B038BDA6-A203-420F-A6F5-6C0CC0468DCA",
+        "PRIMARY_BOOTH": 4421,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "Oklahoma Department of Aerospace & Aeronautics",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "63243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "DBF5F13A-EAD0-C42D-820F-E9ACFE622FAA",
+                    "ANSWER_TITLE": "Government Entity (Non-Defense)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "79F387F0-52AB-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D32C927F-FA4B-E69F-17C3-69B162D57F0E",
+                            "ANSWER_TITLE": "Oklahoma Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "DF7FFD49-5B4D-4EB9-8016-6FDD8D460987",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Oklahoma Department of Aerospace & Aeronautics",
+            "CITY": "",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.oklahoma.gov/aerospace",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "053153FC-120E-EF11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "BE2B6C91-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

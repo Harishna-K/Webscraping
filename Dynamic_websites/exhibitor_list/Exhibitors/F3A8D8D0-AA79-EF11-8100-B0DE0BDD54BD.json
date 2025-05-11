@@ -1,0 +1,61 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3400,
+                "BOOTH_KEY": "5CFDA6A2-5A79-459F-988E-DE3B4FA330B2",
+                "KEY_ID": "35876A37-DE71-D503-DE7B-63EB3D0A631C"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "F3A8D8D0-AA79-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3400,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "SkyDrones",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/SkyDronesBR/",
+            "INSTAGRAM": "https://www.instagram.com/skydronesbr/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 91020030,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20249231006_3193484ff10558d23248f378fd304023.png",
+            "STATE": "RS",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "BR",
+            "SALUTATION": "",
+            "DESCRIPTION": "Brazilian made NDAA Crop Spraying eco system based on open source flight controllers with over 35.000 flight hours since 2008. ODM product development, customization, training and after sales. Diverse solution development in defense, industry, mining and agriculture. Auditable and dedicated local data cloud. Inshore and nearshore capability",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "35D012BC-9FCF-DD3A-979B-8ABDF079026E",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/skydrones/",
+            "TOLL_FREE": "",
+            "KEY_ID": "358C8B52-A829-D4CE-F121-5D2C17232D9C",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "SkyDrones",
+            "CITY": "Porto Alegre",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.skyydrones.com.br"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "BB25AFC4-8E0B-4BB3-B48A-78F8C127E28A"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4516,
+                "BOOTH_KEY": "BFA21D53-7744-4742-87E7-6D7473038B12",
+                "KEY_ID": "49CCF1EA-48EA-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "8D607B35-89E9-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 4516,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Rampart Products",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 77043,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025212154334_661607a1badf43b27cfe449101d2ea58.png",
+            "STATE": "TX",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Rampart Products manufactures Hermetic and Ruggedized Electrical Interconnects for commercial and government applications. An agile, certified small business with an engineering-centric staff, Rampart quickly responds to marketplace demands. We consistently outperform our competitors\u2019 lead times, which translates to customer success and lower costs.\nWhen considering total life cycle cost or if failure is not an option, know that Rampart is singularly focused on delivering the highest quality products. Our streamlined processes and a fully digital QMS are the cornerstone of our success.\nRampart delivers a hermetic \u201cairtight\u201d seal that is helium leak rate tested and qualified to 10\u00af8 cc/sec and liquid pressure tested up to 30,000 psi. This is accomplished by precise mold designs, PEEK material processing expertise and a staff with many years of experience and knowledge.\nRampart Products\u2019 founders have over 100 years\u2019 experience designing and manufacturing products used in oil/gas drilling applications. The combination of high temperature, high pressure, high shock and vibration (up to 500\u00b0F, 30,000 psi, 2000 G\u2019s) \u2013 makes it one of the toughest environments known.\nThis experience allows Rampart to cross over into other applications and use our knowledge to diversify our customer base and product lines.\nOne example is our entry into Subsea interconnect systems that compete directly yet outperform the industry standard product.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "7401C345-EAE6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D95C1190-9502-F6EE-E95C-F6AB2D744A68",
+                    "ANSWER_TITLE": "Manufacturing Machinery/Contract Manufacturing/Production Equipment"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 250",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/rampart-products/?viewAsMember=true",
+            "TOLL_FREE": "",
+            "KEY_ID": "D8F1C60C-A66E-D2DE-6322-358B75EE8CF8",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Rampart Products",
+            "CITY": "Houston",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.rampartproducts.com/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "AD5B62AA-F6D8-4016-B529-5D6E821E0ADF"
+    }
+}

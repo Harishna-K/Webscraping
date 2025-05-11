@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3915,
+                "BOOTH_KEY": "FD5D25B4-F5FA-4B39-90B8-657AF445E7C1",
+                "KEY_ID": "8BB89088-C899-EB6F-7672-C6B027BD353B"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "2EAFC850-9B0D-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3915,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Hascall-Denke",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/hascalldenke",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 34220,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202458194539_a8ae2156fd82de6a6a99a7e3064f880d.png",
+            "STATE": "FL",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "With over 39 years of experience, Hascall-Denke designs and manufactures reliable, field-tested, durable antennas that survive the harshest environments and conditions.  We are the professional antenna provider for high-quality radio and communications equipment including marine, vehicular, base station, manpack, and tactical transportable radios. Our engineers enjoy solving customer problems and creating cutting edge antenna designs. We are a DLA Approved Supplier-QA IAW MIL-I-45208 and ISO 9001:2015 certified. We proudly manufacture our products in the United States. Hascall-Denke antennas perform in extreme environments, under extreme conditions, every time. If you need an antenna, you need Hascall-Denke -- The World\u2019s Antenna Source!",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "8C4EFFBE-901E-22FC-2511-7D3EAD0792E2",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "P.O. Box 909",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/hascall-denke",
+            "TOLL_FREE": "1-800-473-2139",
+            "KEY_ID": "8BE9D8C2-DBDF-FEC1-131B-161C7E47D1C9",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Hascall-Denke",
+            "CITY": "Palmetto",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "(941) 723-1628",
+            "WEBSITE": "www.hascall-denke.com",
+            "TWITTER": "https://twitter.com/HascallDenke"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "40AFED51-8888-4D3A-9269-406C4C170406"
+    }
+}

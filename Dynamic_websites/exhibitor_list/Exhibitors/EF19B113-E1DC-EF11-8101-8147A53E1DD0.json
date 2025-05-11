@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3239,
+                "BOOTH_KEY": "756973DB-0A4D-4EA2-A5B3-BF26E2D413D3",
+                "KEY_ID": "9B719B59-A254-3359-9D17-70522807C9DF"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "EF19B113-E1DC-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3239,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Ainstein",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 66049,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202512713727_91d141ba554713d502585004836abce7.png",
+            "STATE": "KS",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Ainstein creates advanced radar sensors that enable intelligent driving, flying, working, and living. We provide innovative, high-performance, and autonomous radar sensors in the Aerospace, Specialty Vehicle, and Internet of Things (IoT) industries, and help customers adapt and deploy our solutions to achieve their potential. Based in Lawrence, Kansas, with backing from major investors like Doosan Bobcat, we\u2019ve learned to leverage our expertise and our global network of Integrators, Distributors, Investors, and multitudinal Partners, to overcome traditional radar-industry constraints such as cost, weight, and performance issues.\n\nOur engineering team is committed to researching and developing a full spectrum portfolio (24GHz, 60GHZ, 76-81GHz) of hardware and software radar products for our customers, and delivering affordable, scalable, and reliable solutions for autonomous drones, advanced driver-assistance systems (ADAS), specialty vehicles and industrial sensing \u2013 uniquely incorporating millimeter wave (mmWave) radar, sensor fusion, and artificial intelligence (AI). With unmatched precision in unpredictable environments, weather conditions, and surfaces, Ainstein\u2019s radars enable hundreds of customers (from Fortune 500 to mid-size and start-ups) across five continents to build smarter and safer commercial products. Our core team of experts holds a combined experience of 100+ years working in radar, with projects funded by NASA, the U.S. National Science Foundation (NSF), and the European Space Agency.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "9BB4D244-CBDB-2B4A-E963-986D4A10EEAF",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 2A",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/ainstein",
+            "TOLL_FREE": "",
+            "KEY_ID": "9B7B7041-F084-1F06-517B-46EFC5A55966",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Ainstein",
+            "CITY": "Lawrence",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "Ainstein.ai",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "37E33679-E8D7-4685-B86D-8FAEE3DB9B03"
+    }
+}

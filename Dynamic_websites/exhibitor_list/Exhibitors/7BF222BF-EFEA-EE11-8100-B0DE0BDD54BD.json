@@ -1,0 +1,108 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2517,
+                "BOOTH_KEY": "6FB7E34C-87D2-4AED-BA09-88B59D3E6F5F",
+                "KEY_ID": "96EC504C-C67E-4B55-3FE4-DAC45A9DB487"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "7BF222BF-EFEA-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2517,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Lemo USA Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "LEMO USA, Inc",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 94928,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024325143953_0bedd63a1ffe9bfb232032be202255b0.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "LEMO is the industry pioneer in the design and manufacture of high-quality and high-performance interconnect solutions. LEMO\u2019s Push-Pull and ratchet coupling connectors are found in a variety of challenging application environments including medical, industrial & machines, automotive, test & measurement, defense, audio-video and telecommunications. \n\nLEMO has been designing precision connectors for more than 75 years. Offering over 90,000 combinations of products that continue to grow through custom-specific designs, LEMO and its brand REDEL, NORTHWIRE, and COELVER currently serve more than 150,000 customers in over 80 countries around the world.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "AB8EF6DD-D551-EDB2-ED20-3E40179CDF85",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "LEMO GROUP",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "0F155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "4C6F605D-062F-6225-F2C7-C7DD1B3389E6",
+                            "ANSWER_TITLE": "Public Safety"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "AB79D2C6-ADF6-6480-A0E2-47751987F292",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Lemo USA Inc.",
+            "CITY": "Rohnert Park",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.lemo.com",
+            "TWITTER": "LEMOUSA",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "D8584E20-E76C-4E3B-9F04-532F1A1FD771",
+        "CRM_COMPANY_KEY": "88654076-3804-4DDF-965C-1EAD62B45C0A"
+    }
+}

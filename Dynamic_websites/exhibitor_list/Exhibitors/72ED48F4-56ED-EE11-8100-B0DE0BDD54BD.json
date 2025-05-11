@@ -1,0 +1,90 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3332,
+                "BOOTH_KEY": "196F0749-0F0F-40B7-84E5-A542BC9211A4",
+                "KEY_ID": "35A8355F-C801-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "72ED48F4-56ED-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3332,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Hitec Commercial Solutions",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "Hitec Commercial Solutions (@HitecCommercialSolutionsUSA)",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "hiteccs",
+            "ACTIVE": 1,
+            "ZIP_CODE": 92123,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241030131251_e10d9ac665d3e6239cd24b87b97960f5.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Hitec is the world leader in servo actuator manufacturing with in-house engineering and factory-owned operations that allow us to provide premium servos for a myriad of industries, while delivering unbeatable precision, strength and durability. Engineered and designed for the needs of Europe and the Americas, our non-Chinese manufacturing and revolutionary servo technologies have been providing customers with premium quality products, ultimate excellence in precision motion control solutions and unwavering support since1973. Whether you require off-the-shelf or purpose-built custom servos, Hitec is your solution.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "4941E8E5-A61E-5868-D36C-8F08974E756E",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite D",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Hitec Commercial Solutions",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "49158E53-EC26-1014-5C6A-30A101DE2FE4",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Hitec Commercial Solutions",
+            "CITY": "San Diego",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.hiteccs.com",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "A627AC8F-01A3-4BB9-804C-2AD70E684B6A"
+    }
+}

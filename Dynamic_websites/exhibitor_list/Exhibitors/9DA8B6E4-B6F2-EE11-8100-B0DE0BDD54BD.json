@@ -1,0 +1,141 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3613,
+                "BOOTH_KEY": "0DAA68AE-EB07-4828-9655-40526A4497A2",
+                "KEY_ID": "A9349D36-BF55-032A-2594-C09338307288"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "9DA8B6E4-B6F2-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3613,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "GENIUS NY",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "SUBEXHIBITORS": [
+            {
+                "BOOTH_NO": 3613,
+                "COMPANY_NAME": "Aerialoop",
+                "BOOTH_KEY": "0DAA68AE-EB07-4828-9655-40526A4497A2",
+                "EXHIBITOR_KEY": "09A2E64E-3DB4-4B3A-8A3E-E843BDDE9AD7"
+            },
+            {
+                "BOOTH_NO": 3613,
+                "COMPANY_NAME": "Aloft",
+                "BOOTH_KEY": "0DAA68AE-EB07-4828-9655-40526A4497A2",
+                "EXHIBITOR_KEY": "C592ADB2-A999-4385-923D-43F7BE25C9AB"
+            },
+            {
+                "BOOTH_NO": 3613,
+                "COMPANY_NAME": "Aviant",
+                "BOOTH_KEY": "0DAA68AE-EB07-4828-9655-40526A4497A2",
+                "EXHIBITOR_KEY": "D1FFEEB6-855E-4E0F-9AFA-7E654E5BD961"
+            },
+            {
+                "BOOTH_NO": 3613,
+                "COMPANY_NAME": "Blueflite",
+                "BOOTH_KEY": "0DAA68AE-EB07-4828-9655-40526A4497A2",
+                "EXHIBITOR_KEY": "464AC12E-14AF-4D50-AC39-367C5684CF1F",
+                "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025326163317_badabe04286409c8473f006a9ef2609c.png"
+            },
+            {
+                "BOOTH_NO": 3613,
+                "COMPANY_NAME": "Circle Optics",
+                "BOOTH_KEY": "0DAA68AE-EB07-4828-9655-40526A4497A2",
+                "EXHIBITOR_KEY": "EEB9D39A-F3CC-4DAF-B58B-F8E5E1221084"
+            },
+            {
+                "BOOTH_NO": 3613,
+                "COMPANY_NAME": "Flyhound",
+                "BOOTH_KEY": "0DAA68AE-EB07-4828-9655-40526A4497A2",
+                "EXHIBITOR_KEY": "85A906FF-39DF-4F3B-B9B5-59E23B5ADA54",
+                "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025311181335_cbff770ced186b9cef8fdd354ad8214c.png"
+            },
+            {
+                "BOOTH_NO": 3613,
+                "COMPANY_NAME": "Involi",
+                "BOOTH_KEY": "0DAA68AE-EB07-4828-9655-40526A4497A2",
+                "EXHIBITOR_KEY": "FDC1FECB-8F67-4129-A191-15BD3D1AB386",
+                "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025313101258_cf4c3e5d196cd83087a0ec7ec20060a3.png"
+            },
+            {
+                "BOOTH_NO": 3613,
+                "COMPANY_NAME": "NUAIR",
+                "BOOTH_KEY": "0DAA68AE-EB07-4828-9655-40526A4497A2",
+                "EXHIBITOR_KEY": "B35CD7E1-2CAC-EF11-8101-8147A53E1DD0",
+                "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241126143240_2c54b2b61a73ce991bae96b0cbef6d01.png"
+            },
+            {
+                "BOOTH_NO": 3613,
+                "COMPANY_NAME": "ResilienX, Inc.",
+                "BOOTH_KEY": "0DAA68AE-EB07-4828-9655-40526A4497A2",
+                "EXHIBITOR_KEY": "4F2D88F9-8C24-4F4A-B1D4-3FECCF5DDB29",
+                "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025319142730_142517a07afaf62a52be8ab2861f2fb7.png"
+            }
+        ],
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/GENIUSNYProgram/",
+            "INSTAGRAM": "https://www.instagram.com/geniusnyprogram/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 13202,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202411229313_2d12de966f606ed84c7f4f52c660dee6.png",
+            "STATE": "NY",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "New York State is a global leader in UAS and drone technology, proudly hosting GENIUS NY\u2014the world\u2019s largest accelerator for uncrewed aerial systems. Since 2017, GENIUS NY has invested over $24 million in 42 groundbreaking startups, driving innovation and growth in the UAS ecosystem. Applications are now open for its ninth cohort in Syracuse, NY.\n\nNew York is also home to NUAIR (Northeast UAS Airspace Integration Research Alliance, Inc.), an organization at the forefront of integrating uncrewed systems into the national airspace. NUAIR\u2019s mission is to enable scalable, economically viable drone operations while positioning New York as a leader in the next wave of aviation innovation.\n\nJoin us at the New York Pavilion to connect with the visionary companies and organizations shaping the future of UAS and Advanced Air Mobility. Don\u2019t miss your chance to be part of the innovation driving this dynamic industry forward!",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "63243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0C98DE27-91C0-4E09-C981-11FBF7060917",
+                    "ANSWER_TITLE": "Government Entity (Non-Defense)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/genius-ny",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "312A1B78-E237-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "5E7D300E-BFA1-8DA9-80F0-B5C7980A6430",
+                            "ANSWER_TITLE": "New York Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "A93AB82B-EC6B-1546-7286-6A225B4EFD8C",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "New York Pavilion",
+            "CITY": "Syracuse",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.geniusny.com",
+            "TWITTER": "https://twitter.com/geniusnyprogram"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "9DA8B6E4-B6F2-EE11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "7EFAB46C-5DB5-4967-AEB6-41BB271B4DEA"
+    }
+}

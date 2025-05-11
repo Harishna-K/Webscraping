@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1433,
+                "BOOTH_KEY": "816440F4-FDA1-452A-8BFF-CD3CD37678AB",
+                "KEY_ID": "FA5A3F6D-0044-2422-C3BB-A9B43489AEA4"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "5B92F8DA-A8F9-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1433,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "SKYFALL INDUSTRIES",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "01001",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202535121453_bfbc7d53b299269211352cb38512f341.png",
+            "STATE": "Ukraine",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "UA",
+            "SALUTATION": "",
+            "DESCRIPTION": "SkyFall is one of the biggest miltech manufacturer in Ukraine. The company's most well-known projects include the strike UAV Vampire, also known as \"Baba Yaga,\" which has been used in over 500,000 missions on the front line, and Shrike FPV drones, which have become the most widespread FPV drones in the russo-Ukrainian War.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6DEE23B4-039F-ACB2-9B68-83D7B2388FAE",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "F9BB7B8A-C8A5-DCD2-6E98-C67A19F733AF",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "SKYFALL INDUSTRIES",
+            "CITY": "Kyiv",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.skyfall.ua",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "59DA623B-9B9E-48A3-AE6D-0C7D01B0ED39"
+    }
+}

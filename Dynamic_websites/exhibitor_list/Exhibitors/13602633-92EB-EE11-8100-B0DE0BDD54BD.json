@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3126,
+                "BOOTH_KEY": "8BBA56E7-634B-4867-8C09-10B988DF46BF",
+                "KEY_ID": "FB99706C-0F09-9150-7254-F668C5B8744C"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "13602633-92EB-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3126,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Deep Trekker Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/DeepTrekker/",
+            "INSTAGRAM": "https://www.instagram.com/deeptrekker/",
+            "ACTIVE": 1,
+            "ZIP_CODE": "\u00a0N2R 1S1",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202532511924_a6c61d195374b43181c8c8ca84b465c7.png",
+            "STATE": "ON",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CA",
+            "SALUTATION": "",
+            "DESCRIPTION": "Deep Trekker designs and manufactures rapid deployment, low logistics commercial ROVs with advanced survey capabilities that are ideal for a variety of industrial applications. Our open platform allows for easy integration with a variety of tools and sensors, including imaging and navigation sonars, USBL tracking systems, multi-function manipulators with a variety of attachments, laser scaling, and more. Deep Trekker ROVs offer a custom robotics solution that comes equipped with ultra high definition 4K cameras, offering precise data acquisition to optimize operations, meet regulations, and inform decisions.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D5E168C5-DA9F-C453-B47F-4A9E6A5E47BC",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://ca.linkedin.com/company/deep-trekker-inc-",
+            "TOLL_FREE": "",
+            "KEY_ID": "D5506787-D6D6-35A4-24FC-D404DC4C00BC",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Deep Trekker Inc.",
+            "CITY": "Kitchener",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.deeptrekker.com/",
+            "TWITTER": "https://twitter.com/deeptrekker"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "17EBF308-EE6B-4648-B568-45DE37246A37",
+        "CRM_COMPANY_KEY": "FE73F8AE-9E09-4B21-8DA7-FF20C51F46A7"
+    }
+}

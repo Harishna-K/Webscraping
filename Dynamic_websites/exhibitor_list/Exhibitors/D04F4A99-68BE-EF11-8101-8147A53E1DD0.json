@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1813,
+                "BOOTH_KEY": "4054973F-D748-423E-ACCA-A09E86B36828",
+                "KEY_ID": "CE81C013-9956-076C-D0DE-74FFF73081F2"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D04F4A99-68BE-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1813,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "PteroDynamics Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/PteroDynamics/",
+            "INSTAGRAM": "https://www.instagram.com/pterodynamics/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 80907,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241219172631_13b2ea3d4cbf12597bb5990f200dca9b.png",
+            "STATE": "CO",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "PteroDynamics is a pioneer in autonomous vertical takeoff and landing (VTOL) aircraft and inventor of the Transwing VTOL system that overcomes the inherent shortcomings of current VTOL aircraft by combining the speed, range, endurance, and payload capacity of a fixed-wing airplane with superior VTOL performance in a simple, efficient autonomous UAS platform.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "CEA54701-CAC6-C0C3-7497-3301AFFD0E84",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/pterodynamics",
+            "TOLL_FREE": "",
+            "KEY_ID": "CE88DF46-0FF6-50F2-0706-6DFAFC5105ED",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "PteroDynamics Inc.",
+            "CITY": "Colorado Springs",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.pterodynamics.com",
+            "TWITTER": "https://x.com/pterodynamics"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "AADC2676-1632-4333-8D53-CCD9973BDD91"
+    }
+}

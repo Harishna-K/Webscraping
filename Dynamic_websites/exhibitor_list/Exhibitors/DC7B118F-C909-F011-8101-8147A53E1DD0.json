@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4104,
+                "BOOTH_KEY": "8F96188C-5828-4E10-898E-0341478B1FEE",
+                "KEY_ID": "1AAF62EC-C043-194D-6846-9C8DA802E892"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "DC7B118F-C909-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 4104,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Alliance for private networks",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 94538,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025325154431_bc7a50d184804dffd44477e64ab114a9.jpg",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "The Alliance for private networks is championing the global industry adoption of private networks by educating the ecosystem and providing publicly available tools that ease deployment, such as:\n\u2022\tUni5G technology blueprints leverage 3GPP 5G standards to define profiling and classification requirements, enabling industry verticals to efficiently deploy their own optimized, reliable, and secure 5G private network in any available spectrum.\n\u2022\tTheir unique global PLMN-ID simplifies the path to private network deployment and accelerates the ecosystem.\n\u2022\tActing as a 3GPP Market Representation Partner, the Alliance welcomes alignment with industry organizations that share their vision for global private network adoption in any available spectrum.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "53243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "1AD92A61-B9C5-1390-C876-153B6CE75A0C",
+                    "ANSWER_TITLE": "Nonprofit/Association"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite J",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "1ABFB6FE-DAE6-A407-3AF4-6E83F5812545",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Alliance for private networks",
+            "CITY": "Fremont",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.mfa-tech.org/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "99104CBF-6DF2-4E24-9F3E-5E58A51F22CB"
+    }
+}

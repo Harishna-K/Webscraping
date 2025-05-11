@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2431,
+                "BOOTH_KEY": "C53A1886-25A0-41F5-9FBE-907FE5D3BDA1",
+                "KEY_ID": "17C678BE-F5E1-5995-A372-7E0EF9581569"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "68C5A2AA-5E9C-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2431,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "PHD Energy Group Corp",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 78626,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024116104910_f8851584ec26fbdaa750d6028fec4bd4.jpg",
+            "STATE": "TX",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "PHD Energy Inc. is a leading designer and manufacturer of advanced battery products. We operate five manufacturing plants in China, producing a range of high-quality batteries, including Li-MnO2 primary batteries, lithium-ion batteries, and various battery packs. Our primary focus is on overseas markets in North America and Europe.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6D6312B4-DC95-7153-0254-30B16BED7B42",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "17CAA9D7-F9A7-E41A-6B2B-85700A3B545C",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "PHD Energy Group Corp",
+            "CITY": "Georgetown",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.phdenergy.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "B317389F-813C-4A1C-B610-84B868A0ABD6"
+    }
+}

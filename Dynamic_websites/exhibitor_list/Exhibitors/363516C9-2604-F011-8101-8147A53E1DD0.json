@@ -1,0 +1,60 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1215,
+                "BOOTH_KEY": "EDB46550-C0C0-4BD1-BEA2-86581C44AE81",
+                "KEY_ID": "D604E03B-9209-F011-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "363516C9-2604-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1215,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Neya Systems",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "INSTAGRAM": "Neya Sysetms",
+            "ACTIVE": 1,
+            "ZIP_CODE": 15086,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025318143119_c8c19ed7589440c27bf9b556debbbd79.png",
+            "STATE": "PA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Neya Systems, a wholly owned subsidiary of Applied Research Associates, is committed to advancing the field of uncrewed systems through the development and integration of cutting-edge technologies and expertise in autonomy, multi-robot mission planning, cybersecurity, and general unmanned systems development and deployment. Neya\u2019s autonomy solutions integrate easily onto a variety of vehicles and platforms to deliver advanced navigation capabilities in complex outdoor terrain. Our team of experts is dedicated to creating innovative solutions that help our customers meet their mission goals. To learn more about Neya Systems, visit neyarobotics.com and follow us on LinkedIn.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A94DBA57-FDCA-BD73-1C07-D26F47B4FDDC",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Neya Systems",
+            "TOLL_FREE": "",
+            "KEY_ID": "A936628B-E194-0CA7-5748-9F6A1502A6B5",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Neya Systems",
+            "CITY": "Warrendale",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.neyarobotics.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "4C3FE517-A522-4AEE-B895-75C593BB6596"
+    }
+}

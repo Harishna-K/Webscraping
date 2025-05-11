@@ -1,0 +1,90 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4416,
+                "BOOTH_KEY": "CC1F6CFD-7809-49ED-9CD5-2DA3C679F9DF",
+                "KEY_ID": "4917A09C-ECDF-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "70F7974A-E8DF-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 4416,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "SAE International",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/SAEInternational/",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 15096,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025131103439_39269aff380df78b9f74a8bb6156f4ac.png",
+            "STATE": "PA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "SAE International is a global organization committed to advancing mobility knowledge and solutions for the benefit of humanity. By engaging nearly 200,000 engineers, technical experts and volunteers, we connect and educate mobility professionals to enable safe, clean, and accessible mobility solutions. We act on two priorities: encouraging a lifetime of learning for mobility engineering professionals and setting the standards for industry engineering. We strive for a better world through the work of our philanthropic SAE Foundation, including award-winning programs like A World In Motion\u00ae and the Collegiate Design Series\u2122. More at www.sae.org.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "53243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "620B7DA5-BCE5-0F78-763F-ED8EFCFB2EFC",
+                    "ANSWER_TITLE": "Nonprofit/Association"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/25098/",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "61F6FADD-E90E-6968-593C-4D1629CDD553",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "SAE International",
+            "CITY": "Warrendale",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.sae.org",
+            "TWITTER": "https://twitter.com/SAEIntl",
+            "HEADERIMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202534103125_2fc5eb7afb84bcb5c9026a30b4da1c1c.png"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "5B1878FE-22F9-478A-B730-5F7CB1C1548A"
+    }
+}

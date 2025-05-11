@@ -1,0 +1,96 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2921,
+                "BOOTH_KEY": "4D21F530-617E-4587-850D-0693A2F10ED7",
+                "KEY_ID": "5AE2EC62-2500-F011-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D2BA3584-C6CF-4F1B-B769-FD66631CC1C1",
+        "PRIMARY_BOOTH": 2921,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "German Pavilion",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "SUBEXHIBITORS": [
+            {
+                "BOOTH_NO": 2921,
+                "COMPANY_NAME": "German American Chamber of Commerce of the Southern U.S., Inc.",
+                "BOOTH_KEY": "4D21F530-617E-4587-850D-0693A2F10ED7",
+                "EXHIBITOR_KEY": "83F83C5E-BA67-4CE6-987C-6102207AD028"
+            },
+            {
+                "BOOTH_NO": 2921,
+                "COMPANY_NAME": "Germany Trade & Invest",
+                "BOOTH_KEY": "4D21F530-617E-4587-850D-0693A2F10ED7",
+                "EXHIBITOR_KEY": "F484ABA7-7529-4975-BBDA-238BC2EB604B"
+            }
+        ],
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "-",
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20253711321_f20348cd8ac5ba4fca2aaa3e22f9c881.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "EMAIL": "WynhoffU@messe-duesseldorf.de",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "The Federal Ministry for Economic Affairs and Climate Action (BMWK) in Cooperation with AUMA-Association of the German Trade Fair Industry presents the German Pavilion at XPONENTIAL. The German Pavilion helps to establish contacts with German companies and offers comprehensive information on Germany as an important business location. The German Pavilion is supported by: Unmanned Aviation Association (UAV Dach e.v. https://uavdach.org/), Germany Trade & Invest (GTAI - www.gtai.de/en/invest), German American Chamber of Commerce of the Southern U.S., Inc. (www.gaccsouth.com), and is organized by Messe Duesseldorf GmbH (www.messe-duesseldorf.de).",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "63243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "68EF7140-DBEF-96AF-797A-55656DEC9C76",
+                    "ANSWER_TITLE": "Government Entity (Non-Defense)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "D568D496-D9F9-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "68EF7285-9FD0-67B0-2E80-749CA064D633",
+                            "ANSWER_TITLE": "German Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "68E8485F-F7A4-2433-E417-C915A017795A",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "German Pavilion",
+            "CITY": "-",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://xponential.german-pavilion.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "D2BA3584-C6CF-4F1B-B769-FD66631CC1C1",
+        "CRM_COMPANY_KEY": "99476574-52D0-4137-921B-A9BCCBC17069"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3038,
+                "BOOTH_KEY": "4AFF53E6-98B6-4FDE-ABCA-3F59C5EEA989",
+                "KEY_ID": "4BD39385-94BF-5EEB-AFF3-E07E37F83459"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "9DED7227-BFF2-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3038,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "UXV Technologies",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 2635,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DK",
+            "SALUTATION": "",
+            "DESCRIPTION": "UXV Technologies specializes in designing, developing, and manufacturing ground control stations (GCS), multi-sensor payloads featuring advanced edge-computing capabilities, and other innovative technologies tailored for defense robotics and unmanned systems such as unmanned aerial vehicles, unmanned ground vehicles, unmanned surface vehicles and remote-operated vehicles.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "ACBB279E-0E0D-1C1D-75CD-FD6F418D023D",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "AC9C41A1-CF84-F247-5F05-4DB3721F5F50",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "UXV Technologies",
+            "CITY": "Ishoej",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.uxvtechnologies.com/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "14A20BDF-EE7A-4CC9-94F2-2F047E9967D5"
+    }
+}

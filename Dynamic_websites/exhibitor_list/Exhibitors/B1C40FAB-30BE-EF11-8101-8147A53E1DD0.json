@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2040,
+                "BOOTH_KEY": "12037437-5E56-44F8-BF5B-3C5207E58F9C",
+                "KEY_ID": "C035B32D-97EF-4E27-DB95-3E8A77E6D5E6"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "B1C40FAB-30BE-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2040,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Advance Energy Inc",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "Thunder Power RC",
+            "INSTAGRAM": "Thunder Power RC",
+            "ACTIVE": 1,
+            "ZIP_CODE": 89113,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024121994559_bc864fabc4205dc8974237e1ef9801b2.jpg",
+            "STATE": "NV",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Advance Energy Inc. is a privately owned Company that was founded in 1989 in Las Vegas, NV by Mr. Charlie Wang.  \n\nIn the 1990s, Advanced Energy Inc. had already accomplished its good reputation on the market in providing cell phone batteries for mobile devices around the US. \n\nSince 2003, Advanced Energy Inc. has grown into the world leader in the advancement of high-energy Lithium Polymer battery power, charging, and maintenance solutions for unmanned systems, consumer electronics, medical, radio-controlled, robotic, and a wide variety of other applications.\n\nWe offer consulting, support, and options for off-the-shelf or custom battery applications for Lithium Polymer power solutions all while operating within regulations related to applications.  \nOur team is well experienced with electronic engineering, chemistry, and aviation backgrounds to ensure we can offer the best product for the perfect application. \nContinuing to set industry-leading standards in performance, reliability, and values is our daily goal as we are transitioning more towards expanding our operations by providing power solutions for commercial and government unmanned vehicles. \nBeing a socially responsible business owner, we are proud to be a supporter of local charitable groups, community events, and school programs in our relatable fields. We also keep supporting young talents in the hobby divisions such as Drone Racing as seen on TV.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "C085D3A5-098A-BA9A-8CB5-2038204B955D",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 108",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Thunder Power RC",
+            "TOLL_FREE": "",
+            "KEY_ID": "C03C7E79-B741-2789-1CFE-E7DCFEB1D517",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Advance Energy Inc (dba Thunder Power RC)",
+            "CITY": "Las Vegas",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "Thunderpowerrc.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "75B661F5-DDE3-40E1-A7FA-18F79C06D540"
+    }
+}

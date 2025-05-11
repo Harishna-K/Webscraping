@@ -1,0 +1,85 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 10,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": "MR2",
+                "BOOTH_KEY": "EDEEAAE4-9FEB-4D48-AB1C-2B157F886111",
+                "KEY_ID": "39A76C6D-7BFF-EF11-8101-8147A53E1DD0"
+            },
+            {
+                "BOOTH_NO": 3613,
+                "BOOTH_KEY": "0DAA68AE-EB07-4828-9655-40526A4497A2",
+                "KEY_ID": "E11219DA-7BFF-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "B35CD7E1-2CAC-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3613,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "NUAIR",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 13032,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241126143240_2c54b2b61a73ce991bae96b0cbef6d01.png",
+            "STATE": "NY",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "NUAIR is a nonprofit driving economic development through innovations in UAS and Advanced Air Mobility to safely integrate into the national airspace. Funded through the continued support from Empire State Development and the State of New York through grants focused on empowering and enabling the next generation of aviation. With guidance from inception to acceleration, we help our partners deliver advanced UAS commercial outcomes and build on a proven ecosystem of networks from incubators to investors and customers to partners. Together, we realize the harmonization needed to innovate airspace, advance aviation, and architect AAM in our communities from theory to reality with our team of experts.\n\nWith a rich history of 10+ years performing UAS testing and validation, investing in local and state economic development, and training public safety elite, the Northeast UAS Airspace Integration Research Alliance, Inc. (NUAIR) is proud to be the catalyst to not only New York\u2019s airspace innovation, but mobility advancement around the globe.\n\nNUAIR. Where Next Takes Flight.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "53243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "23A4B107-C9C8-E5D6-FCA7-FE0B189687BB",
+                    "ANSWER_TITLE": "Nonprofit/Association"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/nuair/",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "312A1B78-E237-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "044A3578-C1F7-F92C-A4E6-9D551906711A",
+                            "ANSWER_TITLE": "New York Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "23968BC1-C5EE-5A76-32BC-D8AA2B1F4B70",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "NUAIR",
+            "CITY": "Canastota",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.nuair.org",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "9DA8B6E4-B6F2-EE11-8100-B0DE0BDD54BD",
+        "CRM_COMPANY_KEY": "EA557E7F-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

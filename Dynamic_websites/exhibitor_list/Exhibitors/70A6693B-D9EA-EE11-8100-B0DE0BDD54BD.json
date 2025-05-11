@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3635,
+                "BOOTH_KEY": "9FCA8D15-BCB7-4B8E-9E20-04D3DC012BE3",
+                "KEY_ID": "4D8DCBBA-D534-F142-B133-4F6D8372299E"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "70A6693B-D9EA-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3635,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Octane Wireless",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 21076,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202432515130_4ca4878e0c54fb0bfa6b092fd9a22faa.png",
+            "STATE": "MD",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Octane Wireless is a leading manufacturer of small high-performance antennas for UAVs/drones offering lightweight blade antennas and innovative peel & stick applique antennas.  For UAV controllers we offer gooseneck, stub, spring, and wearable antennas.  Our custom engineered solutions include conformal antennas for integrating into UAV fuselages.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A5EA8749-A97D-ADF1-8188-17E64224CE98",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite L",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/pharad-llc",
+            "TOLL_FREE": "",
+            "KEY_ID": "A5DCA49A-9E6D-6790-77C2-A7641E2D4765",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Octane Wireless",
+            "CITY": "Hanover",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.octanewireless.com",
+            "TWITTER": "https://twitter.com/pharadoctane"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "8425676C-9DE3-4498-A9E7-8CC92E46AA1B"
+    }
+}

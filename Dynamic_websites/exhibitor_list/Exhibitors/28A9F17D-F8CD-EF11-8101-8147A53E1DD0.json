@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1901,
+                "BOOTH_KEY": "1A2A6E44-554F-42FD-A6A8-BBD0A37AB955",
+                "KEY_ID": "076D5D87-07CE-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "28A9F17D-F8CD-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1901,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Seasats",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 92117,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202518122146_3f6df5d9c731676dc85997851bfce74c.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Seasats is a California-based manufacturer and operator of reliable, persistent, and practical autonomous surface vehicles. The company\u2019s products have been proven in missions with the U.S. Navy, various commercial customers, and in a 2024 fully autonomous ocean crossing from San Diego to Hawaii. Seasats' mission to revolutionize ocean operations through autonomy has attracted backing from L3Harris Technologies and other industry leaders.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "CBE67C08-A603-9250-796E-6E873C4610DE",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Building 600",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "CBC65C9B-0512-58AD-8DB6-923C969C75E2",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Seasats",
+            "CITY": "San Diego",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://seasats.com/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "2E203A4C-A906-44F4-9EDD-D46CF7765C15"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2615,
+                "BOOTH_KEY": "AA599FEC-AF6F-4894-A73F-EEAD490A4C83",
+                "KEY_ID": "76BB4C38-CED8-94DD-6D79-1F9659B55315"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "382E3494-09EE-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2615,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Septentrio NV",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1135,
+                    "TITLE": "Speaking Opportunity - Solutions Theater",
+                    "ID": "EVENTS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "\u00a03001",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024329212452_ca6736b92c1ced87b0f3df8ba1640f03.jpg",
+            "STATE": "Vlaams Brabrant",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "BE",
+            "SALUTATION": "",
+            "DESCRIPTION": "Septentrio designs and manufactures multi-frequency multi-constellation GPS/GNSS positioning technology for demanding applications. At the core of our receivers is the latest GNSS technology delivering reliable centimeter-level positioning. Our receivers are known for their outstanding performance, high level of security and resilience in challenging environments. That is why our products serve in safety-critical applications and are part of critical infrastructure around the world.\nSeptentrio provides positioning solutions for industrial applications such as robotics, construction, survey and mapping, scientific, reference networks, maritime, logistics and unmanned aerial vehicles (UAVs) among others. See our top applications.\n\nSeptentrio has its headquarters in Leuven (Belgium) and has a world-wide presence with offices in Espoo (Finland), Los Angeles (USA), Shanghai (China), Yokohama (Japan)and Seoul (Korea) as well as numerous partners around the world.\n\n20+ Years of innovation\nSeptentrio was started in year 2000, as a spin-off of imec, the world's largest and most advanced semiconductor research institute with over 5000 researchers. From the start, we used the most advanced semiconductor designs for low power, high performance and disturbance mitigation. The nearby KULeuven University is one of Europe\u2019s leading universities and is an excellent source of top talent in areas such as signal processing and advanced algorithms, although we attract top specialists from around the globe. We continue to work with imec as well as other highly specialized partners to build the best GNSS receivers in the world. \n\nCutting-edge GNSS technology\nFrom its inception, Septentrio has been involved in many programs for the European Space Agency and the Galileo GNSS program. As an example, we developed the first receivers to decode the advanced signals from a Galileo satellite and have tested and validated all Galileo signals ever since, including the PRS signals.\n\nQuality in our DNA\nAt Septentrio, we take quality very seriously and don\u2019t want to make compromises when it comes down to the quality of our GNSS receivers of the very highest quality.\nEverything we do is about creating benefits for our customers. Our main quality goal is to deliver products that meet the customers\u00b4 needs and expectations \u2013 on time.\nOur workforce is our most valuable asset. Each member is qualified by consistent training in both administrative and technical areas. The employee\u00b4s awareness and engagement are key success factors and we ensure that everyone knows their responsibility and importance to contribute to good quality. All sites at Septentrio are certified according to ISO 9001:2015 .  Read our quality statement here.\n\nYour reliable OEM long-term partner\nWe see it as our mission to make you win in your markets, by providing you with the world's best GPS/GNSS receivers . As your long-term partner, our job is to provide you with competitive products, while our in-depth understanding of the technology and committed support ensures smooth integration and successful operation.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0D11FBA0-A9A5-37FD-8DE0-AEE324878592",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Interleuvenlaan 15i",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/37977/admin/feed/posts/",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "76CAD9F1-BEF8-37DC-DB97-D5011711D4F7",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Septentrio NV",
+            "CITY": "Leuven",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.septentrio.com",
+            "TWITTER": "https://twitter.com/Septentrio",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "A3B60294-0E49-4E20-9C75-609C54739F75"
+    }
+}

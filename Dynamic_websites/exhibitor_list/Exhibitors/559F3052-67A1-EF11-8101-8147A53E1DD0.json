@@ -1,0 +1,87 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3834,
+                "BOOTH_KEY": "D4633554-A63C-45EB-962E-98FDE212BBE5",
+                "KEY_ID": "C1F4AA63-9DA2-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "559F3052-67A1-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3834,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Phoenix Flight Industries",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "@phoenixflightindustries",
+            "ACTIVE": 1,
+            "ZIP_CODE": 90802,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241112183336_1af4c5cd55fae53f127d196a8180e581.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Phoenix Flight Industries is pioneering hydrogen powered aviation. We have developed a hydrogen fuel cell drone for multiple uses across various industries. The technology used in our drones is our the beginning of the the R&D for the flying cars we're aiming to build to pioneer the future of personal aerial transportation.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "61CB1D63-B519-90A6-0149-AB666F7C38D3",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "2F",
+            "MAP_LOGO": true,
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "61AA9F0D-FAE1-E61C-CF4C-6E23F0784096",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Phoenix Flight Industries",
+            "CITY": "LONG BEACH",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.phoenixflightindustries.com",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "55C37C80-A143-46F0-9CA4-EAAC68777D77",
+        "CRM_COMPANY_KEY": "74A576CC-BF32-4783-A4B2-DE71B8319DEA"
+    }
+}

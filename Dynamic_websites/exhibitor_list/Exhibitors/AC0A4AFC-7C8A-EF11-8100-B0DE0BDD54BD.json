@@ -1,0 +1,146 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1909,
+                "BOOTH_KEY": "91AC93D3-D029-48C1-A7CE-912A2DAF8716",
+                "KEY_ID": "37788F69-048B-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "AC0A4AFC-7C8A-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1909,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "ANELLO Photonics",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1135,
+                    "TITLE": "Speaking Opportunity - Solutions Theater",
+                    "ID": "EVENTS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "95054-1806",
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202521518642_d9113b5bb825b3d1f43faf07da7750b7.jpg",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [
+                {
+                    "CATEGORY_TITLE": "Integrator",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "060655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "ANELLO - One Pager - Company Overview",
+                    "KEY_ID": "90754044-0D22-6CA5-EA65-F2886A7EC33C",
+                    "HEADER_IMAGE": "",
+                    "TITLE": "ANELLO - Company Overview",
+                    "URL": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2024123133337_cc919dc516dd85d51d3d26d7a518e68f.pdf"
+                }
+            ],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "ANELLO Photonics is creating navigation solutions for autonomy in GPS-Denied environments. ANELLO's Silicon Photonics Optical Gyroscope (SiPhOG) is a low-noise, low-drift optical gyroscope used for Inertial Navigation Systems to enable autonomy in Agriculture, Construction, Trucking, Drones/UAVs, Automotive and Defense.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "060655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "8411C7C7-A3F6-73D1-B656-FFE80902BF83",
+                    "ANSWER_TITLE": "Integrator"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 150",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/anellophotonics",
+            "PRESS_RELEASES": [
+                {
+                    "SUB_TITLE": "",
+                    "CITY": "",
+                    "COUNTRY": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "SANTA CLARA, Calif., Nov. 18, 2024 /PRNewswire/ -- ANELLO Photonics, the creator of the Silicon Photonic Optical Gyroscope (SiPhOG&trade;), today announced the successful closure of its Series B funding round reflecting robust investor confidence in the company&#39;s groundbreaking approach to inertial navigation in GPS-denied environments. The investment was co-led by Lockheed Martin, Catapult Ventures and One Madison Group. Additional investors included New Legacy, Build Collective, Trousdale Ventures, In-Q-Tel (IQT), K2 Access Fund, Purdue Strategic Ventures, Santuri Ventures, Handshake Ventures, Irongate Capital and Mana Ventures. This funding round will accelerate ANELLO&#39;s mission to revolutionize navigation and positioning in GPS-denied environments across both Industrial and Defense applications. The participation of new investors highlights the significant interest in ANELLO&#39;s groundbreaking SiPhOG technology which brings high precision optical fiber gyro performance onto an integrated silicon photonics platform. ANELLO&#39;s solutions are perfectly designed to meet the rigorous demands of navigation, positioning, and motion tracking for autonomous applications in challenging GPS-jammed and spoofed environments. &quot;Every week there&#39;s an article about a commercial flight or defense-related mission getting GPS jammed like thousands of flights to and from Europe affected by suspected Russian jamming. GPS has become a single-point of failure because it&#39;s too easily compromised with various jamming &amp; spoofing techniques. ANELLO&#39;s proven and commercially available optical gyroscope is the only navigational tool that can take over: precision over long periods of time, the size of a golf ball, low power, low cost, that&#39;s immune to shock and vibration. ANELLO will save lives in the air, on the road, and over water,&quot; said Tony Fadell Build Collective Principal and Nest Founder. &quot;We are excited to announce our new series B funding round as well as our new investors in ANELLO&quot; said Dr. Mario Paniccia, CEO and co-founder of ANELLO Photonics. &quot;This investment not only validates our SiPhOG technology and products in the marketplace but will allow us to accelerate our manufacturing and product development as we continue to push the boundaries and leadership for navigation capabilities and performance to our customers who want solutions for GPS-denied environments.&quot; &quot;We&#39;re committed to fostering the art of the possible with investments in cutting edge technologies, including advancements in inertial navigation that have the potential to enhance autonomous operations in GPS-denied environments,&quot; said Chris Moran, Vice President and General Manager of Lockheed Martin Ventures. &quot;Our continued investment in ANELLO reflects our mission to accelerate technologies that can ultimately benefit national security.&quot; ANELLO Photonics is actively collaborating with leading customers across diverse industries, including Construction, Agriculture, Trucking, Robotics, Unmanned Aerial Vehicles, Unmanned Underwater Vehicles, Autonomous Vehicles, Defense and National Security. About ANELLO Photonics ANELLO Photonics is a leading-edge technology company based in Santa Clara, CA. The company has developed the ANELLO SiPhOG&trade; &ndash; Silicon Photonics Optical Gyroscope &ndash; based on integrated photonic system-on-chip technology. ANELLO&#39;s technology portfolio spans over 28 issued patents, over 44 pending patents, and also includes an AI-based sensor fusion engine. ANELLO&reg; and SIPHOGTM are registered trademarks of ANELLO Photonics. About Build Collective Build Collective, led by Tony Fadell, is a global investment and advisory firm coaching engineers, scientists, and entrepreneurs working on foundational deep technology. With 200+ startups in its portfolio, Build Collective invests its money and time to help engineers and scientists bring technology out of the lab and into our lives. Supporting companies beyond Silicon Valley, Build Collective&#39;s portfolio is based mainly in the EU and US with some companies in Asia and the Middle East. From tackling food security, sustainability, transportation, energy efficiency, weather, robotics, and disease to empowering small business owners, entrepreneurs, and consumers, the startups in Build Collective&#39;s portfolio are improving our lives and prospects for the future. With no LP&#39;s to report to, the Build Collective team is hands-on and advises for the long-term. About Lockheed Martin Ventures Lockheed Martin Ventures makes strategic investments in companies that are developing cutting edge technologies in core businesses and new markets important to Lockheed Martin. More than a source of capital, Lockheed Martin Ventures provides portfolio companies with access to our world-class engineering talent, state-of-the-art technologies, and research and access to the company&#39;s international business relationships and supply chain. Media Contact: Gerhard Boiciuc 312-505-5356 386448@email4pr.com",
+                    "PHONE": "",
+                    "STATE": "",
+                    "KEY_ID": "9030C2DD-EF36-62D7-1CC0-E8F6157DFF55",
+                    "TITLE": "ANELLO Photonics Secures Series B Funding to Propel the Future of Inertial Navigation for Autonomous Applications",
+                    "LAST_NAME": "",
+                    "EMAIL": "",
+                    "FIRST_NAME": ""
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "83F04ACD-F49A-75F3-802B-8AA8548D39A7",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "ANELLO Photonics",
+            "CITY": "Santa Clara",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "ANELLO X3 performance on a drone",
+                    "KEY_ID": "9013E81D-9D6D-F58B-9B67-738E0247460A",
+                    "TITLE": "ANELLO X3 ON A DRONE",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2024123132338_35194c811fd69797f708077c4949757a.png",
+                    "URL": "https://www.youtube.com/watch?v=sZjT_6OFNJY&t=2s"
+                },
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Dr. Mario Paniccia, ANELLO CEO talking about ANELLO tech and its benefits at CES 2024",
+                    "KEY_ID": "902A84B0-98D2-FFB9-9BEB-36C942E3E697",
+                    "TITLE": "ANELLO Overview",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2024123132554_506edae0a4e9eac7d060ac6c50c0dc96.png",
+                    "URL": "https://www.youtube.com/watch?v=p6yN_7cCIEs&t=26s"
+                }
+            ],
+            "WEBSITE": "anellophotonics.com",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "927E13F7-8C8D-4A27-BFA1-3E57B97CDEC2"
+    }
+}

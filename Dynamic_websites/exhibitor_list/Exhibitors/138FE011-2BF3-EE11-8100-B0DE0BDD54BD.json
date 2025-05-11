@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2614,
+                "BOOTH_KEY": "83A9DAD2-0BB1-4E29-97D9-D3786386D9C4",
+                "KEY_ID": "C7056490-CEBE-074B-F6DD-731801BFEB9B"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "138FE011-2BF3-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2614,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Mejzlik Propellers",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 61500,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CZ",
+            "SALUTATION": "",
+            "DESCRIPTION": "Mejzlik Propellers, a European Union-based company, specializes in producing high-quality propellers for various types of uncrewed systems. Our comprehensive production process, centralized under one roof, ensures meticulous handling from design and simulation to the delivery of fully customized propellers. Collaborating with high-end motor/controller partners, we've curated an extensive database of propulsion systems, empowering you to find the perfect fit for your platform or customize further. Choose from our diverse portfolio of off-the-shelf propellers for immediate deployment. Should none align with your needs, we excel in engineering fully customized propellers tailored to your specifications. Additionally, our new HotPress Production Line enables us to produce high volumes efficiently, ensuring rapid scalability without compromising on quality. Rely on our expertise to drive innovation and propel your projects with precision and reliability in the dynamic uncrewed systems landscape.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "C7462E0E-B97A-1356-E657-0B406F60376F",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "0F155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "4C720E02-96CA-B75E-5373-81768007FE13",
+                            "ANSWER_TITLE": "Public Safety"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "C71D87BE-0EDD-C509-B401-F11E40CB82F5",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Mejzlik Propellers",
+            "CITY": "Brno",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.mejzlik.eu",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "DB7FB87D-40DF-4F43-B244-BF0A1257C18D"
+    }
+}

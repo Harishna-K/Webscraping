@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3439,
+                "BOOTH_KEY": "2B429C7A-A776-4FE8-BFC9-D8E4854975D5",
+                "KEY_ID": "5D40CA39-561F-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "68BF5429-9002-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3439,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "XOAR International LLC.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 91007,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "XOAR has established an international reputation for its drone propellers and motors. We feature precision pair prop sets for drones and multicopters, including quadcopters, hexacopters, octocopters, and fixed-wing drones for professionals, and any commercial and industrial application. Additionally, we offer general aviation propellers for LSA. Leveraging over 40 years\u2019 aviation experience, industry-leading precision, the best and most reliable material and designs, manufacturing according to the highest industry standards, and incorporating modern technology and strict quality control, XOAR produces the most efficient and stable UAV and niche market propellers in the aviation industry. XOAR\u2019s uniquely dependable, efficient, precise, and sturdy props to take your drone higher, further, faster, and smoother.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0D08A7DB-C536-A922-2CDC-8FE32CDB32F4",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Unit G 165",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "B7E81759-D7A0-4404-92A1-80242BFA36E7",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "XOAR International LLC.",
+            "CITY": "Arcadia",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.xoarintl.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "AF9AC0F2-DA4D-4E1C-9979-BF298C898C32"
+    }
+}

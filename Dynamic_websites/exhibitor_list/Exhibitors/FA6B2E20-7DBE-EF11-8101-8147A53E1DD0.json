@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3140,
+                "BOOTH_KEY": "C730738F-CC62-4690-B719-9EF03B648D30",
+                "KEY_ID": "D3C71F19-9A5A-B2C8-2888-87C63FDD481E"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "FA6B2E20-7DBE-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3140,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Benewake (Beijing) Co., Ltd.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 100085,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20241220105245_55982f28ab2f817756120a4a9e6bc6c7.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CN",
+            "SALUTATION": "",
+            "DESCRIPTION": "Benewake (Beijing) Co., Ltd., founded in 2015, is a world-leading provider of LiDAR products and solutions. Benewake is dedicated to empowering millions of mobile agents with LiDAR technologies, propelling the forces of digitalization and intelligence, advancing safety, capacity, and efficiency for our customers across all spheres. Benewake\u2019s LiDAR products find wide-ranging applications in intelligent vehicles, transportation, and industrial sensing. With a comprehensive product matrix, we have established the sole diversified, all-encompassing business layout within the industry. To date, Benewake has shipped more than 2 million units of LiDAR products to over 90 countries and regions worldwide, ushering in the era of widespread commercial implementation of LiDAR technology.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D3D8C7F3-C735-5F2C-7D80-69F6B7105197",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "D3CC76F5-F889-7AC0-92D0-75533413E751",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Benewake (Beijing) Co., Ltd.",
+            "CITY": "Beijing",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "en.benewake.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "F047C63C-2E0D-4EF6-85CA-7AC3E91F5AEB"
+    }
+}

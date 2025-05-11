@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2429,
+                "BOOTH_KEY": "E92DE3E5-E357-4AA2-8B34-78590CFE24A9",
+                "KEY_ID": "AC9DFBDB-DF63-43C9-23FA-110CC03484B6"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "1412BF1E-BC9A-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2429,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "VISIONAIRtronics GmbH",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 7142,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "AT",
+            "SALUTATION": "",
+            "DESCRIPTION": "VISIONAIR specializes in redundant, highly-reliable power management systems and a selected portfolio of components for unmanned aerial vehicle. \n\nBetter safe than sorry.\n\nOur high-tech company focuses on development, product supply and various engineering services to OEMs, becoming your one-stop-shop in the defense and security industry.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "ACCCCA2D-CAA2-D2D3-87C3-9D81A3AB3E1F",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "ACB32A9E-F5EC-55BB-4501-FC4FADEE72D3",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "VISIONAIR - Next Level Safety",
+            "CITY": "Illmitz",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.vat.aero"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "38D3E2A5-9241-40F8-A531-C6531353B3E2"
+    }
+}

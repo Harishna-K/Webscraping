@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3321,
+                "BOOTH_KEY": "D4EFD038-7B7B-4B04-AFE7-5A9AB0256D2A",
+                "KEY_ID": "A14B7449-9E9F-2C69-0E00-8EFA3A07ADB9"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "CC2056E8-97F2-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3321,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Aurora Flight Sciences",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 20110,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20244411302_f44ad5679aceb36ff01d4343995c802c.jpg",
+            "STATE": "VA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Aurora Flight Sciences, a Boeing Company, advances the future of flight by developing innovations in aircraft configurations, autonomous systems, propulsion technologies, and manufacturing processes. With a passionate and agile team, Aurora delivers solutions to its customers\u2019 toughest challenges while meeting high standards of safety and quality.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5D243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A161C635-DB44-7576-45B6-44D010DDC614",
+                    "ANSWER_TITLE": "Software/Saas Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "A14E5E61-0AE3-5072-7170-BD9EE47713F0",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Aurora Flight Sciences",
+            "CITY": "Manassas",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.aurora.aero"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "3F6BD2F3-40B4-4F83-BC6D-7C60D7C3BFBD"
+    }
+}

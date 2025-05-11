@@ -1,0 +1,61 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3111,
+                "BOOTH_KEY": "AE70E8FE-CEAE-4AFA-8081-B63A66675992",
+                "KEY_ID": "A007BF5B-CA79-2C54-0ED7-7B61F38E896F"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "371AA283-90F2-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3111,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Botlink",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "PacketDigital",
+            "ACTIVE": 1,
+            "ZIP_CODE": 58104,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20244495631_a2534d40a0706b53370dfe296a20b8c9.png",
+            "STATE": "ND",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Packet Digital is an engineering and manufacturing company focused on UAS battery development and production. Founded in 2003, Packet Digital\u2019s team has experience developing reliable, high-performance batteries and power systems for the world\u2019s most demanding UAS applications. Packet Digital has a full suite of capabilities at its two Fargo, ND locations including a seasoned team of electrical, mechanical, and software engineers, fast prototyping equipment, and test equipment. In addition to engineering capabilities, Packet Digital also has a wide breadth of manufacturing capabilities, including battery cell welding, assembly, and automated testing, as well as an SMT line, allowing in-house assembly of printed circuit boards to IPC Class 3 standards.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A048787A-CCEA-62F9-A474-71C1D981B763",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Packet Digital",
+            "TOLL_FREE": "",
+            "KEY_ID": "A0187BE5-F5FF-074D-45F3-725C8F88736E",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Packet Digital",
+            "CITY": "Fargo",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.packetdigital.com",
+            "TWITTER": "PacketDigital"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "D4A04CFB-E0B2-4874-9F91-2DEE16B5EFDE"
+    }
+}

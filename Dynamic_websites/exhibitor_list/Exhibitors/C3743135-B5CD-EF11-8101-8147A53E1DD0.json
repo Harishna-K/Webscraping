@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2014,
+                "BOOTH_KEY": "6C71248C-4468-4080-9D1D-CF138F5FAFA3",
+                "KEY_ID": "B9744B13-B541-75FE-DB0F-48CF1C02B2E4"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C3743135-B5CD-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2014,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Dronetag",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 10100,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202518133057_981f51af3ddb8218029cdca58dd00a1f.png",
+            "STATE": "Prague",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CZ",
+            "SALUTATION": "",
+            "DESCRIPTION": "Dronetag is the only ecosystem offering end-to-end drone identification and compliance solutions. Our advanced technology, including transmitters, receivers and visualization software, brings control, compliance and situational awareness to any airspace. Our solutions makes digitally advanced skies an overnight possibility for fleet managers, public safety organizations, defense sector, drone manufacturers and drone pilots.\n\nFuture-ready Remote ID receivers provide a protective layer and situational awareness around temporarily or permanently restricted airspace. Designed as both wearable and stationary weatherproof devices, Dronetag receivers enable advanced drone detection, smart drone whitelisting, and seamless integration into the Dronetag platform or any preferred UTM / C-UAS system.\n\nOur solution can detect all Remote ID-compliant drones from distances of up to 25 km. Featuring a seamless API, it allows you to view data via our cloud interface or easily integrate it into any existing system. Offering the most advanced integration worldwide, our solution supports communication across all protocols and is compatible with all systems.\n\nAll Dronetag solutions can be seamlessly integrated into an advanced system that supports whitelisting through a combination of Network Identification modules and Drone Remote Identification receivers. Our data is encrypted and can be hosted on-premise, with comprehensive customization options for hardware, firmware, and software. Integration with C2 and C-UAS systems is simple, and we also offer the option to implement our visualization layer, tailored to the client\u2019s specific needs.\n\nOur ecosystem of drone visibility technology is built for advanced situational awareness, offering out-of-the-box functionality and ease of use, making it ideal for defense sector and public safety units. Our devices provide real-time data streaming to the Dronetag platform or any UTM/C-UAS system, enabling enhanced situational awareness, efficient drone fleet coordination, multi-agency operations, and whitelisting capabilities.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "D41A414A-570A-F011-8101-8147A53E1DD0",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "3F02F574-EC53-4833-04D8-81DFC3DEE540",
+                    "ANSWER_TITLE": "Airspace Awareness & Management"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "BAF1CB18-9A2C-3AF7-1DCC-2985B9F8423D",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Dronetag",
+            "CITY": "Prague",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "dronetag.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "2CD4738B-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

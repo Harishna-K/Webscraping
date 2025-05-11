@@ -1,0 +1,4753 @@
+{
+  "props": {
+    "pageProps": {
+      "pageProps": {
+        "query": {
+          "lang": "en",
+          "country": "ae",
+          "specialityTitle": "practitioner",
+          "speciality": "physiotherapy",
+          "city": "dubai",
+          "name": "mariam-m-abdelaziz",
+          "countryList": [
+            {
+              "country_name": "Qatar",
+              "country_code": "qa",
+              "flag": "https://img.okadoc.com/photos/countries-circ/qa-circular.svg",
+              "currency": "QAR",
+              "languages": [
+                {
+                  "language": "English",
+                  "language_code": "en",
+                  "native_language": "English",
+                  "url": "/en-qa",
+                  "extra_attributes": {
+                    "about": [
+                      {
+                        "link": "https://www.okadoc.com/en-qa/about-okadoc",
+                        "name": "About"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/en-qa/pro",
+                        "name": "Okadoc for Doctors"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/en-qa/press",
+                        "name": "Press"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/blog",
+                        "name": "Blog"
+                      }
+                    ],
+                    "certification": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                        "name": "ISO 27001",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                        "link": false,
+                        "name": "SOC 2",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                        "name": "HIPAA Compliant",
+                        "type": "iso"
+                      }
+                    ],
+                    "help": [
+                      {
+                        "link": "https://www.okadoc.com/en-qa/contact-us",
+                        "name": "Contact"
+                      }
+                    ],
+                    "privacy": [
+                      {
+                        "link": "https://www.okadoc.com/policy/privacy/",
+                        "name": "Privacy Policy",
+                        "type": "privacy"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/en-qa/policy/terms/",
+                        "name": "Terms of Use",
+                        "type": "terms"
+                      }
+                    ],
+                    "sosmed": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                        "link": "https://www.facebook.com/Okadoc/",
+                        "name": "facebook"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                        "link": "https://twitter.com/okadoc_uae",
+                        "name": "twitter"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                        "link": "https://www.instagram.com/okadoc_uae/",
+                        "name": "instagram"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                        "link": "https://www.linkedin.com/company/okadoc/",
+                        "name": "linkedin"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                        "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                        "name": "youtube"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "language": "Arabic",
+                  "language_code": "ar",
+                  "native_language": "العربية",
+                  "url": "/ar-qa",
+                  "extra_attributes": {
+                    "about": [
+                      {
+                        "link": "https://www.okadoc.com/ar-qa/about-okadoc",
+                        "name": "About"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/ar-qa/pro",
+                        "name": "Okadoc for Doctors"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/ar-qa/press",
+                        "name": "Press"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/blog-ar",
+                        "name": "Blog"
+                      }
+                    ],
+                    "certification": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                        "name": "ISO 27001",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                        "link": false,
+                        "name": "SOC 2",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                        "name": "HIPAA Compliant",
+                        "type": "iso"
+                      }
+                    ],
+                    "help": [
+                      {
+                        "link": "https://www.okadoc.com/ar-qa/contact-us",
+                        "name": "Contact"
+                      }
+                    ],
+                    "privacy": [
+                      {
+                        "link": "https://www.okadoc.com/policy/privacy/",
+                        "name": "Privacy Policy",
+                        "type": "privacy"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/terms-of-use/",
+                        "name": "Terms of Use",
+                        "type": "terms"
+                      }
+                    ],
+                    "sosmed": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                        "link": "https://www.facebook.com/Okadoc/",
+                        "name": "facebook"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                        "link": "https://twitter.com/okadoc_uae",
+                        "name": "twitter"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                        "link": "https://www.instagram.com/okadoc_uae/",
+                        "name": "instagram"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                        "link": "https://www.linkedin.com/company/okadoc/",
+                        "name": "linkedin"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                        "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                        "name": "youtube"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "products": [],
+              "time_layout": "24h",
+              "home_menus": null
+            },
+            {
+              "country_name": "Kuwait",
+              "country_code": "kw",
+              "flag": "https://img.okadoc.com/photos/countries-circ/kw-circular.svg",
+              "currency": "KWD",
+              "languages": [
+                {
+                  "language": "English",
+                  "language_code": "en",
+                  "native_language": "English",
+                  "url": "/en-kw",
+                  "extra_attributes": {
+                    "about": [
+                      {
+                        "link": "https://www.okadoc.com/en-kw/about-okadoc",
+                        "name": "About"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/en-kw/pro",
+                        "name": "Okadoc for Doctors"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/en-kw/press",
+                        "name": "Press"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/blog",
+                        "name": "Blog"
+                      }
+                    ],
+                    "certification": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                        "name": "ISO 27001",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                        "link": false,
+                        "name": "SOC 2",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                        "name": "HIPAA Compliant",
+                        "type": "iso"
+                      }
+                    ],
+                    "help": [
+                      {
+                        "link": "https://www.okadoc.com/en-kw/contact-us",
+                        "name": "Contact"
+                      }
+                    ],
+                    "privacy": [
+                      {
+                        "link": "https://www.okadoc.com/policy/privacy/",
+                        "name": "Privacy Policy",
+                        "type": "privacy"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/en-kw/policy/terms/",
+                        "name": "Terms of Use",
+                        "type": "terms"
+                      }
+                    ],
+                    "sosmed": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                        "link": "https://www.facebook.com/Okadoc/",
+                        "name": "facebook"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                        "link": "https://twitter.com/okadoc_uae",
+                        "name": "twitter"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                        "link": "https://www.instagram.com/okadoc_uae/",
+                        "name": "instagram"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                        "link": "https://www.linkedin.com/company/okadoc/",
+                        "name": "linkedin"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                        "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                        "name": "youtube"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "language": "Arabic",
+                  "language_code": "ar",
+                  "native_language": "العربية",
+                  "url": "/ar-kw",
+                  "extra_attributes": {
+                    "about": [
+                      {
+                        "link": "https://www.okadoc.com/ar-kw/about-okadoc",
+                        "name": "About"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/ar-kw/pro",
+                        "name": "Okadoc for Doctors"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/ar-kw/press",
+                        "name": "Press"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/blog-ar",
+                        "name": "Blog"
+                      }
+                    ],
+                    "certification": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                        "name": "ISO 27001",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                        "link": false,
+                        "name": "SOC 2",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                        "name": "HIPAA Compliant",
+                        "type": "iso"
+                      }
+                    ],
+                    "help": [
+                      {
+                        "link": "https://www.okadoc.com/ar-kw/contact-us",
+                        "name": "Contact"
+                      }
+                    ],
+                    "privacy": [
+                      {
+                        "link": "https://www.okadoc.com/policy/privacy/",
+                        "name": "Privacy Policy",
+                        "type": "privacy"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/terms-of-use/",
+                        "name": "Terms of Use",
+                        "type": "terms"
+                      }
+                    ],
+                    "sosmed": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                        "link": "https://www.facebook.com/Okadoc/",
+                        "name": "facebook"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                        "link": "https://twitter.com/okadoc_uae",
+                        "name": "twitter"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                        "link": "https://www.instagram.com/okadoc_uae/",
+                        "name": "instagram"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                        "link": "https://www.linkedin.com/company/okadoc/",
+                        "name": "linkedin"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                        "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                        "name": "youtube"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "products": [],
+              "time_layout": "24h",
+              "home_menus": null
+            },
+            {
+              "country_name": "UAE",
+              "country_code": "ae",
+              "flag": "https://img.okadoc.com/photos/block_images/img/icon/countries/united-arab-emirates.svg",
+              "currency": "AED",
+              "languages": [
+                {
+                  "language": "English",
+                  "language_code": "en",
+                  "native_language": "English",
+                  "url": "/en-ae",
+                  "extra_attributes": {
+                    "about": [
+                      {
+                        "link": "https://www.okadoc.com/en-ae/about-okadoc",
+                        "name": "About"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/en-ae/pro",
+                        "name": "Okadoc for Doctors"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/en-ae/press",
+                        "name": "Press"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/en-ae/blog",
+                        "name": "Blog"
+                      }
+                    ],
+                    "certification": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                        "name": "ISO 27001",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                        "link": false,
+                        "name": "SOC 2",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                        "name": "HIPAA Compliant",
+                        "type": "iso"
+                      }
+                    ],
+                    "help": [
+                      {
+                        "link": "https://www.okadoc.com/en-ae/contact-us",
+                        "name": "Contact"
+                      }
+                    ],
+                    "privacy": [
+                      {
+                        "link": "https://www.okadoc.com/policy/privacy/",
+                        "name": "Privacy Policy",
+                        "type": "privacy"
+                      },
+                      {
+                        "link": "https://www.okadoc.com//en-ae/policy/terms/",
+                        "name": "Terms of Use",
+                        "type": "terms"
+                      }
+                    ],
+                    "sosmed": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                        "link": "https://www.facebook.com/Okadoc/",
+                        "name": "facebook"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                        "link": "https://twitter.com/okadoc_uae",
+                        "name": "twitter"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                        "link": "https://www.instagram.com/okadoc_uae/",
+                        "name": "instagram"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                        "link": "https://www.linkedin.com/company/okadoc/",
+                        "name": "linkedin"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                        "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                        "name": "youtube"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "language": "Arabic",
+                  "language_code": "ar",
+                  "native_language": "العربية",
+                  "url": "/ar-ae",
+                  "extra_attributes": {
+                    "about": [
+                      {
+                        "link": "https://www.okadoc.com/ar-ae/about-okadoc",
+                        "name": "About"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/ar-ae/pro",
+                        "name": "Okadoc for Doctors"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/ar-ae/press",
+                        "name": "Press"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/ar-ae/blog",
+                        "name": "Blog"
+                      }
+                    ],
+                    "certification": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                        "name": "ISO 27001",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                        "link": false,
+                        "name": "SOC 2",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                        "name": "HIPAA Compliant",
+                        "type": "iso"
+                      }
+                    ],
+                    "help": [
+                      {
+                        "link": "https://www.okadoc.com/ar-ae/contact-us",
+                        "name": "Contact"
+                      }
+                    ],
+                    "privacy": [
+                      {
+                        "link": "https://www.okadoc.com/policy/privacy/",
+                        "name": "Privacy Policy",
+                        "type": "privacy"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/terms-of-use/",
+                        "name": "Terms of Use",
+                        "type": "terms"
+                      }
+                    ],
+                    "sosmed": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                        "link": "https://www.facebook.com/Okadoc/",
+                        "name": "facebook"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                        "link": "https://twitter.com/okadoc_uae",
+                        "name": "twitter"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                        "link": "https://www.instagram.com/okadoc_uae/",
+                        "name": "instagram"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                        "link": "https://www.linkedin.com/company/okadoc/",
+                        "name": "linkedin"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                        "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                        "name": "youtube"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "products": [
+                "appointment",
+                "appointment-telemedicine"
+              ],
+              "time_layout": "12h",
+              "home_menus": [
+                {
+                  "order": 1,
+                  "type": "square",
+                  "action": "okadocapp://service-list/en-ae/app-homepage-landing-labtests-ae",
+                  "label": "Lab Tests",
+                  "icon": {
+                    "icon_name": "",
+                    "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_lab_tests.png"
+                  },
+                  "platform": "default",
+                  "badge": {
+                    "badge_title": "",
+                    "badge_colour": "",
+                    "badge_icon": ""
+                  }
+                },
+                {
+                  "order": 2,
+                  "type": "square",
+                  "action": "okadocapp://service-list/en-ae/app-homepage-landing-pcrtests-ae",
+                  "label": "Covid-19 Test",
+                  "icon": {
+                    "icon_name": "",
+                    "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_covid_test.png"
+                  },
+                  "platform": "default",
+                  "badge": {
+                    "badge_title": "",
+                    "badge_colour": "",
+                    "badge_icon": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "rectangle",
+                  "action": "okadocapp://search/en-ae/2",
+                  "label": "Telehealth",
+                  "icon": {
+                    "icon_name": "",
+                    "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_teleconsultation.png"
+                  },
+                  "platform": "default",
+                  "badge": {
+                    "badge_title": "",
+                    "badge_colour": "",
+                    "badge_icon": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "square",
+                  "action": "okadocapp://service-list/en-ae/app-homepage-landing-ivdrip-ae",
+                  "label": "IV Drip",
+                  "icon": {
+                    "icon_name": "",
+                    "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_IV_drip.png"
+                  },
+                  "platform": "default",
+                  "badge": {
+                    "badge_title": "",
+                    "badge_colour": "",
+                    "badge_icon": ""
+                  }
+                },
+                {
+                  "order": 5,
+                  "type": "square",
+                  "action": "okadocapp://search/en-ae/4",
+                  "label": "Home Health",
+                  "icon": {
+                    "icon_name": "",
+                    "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_home_health.png"
+                  },
+                  "platform": "default",
+                  "badge": {
+                    "badge_title": "",
+                    "badge_colour": "",
+                    "badge_icon": ""
+                  }
+                },
+                {
+                  "order": 6,
+                  "type": "rectangle",
+                  "action": "okadocapp://search/en-ae/1",
+                  "label": "Clinic Visit",
+                  "icon": {
+                    "icon_name": "",
+                    "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_doctor_visit.png"
+                  },
+                  "platform": "default",
+                  "badge": {
+                    "badge_title": "",
+                    "badge_colour": "",
+                    "badge_icon": ""
+                  }
+                }
+              ]
+            },
+            {
+              "country_name": "Saudi Arabia",
+              "country_code": "sa",
+              "flag": "https://img.okadoc.com/photos/block_images/img/icon/countries/saudi-arabia.svg",
+              "currency": "SAR",
+              "languages": [
+                {
+                  "language": "Arabic",
+                  "language_code": "ar",
+                  "native_language": "العربية",
+                  "url": "/ar-sa",
+                  "extra_attributes": {
+                    "about": [
+                      {
+                        "link": "https://www.okadoc.com/ar-sa/about-okadoc",
+                        "name": "About"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/ar-sa/pro",
+                        "name": "Okadoc for Doctors"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/ar-sa/press",
+                        "name": "Press"
+                      },
+                      {
+                        "link": "https://www.okadoc.com//ar-sa/blog",
+                        "name": "Blog"
+                      }
+                    ],
+                    "certification": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-Okadoc-Technologies-Arabia-LLC.pdf",
+                        "name": "ISO 27001",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                        "link": false,
+                        "name": "SOC 2",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                        "name": "HIPAA Compliant",
+                        "type": "iso"
+                      }
+                    ],
+                    "help": [
+                      {
+                        "link": "https://www.okadoc.com/ar-sa/contact-us",
+                        "name": "Contact"
+                      }
+                    ],
+                    "privacy": [
+                      {
+                        "link": "https://www.okadoc.com/policy/privacy/",
+                        "name": "Privacy Policy",
+                        "type": "privacy"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/terms-of-use/",
+                        "name": "Terms of Use",
+                        "type": "terms"
+                      }
+                    ],
+                    "sosmed": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                        "link": "https://www.facebook.com/Okadoc/",
+                        "name": "facebook"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                        "link": "https://twitter.com/okadoc_uae",
+                        "name": "twitter"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                        "link": "https://www.instagram.com/okadoc_uae/",
+                        "name": "instagram"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                        "link": "https://www.linkedin.com/company/okadoc/",
+                        "name": "linkedin"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                        "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                        "name": "youtube"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "language": "English",
+                  "language_code": "en",
+                  "native_language": "English",
+                  "url": "/en-sa",
+                  "extra_attributes": {
+                    "about": [
+                      {
+                        "link": "https://www.okadoc.com/en-sa/about-okadoc",
+                        "name": "About"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/en-sa/pro",
+                        "name": "Okadoc for Doctors"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/en-sa/press",
+                        "name": "Press"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/en-ae/blog",
+                        "name": "Blog"
+                      }
+                    ],
+                    "certification": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-Okadoc-Technologies-Arabia-LLC.pdf",
+                        "name": "ISO 27001",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                        "link": false,
+                        "name": "SOC 2",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                        "name": "HIPAA Compliant",
+                        "type": "iso"
+                      }
+                    ],
+                    "help": [
+                      {
+                        "link": "https://www.okadoc.com/en-sa/contact-us",
+                        "name": "Contact"
+                      }
+                    ],
+                    "privacy": [
+                      {
+                        "link": "https://www.okadoc.com/policy/privacy/",
+                        "name": "Privacy Policy",
+                        "type": "privacy"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/terms-of-use/",
+                        "name": "Terms of Use",
+                        "type": "terms"
+                      }
+                    ],
+                    "sosmed": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                        "link": "https://www.facebook.com/Okadoc/",
+                        "name": "facebook"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                        "link": "https://twitter.com/okadoc_uae",
+                        "name": "twitter"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                        "link": "https://www.instagram.com/okadoc_uae/",
+                        "name": "instagram"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                        "link": "https://www.linkedin.com/company/okadoc/",
+                        "name": "linkedin"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                        "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                        "name": "youtube"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "products": [
+                "appointment",
+                "appointment-telemedicine"
+              ],
+              "time_layout": "12h",
+              "home_menus": [
+                {
+                  "order": 1,
+                  "type": "rectangle",
+                  "action": "okadocapp://search/en-sa/1",
+                  "label": "Clinic Visit",
+                  "icon": {
+                    "icon_name": "",
+                    "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_doctor_visit.png"
+                  },
+                  "platform": "default",
+                  "badge": {
+                    "badge_title": "",
+                    "badge_colour": "",
+                    "badge_icon": ""
+                  }
+                },
+                {
+                  "order": 2,
+                  "type": "rectangle",
+                  "action": "okadocapp://search/en-sa/2/is_navigate_to_speciality_list=true",
+                  "label": "Telehealth",
+                  "icon": {
+                    "icon_name": "",
+                    "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_teleconsultation.png"
+                  },
+                  "platform": "default",
+                  "badge": {
+                    "badge_title": "",
+                    "badge_colour": "",
+                    "badge_icon": ""
+                  }
+                },
+                {
+                  "order": 3,
+                  "type": "rectangle",
+                  "action": "okadocapp://external/en-sa/destination=https://wa.me/966554357280",
+                  "label": "Pharmacy",
+                  "icon": {
+                    "icon_name": "",
+                    "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_pharmacy.png"
+                  },
+                  "platform": "default",
+                  "badge": {
+                    "badge_title": "",
+                    "badge_colour": "",
+                    "badge_icon": ""
+                  }
+                },
+                {
+                  "order": 4,
+                  "type": "rectangle",
+                  "action": "okadocapp://search/en-sa/4",
+                  "label": "Home Health",
+                  "icon": {
+                    "icon_name": "",
+                    "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_home_health.png"
+                  },
+                  "platform": "default",
+                  "badge": {
+                    "badge_title": "",
+                    "badge_colour": "",
+                    "badge_icon": ""
+                  }
+                },
+                {
+                  "order": 9,
+                  "type": "square",
+                  "action": "okadocapp://exam-device/en-ae",
+                  "label": "Exam Devices",
+                  "icon": {
+                    "icon_name": "",
+                    "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrant-okago.png"
+                  },
+                  "platform": "default",
+                  "badge": {
+                    "badge_title": "",
+                    "badge_colour": "",
+                    "badge_icon": ""
+                  }
+                }
+              ]
+            },
+            {
+              "country_name": "Indonesia",
+              "country_code": "id",
+              "flag": "https://img.okadoc.com/photos/block_images/img/icon/countries/indonesia.svg",
+              "currency": "IDR",
+              "languages": [
+                {
+                  "language": "Bahasa",
+                  "language_code": "id",
+                  "native_language": "Bahasa",
+                  "url": "/id-id",
+                  "extra_attributes": {
+                    "about": [
+                      {
+                        "link": "https://www.okadoc.com/id-id/about-okadoc",
+                        "name": "About"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/id-id/pro",
+                        "name": "Okadoc for Doctors"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/id-id/press",
+                        "name": "Press"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/id-id/blog",
+                        "name": "Blog"
+                      }
+                    ],
+                    "certification": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-PT-Okadoc-Technologies-Indonesia.pdf",
+                        "name": "ISO 27001",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                        "link": false,
+                        "name": "SOC 2",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                        "name": "HIPAA Compliant",
+                        "type": "iso"
+                      }
+                    ],
+                    "help": [
+                      {
+                        "link": "https://www.okadoc.com/id-id/contact-us",
+                        "name": "Contact"
+                      }
+                    ],
+                    "privacy": [
+                      {
+                        "link": "https://www.okadoc.com/policy/privacy/",
+                        "name": "Privacy Policy",
+                        "type": "privacy"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/terms-of-use/",
+                        "name": "Terms of Use",
+                        "type": "terms"
+                      }
+                    ],
+                    "sosmed": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                        "link": "https://www.facebook.com/Okadoc/",
+                        "name": "facebook"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                        "link": "https://twitter.com/okadoc_uae",
+                        "name": "twitter"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                        "link": "https://www.instagram.com/okadoc_uae/",
+                        "name": "instagram"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                        "link": "https://www.linkedin.com/company/okadoc/",
+                        "name": "linkedin"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                        "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                        "name": "youtube"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "language": "English",
+                  "language_code": "en",
+                  "native_language": "English",
+                  "url": "/en-id",
+                  "extra_attributes": {
+                    "about": [
+                      {
+                        "link": "https://www.okadoc.com/en-id/about-okadoc",
+                        "name": "About"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/en-id/pro",
+                        "name": "Okadoc for Doctors"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/en-id/press",
+                        "name": "Press"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/id-id/blog",
+                        "name": "Blog"
+                      }
+                    ],
+                    "certification": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-PT-Okadoc-Technologies-Indonesia.pdf",
+                        "name": "ISO 27001",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                        "link": false,
+                        "name": "SOC 2",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                        "name": "HIPAA Compliant",
+                        "type": "iso"
+                      }
+                    ],
+                    "help": [
+                      {
+                        "link": "https://www.okadoc.com/en-id/contact-us",
+                        "name": "Contact"
+                      }
+                    ],
+                    "privacy": [
+                      {
+                        "link": "https://www.okadoc.com/policy/privacy/",
+                        "name": "Privacy Policy",
+                        "type": "privacy"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/terms-of-use/",
+                        "name": "Terms of Use",
+                        "type": "terms"
+                      }
+                    ],
+                    "sosmed": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                        "link": "https://www.facebook.com/Okadoc/",
+                        "name": "facebook"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                        "link": "https://twitter.com/okadoc_uae",
+                        "name": "twitter"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                        "link": "https://www.instagram.com/okadoc_uae/",
+                        "name": "instagram"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                        "link": "https://www.linkedin.com/company/okadoc/",
+                        "name": "linkedin"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                        "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                        "name": "youtube"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "products": [
+                "appointment-telemedicine",
+                "qms",
+                "qms-whatsapp"
+              ],
+              "time_layout": "24h",
+              "home_menus": null
+            },
+            {
+              "country_name": "Algeria",
+              "country_code": "dz",
+              "flag": "https://img.okadoc.com/photos/block_images/img/icon/countries/algeria.svg",
+              "currency": "DZD",
+              "languages": [
+                {
+                  "language": "French",
+                  "language_code": "fr",
+                  "native_language": "",
+                  "url": "/fr-dz",
+                  "extra_attributes": {
+                    "about": [
+                      {
+                        "link": "https://www.okadoc.com/fr-dz/about-okadoc",
+                        "name": "About"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/fr-dz/pro",
+                        "name": "Okadoc for Doctors"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/fr-dz/press",
+                        "name": "Press"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/blog",
+                        "name": "Blog"
+                      }
+                    ],
+                    "certification": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                        "name": "ISO 27001",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                        "link": false,
+                        "name": "SOC 2",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                        "name": "HIPAA Compliant",
+                        "type": "iso"
+                      }
+                    ],
+                    "help": [
+                      {
+                        "link": "https://www.okadoc.com/fr-dz/contact-us",
+                        "name": "Contact"
+                      }
+                    ],
+                    "privacy": [
+                      {
+                        "link": "https://www.okadoc.com/policy/privacy/",
+                        "name": "Privacy Policy",
+                        "type": "privacy"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/terms-of-use/",
+                        "name": "Terms of Use",
+                        "type": "terms"
+                      }
+                    ],
+                    "sosmed": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                        "link": "https://www.facebook.com/Okadoc/",
+                        "name": "facebook"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                        "link": "https://twitter.com/okadoc_uae",
+                        "name": "twitter"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                        "link": "https://www.instagram.com/okadoc_uae/",
+                        "name": "instagram"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                        "link": "https://www.linkedin.com/company/okadoc/",
+                        "name": "linkedin"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                        "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                        "name": "youtube"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "products": [],
+              "time_layout": "24h",
+              "home_menus": null
+            },
+            {
+              "country_name": "Egypt",
+              "country_code": "eg",
+              "flag": "https://img.okadoc.com/photos/block_images/img/icon/countries/egypt-1.svg",
+              "currency": "",
+              "languages": [
+                {
+                  "language": "English",
+                  "language_code": "en",
+                  "native_language": "English",
+                  "url": "/en-eg",
+                  "extra_attributes": {
+                    "about": [
+                      {
+                        "link": "https://www.okadoc.com/en-eg/about-okadoc",
+                        "name": "About"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/en-eg/pro",
+                        "name": "Okadoc for Doctors"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/en-eg/press",
+                        "name": "Press"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/blog",
+                        "name": "Blog"
+                      }
+                    ],
+                    "certification": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                        "name": "ISO 27001",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                        "link": false,
+                        "name": "SOC 2",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                        "name": "HIPAA Compliant",
+                        "type": "iso"
+                      }
+                    ],
+                    "help": [
+                      {
+                        "link": "https://www.okadoc.com/en-eg/contact-us",
+                        "name": "Contact"
+                      }
+                    ],
+                    "privacy": [
+                      {
+                        "link": "https://www.okadoc.com/policy/privacy/",
+                        "name": "Privacy Policy",
+                        "type": "privacy"
+                      },
+                      {
+                        "link": "https://www.okadoc.com//en-eg/policy/terms/",
+                        "name": "Terms of Use",
+                        "type": "terms"
+                      }
+                    ],
+                    "sosmed": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                        "link": "https://www.facebook.com/Okadoc/",
+                        "name": "facebook"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                        "link": "https://twitter.com/okadoc_uae",
+                        "name": "twitter"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                        "link": "https://www.instagram.com/okadoc_uae/",
+                        "name": "instagram"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                        "link": "https://www.linkedin.com/company/okadoc/",
+                        "name": "linkedin"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                        "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                        "name": "youtube"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "language": "Arabic",
+                  "language_code": "ar",
+                  "native_language": "العربية",
+                  "url": "/ar-eg",
+                  "extra_attributes": {
+                    "about": [
+                      {
+                        "link": "https://www.okadoc.com/ar-eg/about-okadoc",
+                        "name": "About"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/ar-eg/pro",
+                        "name": "Okadoc for Doctors"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/ar-eg/press",
+                        "name": "Press"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/blog-ar",
+                        "name": "Blog"
+                      }
+                    ],
+                    "certification": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                        "name": "ISO 27001",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                        "link": false,
+                        "name": "SOC 2",
+                        "type": "iso"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                        "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                        "name": "HIPAA Compliant",
+                        "type": "iso"
+                      }
+                    ],
+                    "help": [
+                      {
+                        "link": "https://www.okadoc.com/ar-eg/contact-us",
+                        "name": "Contact"
+                      }
+                    ],
+                    "privacy": [
+                      {
+                        "link": "https://www.okadoc.com/policy/privacy/",
+                        "name": "Privacy Policy",
+                        "type": "privacy"
+                      },
+                      {
+                        "link": "https://www.okadoc.com/terms-of-use/",
+                        "name": "Terms of Use",
+                        "type": "terms"
+                      }
+                    ],
+                    "sosmed": [
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                        "link": "https://www.facebook.com/Okadoc/",
+                        "name": "facebook"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                        "link": "https://twitter.com/okadoc_uae",
+                        "name": "twitter"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                        "link": "https://www.instagram.com/okadoc_uae/",
+                        "name": "instagram"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                        "link": "https://www.linkedin.com/company/okadoc/",
+                        "name": "linkedin"
+                      },
+                      {
+                        "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                        "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                        "name": "youtube"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "products": [],
+              "time_layout": "24h",
+              "home_menus": null
+            }
+          ],
+          "key": "whitelabel-medcare",
+          "xtoken": false,
+          "pageType": "doctor-detail",
+          "hideFooter": false
+        },
+        "slug": "practitioner/physiotherapy/dubai/mariam-m-abdelaziz",
+        "asPath": "/en-ae/practitioner/physiotherapy/dubai/mariam-m-abdelaziz"
+      },
+      "initData": {
+        "app_version": {
+          "platform": "patientweb",
+          "version": "1.4.0"
+        },
+        "service_url": {
+          "account": {
+            "url": "https://service.okadoc.com/account/v1"
+          },
+          "algolia": {
+            "url": ""
+          },
+          "algolia_doctors": {
+            "url": ""
+          },
+          "algolia_facilities": {
+            "url": ""
+          },
+          "appointment": {
+            "url": "https://service.okadoc.com/appointment/v1"
+          },
+          "availability": {
+            "url": "https://service.okadoc.com/availability/v1"
+          },
+          "delivery": {
+            "url": "https://service.okadoc.com/delivery/v1"
+          },
+          "discovery": {
+            "url": "https://service.okadoc.com/discovery/v2"
+          },
+          "form": {
+            "url": "https://service.okadoc.com/form/v1"
+          },
+          "locale": {
+            "url": "https://service.okadoc.com/locale/v1"
+          },
+          "notification": {
+            "url": "https://service.okadoc.com/notification/v1"
+          },
+          "payment": {
+            "url": "https://service.okadoc.com/payment/v1"
+          },
+          "qms": {
+            "url": "https://service.okadoc.com/qms/v1"
+          },
+          "tracking": {
+            "url": "https://service.okadoc.com/tracking/v1"
+          }
+        },
+        "settings": {
+          "app_configs": {
+            "app_url": "https://medcare.okadoc.com/en-ae/dashboard/appointments",
+            "blocks": {
+              "footer_block_content_key": "whitelabel-medcare-footer",
+              "header_block_content_key": "whitelabel-medcare-header",
+              "popular_block_content_key": "whitelabel-medcare-popular"
+            },
+            "code": "whitelabel-medcare",
+            "consent_file": {
+              "campaign_consents": [],
+              "consent_file": "",
+              "fg_consent": 0
+            },
+            "country_code": "ae",
+            "default_template": "theta",
+            "desktop_default_template": "theta",
+            "explanation_block_content_key": "",
+            "explanation_block_value": null,
+            "facility_ids": [
+              "889",
+              "893",
+              "6315",
+              "6316",
+              "894",
+              "896",
+              "892",
+              "897",
+              "904",
+              "898",
+              "895",
+              "900",
+              "891",
+              "1935",
+              "901",
+              "902",
+              "6314",
+              "905",
+              "9747",
+              "9812",
+              "9843",
+              "903",
+              "9849",
+              "9855",
+              "9877",
+              "9915",
+              "9968",
+              "10167",
+              "10172",
+              "10175",
+              "10178",
+              "10187",
+              "10191",
+              "10194",
+              "10257"
+            ],
+            "favicon_url": "",
+            "filter": [
+              "plan:2",
+              "plan:02"
+            ],
+            "flag": {
+              "fg_allow_user_delete": false,
+              "fg_earlier": true,
+              "fg_show_online": true
+            },
+            "font_config": {},
+            "ga_view_id": "172594523",
+            "gtm_id": "GTM-PZZNC2W",
+            "heading": {
+              "h1": "Book an in-person appointment instantly",
+              "h2": ""
+            },
+            "homepage_url": "https://www.medcare.ae/en",
+            "insurances": [],
+            "login_url": "",
+            "meta_configs": {
+              "homepage": true,
+              "search_clinic": false,
+              "search_result": false
+            },
+            "name": "Medcare",
+            "picture": "https://img.okadoc.com/photos/practitioner/photo/31/whitelabel-medcare-20200816052231.jpg",
+            "practitioner_ids": [],
+            "push_enabled": true,
+            "push_id": "",
+            "search_filter_configs": {
+              "consultation_fees": true,
+              "consultation_method": false,
+              "date": false,
+              "emirate": false,
+              "facility": false,
+              "gender": true,
+              "in-person_consultation": true,
+              "insurance": true,
+              "language": true,
+              "location": true,
+              "practitioner_country_of_education": true,
+              "practitioner_country_of_experience": true,
+              "speciality": true,
+              "video_consultation": false
+            },
+            "sort_by": "relevance",
+            "version": 1,
+            "whitelabel_target_url": "https://medcare.okadoc.com/en-ae/search/result",
+            "whitelabel_url": "https://medcare.okadoc.com"
+          },
+          "master_nature_of_visits": [
+            {
+              "id": 1,
+              "name": "First Visit"
+            },
+            {
+              "id": 2,
+              "name": "Follow Up Consultation"
+            }
+          ],
+          "master_relationships": [
+            {
+              "id": 1,
+              "name": "Family"
+            },
+            {
+              "id": 2,
+              "name": "Friend"
+            }
+          ],
+          "whitelabel_configs": {
+            "campaign_consents": [],
+            "code": "whitelabel-medcare",
+            "colour_config": {
+              "bg_filter": "#ffffff",
+              "bg_header": "#000000",
+              "bg_landing": "#ffffff",
+              "bg_profile": "#ffffff",
+              "button_cta": "#97005e",
+              "dark_mode": true,
+              "text_button_cta": "#ffffff",
+              "text_main": "#97005e"
+            },
+            "consent_file": "",
+            "country_code": "ae",
+            "default_template": "theta",
+            "desktop_default_template": "theta",
+            "facility_ids": [
+              "889",
+              "893",
+              "6315",
+              "6316",
+              "894",
+              "896",
+              "892",
+              "897",
+              "904",
+              "898",
+              "895",
+              "900",
+              "891",
+              "1935",
+              "901",
+              "902",
+              "6314",
+              "905",
+              "9747",
+              "9812",
+              "9843",
+              "903",
+              "9849",
+              "9855",
+              "9877",
+              "9915",
+              "9968",
+              "10167",
+              "10172",
+              "10175",
+              "10178",
+              "10187",
+              "10191",
+              "10194",
+              "10257"
+            ],
+            "fg_allow_user_delete": false,
+            "fg_consent": 0,
+            "fg_earlier": true,
+            "fg_recaptcha": false,
+            "fg_show_online": true,
+            "filter": [
+              "plan:2",
+              "plan:02"
+            ],
+            "footer_block_content_key": "whitelabel-medcare-footer",
+            "ga_view_id": "172594523",
+            "gtm_id": "GTM-PZZNC2W",
+            "header_block_content_key": "whitelabel-medcare-header",
+            "heading1": "Book an in-person appointment instantly",
+            "heading2": "",
+            "homepage_url": "https://www.medcare.ae/en",
+            "insurances": [],
+            "login_url": "",
+            "meta_configs": {
+              "homepage": true,
+              "search_clinic": false,
+              "search_result": false
+            },
+            "name": "Medcare",
+            "picture": "https://img.okadoc.com/photos/practitioner/photo/31/whitelabel-medcare-20200816052231.jpg",
+            "popular_block_content_key": "whitelabel-medcare-popular",
+            "practitioner_ids": [],
+            "push_enabled": true,
+            "push_id": "",
+            "search_filter_configs": {
+              "consultation_fees": true,
+              "consultation_method": false,
+              "date": false,
+              "emirate": false,
+              "facility": false,
+              "gender": true,
+              "in-person_consultation": true,
+              "insurance": true,
+              "language": true,
+              "location": true,
+              "practitioner_country_of_education": true,
+              "practitioner_country_of_experience": true,
+              "speciality": true,
+              "video_consultation": false
+            },
+            "sort_by": "relevance",
+            "telemedicine_consent_file_url": "",
+            "theme_name": "theme-medcare",
+            "whitelabel_target_url": "https://medcare.okadoc.com/en-ae/search/result",
+            "whitelabel_url": "https://medcare.okadoc.com",
+            "hide_footer_on_homepage": true,
+            "footer_type": "whitelabel"
+          }
+        },
+        "isServer": true,
+        "isAllowedRedirect": false,
+        "expiredPath": false,
+        "baseURL": "/en-ae",
+        "countryCode": "ae"
+      },
+      "practitioner": {
+        "id": 122937,
+        "idx": "122937",
+        "objectID": "122937",
+        "unique_id": "f02b9c20-1456-11f0-aceb-b22b4eacd472",
+        "title": "Ms. Mariam M. Abdelaziz",
+        "name": "Mariam M. Abdelaziz",
+        "fullName": "Mariam M. Abdelaziz",
+        "first_name": "Mariam",
+        "middle_name": "M.",
+        "last_name": "Abdelaziz",
+        "gender": "female",
+        "published": true,
+        "fg_publish_salesforce": false,
+        "verified": true,
+        "registered": true,
+        "master_highlight_id": 119,
+        "highlight": "Physiotherapist",
+        "bio": "Physiotherapist",
+        "photo": "",
+        "profilePicture": "",
+        "subscription_agreement_document": "",
+        "license_document": "https://img.okadoc.com/documents/practitioner/licence_document/122937/dha-license-ms-mariam-abdelaziz.pdf",
+        "country_id": 224,
+        "countryCode": "ae",
+        "country_name": "UAE",
+        "region_id": 1,
+        "region": "United Arab Emirates",
+        "city_id": 1,
+        "city": "Dubai",
+        "district_id": 0,
+        "district": "",
+        "area": "",
+        "plan": 2,
+        "plan_name": "Calendar System",
+        "source": "adminpage",
+        "completeness": 66,
+        "percentage": 66,
+        "years_of_experience": "1",
+        "fg_test": false,
+        "slug": "practitioner/physiotherapy/dubai/mariam-m-abdelaziz",
+        "short_url": "https://okdc.me/dYfZUU",
+        "fg_brands": false,
+        "alt": "Ms. Mariam M. Abdelaziz, Physiotherapist, Book appointment online, Book Physiotherapist online, Dubai, UAE, Okadoc - Book doctor appointment online",
+        "about": "<p>Ms. Mariam M Abdelaziz is a Physiotherapist at Medcare Medical Centre. She completed her BSc in Physiotherapy from the University of Sharjah and then obtained a Certification in Manual Therapy and another in soft tissue management techniques. After graduation, she did her internship at the Wave Clinic and the Kids Habilitation Center, both in Cairo, Egypt.</p>\r\n\r\n<p>Ms. Abdelaziz treats neurological conditions, low back pain, knee conditions, elbow conditions, fractures, hip conditions, shoulder conditions, strains and sprains and gynaecological conditions. She has successfully treated musculoskeletal conditions, neurological disorders, Plantar fasciitis, low back pain, Kyphosis and Scoliosis. She treats all paediatric musculoskeletal conditions and facilitates paediatric rehabilitation.</p>\r\n\r\n<p>Ms. Abdelaziz speaks Arabic and English fluently. During her spare time, she enjoys artistic pursuits like painting and drawing and believes in jogging to keep fit.</p>\r\n\r\n<p>&nbsp;</p>",
+        "meta_title": "Ms. Mariam M. Abdelaziz Physiotherapist in Dubai | Book an appointment online",
+        "meta_description": "Ms. Mariam M. Abdelaziz is a Physiotherapist in Dubai. Book, manage or cancel appointments online",
+        "meta_keyword": "Physiotherapist, Physiotherapist in Dubai, Physiotherapist in UAE, Physiotherapist in UAE , appointment with Ms. Mariam M. Abdelaziz",
+        "og_title": "Ms. Mariam M. Abdelaziz Physiotherapist in Dubai | Book appointment on Okadoc.com",
+        "og_description": "Ms. Mariam M. Abdelaziz is a Physiotherapist in Dubai. Book appointments online, view fees, user feedback for Ms. Mariam M. Abdelaziz | Okadoc",
+        "arabicName": "مريم عبد العزيز",
+        "arabic_area": "",
+        "arabic_city": "دبي",
+        "arabic_district": "",
+        "arabic_years_of_experience": "1",
+        "arabic_short_url": "",
+        "arabic_highlight": "",
+        "searchSpec": [
+          "Physiotherapy"
+        ],
+        "searchSpecArabic": [],
+        "searchSpecAR": "",
+        "speciality": [
+          "Physiotherapist"
+        ],
+        "speciality_title": "practitioner",
+        "_geoloc": [
+          {
+            "lat": 25.0168267,
+            "lng": 55.2474313
+          }
+        ],
+        "geo_points": [
+          {
+            "lat": 25.0168267,
+            "lon": 55.2474313
+          }
+        ],
+        "languages": [
+          "Arabic",
+          "English"
+        ],
+        "tags": [
+          "Scoliosis",
+          "Kyphosis",
+          "Low back pain",
+          "Plantar fascitis",
+          "Fractures",
+          "Neurological disorders",
+          "Musculoskeletal conditions",
+          "Paediatric conditions"
+        ],
+        "campaign_ids": [],
+        "locations": [
+          {
+            "id": 10194,
+            "idx": "10194",
+            "objectID": "10194",
+            "clinicType": "Clinic",
+            "facility_type_id": 2,
+            "name": "Medcare Medical Centre Damac Hills",
+            "address": "First Floor, DAMAC Mall, Al Hebiah Third Ventura at - DAMAC Hills",
+            "phone": "",
+            "area": "",
+            "city_id": 1,
+            "city": "Dubai",
+            "region_id": 1,
+            "region": "United Arab Emirates",
+            "district_id": 0,
+            "district": "",
+            "distance": "",
+            "country_id": 224,
+            "countryCode": "ae",
+            "country_name": "UAE",
+            "lat": "25.0168267",
+            "lng": "55.2474313",
+            "license_number": "",
+            "facilities": {
+              "fg_elevator": false,
+              "elevatorNote": "",
+              "floor_number": "",
+              "fg_handicap": false,
+              "handicapNote": "",
+              "fg_parking": false,
+              "parkingNote": "",
+              "fg_public_transport": false,
+              "publicTransportNote": "",
+              "fg_rta": false,
+              "rtaNote": "",
+              "fg_valet": false,
+              "valetNote": "",
+              "bed_qty": 0,
+              "ambulance_qty": 0
+            },
+            "payment_methods": {},
+            "detailed_payment_methods": [],
+            "rating": 0,
+            "review": "",
+            "total_review": 0,
+            "website": "",
+            "plan": 2,
+            "plan_name": "Calendar System",
+            "fg_publish": true,
+            "fg_publish_salesforce": false,
+            "fg_verified": true,
+            "published": true,
+            "verified": true,
+            "logo": "https://img.okadoc.com/photos/facility/logo/10194/logo-medcare-medical-centre-damac-hills-dubai-20240815161152.png",
+            "fg_test": false,
+            "fg_cancel": true,
+            "fg_reschedule": true,
+            "slug": "clinic/dubai/medcare-medical-centre-damac-hills",
+            "short_url": "",
+            "place_id": [
+              "",
+              "ChIJRcbZaklDXz4RYlEphFBu5r0"
+            ],
+            "completeness": 36,
+            "openingTime": {
+              "friday": {
+                "enabled": false,
+                "times": {}
+              },
+              "monday": {
+                "enabled": false,
+                "times": {}
+              },
+              "saturday": {
+                "enabled": false,
+                "times": {}
+              },
+              "sunday": {
+                "enabled": false,
+                "times": {}
+              },
+              "thursday": {
+                "enabled": false,
+                "times": {}
+              },
+              "tuesday": {
+                "enabled": false,
+                "times": {}
+              },
+              "wednesday": {
+                "enabled": false,
+                "times": {}
+              }
+            },
+            "about": "<p>Medcare Medical Centre in Damac Hills stands as a premium, advanced healthcare facility devoted to meeting the diverse healthcare needs of its community. This inviting medical centre prioritizes comfort and convenience, providing cutting-edge facilities and comprehensive medical services all under one roof. Ideal for patients of every age seeking precise diagnoses and prompt treatment across various specialties.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>At the helm of Medcare Medical Centre Damac Hills is a team of multicultural, multilingual doctors, complemented by exceptionally-trained and experienced nurses and medical staff. The centre takes pride in its extensive array of state-of-the-art equipment, empowering its highly skilled medical team to deliver a premium level of care to all patients.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Experience the warmth of family-centric care delivered by our highly talented medical and non-medical staff. At Medcare Medical Centre Damac Hills, we offer a range of services, including <strong>Internal Medicine, Gynaecology, Paediatrics, Dermatology</strong> &amp; <strong>Aesthetics, ENT, Dentistry, General Medicine, Orthopaedics </strong>&amp; <strong>Physiotherapy </strong>and<strong> Radiology</strong>.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>As part of our commitment to accessible healthcare, Medcare operates a network of four hospitals and 20 plus multi-specialty clinics across Dubai and Sharjah. Our goal is to provide reliable and timely medical care to our diverse clientele.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Great News! We are expanding to better suit all your medical and beauty needs!</p>",
+            "arabicName": "مركز ميدكير الطبي في داماك هيلز",
+            "arabic_address": "First Floor, DAMAC Mall, Al Hebiah Third Ventura at - DAMAC Hills",
+            "arabic_city": "دبي",
+            "arabic_district": "",
+            "arabic_landmark": "",
+            "arabic_zipcode": "",
+            "highlight": "",
+            "_geoloc": {
+              "lat": 25.0168267,
+              "lng": 55.2474313
+            },
+            "geo_point": {
+              "lat": 25.0168267,
+              "lon": 55.2474313
+            },
+            "member": true,
+            "alt": "",
+            "meta_title": "Medcare Medical Centre Damac Hills, Dubai | multi-speciality Clinic in Dubai - Okadoc.com",
+            "meta_description": "Medcare Medical Centre Damac Hills is a multi-speciality Clinic in , Dubai. Book doctor’s appointment online, view contact number, address, timings for Medcare Medical Centre Damac Hills.",
+            "meta_keyword": "Internal Medicine, Paediatrics, Dermatology (Skin), Obstetrics & Gynaecology, Dentistry (Teeth), Family Medicine and General Medicine (GP), Physiotherapy, Internal Medicine, Paediatrics, Dermatology (Skin), Obstetrics & Gynaecology, Dentistry (Teeth), Family Medicine and General Medicine (GP), Physiotherapy in Dubai, Internal Medicine, Paediatrics, Dermatology (Skin), Obstetrics & Gynaecology, Dentistry (Teeth), Family Medicine and General Medicine (GP), Physiotherapy in UAE, Internal Medicine, Paediatrics, Dermatology (Skin), Obstetrics & Gynaecology, Dentistry (Teeth), Family Medicine and General Medicine (GP), Physiotherapy in UAE, clinics in UAE, appointment with clinics",
+            "og_title": "Medcare Medical Centre Damac Hills, Dubai | multi-speciality Clinic in Dubai - Okadoc.com",
+            "og_description": "Medcare Medical Centre Damac Hills is a multi-speciality Clinic in , Dubai. Book doctor’s appointment online, view contact number, address, timings for Medcare Medical Centre Damac Hills.",
+            "emergencynumbers": {},
+            "insuranceLocal": [],
+            "insurancePlans": null,
+            "insuranceValue": 0,
+            "photos": {},
+            "campaign_ids": [],
+            "specialities": null,
+            "logo_resize": null,
+            "languages": null,
+            "genders": null,
+            "fg_available_today": true,
+            "fg_available_weekend": true,
+            "fg_available_weekday": true,
+            "summary": {},
+            "translations": null,
+            "vendor_name": "",
+            "fg_brands": false,
+            "cover": "https://img.okadoc.com/plain/790x180/uploads/facility/cover/10194/Medcare_Medical_Centre_Damac_Hills_Cover_1730262861.png",
+            "speciality_ids": [
+              30,
+              48,
+              17,
+              42,
+              16,
+              24,
+              51
+            ],
+            "ranking_score": 0,
+            "next_available": {
+              "time_slots": [],
+              "date": "",
+              "next_available": ""
+            },
+            "unique_id": "dd8b1f8c-5b1f-11ef-b50e-2a0ac85bf698",
+            "whitelabels": [
+              "whitelabel-medcare",
+              "whitelabel-moph"
+            ],
+            "practitioner_plan_id": 2,
+            "practitioner_plan_name": "Calendar System",
+            "opening_time": {
+              "friday": {
+                "enabled": false,
+                "times": {}
+              },
+              "monday": {
+                "enabled": false,
+                "times": {}
+              },
+              "saturday": {
+                "enabled": false,
+                "times": {}
+              },
+              "sunday": {
+                "enabled": false,
+                "times": {}
+              },
+              "thursday": {
+                "enabled": false,
+                "times": {}
+              },
+              "tuesday": {
+                "enabled": false,
+                "times": {}
+              },
+              "wednesday": {
+                "enabled": false,
+                "times": {}
+              }
+            },
+            "network_ids": [],
+            "fg_network": false,
+            "fg_online": false,
+            "product_plans": null,
+            "real_phone": "",
+            "fg_callable": true,
+            "fg_queue": false,
+            "fg_notification": true,
+            "fg_check_avail_earlier_notification": false,
+            "timezone": "Asia/Dubai",
+            "timezone_label": "GST",
+            "seo_data": {},
+            "fg_deductible": false,
+            "platforms": [],
+            "default_master_language_id": 2,
+            "fg_busy": false,
+            "facility_type": {
+              "id": 2,
+              "type": "Clinic",
+              "parent_id": 0,
+              "parent": null
+            },
+            "availability_days": null,
+            "availability_timeslots": null,
+            "visit_reasons": [
+              {
+                "type": "service",
+                "id": 44,
+                "visit_reason": "Hip Surgery Consultation",
+                "score": 50,
+                "synonyms": [
+                  "Hip Surgery"
+                ],
+                "visit_reason_score": "Hip Surgery Consultation|50"
+              },
+              {
+                "type": "service",
+                "id": 47,
+                "visit_reason": "Knee Surgery Consultation",
+                "score": 50,
+                "synonyms": [
+                  "Knee Surgery"
+                ],
+                "visit_reason_score": "Knee Surgery Consultation|50"
+              },
+              {
+                "type": "service",
+                "id": 63,
+                "visit_reason": "Shoulder Surgery",
+                "score": 50,
+                "synonyms": [],
+                "visit_reason_score": "Shoulder Surgery|50"
+              },
+              {
+                "type": "condition",
+                "id": 3,
+                "visit_reason": "Achilles Pain",
+                "score": 50,
+                "synonyms": [
+                  "Achilles Problem",
+                  "Achilles Injury"
+                ],
+                "visit_reason_score": "Achilles Pain|50"
+              },
+              {
+                "type": "condition",
+                "id": 11,
+                "visit_reason": "Ankle Problem",
+                "score": 50,
+                "synonyms": [
+                  "Ankle Pain",
+                  "Ankle Injury"
+                ],
+                "visit_reason_score": "Ankle Problem|50"
+              },
+              {
+                "type": "condition",
+                "id": 15,
+                "visit_reason": "Arm Problem",
+                "score": 50,
+                "synonyms": [
+                  "Arm Pain",
+                  "Arm Injury"
+                ],
+                "visit_reason_score": "Arm Problem|50"
+              },
+              {
+                "type": "condition",
+                "id": 16,
+                "visit_reason": "Arthritis",
+                "score": 75,
+                "synonyms": [],
+                "visit_reason_score": "Arthritis|75"
+              },
+              {
+                "type": "condition",
+                "id": 18,
+                "visit_reason": "Back Problem",
+                "score": 50,
+                "synonyms": [
+                  "Back Pain",
+                  "Back Injury"
+                ],
+                "visit_reason_score": "Back Problem|50"
+              },
+              {
+                "type": "condition",
+                "id": 30,
+                "visit_reason": "Bruising",
+                "score": 100,
+                "synonyms": [
+                  "Contusion"
+                ],
+                "visit_reason_score": "Bruising|100"
+              },
+              {
+                "type": "condition",
+                "id": 33,
+                "visit_reason": "Calf Pain",
+                "score": 50,
+                "synonyms": [
+                  "Calf Pain",
+                  "Calf Injury"
+                ],
+                "visit_reason_score": "Calf Pain|50"
+              },
+              {
+                "type": "condition",
+                "id": 65,
+                "visit_reason": "Elbow Problem",
+                "score": 50,
+                "synonyms": [
+                  "Elbow Pain",
+                  "Elbow Injury"
+                ],
+                "visit_reason_score": "Elbow Problem|50"
+              },
+              {
+                "type": "condition",
+                "id": 66,
+                "visit_reason": "Emphysema",
+                "score": 75,
+                "synonyms": [],
+                "visit_reason_score": "Emphysema|75"
+              },
+              {
+                "type": "condition",
+                "id": 74,
+                "visit_reason": "Foot Problem",
+                "score": 50,
+                "synonyms": [
+                  "Foot Pain",
+                  "Foot Injury"
+                ],
+                "visit_reason_score": "Foot Problem|50"
+              },
+              {
+                "type": "condition",
+                "id": 81,
+                "visit_reason": "Groin Problem",
+                "score": 50,
+                "synonyms": [
+                  "Groin Pain",
+                  "Groin Injury"
+                ],
+                "visit_reason_score": "Groin Problem|50"
+              },
+              {
+                "type": "condition",
+                "id": 82,
+                "visit_reason": "Gym Injury",
+                "score": 50,
+                "synonyms": [],
+                "visit_reason_score": "Gym Injury|50"
+              },
+              {
+                "type": "condition",
+                "id": 85,
+                "visit_reason": "Hamstring Problem",
+                "score": 50,
+                "synonyms": [
+                  "Hamstring Pain",
+                  "Hamstring Injury"
+                ],
+                "visit_reason_score": "Hamstring Problem|50"
+              },
+              {
+                "type": "condition",
+                "id": 86,
+                "visit_reason": "Hand Pain",
+                "score": 50,
+                "synonyms": [
+                  "Hand Problem",
+                  "Hand Injury"
+                ],
+                "visit_reason_score": "Hand Pain|50"
+              },
+              {
+                "type": "condition",
+                "id": 96,
+                "visit_reason": "Herniated Disc",
+                "score": 100,
+                "synonyms": [
+                  "Slipped Disc"
+                ],
+                "visit_reason_score": "Herniated Disc|100"
+              },
+              {
+                "type": "condition",
+                "id": 98,
+                "visit_reason": "Hip Pain",
+                "score": 50,
+                "synonyms": [
+                  "Hip Problem",
+                  "Hip Injury"
+                ],
+                "visit_reason_score": "Hip Pain|50"
+              },
+              {
+                "type": "condition",
+                "id": 111,
+                "visit_reason": "Jaw Problem",
+                "score": 100,
+                "synonyms": [
+                  "Jaw Pain"
+                ],
+                "visit_reason_score": "Jaw Problem|100"
+              },
+              {
+                "type": "condition",
+                "id": 112,
+                "visit_reason": "Joint Problem",
+                "score": 50,
+                "synonyms": [
+                  "Joint Pain"
+                ],
+                "visit_reason_score": "Joint Problem|50"
+              },
+              {
+                "type": "condition",
+                "id": 113,
+                "visit_reason": "Knee Problem",
+                "score": 50,
+                "synonyms": [
+                  "Knee Pain",
+                  "Knee Injury"
+                ],
+                "visit_reason_score": "Knee Problem|50"
+              },
+              {
+                "type": "condition",
+                "id": 114,
+                "visit_reason": "Labral Tear",
+                "score": 50,
+                "synonyms": [],
+                "visit_reason_score": "Labral Tear|50"
+              },
+              {
+                "type": "condition",
+                "id": 117,
+                "visit_reason": "Leg Problem",
+                "score": 50,
+                "synonyms": [
+                  "Leg Pain",
+                  "Leg Injury"
+                ],
+                "visit_reason_score": "Leg Problem|50"
+              },
+              {
+                "type": "condition",
+                "id": 119,
+                "visit_reason": "Lower Back Pain",
+                "score": 50,
+                "synonyms": [
+                  "Lumbago"
+                ],
+                "visit_reason_score": "Lower Back Pain|50"
+              },
+              {
+                "type": "condition",
+                "id": 121,
+                "visit_reason": "Meniscus Problem",
+                "score": 50,
+                "synonyms": [
+                  "Meniscus Pain",
+                  "Meniscus Injury"
+                ],
+                "visit_reason_score": "Meniscus Problem|50"
+              },
+              {
+                "type": "condition",
+                "id": 125,
+                "visit_reason": "Muscle Problem",
+                "score": 50,
+                "synonyms": [
+                  "Muscle Pain",
+                  "Muscle Injury"
+                ],
+                "visit_reason_score": "Muscle Problem|50"
+              },
+              {
+                "type": "condition",
+                "id": 134,
+                "visit_reason": "Neck Problems",
+                "score": 50,
+                "synonyms": [
+                  "Neck Pain",
+                  "Neck Injury"
+                ],
+                "visit_reason_score": "Neck Problems|50"
+              },
+              {
+                "type": "condition",
+                "id": 151,
+                "visit_reason": "Rotator Cuff Problem",
+                "score": 50,
+                "synonyms": [
+                  "Rotator Cuff Pain",
+                  "Rotator Cuff Injury"
+                ],
+                "visit_reason_score": "Rotator Cuff Problem|50"
+              },
+              {
+                "type": "condition",
+                "id": 157,
+                "visit_reason": "Shoulder Problem",
+                "score": 50,
+                "synonyms": [
+                  "Shoulder Pain",
+                  "Shoulder Injury"
+                ],
+                "visit_reason_score": "Shoulder Problem|50"
+              },
+              {
+                "type": "condition",
+                "id": 169,
+                "visit_reason": "Spinal Deformity",
+                "score": 50,
+                "synonyms": [
+                  "Scoliosis"
+                ],
+                "visit_reason_score": "Spinal Deformity|50"
+              },
+              {
+                "type": "condition",
+                "id": 170,
+                "visit_reason": "Spine Problem",
+                "score": 50,
+                "synonyms": [
+                  "Spine Pain",
+                  "Spine Injury"
+                ],
+                "visit_reason_score": "Spine Problem|50"
+              },
+              {
+                "type": "condition",
+                "id": 177,
+                "visit_reason": "Tendonitis",
+                "score": 100,
+                "synonyms": [],
+                "visit_reason_score": "Tendonitis|100"
+              },
+              {
+                "type": "condition",
+                "id": 178,
+                "visit_reason": "Tennis Elbow",
+                "score": 50,
+                "synonyms": [],
+                "visit_reason_score": "Tennis Elbow|50"
+              },
+              {
+                "type": "condition",
+                "id": 185,
+                "visit_reason": "Torn Ligament",
+                "score": 50,
+                "synonyms": [],
+                "visit_reason_score": "Torn Ligament|50"
+              },
+              {
+                "type": "condition",
+                "id": 186,
+                "visit_reason": "Torn Tendon",
+                "score": 50,
+                "synonyms": [],
+                "visit_reason_score": "Torn Tendon|50"
+              },
+              {
+                "type": "condition",
+                "id": 196,
+                "visit_reason": "Vertigo",
+                "score": 75,
+                "synonyms": [],
+                "visit_reason_score": "Vertigo|75"
+              },
+              {
+                "type": "condition",
+                "id": 202,
+                "visit_reason": "Wrist Problems",
+                "score": 50,
+                "synonyms": [
+                  "Wrist Pain",
+                  "Wrist Problems"
+                ],
+                "visit_reason_score": "Wrist Problems|50"
+              }
+            ],
+            "excluded_visit_reasons": []
+          }
+        ],
+        "awards": [],
+        "educations": [
+          {
+            "id": 93923,
+            "degree": "BSc in Physiotherapy",
+            "university_name": "The University of Sharjah",
+            "graduation_year": "",
+            "graduation_country": "UAE",
+            "position": "1",
+            "country_id": 224,
+            "translations": null,
+            "FgClone": false,
+            "ModifiedTime": "0001-01-01T00:00:00Z",
+            "CreatedTime": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": 93924,
+            "degree": "Certification in manual therapy",
+            "university_name": "",
+            "graduation_year": "",
+            "graduation_country": "",
+            "position": "2",
+            "translations": null,
+            "FgClone": false,
+            "ModifiedTime": "0001-01-01T00:00:00Z",
+            "CreatedTime": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": 93925,
+            "degree": "Certification in soft tissue management techniques",
+            "university_name": "",
+            "graduation_year": "",
+            "graduation_country": "",
+            "position": "3",
+            "translations": null,
+            "FgClone": false,
+            "ModifiedTime": "0001-01-01T00:00:00Z",
+            "CreatedTime": "0001-01-01T00:00:00Z"
+          }
+        ],
+        "experiences": [
+          {
+            "id": 47290,
+            "logo": "",
+            "title": "Physiotherapist",
+            "facility_name": "Medcare Medical Centre",
+            "departement": "",
+            "department": "",
+            "medical_facility": "",
+            "city": "",
+            "country": "UAE",
+            "start_year": "",
+            "end_year": "",
+            "position": "2",
+            "current_job": true,
+            "country_id": 0,
+            "FgClone": false,
+            "ModifiedTime": "0001-01-01T00:00:00Z",
+            "CreatedTime": "0001-01-01T00:00:00Z",
+            "translations": null
+          },
+          {
+            "id": 47289,
+            "logo": "",
+            "title": "Internship",
+            "facility_name": "The Wave Clinic and the Kids Habilitation Center",
+            "departement": "",
+            "department": "",
+            "medical_facility": "",
+            "city": "",
+            "country": "UAE",
+            "start_year": "",
+            "end_year": "",
+            "position": "1",
+            "current_job": false,
+            "country_id": 0,
+            "FgClone": false,
+            "ModifiedTime": "0001-01-01T00:00:00Z",
+            "CreatedTime": "0001-01-01T00:00:00Z",
+            "translations": null
+          }
+        ],
+        "licenses": [
+          {
+            "id": 22181,
+            "license_type_id": 2,
+            "name": "DHA License",
+            "number": "05207299-001",
+            "date_of_issued": "",
+            "date_of_expiry": "",
+            "FgCreatedByUser": false,
+            "FgClone": false,
+            "CreatedTime": "0001-01-01T00:00:00Z",
+            "ModifiedTime": "0001-01-01T00:00:00Z"
+          }
+        ],
+        "memberships": [],
+        "publications": [],
+        "fee": "AED 0",
+        "referrals": [],
+        "recommendations": [],
+        "photo_resize": null,
+        "services": [],
+        "arabic_services": [],
+        "searchSpecIndonesian": null,
+        "fg_available_today": false,
+        "fg_available_weekend": false,
+        "fg_available_weekday": false,
+        "symptoms": [
+          "Scoliosis",
+          "Kyphosis",
+          "Low back pain",
+          "Plantar fascitis",
+          "Fractures",
+          "Neurological disorders",
+          "Musculoskeletal conditions",
+          "Paediatric conditions"
+        ],
+        "footer": [
+          {
+            "icon": "https://img.okadoc.com/plain/100x100/photos/block_images/img/specialities/gp.png",
+            "title": "Most Popular Language",
+            "contents": [
+              {
+                "text": "English",
+                "url": "/doctor/spoken-language/english"
+              },
+              {
+                "text": "Arabic",
+                "url": "/doctor/spoken-language/arabic"
+              },
+              {
+                "text": "Hindi",
+                "url": "/doctor/spoken-language/hindi"
+              },
+              {
+                "text": "Urdu",
+                "url": "/doctor/spoken-language/urdu"
+              },
+              {
+                "text": "Malayalam",
+                "url": "/doctor/spoken-language/malayalam"
+              }
+            ]
+          },
+          {
+            "icon": "https://img.okadoc.com/plain/100x100/photos/block_images/img/specialities/gp.png",
+            "title": "Most Popular Practitioner",
+            "contents": [
+              {
+                "text": "Ms. Lizette Francia A. Fernandez Physiotherapy",
+                "url": "/practitioner/physiotherapist/al-ain/lizette-francia-a-fernandez"
+              },
+              {
+                "text": "Ms. Sharon D. Abrigo Physiotherapy",
+                "url": "/practitioner/physiotherapist/al-ain/sharon-d-abrigo"
+              },
+              {
+                "text": "Mr. Sherwin Callasan Abat Physiotherapy",
+                "url": "/practitioner/physiotherapist/al-ain/sherwin-callasan-abat"
+              },
+              {
+                "text": "Ms. Nimisha Ahuja Physiotherapy",
+                "url": "/practitioner/physiotherapist/dubai/nimisha-ahuja"
+              },
+              {
+                "text": "Mr. Bernard Dino Bernardino Santiago Physiotherapy",
+                "url": "/practitioner/physiotherapist/al-ain/bernard-dino-bernardino-santiago"
+              }
+            ]
+          },
+          {
+            "icon": "https://img.okadoc.com/plain/100x100/photos/block_images/img/specialities/gp.png",
+            "title": "Most Popular Spoken Language Speciality",
+            "contents": [
+              {
+                "text": "English-speaking Physiotherapy",
+                "url": "/physiotherapy/spoken-language/english"
+              },
+              {
+                "text": "Arabic-speaking Physiotherapy",
+                "url": "/physiotherapy/spoken-language/arabic"
+              },
+              {
+                "text": "Hindi-speaking Physiotherapy",
+                "url": "/physiotherapy/spoken-language/hindi"
+              },
+              {
+                "text": "Malayalam-speaking Physiotherapy",
+                "url": "/physiotherapy/spoken-language/malayalam"
+              },
+              {
+                "text": "Tagalog-speaking Physiotherapy",
+                "url": "/physiotherapy/spoken-language/tagalog"
+              }
+            ]
+          }
+        ],
+        "ranking_score": 0,
+        "searchSpecLabel": [
+          "Physiotherapy"
+        ],
+        "searchSpecArabicLabel": null,
+        "searchSpecIndonesianLabel": null,
+        "fg_featured": 0,
+        "practitioner_websites": [],
+        "insurances": {},
+        "practitioner_facility_plan": [
+          "10194:2"
+        ],
+        "fg_online": false,
+        "id_highlight": "",
+        "service_fees": [
+          {
+            "id": 50601025,
+            "fee": 0,
+            "currency_symbol": "AED",
+            "facility_id": 10194
+          }
+        ],
+        "whitelabels": null,
+        "speciality_ids": [
+          51
+        ],
+        "seo_data": {},
+        "default_master_language_id": 2,
+        "insuranceLocal": [],
+        "payment_methods": {},
+        "detailed_payment_methods": [],
+        "practitioner_type_id": 1,
+        "practitioner_types": [
+          "doctor"
+        ],
+        "supported_cities": null,
+        "expertise": {
+          "specialities": [
+            "Physiotherapy"
+          ],
+          "sub_specialities": [],
+          "visit_reasons": []
+        }
+      },
+      "availability": [],
+      "isMobile": false,
+      "book": false,
+      "host": "medcare.okadoc.com"
+    },
+    "APIRequest": {
+      "services": [
+        "locale",
+        "account",
+        "appointment",
+        "discovery",
+        "payment",
+        "notification",
+        "form"
+      ],
+      "options": {
+        "langHeader": "en",
+        "serviceUrl": {
+          "account": {
+            "url": "https://service.okadoc.com/account/v1"
+          },
+          "algolia": {
+            "url": ""
+          },
+          "algolia_doctors": {
+            "url": ""
+          },
+          "algolia_facilities": {
+            "url": ""
+          },
+          "appointment": {
+            "url": "https://service.okadoc.com/appointment/v1"
+          },
+          "availability": {
+            "url": "https://service.okadoc.com/availability/v1"
+          },
+          "delivery": {
+            "url": "https://service.okadoc.com/delivery/v1"
+          },
+          "discovery": {
+            "url": "https://service.okadoc.com/discovery/v2"
+          },
+          "form": {
+            "url": "https://service.okadoc.com/form/v1"
+          },
+          "locale": {
+            "url": "https://service.okadoc.com/locale/v1"
+          },
+          "notification": {
+            "url": "https://service.okadoc.com/notification/v1"
+          },
+          "payment": {
+            "url": "https://service.okadoc.com/payment/v1"
+          },
+          "qms": {
+            "url": "https://service.okadoc.com/qms/v1"
+          },
+          "tracking": {
+            "url": "https://service.okadoc.com/tracking/v1"
+          }
+        },
+        "clientKey": "whitelabel-medcare",
+        "isAllowedRedirect": false,
+        "expiredPath": false,
+        "isServer": true,
+        "baseURL": "/en-ae"
+      },
+      "locale": {
+        "accountRequest": false,
+        "discoveryRequest": false,
+        "appointmentRequest": false,
+        "customHeader": {
+          "headers": {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "APP-VERSION": "1.4.0",
+            "Optimus": false,
+            "Accept-Language": "en",
+            "Client-ID": "whitelabel-medcare"
+          },
+          "baseURL": "https://service.okadoc.com/locale/v1/"
+        },
+        "options": {},
+        "response": false,
+        "url": {
+          "init": "/appservice/init",
+          "getBlogHighlights": "/static/blog/highlights",
+          "getCustomContentFooter": "/static/custom/get?",
+          "getMeta": "/static/meta",
+          "getBulk": "/static/get/bulk",
+          "getBanner": "/banner/gets",
+          "getBannerCountry": "/banner/get",
+          "getTranslations": "/translation",
+          "getCountryLang": "/static/countries_languages",
+          "getIdentityTypes": "/master/identity-types",
+          "getDocumentTags": "/master/document-tags"
+        }
+      },
+      "account": {
+        "localeRequest": false,
+        "accountRequest": false,
+        "discoveryRequest": false,
+        "appointmentRequest": false,
+        "customHeader": {
+          "headers": {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "APP-VERSION": "1.4.0",
+            "Optimus": false,
+            "Accept-Language": "en",
+            "Client-ID": "whitelabel-medcare"
+          },
+          "baseURL": "https://service.okadoc.com/locale/v1/"
+        },
+        "options": {},
+        "response": false,
+        "url": {
+          "login": "/auth/login",
+          "loginByPhone": "/auth/login/phone",
+          "logout": "/auth/logout",
+          "registerPhone": "/auth/signup/phone",
+          "verifyRegisterPhone": "/auth/signup/phone/verify",
+          "register": "/auth/signup",
+          "google": "/auth/social/google/code",
+          "facebook": "/auth/social/facebook",
+          "otp": "/patient/otp",
+          "verifyOtp": "/auth/forgetpwd/phone/verify",
+          "updatePwd": "/auth/updatepwd/phone",
+          "createPasswordForGuest": "/auth/updatepwd/new",
+          "profile": "/account",
+          "updateProfile": "/account",
+          "patients": "/patients",
+          "updateEmail": "/account/email",
+          "updatePassword": "/auth/updatepwd",
+          "loginByOTP": "/patient/verify",
+          "profileOtp": "/account/send_phone_verification_token",
+          "profileVerify": "/account/verify_phone",
+          "getDocuments": "/patient/documents/gets",
+          "createDocument": "/patient/documents",
+          "documentOtp": "/auth/document/otp",
+          "documentOtpVerify": "/auth/document/otp/verify",
+          "makeAppointment": "/patient/appointment",
+          "loginByToken": "/auth/login/token",
+          "loginFromThirdParty": "/auth/thirdparty/login",
+          "createDevice": "/device/create",
+          "destroyDevice": "/device/destroy",
+          "notificationUpdate": "/account/notification/settings"
+        }
+      },
+      "appointment": {
+        "localeRequest": false,
+        "accountRequest": false,
+        "discoveryRequest": false,
+        "appointmentRequest": false,
+        "customHeader": {
+          "headers": {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "APP-VERSION": "1.4.0",
+            "Optimus": false,
+            "Accept-Language": "en",
+            "Client-ID": "whitelabel-medcare"
+          },
+          "baseURL": "https://service.okadoc.com/locale/v1/"
+        },
+        "options": {},
+        "response": false,
+        "url": {
+          "getAppointments": "/patientapp/appointments",
+          "getPastAppointments": "/patientapp/appointments/past",
+          "setConsent": "/patientapp/appointments/{appointment_no}/consent",
+          "getTelemedicineUrl": "/telemedicine/check/url"
+        }
+      },
+      "discovery": {
+        "localeRequest": false,
+        "accountRequest": false,
+        "discoveryRequest": false,
+        "appointmentRequest": false,
+        "customHeader": {
+          "headers": {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "APP-VERSION": "1.4.0",
+            "Optimus": false,
+            "Accept-Language": "en",
+            "Client-ID": "whitelabel-medcare"
+          },
+          "baseURL": "https://service.okadoc.com/locale/v1/"
+        },
+        "options": {
+          "applicationId": "6A1DZXM196",
+          "apiKey": "de9200344cd74e9967ad0df26bb1f2fe",
+          "defaultFacetFilters": [
+            "published:true",
+            "fg_test:false"
+          ],
+          "service": "discovery",
+          "options": {
+            "headers": {
+              "Accept-Language": "en",
+              "Client-ID": "whitelabel-medcare"
+            },
+            "baseURL": "https://service.okadoc.com/discovery/v2"
+          }
+        },
+        "response": false,
+        "url": {
+          "doctors": "/doctor"
+        }
+      },
+      "payment": {
+        "localeRequest": false,
+        "accountRequest": false,
+        "discoveryRequest": false,
+        "appointmentRequest": false,
+        "customHeader": {
+          "headers": {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "APP-VERSION": "1.4.0",
+            "Optimus": false,
+            "Accept-Language": "en",
+            "Client-ID": "whitelabel-medcare"
+          },
+          "baseURL": "https://service.okadoc.com/locale/v1/"
+        },
+        "options": {},
+        "response": false,
+        "url": {
+          "validateMerchant": "/wallet/validate-merchant"
+        }
+      },
+      "notification": {
+        "localeRequest": false,
+        "accountRequest": false,
+        "discoveryRequest": false,
+        "appointmentRequest": false,
+        "customHeader": {
+          "headers": {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "APP-VERSION": "1.4.0",
+            "Optimus": false,
+            "Accept-Language": "en",
+            "Client-ID": "whitelabel-medcare"
+          },
+          "baseURL": "https://service.okadoc.com/locale/v1/"
+        },
+        "options": {},
+        "response": false,
+        "url": {
+          "trackAppointmentSource": "/notification/track"
+        }
+      },
+      "form": {
+        "localeRequest": false,
+        "accountRequest": false,
+        "discoveryRequest": false,
+        "appointmentRequest": false,
+        "customHeader": {
+          "headers": {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "APP-VERSION": "1.4.0",
+            "Optimus": false,
+            "Accept-Language": "en",
+            "Client-ID": "whitelabel-medcare"
+          },
+          "baseURL": "https://service.okadoc.com/locale/v1/"
+        },
+        "options": {},
+        "response": false,
+        "url": {
+          "getFormByType": "/form/by-type"
+        }
+      },
+      "lang": false,
+      "kongInitialized": false
+    },
+    "initData": {
+      "app_version": {
+        "platform": "patientweb",
+        "version": "1.4.0"
+      },
+      "service_url": {
+        "account": {
+          "url": "https://service.okadoc.com/account/v1"
+        },
+        "algolia": {
+          "url": ""
+        },
+        "algolia_doctors": {
+          "url": ""
+        },
+        "algolia_facilities": {
+          "url": ""
+        },
+        "appointment": {
+          "url": "https://service.okadoc.com/appointment/v1"
+        },
+        "availability": {
+          "url": "https://service.okadoc.com/availability/v1"
+        },
+        "delivery": {
+          "url": "https://service.okadoc.com/delivery/v1"
+        },
+        "discovery": {
+          "url": "https://service.okadoc.com/discovery/v2"
+        },
+        "form": {
+          "url": "https://service.okadoc.com/form/v1"
+        },
+        "locale": {
+          "url": "https://service.okadoc.com/locale/v1"
+        },
+        "notification": {
+          "url": "https://service.okadoc.com/notification/v1"
+        },
+        "payment": {
+          "url": "https://service.okadoc.com/payment/v1"
+        },
+        "qms": {
+          "url": "https://service.okadoc.com/qms/v1"
+        },
+        "tracking": {
+          "url": "https://service.okadoc.com/tracking/v1"
+        }
+      },
+      "settings": {
+        "app_configs": {
+          "app_url": "https://medcare.okadoc.com/en-ae/dashboard/appointments",
+          "blocks": {
+            "footer_block_content_key": "whitelabel-medcare-footer",
+            "header_block_content_key": "whitelabel-medcare-header",
+            "popular_block_content_key": "whitelabel-medcare-popular"
+          },
+          "code": "whitelabel-medcare",
+          "consent_file": {
+            "campaign_consents": [],
+            "consent_file": "",
+            "fg_consent": 0
+          },
+          "country_code": "ae",
+          "default_template": "theta",
+          "desktop_default_template": "theta",
+          "explanation_block_content_key": "",
+          "explanation_block_value": null,
+          "facility_ids": [
+            "889",
+            "893",
+            "6315",
+            "6316",
+            "894",
+            "896",
+            "892",
+            "897",
+            "904",
+            "898",
+            "895",
+            "900",
+            "891",
+            "1935",
+            "901",
+            "902",
+            "6314",
+            "905",
+            "9747",
+            "9812",
+            "9843",
+            "903",
+            "9849",
+            "9855",
+            "9877",
+            "9915",
+            "9968",
+            "10167",
+            "10172",
+            "10175",
+            "10178",
+            "10187",
+            "10191",
+            "10194",
+            "10257"
+          ],
+          "favicon_url": "",
+          "filter": [
+            "plan:2",
+            "plan:02"
+          ],
+          "flag": {
+            "fg_allow_user_delete": false,
+            "fg_earlier": true,
+            "fg_show_online": true
+          },
+          "font_config": {},
+          "ga_view_id": "172594523",
+          "gtm_id": "GTM-PZZNC2W",
+          "heading": {
+            "h1": "Book an in-person appointment instantly",
+            "h2": ""
+          },
+          "homepage_url": "https://www.medcare.ae/en",
+          "insurances": [],
+          "login_url": "",
+          "meta_configs": {
+            "homepage": true,
+            "search_clinic": false,
+            "search_result": false
+          },
+          "name": "Medcare",
+          "picture": "https://img.okadoc.com/photos/practitioner/photo/31/whitelabel-medcare-20200816052231.jpg",
+          "practitioner_ids": [],
+          "push_enabled": true,
+          "push_id": "",
+          "search_filter_configs": {
+            "consultation_fees": true,
+            "consultation_method": false,
+            "date": false,
+            "emirate": false,
+            "facility": false,
+            "gender": true,
+            "in-person_consultation": true,
+            "insurance": true,
+            "language": true,
+            "location": true,
+            "practitioner_country_of_education": true,
+            "practitioner_country_of_experience": true,
+            "speciality": true,
+            "video_consultation": false
+          },
+          "sort_by": "relevance",
+          "version": 1,
+          "whitelabel_target_url": "https://medcare.okadoc.com/en-ae/search/result",
+          "whitelabel_url": "https://medcare.okadoc.com"
+        },
+        "master_nature_of_visits": [
+          {
+            "id": 1,
+            "name": "First Visit"
+          },
+          {
+            "id": 2,
+            "name": "Follow Up Consultation"
+          }
+        ],
+        "master_relationships": [
+          {
+            "id": 1,
+            "name": "Family"
+          },
+          {
+            "id": 2,
+            "name": "Friend"
+          }
+        ],
+        "whitelabel_configs": {
+          "campaign_consents": [],
+          "code": "whitelabel-medcare",
+          "colour_config": {
+            "bg_filter": "#ffffff",
+            "bg_header": "#000000",
+            "bg_landing": "#ffffff",
+            "bg_profile": "#ffffff",
+            "button_cta": "#97005e",
+            "dark_mode": true,
+            "text_button_cta": "#ffffff",
+            "text_main": "#97005e"
+          },
+          "consent_file": "",
+          "country_code": "ae",
+          "default_template": "theta",
+          "desktop_default_template": "theta",
+          "facility_ids": [
+            "889",
+            "893",
+            "6315",
+            "6316",
+            "894",
+            "896",
+            "892",
+            "897",
+            "904",
+            "898",
+            "895",
+            "900",
+            "891",
+            "1935",
+            "901",
+            "902",
+            "6314",
+            "905",
+            "9747",
+            "9812",
+            "9843",
+            "903",
+            "9849",
+            "9855",
+            "9877",
+            "9915",
+            "9968",
+            "10167",
+            "10172",
+            "10175",
+            "10178",
+            "10187",
+            "10191",
+            "10194",
+            "10257"
+          ],
+          "fg_allow_user_delete": false,
+          "fg_consent": 0,
+          "fg_earlier": true,
+          "fg_recaptcha": false,
+          "fg_show_online": true,
+          "filter": [
+            "plan:2",
+            "plan:02"
+          ],
+          "footer_block_content_key": "whitelabel-medcare-footer",
+          "ga_view_id": "172594523",
+          "gtm_id": "GTM-PZZNC2W",
+          "header_block_content_key": "whitelabel-medcare-header",
+          "heading1": "Book an in-person appointment instantly",
+          "heading2": "",
+          "homepage_url": "https://www.medcare.ae/en",
+          "insurances": [],
+          "login_url": "",
+          "meta_configs": {
+            "homepage": true,
+            "search_clinic": false,
+            "search_result": false
+          },
+          "name": "Medcare",
+          "picture": "https://img.okadoc.com/photos/practitioner/photo/31/whitelabel-medcare-20200816052231.jpg",
+          "popular_block_content_key": "whitelabel-medcare-popular",
+          "practitioner_ids": [],
+          "push_enabled": true,
+          "push_id": "",
+          "search_filter_configs": {
+            "consultation_fees": true,
+            "consultation_method": false,
+            "date": false,
+            "emirate": false,
+            "facility": false,
+            "gender": true,
+            "in-person_consultation": true,
+            "insurance": true,
+            "language": true,
+            "location": true,
+            "practitioner_country_of_education": true,
+            "practitioner_country_of_experience": true,
+            "speciality": true,
+            "video_consultation": false
+          },
+          "sort_by": "relevance",
+          "telemedicine_consent_file_url": "",
+          "theme_name": "theme-medcare",
+          "whitelabel_target_url": "https://medcare.okadoc.com/en-ae/search/result",
+          "whitelabel_url": "https://medcare.okadoc.com",
+          "hide_footer_on_homepage": true,
+          "footer_type": "whitelabel"
+        }
+      },
+      "isServer": true,
+      "isAllowedRedirect": false,
+      "expiredPath": false,
+      "baseURL": "/en-ae",
+      "countryCode": "ae"
+    },
+    "isMobile": false,
+    "lang": "en",
+    "country": "ae",
+    "resources": {
+      "en": {
+        "translation": {
+          "test-nupatient": "nupatient EN",
+          "(No Booking Fees)": "",
+          "Book Appointment": "",
+          "Call Facilities": "Call Facility",
+          "Find & book a doctor by speciality, location, insurance, availability, & more!": " ",
+          "Find Doctor": "Book Now",
+          "More Filter": "More Filters",
+          "The following doctors are not bookable yet on Okadoc but you can call them directly. We will be working to make them bookable from our platform": "The following doctor can be booked by calling 800Medcare (6332273) or +97145862003"
+        }
+      }
+    },
+    "seo": "search",
+    "clientID": "whitelabel-medcare",
+    "maintenance": false,
+    "metaSEOPremiumConfig": {},
+    "host": "medcare.okadoc.com",
+    "basePath": "",
+    "baseURL": "/en-ae",
+    "locale": "en"
+  },
+  "page": "/doctor-detail",
+  "query": {
+    "lang": "en",
+    "country": "ae",
+    "specialityTitle": "practitioner",
+    "speciality": "physiotherapy",
+    "city": "dubai",
+    "name": "mariam-m-abdelaziz",
+    "countryList": [
+      {
+        "country_name": "Qatar",
+        "country_code": "qa",
+        "flag": "https://img.okadoc.com/photos/countries-circ/qa-circular.svg",
+        "currency": "QAR",
+        "languages": [
+          {
+            "language": "English",
+            "language_code": "en",
+            "native_language": "English",
+            "url": "/en-qa",
+            "extra_attributes": {
+              "about": [
+                {
+                  "link": "https://www.okadoc.com/en-qa/about-okadoc",
+                  "name": "About"
+                },
+                {
+                  "link": "https://www.okadoc.com/en-qa/pro",
+                  "name": "Okadoc for Doctors"
+                },
+                {
+                  "link": "https://www.okadoc.com/en-qa/press",
+                  "name": "Press"
+                },
+                {
+                  "link": "https://www.okadoc.com/blog",
+                  "name": "Blog"
+                }
+              ],
+              "certification": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                  "name": "ISO 27001",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                  "link": false,
+                  "name": "SOC 2",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                  "name": "HIPAA Compliant",
+                  "type": "iso"
+                }
+              ],
+              "help": [
+                {
+                  "link": "https://www.okadoc.com/en-qa/contact-us",
+                  "name": "Contact"
+                }
+              ],
+              "privacy": [
+                {
+                  "link": "https://www.okadoc.com/policy/privacy/",
+                  "name": "Privacy Policy",
+                  "type": "privacy"
+                },
+                {
+                  "link": "https://www.okadoc.com/en-qa/policy/terms/",
+                  "name": "Terms of Use",
+                  "type": "terms"
+                }
+              ],
+              "sosmed": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                  "link": "https://www.facebook.com/Okadoc/",
+                  "name": "facebook"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                  "link": "https://twitter.com/okadoc_uae",
+                  "name": "twitter"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                  "link": "https://www.instagram.com/okadoc_uae/",
+                  "name": "instagram"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                  "link": "https://www.linkedin.com/company/okadoc/",
+                  "name": "linkedin"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                  "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                  "name": "youtube"
+                }
+              ]
+            }
+          },
+          {
+            "language": "Arabic",
+            "language_code": "ar",
+            "native_language": "العربية",
+            "url": "/ar-qa",
+            "extra_attributes": {
+              "about": [
+                {
+                  "link": "https://www.okadoc.com/ar-qa/about-okadoc",
+                  "name": "About"
+                },
+                {
+                  "link": "https://www.okadoc.com/ar-qa/pro",
+                  "name": "Okadoc for Doctors"
+                },
+                {
+                  "link": "https://www.okadoc.com/ar-qa/press",
+                  "name": "Press"
+                },
+                {
+                  "link": "https://www.okadoc.com/blog-ar",
+                  "name": "Blog"
+                }
+              ],
+              "certification": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                  "name": "ISO 27001",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                  "link": false,
+                  "name": "SOC 2",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                  "name": "HIPAA Compliant",
+                  "type": "iso"
+                }
+              ],
+              "help": [
+                {
+                  "link": "https://www.okadoc.com/ar-qa/contact-us",
+                  "name": "Contact"
+                }
+              ],
+              "privacy": [
+                {
+                  "link": "https://www.okadoc.com/policy/privacy/",
+                  "name": "Privacy Policy",
+                  "type": "privacy"
+                },
+                {
+                  "link": "https://www.okadoc.com/terms-of-use/",
+                  "name": "Terms of Use",
+                  "type": "terms"
+                }
+              ],
+              "sosmed": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                  "link": "https://www.facebook.com/Okadoc/",
+                  "name": "facebook"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                  "link": "https://twitter.com/okadoc_uae",
+                  "name": "twitter"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                  "link": "https://www.instagram.com/okadoc_uae/",
+                  "name": "instagram"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                  "link": "https://www.linkedin.com/company/okadoc/",
+                  "name": "linkedin"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                  "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                  "name": "youtube"
+                }
+              ]
+            }
+          }
+        ],
+        "products": [],
+        "time_layout": "24h",
+        "home_menus": null
+      },
+      {
+        "country_name": "Kuwait",
+        "country_code": "kw",
+        "flag": "https://img.okadoc.com/photos/countries-circ/kw-circular.svg",
+        "currency": "KWD",
+        "languages": [
+          {
+            "language": "English",
+            "language_code": "en",
+            "native_language": "English",
+            "url": "/en-kw",
+            "extra_attributes": {
+              "about": [
+                {
+                  "link": "https://www.okadoc.com/en-kw/about-okadoc",
+                  "name": "About"
+                },
+                {
+                  "link": "https://www.okadoc.com/en-kw/pro",
+                  "name": "Okadoc for Doctors"
+                },
+                {
+                  "link": "https://www.okadoc.com/en-kw/press",
+                  "name": "Press"
+                },
+                {
+                  "link": "https://www.okadoc.com/blog",
+                  "name": "Blog"
+                }
+              ],
+              "certification": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                  "name": "ISO 27001",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                  "link": false,
+                  "name": "SOC 2",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                  "name": "HIPAA Compliant",
+                  "type": "iso"
+                }
+              ],
+              "help": [
+                {
+                  "link": "https://www.okadoc.com/en-kw/contact-us",
+                  "name": "Contact"
+                }
+              ],
+              "privacy": [
+                {
+                  "link": "https://www.okadoc.com/policy/privacy/",
+                  "name": "Privacy Policy",
+                  "type": "privacy"
+                },
+                {
+                  "link": "https://www.okadoc.com/en-kw/policy/terms/",
+                  "name": "Terms of Use",
+                  "type": "terms"
+                }
+              ],
+              "sosmed": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                  "link": "https://www.facebook.com/Okadoc/",
+                  "name": "facebook"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                  "link": "https://twitter.com/okadoc_uae",
+                  "name": "twitter"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                  "link": "https://www.instagram.com/okadoc_uae/",
+                  "name": "instagram"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                  "link": "https://www.linkedin.com/company/okadoc/",
+                  "name": "linkedin"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                  "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                  "name": "youtube"
+                }
+              ]
+            }
+          },
+          {
+            "language": "Arabic",
+            "language_code": "ar",
+            "native_language": "العربية",
+            "url": "/ar-kw",
+            "extra_attributes": {
+              "about": [
+                {
+                  "link": "https://www.okadoc.com/ar-kw/about-okadoc",
+                  "name": "About"
+                },
+                {
+                  "link": "https://www.okadoc.com/ar-kw/pro",
+                  "name": "Okadoc for Doctors"
+                },
+                {
+                  "link": "https://www.okadoc.com/ar-kw/press",
+                  "name": "Press"
+                },
+                {
+                  "link": "https://www.okadoc.com/blog-ar",
+                  "name": "Blog"
+                }
+              ],
+              "certification": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                  "name": "ISO 27001",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                  "link": false,
+                  "name": "SOC 2",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                  "name": "HIPAA Compliant",
+                  "type": "iso"
+                }
+              ],
+              "help": [
+                {
+                  "link": "https://www.okadoc.com/ar-kw/contact-us",
+                  "name": "Contact"
+                }
+              ],
+              "privacy": [
+                {
+                  "link": "https://www.okadoc.com/policy/privacy/",
+                  "name": "Privacy Policy",
+                  "type": "privacy"
+                },
+                {
+                  "link": "https://www.okadoc.com/terms-of-use/",
+                  "name": "Terms of Use",
+                  "type": "terms"
+                }
+              ],
+              "sosmed": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                  "link": "https://www.facebook.com/Okadoc/",
+                  "name": "facebook"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                  "link": "https://twitter.com/okadoc_uae",
+                  "name": "twitter"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                  "link": "https://www.instagram.com/okadoc_uae/",
+                  "name": "instagram"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                  "link": "https://www.linkedin.com/company/okadoc/",
+                  "name": "linkedin"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                  "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                  "name": "youtube"
+                }
+              ]
+            }
+          }
+        ],
+        "products": [],
+        "time_layout": "24h",
+        "home_menus": null
+      },
+      {
+        "country_name": "UAE",
+        "country_code": "ae",
+        "flag": "https://img.okadoc.com/photos/block_images/img/icon/countries/united-arab-emirates.svg",
+        "currency": "AED",
+        "languages": [
+          {
+            "language": "English",
+            "language_code": "en",
+            "native_language": "English",
+            "url": "/en-ae",
+            "extra_attributes": {
+              "about": [
+                {
+                  "link": "https://www.okadoc.com/en-ae/about-okadoc",
+                  "name": "About"
+                },
+                {
+                  "link": "https://www.okadoc.com/en-ae/pro",
+                  "name": "Okadoc for Doctors"
+                },
+                {
+                  "link": "https://www.okadoc.com/en-ae/press",
+                  "name": "Press"
+                },
+                {
+                  "link": "https://www.okadoc.com/en-ae/blog",
+                  "name": "Blog"
+                }
+              ],
+              "certification": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                  "name": "ISO 27001",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                  "link": false,
+                  "name": "SOC 2",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                  "name": "HIPAA Compliant",
+                  "type": "iso"
+                }
+              ],
+              "help": [
+                {
+                  "link": "https://www.okadoc.com/en-ae/contact-us",
+                  "name": "Contact"
+                }
+              ],
+              "privacy": [
+                {
+                  "link": "https://www.okadoc.com/policy/privacy/",
+                  "name": "Privacy Policy",
+                  "type": "privacy"
+                },
+                {
+                  "link": "https://www.okadoc.com//en-ae/policy/terms/",
+                  "name": "Terms of Use",
+                  "type": "terms"
+                }
+              ],
+              "sosmed": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                  "link": "https://www.facebook.com/Okadoc/",
+                  "name": "facebook"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                  "link": "https://twitter.com/okadoc_uae",
+                  "name": "twitter"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                  "link": "https://www.instagram.com/okadoc_uae/",
+                  "name": "instagram"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                  "link": "https://www.linkedin.com/company/okadoc/",
+                  "name": "linkedin"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                  "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                  "name": "youtube"
+                }
+              ]
+            }
+          },
+          {
+            "language": "Arabic",
+            "language_code": "ar",
+            "native_language": "العربية",
+            "url": "/ar-ae",
+            "extra_attributes": {
+              "about": [
+                {
+                  "link": "https://www.okadoc.com/ar-ae/about-okadoc",
+                  "name": "About"
+                },
+                {
+                  "link": "https://www.okadoc.com/ar-ae/pro",
+                  "name": "Okadoc for Doctors"
+                },
+                {
+                  "link": "https://www.okadoc.com/ar-ae/press",
+                  "name": "Press"
+                },
+                {
+                  "link": "https://www.okadoc.com/ar-ae/blog",
+                  "name": "Blog"
+                }
+              ],
+              "certification": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                  "name": "ISO 27001",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                  "link": false,
+                  "name": "SOC 2",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                  "name": "HIPAA Compliant",
+                  "type": "iso"
+                }
+              ],
+              "help": [
+                {
+                  "link": "https://www.okadoc.com/ar-ae/contact-us",
+                  "name": "Contact"
+                }
+              ],
+              "privacy": [
+                {
+                  "link": "https://www.okadoc.com/policy/privacy/",
+                  "name": "Privacy Policy",
+                  "type": "privacy"
+                },
+                {
+                  "link": "https://www.okadoc.com/terms-of-use/",
+                  "name": "Terms of Use",
+                  "type": "terms"
+                }
+              ],
+              "sosmed": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                  "link": "https://www.facebook.com/Okadoc/",
+                  "name": "facebook"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                  "link": "https://twitter.com/okadoc_uae",
+                  "name": "twitter"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                  "link": "https://www.instagram.com/okadoc_uae/",
+                  "name": "instagram"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                  "link": "https://www.linkedin.com/company/okadoc/",
+                  "name": "linkedin"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                  "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                  "name": "youtube"
+                }
+              ]
+            }
+          }
+        ],
+        "products": [
+          "appointment",
+          "appointment-telemedicine"
+        ],
+        "time_layout": "12h",
+        "home_menus": [
+          {
+            "order": 1,
+            "type": "square",
+            "action": "okadocapp://service-list/en-ae/app-homepage-landing-labtests-ae",
+            "label": "Lab Tests",
+            "icon": {
+              "icon_name": "",
+              "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_lab_tests.png"
+            },
+            "platform": "default",
+            "badge": {
+              "badge_title": "",
+              "badge_colour": "",
+              "badge_icon": ""
+            }
+          },
+          {
+            "order": 2,
+            "type": "square",
+            "action": "okadocapp://service-list/en-ae/app-homepage-landing-pcrtests-ae",
+            "label": "Covid-19 Test",
+            "icon": {
+              "icon_name": "",
+              "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_covid_test.png"
+            },
+            "platform": "default",
+            "badge": {
+              "badge_title": "",
+              "badge_colour": "",
+              "badge_icon": ""
+            }
+          },
+          {
+            "order": 3,
+            "type": "rectangle",
+            "action": "okadocapp://search/en-ae/2",
+            "label": "Telehealth",
+            "icon": {
+              "icon_name": "",
+              "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_teleconsultation.png"
+            },
+            "platform": "default",
+            "badge": {
+              "badge_title": "",
+              "badge_colour": "",
+              "badge_icon": ""
+            }
+          },
+          {
+            "order": 4,
+            "type": "square",
+            "action": "okadocapp://service-list/en-ae/app-homepage-landing-ivdrip-ae",
+            "label": "IV Drip",
+            "icon": {
+              "icon_name": "",
+              "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_IV_drip.png"
+            },
+            "platform": "default",
+            "badge": {
+              "badge_title": "",
+              "badge_colour": "",
+              "badge_icon": ""
+            }
+          },
+          {
+            "order": 5,
+            "type": "square",
+            "action": "okadocapp://search/en-ae/4",
+            "label": "Home Health",
+            "icon": {
+              "icon_name": "",
+              "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_home_health.png"
+            },
+            "platform": "default",
+            "badge": {
+              "badge_title": "",
+              "badge_colour": "",
+              "badge_icon": ""
+            }
+          },
+          {
+            "order": 6,
+            "type": "rectangle",
+            "action": "okadocapp://search/en-ae/1",
+            "label": "Clinic Visit",
+            "icon": {
+              "icon_name": "",
+              "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_doctor_visit.png"
+            },
+            "platform": "default",
+            "badge": {
+              "badge_title": "",
+              "badge_colour": "",
+              "badge_icon": ""
+            }
+          }
+        ]
+      },
+      {
+        "country_name": "Saudi Arabia",
+        "country_code": "sa",
+        "flag": "https://img.okadoc.com/photos/block_images/img/icon/countries/saudi-arabia.svg",
+        "currency": "SAR",
+        "languages": [
+          {
+            "language": "Arabic",
+            "language_code": "ar",
+            "native_language": "العربية",
+            "url": "/ar-sa",
+            "extra_attributes": {
+              "about": [
+                {
+                  "link": "https://www.okadoc.com/ar-sa/about-okadoc",
+                  "name": "About"
+                },
+                {
+                  "link": "https://www.okadoc.com/ar-sa/pro",
+                  "name": "Okadoc for Doctors"
+                },
+                {
+                  "link": "https://www.okadoc.com/ar-sa/press",
+                  "name": "Press"
+                },
+                {
+                  "link": "https://www.okadoc.com//ar-sa/blog",
+                  "name": "Blog"
+                }
+              ],
+              "certification": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-Okadoc-Technologies-Arabia-LLC.pdf",
+                  "name": "ISO 27001",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                  "link": false,
+                  "name": "SOC 2",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                  "name": "HIPAA Compliant",
+                  "type": "iso"
+                }
+              ],
+              "help": [
+                {
+                  "link": "https://www.okadoc.com/ar-sa/contact-us",
+                  "name": "Contact"
+                }
+              ],
+              "privacy": [
+                {
+                  "link": "https://www.okadoc.com/policy/privacy/",
+                  "name": "Privacy Policy",
+                  "type": "privacy"
+                },
+                {
+                  "link": "https://www.okadoc.com/terms-of-use/",
+                  "name": "Terms of Use",
+                  "type": "terms"
+                }
+              ],
+              "sosmed": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                  "link": "https://www.facebook.com/Okadoc/",
+                  "name": "facebook"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                  "link": "https://twitter.com/okadoc_uae",
+                  "name": "twitter"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                  "link": "https://www.instagram.com/okadoc_uae/",
+                  "name": "instagram"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                  "link": "https://www.linkedin.com/company/okadoc/",
+                  "name": "linkedin"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                  "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                  "name": "youtube"
+                }
+              ]
+            }
+          },
+          {
+            "language": "English",
+            "language_code": "en",
+            "native_language": "English",
+            "url": "/en-sa",
+            "extra_attributes": {
+              "about": [
+                {
+                  "link": "https://www.okadoc.com/en-sa/about-okadoc",
+                  "name": "About"
+                },
+                {
+                  "link": "https://www.okadoc.com/en-sa/pro",
+                  "name": "Okadoc for Doctors"
+                },
+                {
+                  "link": "https://www.okadoc.com/en-sa/press",
+                  "name": "Press"
+                },
+                {
+                  "link": "https://www.okadoc.com/en-ae/blog",
+                  "name": "Blog"
+                }
+              ],
+              "certification": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-Okadoc-Technologies-Arabia-LLC.pdf",
+                  "name": "ISO 27001",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                  "link": false,
+                  "name": "SOC 2",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                  "name": "HIPAA Compliant",
+                  "type": "iso"
+                }
+              ],
+              "help": [
+                {
+                  "link": "https://www.okadoc.com/en-sa/contact-us",
+                  "name": "Contact"
+                }
+              ],
+              "privacy": [
+                {
+                  "link": "https://www.okadoc.com/policy/privacy/",
+                  "name": "Privacy Policy",
+                  "type": "privacy"
+                },
+                {
+                  "link": "https://www.okadoc.com/terms-of-use/",
+                  "name": "Terms of Use",
+                  "type": "terms"
+                }
+              ],
+              "sosmed": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                  "link": "https://www.facebook.com/Okadoc/",
+                  "name": "facebook"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                  "link": "https://twitter.com/okadoc_uae",
+                  "name": "twitter"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                  "link": "https://www.instagram.com/okadoc_uae/",
+                  "name": "instagram"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                  "link": "https://www.linkedin.com/company/okadoc/",
+                  "name": "linkedin"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                  "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                  "name": "youtube"
+                }
+              ]
+            }
+          }
+        ],
+        "products": [
+          "appointment",
+          "appointment-telemedicine"
+        ],
+        "time_layout": "12h",
+        "home_menus": [
+          {
+            "order": 1,
+            "type": "rectangle",
+            "action": "okadocapp://search/en-sa/1",
+            "label": "Clinic Visit",
+            "icon": {
+              "icon_name": "",
+              "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_doctor_visit.png"
+            },
+            "platform": "default",
+            "badge": {
+              "badge_title": "",
+              "badge_colour": "",
+              "badge_icon": ""
+            }
+          },
+          {
+            "order": 2,
+            "type": "rectangle",
+            "action": "okadocapp://search/en-sa/2/is_navigate_to_speciality_list=true",
+            "label": "Telehealth",
+            "icon": {
+              "icon_name": "",
+              "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_teleconsultation.png"
+            },
+            "platform": "default",
+            "badge": {
+              "badge_title": "",
+              "badge_colour": "",
+              "badge_icon": ""
+            }
+          },
+          {
+            "order": 3,
+            "type": "rectangle",
+            "action": "okadocapp://external/en-sa/destination=https://wa.me/966554357280",
+            "label": "Pharmacy",
+            "icon": {
+              "icon_name": "",
+              "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_pharmacy.png"
+            },
+            "platform": "default",
+            "badge": {
+              "badge_title": "",
+              "badge_colour": "",
+              "badge_icon": ""
+            }
+          },
+          {
+            "order": 4,
+            "type": "rectangle",
+            "action": "okadocapp://search/en-sa/4",
+            "label": "Home Health",
+            "icon": {
+              "icon_name": "",
+              "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrants_home_health.png"
+            },
+            "platform": "default",
+            "badge": {
+              "badge_title": "",
+              "badge_colour": "",
+              "badge_icon": ""
+            }
+          },
+          {
+            "order": 9,
+            "type": "square",
+            "action": "okadocapp://exam-device/en-ae",
+            "label": "Exam Devices",
+            "icon": {
+              "icon_name": "",
+              "uri": "https://img.okadoc.com/photos/block_images/img/icon/quadrant-okago.png"
+            },
+            "platform": "default",
+            "badge": {
+              "badge_title": "",
+              "badge_colour": "",
+              "badge_icon": ""
+            }
+          }
+        ]
+      },
+      {
+        "country_name": "Indonesia",
+        "country_code": "id",
+        "flag": "https://img.okadoc.com/photos/block_images/img/icon/countries/indonesia.svg",
+        "currency": "IDR",
+        "languages": [
+          {
+            "language": "Bahasa",
+            "language_code": "id",
+            "native_language": "Bahasa",
+            "url": "/id-id",
+            "extra_attributes": {
+              "about": [
+                {
+                  "link": "https://www.okadoc.com/id-id/about-okadoc",
+                  "name": "About"
+                },
+                {
+                  "link": "https://www.okadoc.com/id-id/pro",
+                  "name": "Okadoc for Doctors"
+                },
+                {
+                  "link": "https://www.okadoc.com/id-id/press",
+                  "name": "Press"
+                },
+                {
+                  "link": "https://www.okadoc.com/id-id/blog",
+                  "name": "Blog"
+                }
+              ],
+              "certification": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-PT-Okadoc-Technologies-Indonesia.pdf",
+                  "name": "ISO 27001",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                  "link": false,
+                  "name": "SOC 2",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                  "name": "HIPAA Compliant",
+                  "type": "iso"
+                }
+              ],
+              "help": [
+                {
+                  "link": "https://www.okadoc.com/id-id/contact-us",
+                  "name": "Contact"
+                }
+              ],
+              "privacy": [
+                {
+                  "link": "https://www.okadoc.com/policy/privacy/",
+                  "name": "Privacy Policy",
+                  "type": "privacy"
+                },
+                {
+                  "link": "https://www.okadoc.com/terms-of-use/",
+                  "name": "Terms of Use",
+                  "type": "terms"
+                }
+              ],
+              "sosmed": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                  "link": "https://www.facebook.com/Okadoc/",
+                  "name": "facebook"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                  "link": "https://twitter.com/okadoc_uae",
+                  "name": "twitter"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                  "link": "https://www.instagram.com/okadoc_uae/",
+                  "name": "instagram"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                  "link": "https://www.linkedin.com/company/okadoc/",
+                  "name": "linkedin"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                  "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                  "name": "youtube"
+                }
+              ]
+            }
+          },
+          {
+            "language": "English",
+            "language_code": "en",
+            "native_language": "English",
+            "url": "/en-id",
+            "extra_attributes": {
+              "about": [
+                {
+                  "link": "https://www.okadoc.com/en-id/about-okadoc",
+                  "name": "About"
+                },
+                {
+                  "link": "https://www.okadoc.com/en-id/pro",
+                  "name": "Okadoc for Doctors"
+                },
+                {
+                  "link": "https://www.okadoc.com/en-id/press",
+                  "name": "Press"
+                },
+                {
+                  "link": "https://www.okadoc.com/id-id/blog",
+                  "name": "Blog"
+                }
+              ],
+              "certification": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-PT-Okadoc-Technologies-Indonesia.pdf",
+                  "name": "ISO 27001",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                  "link": false,
+                  "name": "SOC 2",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                  "name": "HIPAA Compliant",
+                  "type": "iso"
+                }
+              ],
+              "help": [
+                {
+                  "link": "https://www.okadoc.com/en-id/contact-us",
+                  "name": "Contact"
+                }
+              ],
+              "privacy": [
+                {
+                  "link": "https://www.okadoc.com/policy/privacy/",
+                  "name": "Privacy Policy",
+                  "type": "privacy"
+                },
+                {
+                  "link": "https://www.okadoc.com/terms-of-use/",
+                  "name": "Terms of Use",
+                  "type": "terms"
+                }
+              ],
+              "sosmed": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                  "link": "https://www.facebook.com/Okadoc/",
+                  "name": "facebook"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                  "link": "https://twitter.com/okadoc_uae",
+                  "name": "twitter"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                  "link": "https://www.instagram.com/okadoc_uae/",
+                  "name": "instagram"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                  "link": "https://www.linkedin.com/company/okadoc/",
+                  "name": "linkedin"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                  "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                  "name": "youtube"
+                }
+              ]
+            }
+          }
+        ],
+        "products": [
+          "appointment-telemedicine",
+          "qms",
+          "qms-whatsapp"
+        ],
+        "time_layout": "24h",
+        "home_menus": null
+      },
+      {
+        "country_name": "Algeria",
+        "country_code": "dz",
+        "flag": "https://img.okadoc.com/photos/block_images/img/icon/countries/algeria.svg",
+        "currency": "DZD",
+        "languages": [
+          {
+            "language": "French",
+            "language_code": "fr",
+            "native_language": "",
+            "url": "/fr-dz",
+            "extra_attributes": {
+              "about": [
+                {
+                  "link": "https://www.okadoc.com/fr-dz/about-okadoc",
+                  "name": "About"
+                },
+                {
+                  "link": "https://www.okadoc.com/fr-dz/pro",
+                  "name": "Okadoc for Doctors"
+                },
+                {
+                  "link": "https://www.okadoc.com/fr-dz/press",
+                  "name": "Press"
+                },
+                {
+                  "link": "https://www.okadoc.com/blog",
+                  "name": "Blog"
+                }
+              ],
+              "certification": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                  "name": "ISO 27001",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                  "link": false,
+                  "name": "SOC 2",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                  "name": "HIPAA Compliant",
+                  "type": "iso"
+                }
+              ],
+              "help": [
+                {
+                  "link": "https://www.okadoc.com/fr-dz/contact-us",
+                  "name": "Contact"
+                }
+              ],
+              "privacy": [
+                {
+                  "link": "https://www.okadoc.com/policy/privacy/",
+                  "name": "Privacy Policy",
+                  "type": "privacy"
+                },
+                {
+                  "link": "https://www.okadoc.com/terms-of-use/",
+                  "name": "Terms of Use",
+                  "type": "terms"
+                }
+              ],
+              "sosmed": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                  "link": "https://www.facebook.com/Okadoc/",
+                  "name": "facebook"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                  "link": "https://twitter.com/okadoc_uae",
+                  "name": "twitter"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                  "link": "https://www.instagram.com/okadoc_uae/",
+                  "name": "instagram"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                  "link": "https://www.linkedin.com/company/okadoc/",
+                  "name": "linkedin"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                  "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                  "name": "youtube"
+                }
+              ]
+            }
+          }
+        ],
+        "products": [],
+        "time_layout": "24h",
+        "home_menus": null
+      },
+      {
+        "country_name": "Egypt",
+        "country_code": "eg",
+        "flag": "https://img.okadoc.com/photos/block_images/img/icon/countries/egypt-1.svg",
+        "currency": "",
+        "languages": [
+          {
+            "language": "English",
+            "language_code": "en",
+            "native_language": "English",
+            "url": "/en-eg",
+            "extra_attributes": {
+              "about": [
+                {
+                  "link": "https://www.okadoc.com/en-eg/about-okadoc",
+                  "name": "About"
+                },
+                {
+                  "link": "https://www.okadoc.com/en-eg/pro",
+                  "name": "Okadoc for Doctors"
+                },
+                {
+                  "link": "https://www.okadoc.com/en-eg/press",
+                  "name": "Press"
+                },
+                {
+                  "link": "https://www.okadoc.com/blog",
+                  "name": "Blog"
+                }
+              ],
+              "certification": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                  "name": "ISO 27001",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                  "link": false,
+                  "name": "SOC 2",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                  "name": "HIPAA Compliant",
+                  "type": "iso"
+                }
+              ],
+              "help": [
+                {
+                  "link": "https://www.okadoc.com/en-eg/contact-us",
+                  "name": "Contact"
+                }
+              ],
+              "privacy": [
+                {
+                  "link": "https://www.okadoc.com/policy/privacy/",
+                  "name": "Privacy Policy",
+                  "type": "privacy"
+                },
+                {
+                  "link": "https://www.okadoc.com//en-eg/policy/terms/",
+                  "name": "Terms of Use",
+                  "type": "terms"
+                }
+              ],
+              "sosmed": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                  "link": "https://www.facebook.com/Okadoc/",
+                  "name": "facebook"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                  "link": "https://twitter.com/okadoc_uae",
+                  "name": "twitter"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                  "link": "https://www.instagram.com/okadoc_uae/",
+                  "name": "instagram"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                  "link": "https://www.linkedin.com/company/okadoc/",
+                  "name": "linkedin"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                  "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                  "name": "youtube"
+                }
+              ]
+            }
+          },
+          {
+            "language": "Arabic",
+            "language_code": "ar",
+            "native_language": "العربية",
+            "url": "/ar-eg",
+            "extra_attributes": {
+              "about": [
+                {
+                  "link": "https://www.okadoc.com/ar-eg/about-okadoc",
+                  "name": "About"
+                },
+                {
+                  "link": "https://www.okadoc.com/ar-eg/pro",
+                  "name": "Okadoc for Doctors"
+                },
+                {
+                  "link": "https://www.okadoc.com/ar-eg/press",
+                  "name": "Press"
+                },
+                {
+                  "link": "https://www.okadoc.com/blog-ar",
+                  "name": "Blog"
+                }
+              ],
+              "certification": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-ias.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/iso27001/ISO-27001-OKADOC-TECHNOLOGIES-FZ-LLC.pdf",
+                  "name": "ISO 27001",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/iso27001/iso-soc2.png",
+                  "link": false,
+                  "name": "SOC 2",
+                  "type": "iso"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/certificates/logo-hipaa-compliant-circle3.png",
+                  "link": "https://img.okadoc.com/photos/block_images/img/certificates/HIPAA-_OKADOC_TECHNOLOGIES_FZ-LLC.pdf",
+                  "name": "HIPAA Compliant",
+                  "type": "iso"
+                }
+              ],
+              "help": [
+                {
+                  "link": "https://www.okadoc.com/ar-eg/contact-us",
+                  "name": "Contact"
+                }
+              ],
+              "privacy": [
+                {
+                  "link": "https://www.okadoc.com/policy/privacy/",
+                  "name": "Privacy Policy",
+                  "type": "privacy"
+                },
+                {
+                  "link": "https://www.okadoc.com/terms-of-use/",
+                  "name": "Terms of Use",
+                  "type": "terms"
+                }
+              ],
+              "sosmed": [
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-facebook.svg",
+                  "link": "https://www.facebook.com/Okadoc/",
+                  "name": "facebook"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-twitter.svg",
+                  "link": "https://twitter.com/okadoc_uae",
+                  "name": "twitter"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-instagram-white.svg",
+                  "link": "https://www.instagram.com/okadoc_uae/",
+                  "name": "instagram"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-linkedin-blue.svg",
+                  "link": "https://www.linkedin.com/company/okadoc/",
+                  "name": "linkedin"
+                },
+                {
+                  "icon": "https://img.okadoc.com/photos/block_images/img/icon/od-youtube.svg",
+                  "link": "https://www.youtube.com/channel/UCrZjO8F2Yzg3lG0x2emLRLg",
+                  "name": "youtube"
+                }
+              ]
+            }
+          }
+        ],
+        "products": [],
+        "time_layout": "24h",
+        "home_menus": null
+      }
+    ],
+    "key": "whitelabel-medcare",
+    "xtoken": false,
+    "pageType": "doctor-detail",
+    "hideFooter": false
+  },
+  "buildId": "hvySHfEtLB9frhUYQXDxP",
+  "assetPrefix": "/nupatient"
+}

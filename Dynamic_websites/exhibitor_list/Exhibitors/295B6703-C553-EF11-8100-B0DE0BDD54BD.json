@@ -1,0 +1,63 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1900,
+                "BOOTH_KEY": "C459A513-317F-4253-A15C-A92ED621E1EC",
+                "KEY_ID": "81E4395B-E494-2534-FA3A-18CD523A5571"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "295B6703-C553-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1900,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "infiniDome, Ltd.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 10023,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202531195742_a9c4337fc7d6f03df5342631adda58ea.png",
+            "STATE": "NY",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "infiniDome Solutions develops innovative GPS (GNSS) protection solutions and resilience navigation tailored for defending UAVs, ground vehicles, and watercraft from jamming attacks. With disruptive C-SWaP (Cost, Size, Weight, and Power) features, infiniDome\u2019s solutions bring the highest grade of protection, even to sUAS (class-1 tactical UAVs), ensuring their ability to complete their critical missions. Our solutions are disrupting the defense and HLS markets today and will do the same to the commercial markets, enabling the BLVOS and autonomous drone delivery future.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6D27DBDA-D129-8708-13AB-ABEDA14D7FCB",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Entrance D, 1st floor",
+            "MAP_LOGO": true,
+            "LINKEDIN": "infiniDome",
+            "TOLL_FREE": "",
+            "KEY_ID": "8205AC95-05EC-06D3-BFEB-B64E773E16E7",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "infiniDome Solutions",
+            "CITY": "New york",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.infinidome.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "02185055-8832-4E53-B99C-01A4FC0DD45A"
+    }
+}

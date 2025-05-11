@@ -1,0 +1,82 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3024,
+                "BOOTH_KEY": "23AA3916-9E42-44BB-856E-87FAF9C5D372",
+                "KEY_ID": "48A22851-EA10-6F29-561D-5D376FCB9BDF"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "17BB3840-9601-44D9-A218-CF9C89DEA237",
+        "PRIMARY_BOOTH": 3024,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "TIRA GmbH",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 96528,
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "Thuringia",
+            "LAST_NAME": "",
+            "EMAIL": "stephen.gerlich@tira-gmbh.de",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "DE",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "4F243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "69FF49C9-C5FE-F6F2-617A-2D71A0BB4A98",
+                    "ANSWER_TITLE": "Auxiliary Product Manufacturer (cases, laser engravings, etc.)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "tira-gmbh",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "D568D496-D9F9-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "48B9317D-FD6F-C95E-B2A5-13BBB470EA92",
+                            "ANSWER_TITLE": "German Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "48A8481A-BF66-DDBC-F04C-D9B7989D6B93",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "TIRA GmbH",
+            "CITY": "Schalkau",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.tira-gmbh.de",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "17BB3840-9601-44D9-A218-CF9C89DEA237",
+        "CRM_COMPANY_KEY": "891BF8A0-0B08-4E0D-BA44-913431340080"
+    }
+}

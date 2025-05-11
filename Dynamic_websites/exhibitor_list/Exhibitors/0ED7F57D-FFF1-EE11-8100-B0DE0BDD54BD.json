@@ -1,0 +1,200 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2814,
+                "BOOTH_KEY": "E46CAFC8-31CF-49CD-ACF0-AF6E57F8FF75",
+                "KEY_ID": "E478F996-CF01-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "0ED7F57D-FFF1-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2814,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Domo Tactical Communications (DTC)",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1135,
+                    "TITLE": "Speaking Opportunity - Solutions Theater",
+                    "ID": "EVENTS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 20147,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025116153632_72118c73b43cd142fa5b898fba8f3cb9.png",
+            "STATE": "VA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "The BluSDR\u2122 family is a streamlined range of wideband IP radio links each chosen to offerclass-leading performance in a range of Uncrewed systems applications in the air, on the ground and at sea.",
+                    "KEY_ID": "9E1B45F5-ECE3-1016-F9F7-C350CFAC85CB",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202512715170_ad6bbb13539769bfbe623bf2f903fb60.png",
+                    "TITLE": "DTC BluSDR\u2122 Family Brochure",
+                    "URL": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025127151324_6a6c8dd21f1334294a7e37335124a6df.pdf"
+                }
+            ],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Domo Tactical Communications (DTC) is a leading global technology company that designs, develops and delivers robust, mission-critical wireless connectivity solutions which can operate in the most hostile of contested RF environments. \n\nOur battle proven solutions include secure, mission-critical communications for Uncrewed Systems in all domains \u2013 air, land and sea \u2013 which are optimised for low Size, Weight and Power (SWaP). Based on our innovative BluSDR Software Defined Radio platform and incorporating our industry-leading MeshUltra MANET IP Mesh waveforms, DTC datalinks deliver High Data Rate capability with exceptional spectral efficiency, ultra-low latency, end-to-end encryption and unparalleled robustness for improved range and mobility. \n\nDTC MeshUltra waveforms also deliver a number of capabilities designed to guarantee mission success even in today\u2019s GNSS denied and communications denied battlefield environments. This includes an innovative RF ranging feature, which provides range information even in a GNSS denied environment and can also act as a feed into a multi-source fused positioning solution, and also a proven Interference Avoidance System (IAS) which can enable users to escape from jamming and interference. \n\nAdditionally, DTC\u2019s BluSDR\u2122 multi-waveform options \u2013 including support for Trellisware TSM 6 \u2013 enable interoperability with a wide range of fielded systems. \n\nAs a global leader of wireless communication technologies, DTC is trusted by military, law enforcement, counter-terror units, governments, robotics and autonomous systems manufacturers and integrators to deliver comprehensive off-the-shelf or tailored solutions that meet key communication and surveillance challenges in over 100 countries.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "7A65B86C-B425-8826-EEAE-1C5D0D7BA65F",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 150",
+            "MAP_LOGO": true,
+            "LINKEDIN": "Domo Tactical Communications",
+            "FORM": {
+                "QUESTIONS": [
+                    {
+                        "QUESTION_NAME": "Contact Form Message",
+                        "DISPLAY_ORDER": 1,
+                        "QUESTION_TYPE": "textarea",
+                        "ACTIVE": 1,
+                        "KEY_ID": "04B2965D-4BD4-EF11-8101-8147A53E1DD0",
+                        "ANSWERS": [
+                            {
+                                "DISPLAY_ORDER": 1,
+                                "ACTIVE": 1,
+                                "KEY_ID": "05B2965D-4BD4-EF11-8101-8147A53E1DD0",
+                                "ANSWER_TITLE": "Message"
+                            }
+                        ]
+                    }
+                ],
+                "SUB_TITLE": "",
+                "DESCRIPTION": "Leave a message and we will get back to you!",
+                "THANK_YOU_MESSAGE": "Thank you for reaching out! We have received your message and will be in touch shortly to address your inquiry.",
+                "KEY_ID": "68C69FAC-F242-7232-685C-9C50B973C831",
+                "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025116154916_72118c73b43cd142fa5b898fba8f3cb9.png",
+                "TITLE": "Contact Us",
+                "EMAIL_NOTIFICATION": "info@domotactical.com"
+            },
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "7A46FB4E-D42D-3F82-6324-2DA94FD5F982",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Domo Tactical Communications (DTC)",
+            "CITY": "Ashburn",
+            "ACTION_BUTTON_LABEL": "Contact Us",
+            "PRODUCTS": [
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "As part of the DTC BluSDR\u2122 family of products, BluSDR\u2122-6 is designed specifically for size and weight critical UxV applications, and is particularly suitable for small drone platforms operating in short range applications up to 6km in range. \r\n\r\nBased around DTC's SOL8SDR (software defined radio) architecture and offering up to full 2x200mW output power (frequency dependent), BluSDR\u2122-6 includes MANET IP Mesh capability to allow up to 144 nodes in a self-healing network using DTC's industry leading MeshUltra-X\u2122 waveform. \r\n\r\nWith two USB interfaces capable of supporting USB cameras and headsets as well as Wi-Fi, cellular and Ethernet dongles, BluSDR\u2122-6 can also be connected to a range of host devices using RNDIS Ethernet over USB connectivity",
+                    "DOCUMENT": "https://www.domotactical.com/assets/downloads/Datasheets/BluSDR-6-BluSDR-Module.pdf",
+                    "KEY_ID": "9CF519A0-08FF-57D8-B38B-28D47FFD9C91",
+                    "TITLE": "BluSDR\u2122-6",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025127144454_7b2d314207b5ee854fa23e3364f59a6c.png",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "As part of the DTC BluSDR\u2122 family of products, BluSDR\u2122-30 is designed for a wide range of UxV applications, and is particularly suitable for small drone platforms operating in medium range applications up to 30km in range.  \r\n\r\nBased around DTC's SOL8SDR (software defined radio) architecture and offering a full 2x1W of output power, BluSDR\u2122-30 includes MANET IP Mesh capability to allow up to 144 nodes in a self-healing network using DTC's industry leading MeshUltra-X\u2122 waveform. BluSDR\u2122-30 includes a rich set of interface options including Ethernet, serial and dual USB as well as an onboard headset audio interface.  \r\n\r\nBluSDR\u2122-30 Clamshell and Plain boxed variants also offer the option of USB-C powering direct from a suitable end user device or USB-C battery (USB PD compliant).",
+                    "DOCUMENT": "https://www.domotactical.com/assets/downloads/Datasheets/BluSDR-30-2x1W-BluSDR-Module.pdf",
+                    "KEY_ID": "9D14AF23-0E8B-6BC6-E239-F2B52FB99247",
+                    "TITLE": "BluSDR\u2122-30",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025127144816_0e2cc9b61500f6e8c32d16cd64102ccb.png",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": 1,
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "The BluSDR\u2122-90-UL is designed to meet the needs of both mobile and fixed-site applications and is optimized for long-range communication on drone platforms, enabling reliable connectivity capable of over \u2021150km in line of sight applications.  \r\n\r\nUtilizing DTC's proprietary Software Defined Radio (SDR) architecture and offering a full 10W of output power, the BluSDR\u000290-UL is delivered with the industry-leading MeshUltra\u2122 waveform that enables up to 144 nodes to operate in a self-healing network through it's MANET IP Mesh capability.  \r\n\r\nWeighing 210g (7.4oz), the BluSDR\u2122-90-UL is an ultra-lightweight, low-SWaP radio module with interface options including Ethernet, 2x USB, serial data, audio and GPIO designed for maximum ease of integration, mission flexibility and the ability to support seamless communication, even in the most challenging and contested environments.  \r\n\r\nThe BluSDR\u2122-90-UL is part of DTC's trusted BluSDR\u2122 product line offering a versatile, software-defined, multi-waveform architecture on single radio module for Uncrewed platforms in all domains.",
+                    "DOCUMENT": "https://www.domotactical.com/assets/downloads/Datasheets/BluSDR-90-UL-10W-BluSDR-Ultra-Light-Radio-Module.pdf",
+                    "KEY_ID": "9D46351B-C9CC-CC66-4E0A-1F7F9FBAE969",
+                    "TITLE": "BluSDR\u2122-90-UL",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025127145350_dcd04064b6e07e1df8ef2cac25fb2609.png",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "As part of the DTC BluSDR\u2122 family of products, BluSDR\u2122-90 is designed for either mobile or fixed site applications, particularly suitable for drone platforms operating in long range applications up to 90km.  \r\n\r\nBased around DTC's SOL8SDR (software defined radio) architecture and offering a full 2x5W of output power, BluSDR\u2122-90 includes MANET IP Mesh capability to allow up to 144 nodes in a self-healing network using DTC's industry leading MeshUltra-X\u2122 waveform.  \r\n\r\nBluSDR\u2122-90 includes a rich set of interface options including Ethernet, USB, serial data, built in GPS receiver (boxed variant), audio and HD-SDI video inputs.",
+                    "DOCUMENT": "https://www.domotactical.com/assets/downloads/Datasheets/BluSDR-90-2x5W-BluSDR-Module.pdf",
+                    "KEY_ID": "9D6A67C6-9B06-8AA6-68B1-1FF8245516B5",
+                    "TITLE": "BluSDR\u2122-90",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025127145745_0efb82113893164a7f3d47b3bdfe5f48.png",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "Component/Sensor Manufacturer (goes on platform)",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "As part of the DTC BluSDR\u2122 family of products, BluSDR\u2122-200 is designed for either mobile or fixed site applications, particularly suitable for drone platforms operating in extra-long range applications up to 200km.  \r\n\r\nBased around DTC's SOL8SDR (software defined radio) architecture and offering a full 2x15W of output power, BluSDR\u2122-200 includes MANET IP Mesh capability to allow up to 144 nodes in a self-healing network using DTC's industry leading MeshUltra-X\u2122 waveform.  \r\n\r\nBluSDR\u2122-200 includes a rich set of interface options including Ethernet, USB, serial data, audio and dual HD-SDI video inputs.",
+                    "DOCUMENT": "https://www.domotactical.com/assets/downloads/Datasheets/BluSDR-200-2x15W-BluSDR-Module.pdf",
+                    "KEY_ID": "9D855497-0CD0-428F-E53B-4FB4F4E834E5",
+                    "TITLE": "BluSDR\u2122-200",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202512715043_6cd478ab58f1c6d79dd63d6043b4ccaf.png",
+                    "DOCUMENT_TYPE": "document"
+                }
+            ],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "https://www.domotactical.com/",
+            "TWITTER": "",
+            "HEADERIMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025127141848_fa00ac5f186fcd3a1b78cfb019593c0e.png"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "ADFE1A2F-EAEC-42CE-9AE6-802DCA98E547",
+        "CRM_COMPANY_KEY": "E32DBB75-D945-46EC-9523-C724E9C517D6"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3708,
+                "BOOTH_KEY": "0EE3CA27-47A0-4E2A-B45D-C7414C20B540",
+                "KEY_ID": "8E707FA3-EB37-A536-58B3-1EABC70459CD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "F0472992-BD03-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 3708,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "METRO WEATHER AMERICA INC.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 75081,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202531815225_acfd4bf4e9330a3b299bc88cf16a793f.png",
+            "STATE": "TX",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "A startup from Kyoto University, Japan. It uses infrared laser technology to visualize real-time wind direction and speed at low altitudes. This innovation aims to support the safe operation of air mobility by providing data based on actual measurements and predictions. Additionally, the technology is being advanced for applications such as detecting and identifying objects, including suspicious drones.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "7401C345-EAE6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "8E846C09-E868-78FE-4984-77006FC1D426",
+                    "ANSWER_TITLE": "Manufacturing Machinery/Contract Manufacturing/Production Equipment"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 300",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "8E72BAEC-A72D-EF51-9B24-8BCF8BE56127",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "METRO WEATHER AMERICA INC.",
+            "CITY": "Richardson",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.metroweather.jp/en/"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "9FD2738B-C0E8-EE11-8100-B0DE0BDD54BD"
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4231,
+                "BOOTH_KEY": "38CC1C5F-0B01-493B-AD39-BEC230BC32D8",
+                "KEY_ID": "74B27CDB-A3F9-B6B4-788F-D6C2D24C9590"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "F60E3C9D-3760-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 4231,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Kaigo Co., Ltd.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "SUBEXHIBITORS": [
+            {
+                "BOOTH_NO": 4231,
+                "COMPANY_NAME": "Creative Sensor Inc.",
+                "BOOTH_KEY": "38CC1C5F-0B01-493B-AD39-BEC230BC32D8",
+                "EXHIBITOR_KEY": "2BEAD450-1F6F-4564-88FF-62A6E78FF0B9"
+            },
+            {
+                "BOOTH_NO": 4231,
+                "COMPANY_NAME": "EX International Engine Company Limited",
+                "BOOTH_KEY": "38CC1C5F-0B01-493B-AD39-BEC230BC32D8",
+                "EXHIBITOR_KEY": "C23CF36E-29E0-49E6-B1EF-DF7942EB8811"
+            },
+            {
+                "BOOTH_NO": 4231,
+                "COMPANY_NAME": "RACING ELECTRIC INSTRUMENT CO. LTD",
+                "BOOTH_KEY": "38CC1C5F-0B01-493B-AD39-BEC230BC32D8",
+                "EXHIBITOR_KEY": "7DA2DB46-78ED-4E19-A25B-1FF122AB4D2F"
+            },
+            {
+                "BOOTH_NO": 4231,
+                "COMPANY_NAME": "T-GLOBAL TECHNOLOGY CO., LTD.",
+                "BOOTH_KEY": "38CC1C5F-0B01-493B-AD39-BEC230BC32D8",
+                "EXHIBITOR_KEY": "8CDE13F7-BB9E-4C80-9169-DF5484903844"
+            },
+            {
+                "BOOTH_NO": 4231,
+                "COMPANY_NAME": "WinMate Inc.",
+                "BOOTH_KEY": "38CC1C5F-0B01-493B-AD39-BEC230BC32D8",
+                "EXHIBITOR_KEY": "91A6F75D-557D-499E-B0DD-C6D26AD27B05"
+            }
+        ],
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 10461,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024822121217_78d87ac55641c335bc0d45a6f0531b5f.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "TW",
+            "SALUTATION": "",
+            "DESCRIPTION": "Founded in 1978, KAIGO is the pioneer in Taiwan's exhibition industry and is now the key player in the market. For years, KAIGO acts as a trade show and conference organizer and representing Messe Duesseldorf and BVV(Trade Fairs Brno) in Taiwan.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "6DF670F9-FD2A-7461-3521-1D3A03439331",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "36445810-D060-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "01AF16B1-B535-C9C9-1119-F5D155E1014C",
+                            "ANSWER_TITLE": "Taiwan Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "B2C35383-9CD2-552F-4789-39B60F3345AC",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Taiwan Pavilion",
+            "CITY": "Taipei",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.kaigo.com.tw/",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "B790EC25-5AE7-4593-82CC-73715E297E59",
+        "CRM_COMPANY_KEY": "DA29186C-9EB4-4C2B-92BE-5F37B8047B87"
+    }
+}

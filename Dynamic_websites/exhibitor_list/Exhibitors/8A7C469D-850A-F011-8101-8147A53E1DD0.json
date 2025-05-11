@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4339,
+                "BOOTH_KEY": "F6338D2C-FB2E-49A6-8454-7901C26E9572",
+                "KEY_ID": "BC4A1DAF-030B-F011-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "8A7C469D-850A-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 4339,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Amazon Prime Air",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 98109,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025326141341_c3096a2faded2bcb56b7407a24300556.png",
+            "STATE": "WA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Prime Air's mission is to deliver packages to customers in less than 30-minutes by drone. After rigorous ideation, testing, and development, our first commercial flights began in 2022. Everyday essentials and last-minute needs are now just a quick flight away, delivered faster than ever before.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5F243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "4B9C0EEF-A2BC-DBF8-64CA-C1B04C788B81",
+                    "ANSWER_TITLE": "Commercial End User of Uncrewed Systems"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "4AFFF76A-ACBF-2067-B2BE-7996BD4C573B",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Amazon Prime Air",
+            "CITY": "Seattle",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "amazon.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "84F77F4B-F102-4E91-855D-B5FBEEE61CA5"
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1731,
+                "BOOTH_KEY": "326B1AE4-0500-4E82-8805-904210592D22",
+                "KEY_ID": "EE442C75-E000-EF11-8100-B0DE0BDD54BD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "15A4C97F-A2F2-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1731,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Doodle Labs",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 90292,
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202511315462_f4683c9adccafadc34bffb3e098f931d.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "DESCRIPTION": "Doodle Labs is the #1 drone radio company. We specialize in designing the highest performance, industrial-grade wireless networking solutions for unmanned systems priced to scale with our customers. Our high throughput, long-range Mesh Rider\u00ae Radio solutions have been integrated by leading drone manufacturers across Commercial and Defense sectors in the United States and across the world.",
+            "SALUTATION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A43D67BB-E612-CC0E-669C-7FEDDF585182",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/doodle-labs/",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "A41E483C-06AC-901C-6277-087739699221",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Doodle Labs",
+            "CITY": "Marina del Rey",
+            "PRODUCTS": [
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Low-SWaP, High Performance \r\n\r\n\r\nHigh-throughput, long-range 2\u00d72 MIMO model meets the demands of advanced robotics platforms like Drones and UGVs.\r\n\r\n\r\n\r\nHigh Throughput: up to 80 Mbps\r\nLong Range: 80+ kilometers\r\nLow-SWaP for easy integration\r\nNDAA compliant\r\nMulti-band and available Sense for advanced interference-avoidance",
+                    "DOCUMENT": "https://doodlelabs.com/products/mesh-rider-radios/mini/",
+                    "KEY_ID": "44505133-B69C-9E7C-26E3-632B7F25DD2C",
+                    "TITLE": "mini Mesh Rider\u00ae Radio",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025219145722_b50a1c84c2e2f5e1e82fa74e394e5894.png",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Tiny radio, big impact \r\n\r\n\r\n\r\nOur lowest-SWaP, 1\u00d71 SISO model packs a punch, delivering a long-distance, high-throughput datalink for the smallest advanced robotic systems.\r\n\r\n\r\n\r\nTiny footprint for ease-of-integration\r\nHigh throughput: up to 40 Mbps\r\nNDAA compliant\r\nMulti-band and available Sense for advanced interference-avoidance",
+                    "DOCUMENT": "https://doodlelabs.com/products/mesh-rider-radios/nano/",
+                    "KEY_ID": "445BEAF2-E17F-F4F2-686F-FD32EC4D9E1D",
+                    "TITLE": "nano Mesh Rider\u00ae Radio",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2025219145854_b50a1c84c2e2f5e1e82fa74e394e5894.png",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "An advanced transceiver for extremely small, low-cost robotics\r\n\r\n\r\n\r\n? Nimble Radios provide resilient connectivity for drones and robotic platforms that encounter significant environmental or situational RF interference.",
+                    "DOCUMENT": "https://doodlelabs.com/products/nimble-radio/",
+                    "KEY_ID": "4468F488-A8F3-C6AC-6817-10426E4CE124",
+                    "TITLE": "Nimble Mesh Rider\u00ae Radio",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202521915023_e1adc2f56c719bb05e0d5a05c1aa6b80.png",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "With a multitude of connectors, a built-in WiFi hot-spot and a slim build, the OEM Mesh Rider Radio is as versatile as it is powerful.\r\n\r\n\r\n\r\nEasily integrate into any advanced robotics application for long-range, high-bandwidth performance.\r\n\r\nHigh throughput: up to 80 Mbps\r\nLong range: 80+ kilometers\r\nMultiple connector options and built-in GPS\r\nMulti-band and available Sense for advanced interference-avoidance",
+                    "DOCUMENT": "https://doodlelabs.com/products/mesh-rider-radios/oem/",
+                    "KEY_ID": "44726B70-B55F-1D62-2F5B-FF8350C67009",
+                    "TITLE": "OEM Mesh Rider\u00ae Radio",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202521915124_e1adc2f56c719bb05e0d5a05c1aa6b80.png",
+                    "DOCUMENT_TYPE": "document"
+                },
+                {
+                    "CATEGORY_TITLE": "",
+                    "SUB_TITLE": "",
+                    "CATEGORY_KEY": "",
+                    "NEW_PRODUCT": "",
+                    "ACTIVE": 1,
+                    "DESCRIPTION": "Your Own Private Wireless Network, on the Fly \r\n\r\n\r\n\r\nWearable Mesh Rider Radios enable tactical units and teams of connected workers to stay connected, share high-bandwidth data and use their own internet-enabled devices.\r\n\r\n\r\n\r\nFully ruggedized: IP-68 Rated\r\nLong range: field-proven at over 2 km\r\nVersatile: Can be carried or mounted, battery- or continuously-powered\r\nNetwork extension can extend LTE/5G into remote, off-grid settings",
+                    "DOCUMENT": "https://doodlelabs.com/products/mesh-rider-radios/wearable/",
+                    "KEY_ID": "448168C8-B188-B07C-2F1F-11D3D3D9AB71",
+                    "TITLE": "Wearable Mesh Rider\u00ae Radio",
+                    "HEADER_IMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202521915258_e1adc2f56c719bb05e0d5a05c1aa6b80.png",
+                    "DOCUMENT_TYPE": "document"
+                }
+            ],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FEATURED": true,
+            "FAX": "",
+            "VIDEOS": [],
+            "WEBSITE": "http://www.doodlelabs.com",
+            "TWITTER": "",
+            "HEADERIMAGE": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "870513FE-9688-402E-AB60-A20E66B3D8D4"
+    }
+}

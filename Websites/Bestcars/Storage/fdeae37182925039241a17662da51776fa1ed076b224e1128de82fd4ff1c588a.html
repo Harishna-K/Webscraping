@@ -1,0 +1,891 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head id="j_idt3"><link type="text/css" rel="stylesheet" href="/javax.faces.resource/theme.css.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=primefaces-saga&amp;v=13.0.0" /><link type="text/css" rel="stylesheet" href="/javax.faces.resource/primeicons/primeicons.css.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=primefaces&amp;v=13.0.0" /><link type="text/css" rel="stylesheet" href="/javax.faces.resource/css/bootstrap.min.css.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=standard" /><link type="text/css" rel="stylesheet" href="/javax.faces.resource/css/bootstrap.min.css.map.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=standard" /><link type="text/css" rel="stylesheet" href="/javax.faces.resource/css/style.css.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=standard&amp;version=5" /><link type="text/css" rel="stylesheet" href="/javax.faces.resource/css/stylecustom.css.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=standard&amp;version=5" /><link type="text/css" rel="stylesheet" href="/javax.faces.resource/css/owl.carousel.min.css.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=standard" /><link type="text/css" rel="stylesheet" href="/javax.faces.resource/css/mediabase.css.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=standard&amp;version=5" /><link type="text/css" rel="stylesheet" href="/javax.faces.resource/css/custom.css.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=standard&amp;version=5" /><link type="text/css" rel="stylesheet" href="/javax.faces.resource/css/style.css.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=reviews&amp;version=2" /><link type="text/css" rel="stylesheet" href="RES_NOT_FOUND" /><link type="text/css" rel="stylesheet" href="RES_NOT_FOUND" /><script type="text/javascript" src="/javax.faces.resource/jquery/jquery.js.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=primefaces&amp;v=13.0.0"></script><script type="text/javascript" src="/javax.faces.resource/jquery/jquery-plugins.js.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=primefaces&amp;v=13.0.0"></script><script type="text/javascript" src="/javax.faces.resource/core.js.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=primefaces&amp;v=13.0.0"></script><link type="text/css" rel="stylesheet" href="/javax.faces.resource/components.css.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=primefaces&amp;v=13.0.0" /><script type="text/javascript" src="/javax.faces.resource/components.js.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=primefaces&amp;v=13.0.0"></script><script type="text/javascript" src="/javax.faces.resource/touch/touchswipe.js.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=primefaces&amp;v=13.0.0"></script><script type="text/javascript">if(window.PrimeFaces){PrimeFaces.settings.locale='en_US';PrimeFaces.settings.viewId='/vehicle.xhtml';PrimeFaces.settings.contextPath='';PrimeFaces.settings.cookiesSecure=false;}</script>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <link rel="canonical" href="https://www.bestcars4u.co.nz/vehicle.xhtml" />
+        <link rel="shortcut icon" href="images/favicon.png" type="imagex-icon" />
+        <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin" />
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;display=swap" rel="stylesheet" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
+            <style>
+
+                :root{
+                    /*== Body Style Search ==*/
+                    --box_inner: ;
+                    --dealership-image-url:url(https://files.autostock.co.nz/WebsiteData/104/media/a1b28c97-6064-45bc-8d98-5f53932c9ece.png);
+                    --PrimaryColor: #ff0000;
+                    --InTransitColor: ;
+                    --SecondaryColor: #000000; 
+                    --primary_custom: #000000;
+                    --priceColor: ;
+                    --breadcrumBg: ;
+                    --breadcrumColour: #ffffff;
+                    --topMenu:#ffffff;
+                    --headerBg:#000000;
+                    --MainTextGray: #707070;	
+                    --textWhite: #ffffff;
+                    --SecondBlack: #171717;
+                    --paragraph:white;
+                    --bgGray: #F2F2F2;
+                    --favBadgeH:#ffffff;
+
+                    --reviewBackground:#610909;
+                    --reviewText:#ffffff;
+                    --reviewerDetail:#ffffff;
+                    --reviewHeading:#ffffff;
+
+
+                    --bssBG: #000000;
+                    --bssTW: #ffffff;
+
+
+
+                    /*== About Our Dealership ==*/
+                    --abTW: #ffffff;
+                    --abBG: #c21526;
+
+                    /*== Latest Cars ==*/
+                    --lcHeC: #cc0505;
+                    --lcPC:  ;
+                    --lcDC: ;
+
+
+
+                    /*== finance_sec ==*/
+
+                    --finBg: #000000;
+                    --fsHeC: #ffffff;
+                    --fsTColor:  #ffffff;
+                    --fsApplyBtnBgColor:  #e70117;
+                    --fsApplyBtnTxtColor:  #ffffff;
+                    --fsApplyBtnHoverBgColor:  #999191;
+                    --fsApplyBtnHoverTxtColor:  #ffffff;
+
+                    --fsLearnBtnBgColor:  #ffffff;
+                    --fsLearnBtnTxtColor:  #ff0000;
+                    --fsLearnBtnHoverBgColor:  #999191;
+                    --fsLearnBtnHoverTxtColor:  #ffffff;
+
+
+
+
+                    /*== footer_sec ==*/
+                    --FooterBG: #000000;
+                    --FooterTW: #ffffff;
+                    --Footer_TColor: #ffffff;
+                    --Footer_TColor_second: #cc0505;
+
+                    /*== Header_sec ==*/
+                    --HeaderBG: #000000;
+                    --HeaderTW: #ffffff;
+                    --Header_TColor_second: #cc0505;
+                    --HeaderMenuDropdownColour: ;
+
+
+
+
+                    --globalFont:'poppins'; 
+                    --font9: 9px;
+                    --font10: 10px;
+                    --font11: 11px;
+                    --font12: 12px;
+                    --font14: 14px;
+                    --font15: 15px;
+                    --font16: 16px;
+                    --font18: 18px;
+                    --font20: 20px;
+                    --font22: 22px;
+                    --font24: 24px;
+                    --font25: 25px;
+                    --font26: 26px;
+                    --font30: 28px;
+                    --font30: 30px;
+
+                    --font32: 32px;
+                    --font35: 35px;
+                    --font36: 36px;
+                    --font56: 56px;
+
+                }
+
+                
+
+            </style>
+
+        <script>
+            // Check for browser support
+            const supportsPassive = () => {
+                let passiveSupported = false;
+                try {
+                    const options = Object.defineProperty({}, 'passive', {
+                        get: () => (passiveSupported = true),
+                    });
+                    window.addEventListener('test', null, options);
+                    window.removeEventListener('test', null, options);
+                } catch (err) {
+                    passiveSupported = false;
+                }
+                return passiveSupported;
+            };
+
+// Attach the passive event listener
+            const element = document.getElementById('your-element-id');
+
+            const handleScroll = (event) => {
+                // Your scroll event handling logic goes here
+            };
+
+            const eventOptions = supportsPassive() ? {passive: true} : false;
+            element.addEventListener('scroll', handleScroll, eventOptions);
+
+        </script>
+        <title>
+            2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA
+        </title>
+        <meta name="description" /><script type="text/javascript" src="/javax.faces.resource/tracking.js.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=js"></script>
+
+        <meta property="og:url" content="https://www.bestcars4u.co.nz//vehicle.xhtml?id=5827" />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA, $12,990" />
+        <meta property="og:description" content="Hatchback, Automatic, 118,364 km, 1797 cc, #2793" />
+        <meta property="og:image" content="https://files.autostock.co.nz/Organisations//104/vehicles//full/f9f4afca-88e6-4d90-b60d-5d7e1a271871.jpg" />
+
+        <script>
+            function getContextPath() {
+                return "";
+            }
+
+            function copyToClipboard() {
+                var inputc = document.body.appendChild(document.createElement("input"));
+                inputc.value = window.location.href;
+                inputc.focus();
+                inputc.select();
+                document.execCommand('copy');
+                inputc.parentNode.removeChild(inputc);
+                alert("URL Copied.");
+            }
+
+        </script></head><body class="d-flex flex-column min-vh-100"><script type="text/javascript" src="//cdn.rlets.com/capture_configs/0f9/b3d/63b/eac45d2b282f95415e815f2.js" async="async"></script>
+<form id="j_idt25" name="j_idt25" method="post" action="/vehicle.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_idt25" value="j_idt25" />
+<script id="j_idt25:j_idt26" type="text/javascript">rc = function() {return PrimeFaces.ab({s:"j_idt25:j_idt26",f:"j_idt25",pa:arguments[0]});}</script><input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:0" value="-7961696926251214364:-8175658023619509006" autocomplete="off" />
+</form><div id="header" class="ui-outputpanel ui-widget">
+            <header>
+                <div class="headnav_main bg-dark">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-3 col-md-3 col-lg-3">
+                                <div class="leftH_logo">
+                                    <a href="/index.xhtml"><img id="j_idt28" src="https://files.autostock.co.nz/WebsiteData/104/media/logo/d2443c42-a07d-4b3d-91f7-2b3bd0a3328f.png?pfdrid_c=true" alt="logo" title="Best cars 4u" />
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-sm-9 col-md-9 col-lg-9">
+                                <div class="headertog">
+                                    <a class="mob_Ticon" href="#" aria-label="Mobile Menu">
+                                        <i class="fas fa-bars fa-lg" style="color:#ffffff"></i>
+                                    </a>
+                                </div>
+                                <div class="navH_perent">
+
+                                    <div class="headNav">
+                                        <div class="mobiletog_menu">
+                                            <div class="closetogg_mob">
+                                                <a id="closmenuM" href="#"><i class="fas fa-times-circle"></i></a>
+                                            </div>
+                                        </div>
+                                        <nav class="navbar navbar-expand-lg">
+                                            <div class="collapse navbar-collapse text-right" id="navbarSupportedContent">
+                                                <ul class="navbar-nav">
+                                                    <li class="nav-item">
+                                                        <a class="nav-link" href="/index.xhtml">Home</a>
+                                                    </li>
+
+                                                    <li class="nav-item">
+                                                    </li>
+                                                    <li class="nav-item">
+                                                            <a class="nav-link" href="/vehicles.xhtml">Vehicles</a>
+                                                    </li>
+                                                        <li class="nav-item dropdown">
+                                                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                                Finance
+                                                            </a>
+                                                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                                                <li><a class="dropdown-item" href="/financeInformation.xhtml">Finance information</a></li>
+                                                                <li><a class="dropdown-item" href="/finance.xhtml">Apply for finance </a></li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link " href="/aboutus.xhtml">About us</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link " href="/reviews.xhtml">Reviews</a>
+                                                        </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link " href="/contactus.xhtml">Contact us</a>
+                                                    </li>
+                                                        <li class="AFF_BTN">
+                                                            <a class="btn finApplyBtn" href="/finance.xhtml">Apply for Finance </a>
+                                                        </li>
+                                                        <li><div id="j_idt39" class="ui-outputpanel ui-widget">
+                                                                <a href="/favourites.xhtml" class="FbageH">
+                                                                    <i class="fa fa-heart"></i>
+                                                                    <span class="header-favourite-badge">0</span>
+                                                                </a></div>
+                                                        </li>
+                                                </ul>
+                                            </div>
+                                        </nav><!-- END Nav -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header></div>
+        <!--header end  -->
+        <section class="vehicles_detailsP paddingT20 paddingB60">
+            <div class="container">
+                <div class="vehiclesD_backsh">
+                    <div class="row">
+                        <div class="col-sm-4 col-md-4 col-lg-4">
+                            <a href="javascript:history.back()" class="gotoback_page"><i class="fas fa-angle-left"></i> Back to previous page</a>
+                        </div>              
+                        <div class="col-sm-8 col-md-8 col-lg-8">
+                            <div class="share_copystock">
+
+                                <div class="copylinnk">
+                                    <button class="copliek" onclick="copyToClipboard();"><i class="fas fa-link"></i> Copy link</button>
+                                </div>
+                                <div class="likk">
+                                    <a href="#" class="likek_bt heart5827" onclick="addToFav('heart5827',5827)">
+                                        <i class="far fa-heart"></i>
+                                    </a>
+                                </div>
+                                <div class="stIP">
+                                    Stock #2793
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="vehiclesD_titleP marginB30">
+                    <div class="row">
+                        <div class="col-sm-4 col-md-4 col-lg-4">
+                            <h2 class="title_prodetail">2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA</h2>
+                        </div>
+                        <div class="col-sm-8 col-md-8 col-lg-8">
+                            <div class="pricand_caluM">
+                                <div class="proddetails_ppri text-right">
+                                    <div class="save_sellR">
+                                        <h5>$12,990</h5>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="proddeti_slideTab">
+                    <div class="row">
+                        <div class="col-sm-8 col-md-8 col-lg-8">
+        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.0/photoswipe.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.0/default-skin/default-skin.css" /><script type="text/javascript" src="/javax.faces.resource/js/jquery.min.js.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=standard"></script>
+        <script src="https://code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+
+        <script>
+            function getContextPath() {
+                return "";
+            }
+            $(document).ready(function () {
+
+                $('.portfolio-thumb-slider').slick({
+                    lazyLoad: 'ondemand',
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                    asNavFor: '.portfolio-item-slider',
+                    dots: false,
+                    arrows: true,
+                    autoplay: true,
+                    autoplaySpeed: 3000,
+                    variableWidth: true,
+
+                    infinite: true,
+                    focusOnSelect: true
+                });
+                $('.portfolio-thumb-slider').on('afterChange', function (event, slick, currentSlide, nextSlide) {
+                    console.log(currentSlide);
+                    //remove all active class
+                    $('.portfolio-thumb-slider .slick-slide').removeClass('slick-current');
+                    //set active class for current slide
+                    $('.portfolio-thumb-slider .slick-slide:not(.slick-cloned)').eq(currentSlide).addClass('slick-current');
+                });
+
+                $('.portfolio-item-slider').slick({
+                    lazyLoad: 'ondemand',
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    arrows: true,
+                    asNavFor: '.portfolio-thumb-slider'
+                });
+
+                $('.portfolio-thumb-slider .slick-slide:not(.slick-cloned)').eq(0).addClass('slick-current');
+            });
+        </script>
+
+        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.4.1/slick.css" />
+        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.4.1/slick-theme.css" /> 
+<!--&lt;link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/&gt;
+&lt;script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"&gt;&lt;/script&gt;-->
+
+        <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="pswp__bg"></div>
+            <div class="pswp__scroll-wrap">
+                <div class="pswp__container">
+                    <div class="pswp__item"></div>
+                    <div class="pswp__item"></div>
+                    <div class="pswp__item"></div>
+                </div>
+                <div class="pswp__ui pswp__ui--hidden">
+                    <div class="pswp__top-bar">
+                        <div class="pswp__counter"></div>
+                        <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                        <button class="pswp__button pswp__button--share" title="Share"></button>
+                        <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                        <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                        <div class="pswp__preloader">
+                            <div class="pswp__preloader__icn">
+                                <div class="pswp__preloader__cut">
+                                    <div class="pswp__preloader__donut"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                        <div class="pswp__share-tooltip"></div> 
+                    </div>
+                    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+                    </button>
+                    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+                    </button>
+                    <div class="pswp__caption">
+                        <div class="pswp__caption__center"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="portfolio-item-slider autoplay gallery" id="gallery">
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/f9f4afca-88e6-4d90-b60d-5d7e1a271871.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/f9f4afca-88e6-4d90-b60d-5d7e1a271871.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/c387caa9-8ac0-4641-9920-eb65d37a23c5.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/c387caa9-8ac0-4641-9920-eb65d37a23c5.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/96f4a3b0-4004-438a-a6fe-4f7694c0159d.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/96f4a3b0-4004-438a-a6fe-4f7694c0159d.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/3662ec19-d57c-4f64-a49c-54ccc3951f9f.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/3662ec19-d57c-4f64-a49c-54ccc3951f9f.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/5dc7a6b3-a764-46de-b97b-aacf0d6a1da5.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/5dc7a6b3-a764-46de-b97b-aacf0d6a1da5.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/3c9de504-4ff1-4135-97a6-42238f054dee.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/3c9de504-4ff1-4135-97a6-42238f054dee.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/0f90781f-3829-4789-ae05-25db3af02e67.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/0f90781f-3829-4789-ae05-25db3af02e67.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/f6e4f178-05e2-4d0d-9523-cef552f0b54f.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/f6e4f178-05e2-4d0d-9523-cef552f0b54f.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/6f551d32-9381-41c5-bb20-6b83aeca126c.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/6f551d32-9381-41c5-bb20-6b83aeca126c.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/eb232cc1-8b09-49c0-89d7-8269d590efb9.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/eb232cc1-8b09-49c0-89d7-8269d590efb9.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/2a2658f8-b4a2-4dc0-91e7-cc762ff928a0.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/2a2658f8-b4a2-4dc0-91e7-cc762ff928a0.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/edd290a7-6d9d-49e3-9aa8-76334fb6abec.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/edd290a7-6d9d-49e3-9aa8-76334fb6abec.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/fe029235-f385-41a5-af4d-288c4fa6bcd5.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/fe029235-f385-41a5-af4d-288c4fa6bcd5.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/a89b67a7-c37f-4df4-8689-18a94c0f5728.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/a89b67a7-c37f-4df4-8689-18a94c0f5728.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/6f1f1e0f-2685-4ccf-81ec-42f3bca5dae3.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/6f1f1e0f-2685-4ccf-81ec-42f3bca5dae3.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/d9637360-c26f-4586-bad5-abbbdcaed473.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/d9637360-c26f-4586-bad5-abbbdcaed473.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/7b3ef530-c76a-46a1-8c1f-2ababa65d6d7.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/7b3ef530-c76a-46a1-8c1f-2ababa65d6d7.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+                <div class="slick-slider-item figure" itemscope="itemscope" itemtype="http://schema.org/ImageGallery">
+                    <figure itemprop="associatedMedia" itemscope="itemscope" itemtype="http://schema.org/ImageObject">
+                        <a class="psl" href="https://files.autostock.co.nz/Organisations//104/vehicles/full/8e75f004-e29f-4fb2-b95a-9322f0814c59.jpg" tabindex="-1" data-caption="" data-width="1400" data-height="1400" itemprop="contentUrl">
+                            <img src="https://files.autostock.co.nz/Organisations//104/vehicles/full/8e75f004-e29f-4fb2-b95a-9322f0814c59.jpg" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" class="slider" />
+                        </a>
+                    </figure>
+                </div>
+        </div>
+        <div class="portfolio-thumb-slider">
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:0:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/f9f4afca-88e6-4d90-b60d-5d7e1a271871.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:1:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/c387caa9-8ac0-4641-9920-eb65d37a23c5.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:2:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/96f4a3b0-4004-438a-a6fe-4f7694c0159d.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:3:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/3662ec19-d57c-4f64-a49c-54ccc3951f9f.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:4:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/5dc7a6b3-a764-46de-b97b-aacf0d6a1da5.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:5:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/3c9de504-4ff1-4135-97a6-42238f054dee.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:6:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/0f90781f-3829-4789-ae05-25db3af02e67.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:7:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/f6e4f178-05e2-4d0d-9523-cef552f0b54f.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:8:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/6f551d32-9381-41c5-bb20-6b83aeca126c.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:9:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/eb232cc1-8b09-49c0-89d7-8269d590efb9.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:10:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/2a2658f8-b4a2-4dc0-91e7-cc762ff928a0.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:11:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/edd290a7-6d9d-49e3-9aa8-76334fb6abec.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:12:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/fe029235-f385-41a5-af4d-288c4fa6bcd5.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:13:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/a89b67a7-c37f-4df4-8689-18a94c0f5728.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:14:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/6f1f1e0f-2685-4ccf-81ec-42f3bca5dae3.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:15:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/d9637360-c26f-4586-bad5-abbbdcaed473.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:16:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/7b3ef530-c76a-46a1-8c1f-2ababa65d6d7.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+                <div class="slick-slider-item"><img id="j_idt56:j_idt63:17:j_idt65" src="https://files.autostock.co.nz/Organisations//104/vehicles/thumb/8e75f004-e29f-4fb2-b95a-9322f0814c59.jpg?pfdrid_c=true" alt="2014 Toyota Prius S GRADE | PUSH START | REVERSE CAMERA" style="max-height: 64px;" />
+                </div>
+        </div>
+
+
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.0/photoswipe.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.0/photoswipe-ui-default.min.js"></script><script type="text/javascript" src="/javax.faces.resource/slick.min.js.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=js"></script>
+            <script>
+
+            /* global jQuery, PhotoSwipe, PhotoSwipeUI_Default, console */
+
+            (function ($) {
+
+                // Init empty gallery array
+                var container = [];
+
+                // Loop over gallery items and push it to the array
+                $('#gallery').find('figure').each(function () {
+                    var $link = $(this).find('a'),
+                            item = {
+                                src: $link.attr('href'),
+                                w: $link.data('width'),
+                                h: $link.data('height'),
+                                title: $link.data('caption')
+                            };
+                    container.push(item);
+                });
+
+                // Define click event on gallery item
+                $('.psl').click(function (event) {
+
+                    // Prevent location change
+                    event.preventDefault();
+
+                    // Define object and gallery options
+                    var $pswp = $('.pswp')[0],
+                            options = {
+                                index: $(this).parent('figure').index(),
+                                bgOpacity: 1,
+                                showHideOpacity: true
+                            };
+
+                    // Initialize PhotoSwipe
+                    var gallery = new PhotoSwipe($pswp, PhotoSwipeUI_Default, container, options);
+                    gallery.init();
+                });
+
+            }(jQuery));
+            </script>
+                            <div class="tabledet_first onlyformmobile">
+                                <table class="table table-striped table-hover table-borderless">
+
+                                    <tr>
+                                        <td>Engine</td>
+
+                                        <td>1797 cc, Hybrid
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Body</td>
+                                        <td>Hatchback</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Odometer</td>
+                                        <td>118,364 km</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ext Colour</td>
+                                        <td>Black</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Interior</td>
+                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Transmission</td>
+                                        <td>Automatic</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Safety Rating</td>
+                                        <td><img id="j_idt92" src="https://right.cr/rightcar_resources/badges_source/safety-star-5.png?pfdrid_c=true" />
+                                                <br />Based on 2024 Used Car Safety Rating
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Fuelsaver</td>
+                                        <td><img id="j_idt98" src="https://cdn.autostock.co.nz/Common/rightcar/stars/greenstars.4.png?pfdrid_c=true" />
+                                                <br />Annual fuel cost of $ 1,650
+                                                <br /><span style="font-size: 10px;font-style: italic">Cost per year is an estimate based on petrol price of  $2.80 per litre and an average distance of 14000 km.</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div class="feature_highlightP paddingT30">
+                                    <h3 class="title_prodetail">Feature Highlights</h3><div id="j_idt214" class="ui-panelgrid ui-widget ui-panelgrid-blank" style="font-size: 12px;margin-top: 5px"><div id="j_idt214_content" class="ui-panelgrid-content ui-widget-content ui-grid ui-grid-responsive"><div class="ui-g"><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Smartkey</span></div><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Reversing Camera</span></div><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Remote Locking</span></div></div><div class="ui-g"><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Push Button Start</span></div><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Knee AirBag</span></div><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Side AirBag</span></div></div><div class="ui-g"><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Pessenger AirBag</span></div><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Traction Control</span></div><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Driver Side Airbag</span></div></div><div class="ui-g"><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Abs Brakes</span></div><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Air condition</span></div><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Power steering</span></div></div><div class="ui-g"><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Power Window</span></div><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Immobiliser</span></div><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Electric Mirror</span></div></div><div class="ui-g"><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Digital Dash</span></div><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Climate Control</span></div><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Central Locking</span></div></div><div class="ui-g"><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Alloy Wheels</span></div><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Alarm</span></div><div class="ui-panelgrid-cell ui-g-12 ui-md-4">
+                                                <i class="fa fa-check"></i><span style="margin-left: 10px">Tail Lift</span></div></div></div></div>
+                            </div>
+                            <div class="feature_highotherP marginT30">
+                                <h4 class="title_prodetail">Comments</h4>
+                                <div class="repeat_ddi">Finance can be arranged for all kinds of Driver's License Holders and most visa types<br/><br/>Extended Mechanical Breakdown Insurance options for up to 3 years with Road Side Assistance available at competitive prices.<br/><br/>Visit Us: BEST CARS 4 U, 3011 Great North Road, New Lynn, Auckland 0600<br/><br/>Contact:  022 60 85 322 or  027 77 55 585<br/><br/>BEST CARS 4U - The most affordable Cars 4U all in one place.<br/><br/>We are a RMVT Registered Company with a background of 8 years in the motor vehicle industry.<br/>We offer a variety of New Zealand and Japanese import vehicles at affordable prices.<br/><br/>CAR FINANCE SPECIALISTS<br/>All our vehicles are eligible for financing. We can provide; on-the-spot approvals at competitive rates, low fees,<br/>and flexible payments, and we can tailor-make a package that will best suit you all in one payment. No Stress.<br/><br/>MECHANICAL WARRANTY<br/>Drive off with full peace of mind when you purchase one of our 1, 2, or 3-year mechanical and breakdown warranties.<br/><br/>DELIVERY<br/>Not in Auckland? Not an issue. We can transport your chosen vehicle anywhere in the country. A cost applies<br/><br/>TRADE-INS<br/>We accept trade-ins.<br/>Our mission is to offer you quality with friendly customer service, and we strive to exceed customer's expectations in everything that we do.<br/><br/>OUR PRICES ARE SUPER COMPETITIVE<br/>Give us a call; we are here to take the stress out of looking for a car to buy.
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-sm-4 col-md-4 col-lg-4">
+                            <div class="tabledet_first onlyddsktop">
+                                <table class="table table-striped table-hover table-borderless">
+                                    <tr>
+                                        <td>Engine</td>
+
+                                        <td>1797 cc, Hybrid
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Body</td>
+                                        <td>Hatchback</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Odometer</td>
+                                        <td>118,364 km</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ext Colour</td>
+                                        <td>Black</td>
+                                    </tr> 
+                                    <tr>
+                                        <td>Transmission</td>
+                                        <td>Automatic</td>
+                                    </tr>
+
+                                    <tr>
+                                        <td>Safety Rating</td>
+                                        <td><img id="j_idt125" src="https://right.cr/rightcar_resources/badges_source/safety-star-5.png?pfdrid_c=true" />
+                                                <br />Based on 2024 Used Car Safety Rating
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Fuelsaver</td>
+                                        <td><img id="j_idt131" src="https://cdn.autostock.co.nz/Common/rightcar/stars/greenstars.4.png?pfdrid_c=true" />
+                                                <br />Annual fuel cost of $ 1,650
+                                                <br /><span style="font-size: 10px;font-style: italic">Cost per year is an estimate based on petrol price of  $2.80 per litre and an average distance of 14000 km.</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div class="buttonsof_service paddingT30">
+                                <button type="button" class="btn-info" onclick="window.location.href = '/askQuestion.xhtml?id=5827'"><i class="far fa-comment-dots"></i> Ask us a Question</button>
+                                <button type="button" class="btn-danger" onclick="window.location.href = '/bookTestdrive.xhtml?id=5827'"><i class="far fa-car"></i> Book a Test Drive</button>
+                                <button type="button" class="btn-warning" onclick="window.location.href = '/priceMyTradein.xhtml?id=5827'"><i class="far fa-chart-line"></i> Price My Trade-In</button>
+                            </div>
+                                <div class="chart_detailP paddingT30">
+                                    <h3 class="title_prodetail paddingB20">View this vehicle at</h3>
+                                    <div class="mapdet">
+                                        <iframe src="https://maps.google.com/maps?q=3011 Great North Road, New Lynn, Auckland&amp;output=embed" width="310" height="350" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+                                    </div>
+                                </div>
+                            <div class="carlimites_perent">
+                                <div class="carlimt_title text-center">
+                                    <i class="fas fa-user"></i>BEST CARS 4U NEWLYNN
+                                </div>
+                                    <div class="carlimt_mark text-center">
+                                        <i class="fas fa-map-marker-alt"></i>3011 Great North Road, New Lynn, Auckland
+                                    </div>
+                                <div class="carlimit_phone text-center">
+                                    <i class="fas fa-mobile"></i>027 353 79 09
+                                </div>
+                                <div class="carlimit_usbx_perent">
+
+                                        <div class="carlimit_usbx text-center">
+                                            <i class="far fa-user-circle"></i>
+                                            <h4>Chandika Gamage</h4>
+                                            <span>022 60 85 322</span>
+                                        </div>
+
+                                        <div class="carlimit_usbx text-center">
+                                            <i class="far fa-user-circle"></i>
+                                            <h4>Uditha Lunuwilage</h4>
+                                            <span>022 632 66 13</span>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><script type="text/javascript" src="/javax.faces.resource/custom.js.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=js&amp;version=2.5"></script>
+        <footer class="paddingT60 paddingB60 mt-auto">
+            <div class="container">
+                <div class="row">
+                        <div class="col-sm-3 col-md-3 col-lg-3">
+                            <div class="logo_footer">
+                                <a href="#"><img id="j_idt166" src="https://files.autostock.co.nz/WebsiteData/104/media/logo/d2443c42-a07d-4b3d-91f7-2b3bd0a3328f.png?pfdrid_c=true" alt="logo" width="100%" />
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-3 col-md-3 col-lg-3">
+                            <h4 class="footer_heading marginB30">Quick Links</h4>
+                            <ul class="footer_links">
+                                <li><a href="/index.xhtml">Home</a></li>
+                                    <li><a href="/aboutus.xhtml">About us</a></li>
+                                    <li><a href="/vehicles.xhtml">Vehicles</a></li>
+
+                                <li><a href="/finance.xhtml">Finance </a></li>
+                                <li><a href="/contactus.xhtml">Contact us</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col-sm-3 col-md-3 col-lg-3">
+                            <h4 class="footer_heading marginB30">Hours</h4>
+                                <ul class="footer_workD">
+
+                                    <li>
+                                        <span class="day">Monday:</span>
+                                        <span class="time">09:30 AM - 05:30 PM
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="day">Tuesday: </span>
+                                        <span class="time">09:30 AM - 05:30 PM
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="day">Wednesday: </span>
+                                        <span class="time">09:30 AM - 05:30 PM
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="day">Thursday: </span>
+                                        <span class="time">09:30 AM - 05:30 PM
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="day">Friday: </span>
+                                        <span class="time">09:30 AM - 05:30 PM
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="day">Saturday: </span>
+                                        <span class="time">09:30 AM - 04:30 PM
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span class="day">Sunday: </span>
+                                        <span class="time">09:30 AM - 04:30 PM
+                                        </span>
+                                    </li>
+
+                                </ul>
+                        </div>
+                        <div class="col-sm-3 col-md-3 col-lg-3">
+                            <h4 class="footer_heading marginB30">Contact Us</h4>
+                            <ul class="footer_addressL">
+                                    <li><strong>Address: </strong> 3011 Great North Road<br/> New Lynn, Auckland, 0600</li>
+                                <li><strong>Email:</strong> sales@bestcars4u.co.nz</li>
+                                <li><strong>Phone:</strong> 027 353 79 09</li>
+                            </ul>
+                        </div>
+                </div>
+            </div>
+        </footer>
+
+        <section class="bottombar text-center">
+            <p>Copyright 2024 Developed by <a href="https://dms.autostock.co.nz" target="_blank">Autostock Digital</a>, All Rights Reserved</p>
+        </section>
+
+
+        <a href="#top" class="gotop" title="Go to top">
+            <i class="fas fa-angle-up"></i>
+        </a><script type="text/javascript" src="/javax.faces.resource/js/popper.min.js.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=standard"></script><script type="text/javascript" src="/javax.faces.resource/js/bootstrap.min.js.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=standard"></script><script type="text/javascript" src="/javax.faces.resource/js/pagescript.js.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=standard"></script><script type="text/javascript" src="/javax.faces.resource/js/owl.carousel.min.js.xhtml;jsessionid=fdc2fe9eb59d76035810c3be9a32?ln=standard"></script>
+
+
+
+        <script>
+            $(document).keypress(
+                    function (event) {
+                        if (event.which == '13') {
+                            event.preventDefault();
+                        }
+                    });
+
+            jQuery(document).ready(function () {
+                jQuery("#user-tab").click(function () {
+                    jQuery("#open-list-user").slideToggle();
+                });
+            });
+
+
+            $(document).ready(function () {
+                var owl = $('.carousel-partners');
+                owl.owlCarousel({
+                    margin: 0,
+                    dots: false,
+                    autoplay: true,
+                    nav: true,
+                    loop: true,
+                    smartSpeed: 500,
+                    autoplaySpeed: 850,
+                    animateOut: 'fadeOut',
+                    // autoWidth:true,
+                    responsive: {
+                        0: {
+                            items: 2,
+                            nav: false
+                        },
+                        600: {
+                            items: 3,
+                        },
+                        1200: {
+                            items: 4
+
+                        }
+                    }
+                });
+
+                $(".owl-prev").html('<i class="far fa-chevron-left"></i>');
+                $(".owl-next").html('<i class="far fa-chevron-right"></i>');
+            });
+
+
+
+        </script><div id="j_idt202" class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-hidden-container" style="display:none"><div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top"><span id="j_idt202_title" class="ui-dialog-title">Status</span></div><div class="ui-dialog-content ui-widget-content" id="j_idt202_content">
+            <i class="pi pi-spinner pi-spin" style="font-size:3rem"></i></div></div><script id="j_idt202_s" type="text/javascript">$(function(){PrimeFaces.cw("Dialog","statusDialog",{id:"j_idt202",draggable:false,resizable:false,modal:true});});</script></body>
+
+</html>

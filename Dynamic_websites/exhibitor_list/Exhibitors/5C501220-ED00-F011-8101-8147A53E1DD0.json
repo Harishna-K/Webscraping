@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2538,
+                "BOOTH_KEY": "1B22AD79-E078-494F-8132-26AF1FDF3607",
+                "KEY_ID": "D61C6D33-F4D2-1EFA-B88C-C4C658DB7299"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "5C501220-ED00-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2538,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Rayfast USA",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 46222,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/20253149933_c543503e5750f91db4b16a0b379a08f3.png",
+            "STATE": "IN",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Rayfast USA is a global supplier of electrical interconnect solutions. we provide high quality components from industry leading supplier including TE connectivity, Carlisle, HellermannTyton, Eaton Souriau, and many other.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "0C0655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "component supplier",
+                    "KEY_ID": "D64FB7F9-9950-6135-FE99-78728601DB0A",
+                    "ANSWER_TITLE": "Other"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "D625E2DA-DE89-2DDB-34E0-60C6EDF7639F",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Rayfast USA",
+            "CITY": "Indianapolis",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.Rayfastus.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "15A60E2D-79D1-49E9-84D6-E34C4EC84AEF"
+    }
+}

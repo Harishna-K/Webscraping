@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1500,
+                "BOOTH_KEY": "81DF41FC-9100-4BDA-A612-B636E7B80354",
+                "KEY_ID": "014F6B94-A642-5797-7BDE-C459B930B25C"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "E15D27B4-6609-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1500,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Tykho Electronics",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 79008,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2025325125426_6d5b338a34c993336f1f39b793c312c7.jpg",
+            "STATE": "Lviv",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "UA",
+            "SALUTATION": "",
+            "DESCRIPTION": "Tykho Electronics - drone electronics producer for Ukraine.\n\n100% Ukrainian development - battle-proof products.\nOwn R&D center - constant development of new technologies.\nCompetitive price - affordable solutions without compromises in quality.\nIndustrial scale - we provide large-scale deliveries.\nWe provide comprehensive technical support and quality service.\nOpen communication \u2013 quick response to all customer questions.\nFast logistics - prompt delivery without delays.\nClose cooperation with the military - adaptation of solutions to real needs.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "01AE5695-9E3D-77AD-85B8-71EAEBC500FB",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "015C44EC-E82C-8ED1-FAB8-930D9CDB246E",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Tykho Electronics",
+            "CITY": "Lviv",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.tykho.com.ua/en"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "039F7E5F-BDB8-48D8-863F-B1FDE7E5EC81"
+    }
+}

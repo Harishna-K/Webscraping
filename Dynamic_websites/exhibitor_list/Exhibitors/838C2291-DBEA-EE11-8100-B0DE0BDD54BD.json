@@ -1,0 +1,62 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3027,
+                "BOOTH_KEY": "C0038CFA-DC7C-4880-9EB1-2F55F36F44D5",
+                "KEY_ID": "4E21A61D-CDE8-080A-FCD0-26780DC645A2"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "838C2291-DBEA-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3027,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Microhard Systems, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "\u00a0T3K 5P3",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/2024917135127_fd377c4b2f8812fda043a932aeea2290.jpg",
+            "STATE": "AB",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "CA",
+            "SALUTATION": "",
+            "DESCRIPTION": "MIcrohard Systems Inc is a well established, highly respected manufacturer of wireless communication and networking solutions associated with all types of unmanned vehicle systems (UAV, UGV, USV) for video, telemetry and real-time, mission critical communication systems.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A74C25BE-BFC2-6DEA-2583-095A0B120A12",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "TOLL_FREE": "",
+            "KEY_ID": "A66EE6EE-F832-6468-6898-DB3CD0168230",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Microhard Systems, Inc.",
+            "CITY": "Calgary",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.microhardcorp.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "3A21DF3D-9BE3-4832-8D5B-7A723353B8FE"
+    }
+}

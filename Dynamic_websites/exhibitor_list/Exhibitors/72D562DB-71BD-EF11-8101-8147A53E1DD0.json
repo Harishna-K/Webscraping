@@ -1,0 +1,59 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4309,
+                "BOOTH_KEY": "9C3E0986-E655-48D0-B0BC-B45FDEC136F0",
+                "KEY_ID": "8F8B325B-ADC8-815D-DC46-D7CDF7A22264"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "72D562DB-71BD-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 4309,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Daniels Manufacturing Corporation",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 32824,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024121814449_fc6eba856c3e0c3ebe5f2749b2622979.png",
+            "STATE": "FL",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "For over 75 years DMC\u00ae has been the trusted provider of tooling & technology to support safety-critical applications for land, sea, air, & space vehicles. DMC products include mil-qualified crimp tools, wiring system maintenance tool kits, and insertion/removal tools. DMC\u2019s latest offering is LaceLok\u00ae, an alternative to cable ties and hand-tied lace for wire bundle support. DMC also manufactures Alphatron\u00ae wire crimp pull testers, Twist-Strip\u00ae, and Safe-T-Cable\u00ae. DMC's full-service facility also offers custom-engineered tooling and technical support.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "0C0655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "Tooling Provider",
+                    "KEY_ID": "8FA59BC9-A6E8-36F8-7D1F-5F9EC73F7F4C",
+                    "ANSWER_TITLE": "Other"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/daniels-manufacturing-corporation",
+            "TOLL_FREE": "",
+            "KEY_ID": "8F90DF1C-F31B-A721-4031-31568A102D21",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Daniels Manufacturing Corporation",
+            "CITY": "Orlando",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.dmctools.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "9376B092-8E15-49E2-81F3-2C494EC4E4F5"
+    }
+}

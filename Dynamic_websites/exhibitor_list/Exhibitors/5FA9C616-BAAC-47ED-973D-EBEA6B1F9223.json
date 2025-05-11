@@ -1,0 +1,82 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2323,
+                "BOOTH_KEY": "D3011777-CEA3-4310-AAC6-38F3E3EA184F",
+                "KEY_ID": "DCDEA924-0FFC-1783-9C2D-9E6757086A93"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "5FA9C616-BAAC-47ED-973D-EBEA6B1F9223",
+        "PRIMARY_BOOTH": 2323,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "POWER INNOVATION (SINGAPORE) PTE. LTD.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 189650,
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "EMAIL": "info@ipetsystem.com",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "SG",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "9AE36411-EC7B-9C3D-ABF5-9CE9733111CE",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "64405734-D6FA-EF11-8101-8147A53E1DD0",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "76E3CF3A-0B19-EA42-9E90-D39C1AA62166",
+                            "ANSWER_TITLE": "Sunshine Solutions Center Pavilion"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "DCE64300-9FC4-E745-0A96-AB12B0B6F028",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "IPET",
+            "CITY": "Singapore",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "5FA9C616-BAAC-47ED-973D-EBEA6B1F9223",
+        "CRM_COMPANY_KEY": "71842015-02F2-4FA0-A0D6-EAE761226640"
+    }
+}

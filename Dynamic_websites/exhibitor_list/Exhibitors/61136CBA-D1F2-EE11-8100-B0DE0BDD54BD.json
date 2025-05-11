@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1405,
+                "BOOTH_KEY": "50DF6220-C3B3-4262-824E-E2B78B261C89",
+                "KEY_ID": "1CB846DF-0CDF-C89C-0C99-1E7BB20C6697"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "61136CBA-D1F2-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 1405,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Aerovironment, Inc. (AV)",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/aerovironmentinc/",
+            "INSTAGRAM": "https://www.instagram.com/aerovironmentinc/",
+            "ACTIVE": 1,
+            "ZIP_CODE": 93065,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202444153546_cdf432e72ce581f69c8475157fc91f25.png",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "For more than 50 years, AeroVironment has conceived and built some of the most advanced agile. and effective technological innovations on the planet.  We challenge conventional limits and generate entirely new perspectives to preserve and improve the lives of those we serve.\n\nAV pushes the limits of what\u2019s possible, creating game-changing autonomous technologies that broaden horizons, expand capabilities, and set new standards for performance.\n\nFrom Dr. Paul B. MacCready Jr.\u2019s pioneering work in human-powered flight in the 1970s, to the Switchblade loitering munition system on the world stage today, we\u2019re uniquely qualified, organized, and equipped to enhance our customers\u2019 lives through groundbreaking innovations.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0C8C4416-A132-DE9C-C237-47782EFEBB6E",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/aerovironment",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "4CF70210-E952-DA23-F4D8-9A699D522569",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "B06CC812-D743-B765-1A9C-08898F2A183A",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Aerovironment, Inc. (AV)",
+            "CITY": "Simi Valley",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.avinc.com",
+            "TWITTER": "https://twitter.com/aerovironment"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "0F11E00B-350B-4201-A274-5DA8FA3E4D7D",
+        "CRM_COMPANY_KEY": "5466F1D7-DBF4-4169-BCFE-5F5301F12D1A"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3410,
+                "BOOTH_KEY": "16CB582B-46FA-49BC-9855-223AE3356A4F",
+                "KEY_ID": "4BB13D1A-C88C-E233-3027-85B406227DFD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "7B7129A3-2EED-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3410,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Jenoptik Optical Systems, LLC",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 33478,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024328141546_b863c319d7f6bbbab9c8da093cb3e8d2.png",
+            "STATE": "FL",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Jenoptik designs and builds high-performance lenses, cameras, imaging systems and rangefinders for security, surveillance, and defense applications. Our innovative products are used around the world in UAV's, payloads, consumer electronics, security systems and projection systems. ISO 9001:2015 and 13485:2016 Certified. ITAR registered.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "3ED011B8-D06E-C392-E010-7AEFFDFA9655",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "3EBD96B8-D111-84EE-9210-2CEC00A1233B",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Jenoptik Optical Systems, LLC",
+            "CITY": "Jupiter",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.jenoptik.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "07ACA4CF-B630-47A4-A537-62430222C2C2"
+    }
+}

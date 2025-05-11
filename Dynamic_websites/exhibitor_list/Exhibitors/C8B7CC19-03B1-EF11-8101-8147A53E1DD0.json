@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2830,
+                "BOOTH_KEY": "296B2B9F-590D-49C2-9FC5-E6661C393712",
+                "KEY_ID": "60857FA4-C220-3D51-8E76-454B9CB8F390"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "C8B7CC19-03B1-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2830,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Geodnet",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 328147,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "SG",
+            "SALUTATION": "",
+            "DESCRIPTION": "GEODNET is a highly reliable, Web3 RTK Network that uses DePIN principles. Using only a low data rate network connection, Real-Time Kinematics enables a 100x improvement in position accuracy as compared to standalone GPS. GEODNET's global network of RTK stations complement on-device sensors such as Cameras, LiDAR, and IMU's to power AI-based Autonomous Systems with accurate real-time 3D localization.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5B243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "60AF734A-AFCA-68EA-3C16-E613A9E031EE",
+                    "ANSWER_TITLE": "Service Provider"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "60927F20-D71D-C826-A97D-6BF6784586A0",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "GEODNET",
+            "CITY": "Singapore",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://geodnet.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "E35A49EF-93BB-409E-BB3D-12CE5C3EF091"
+    }
+}

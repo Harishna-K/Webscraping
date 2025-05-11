@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2109,
+                "BOOTH_KEY": "CC8B2803-D5E3-4016-B77C-56B1E665D794",
+                "KEY_ID": "8BB280AC-ADE4-F274-CD6D-E828D3BFB8AB"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "80B18A44-ABB1-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2109,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "VIGO Photonics",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 33701,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024123142215_94e1577f9feab3ef7744c9d0ce8502d0.png",
+            "STATE": "FL",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "VIGO Photonics is a European manufacturer of epitaxial wafers and instruments for photonics and microelectronics, specialized in MWIR and LWIR detectors and modules, produced with the use of internally-developed technology.\n\nThe mission of VIGO Photonics is to provide fast and convenient, easy to use IR detectors at any wavelength from 2 to 16 \u00b5m, reaching fundamental BLIP limits without cryocooling. Modules are available with different spectral response ranges, time response characteristics and gains.\n\nVIGO Photonics has a complete front \u2013 end and back- end production line for semiconductor high capacity instruments \u2013 from epitaxy of II-IV and III-V groups, through detector chips, lasers and their assembly and integration with electronics. The company is constantly expanding its market reach and now has its subsidiaries in the USA.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "8BCAFE2D-A61C-2FD0-FFD5-FBFA3AFA3EBF",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "8BB8331B-A004-3039-B75C-9FF61BE3EFB5",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "VIGO Photonics",
+            "CITY": "SAINT PETERSBURG",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.vigophotonics.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "5979F78D-8DEE-4975-8552-9D6CCC606C31"
+    }
+}

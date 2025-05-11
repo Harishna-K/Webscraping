@@ -1,0 +1,90 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3326,
+                "BOOTH_KEY": "D47DBAD7-F5FF-4815-BD42-889832F604A9",
+                "KEY_ID": "472F000F-AD3D-9DB6-1D0F-2137F9437481"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "BBE4E3A5-5CEB-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3326,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Uncrewed Systems Technology Magazine",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": "\u00a0BS28 4EJ",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024326105359_52c57bdbd2a9f55938897a20dd749235.png",
+            "STATE": "Somerset",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "GB",
+            "SALUTATION": "",
+            "DESCRIPTION": "Uncrewed Systems Technology magazine focuses entirely on the innovative engineering that's successfully pushing boundaries on land, at sea, in flight and even through the universe. Uncrewed Systems Technology is unique - the first ever publication to focus entirely on providing independent coverage of the engineering at the heart of uncrewed vehicles. Published 6-times a year, we probe today's cutting-edge projects to provide in-depth research insights - rigorous investigation is backed by professional peer review and critical analysis. If you would like to read a copy please visit www.ust-media.com or e-mail frankie@highpowermedia.com",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "59243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "C83EEBFA-B822-72FE-6157-5B9C58A9DC6F",
+                    "ANSWER_TITLE": "Publication/Media"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Cheddar Road",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/uncrewed-systems-technology",
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "C7C25601-F99C-AF23-DEB3-B3AAE9D7631A",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Uncrewed Systems Technology Magazine",
+            "CITY": "Wedmore",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.ust-media.com",
+            "TWITTER": "",
+            "HEADERIMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202534164422_c45edb60a2b63d773e164ed83b7e7842.png"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "9C247EFF-0FC8-4A0C-9468-F6702B8A5CE6"
+    }
+}

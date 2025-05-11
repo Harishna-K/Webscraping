@@ -1,0 +1,57 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2905,
+                "BOOTH_KEY": "3D90232D-D392-4397-9E96-75999C4E12AB",
+                "KEY_ID": "B17776C7-F129-25C5-532A-C947A40EEE41"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "5EDC02EF-12E2-40B8-9731-6E5F279F8AB6",
+        "PRIMARY_BOOTH": 2905,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Ghost Robotics",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "https://www.facebook.com/Ghost-Robotics-100069638461966/?locale=fa_IR",
+            "INSTAGRAM": "https://www.instagram.com/ghostrobotics/?hl=en",
+            "ACTIVE": 1,
+            "ZIP_CODE": 19132,
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "PA",
+            "LAST_NAME": "",
+            "EMAIL": "michael.subhan@ghostrobotics.io",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/company/ghostrobotics",
+            "TOLL_FREE": "",
+            "KEY_ID": "4C3FE8CD-CBD2-EBB4-737A-B2F7420ED126",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Ghost Robotics",
+            "CITY": "Philadelphia",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.ghostrobotics.io/",
+            "TWITTER": "https://x.com/Ghost_Robotics?ref_src=twsrc%5Etfw"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "DFACB89A-F053-4989-8ED8-76492F74F22E",
+        "CRM_COMPANY_KEY": "86BBAC6E-EF20-4194-8681-411CF46434C5"
+    }
+}

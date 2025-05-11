@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 4432,
+                "BOOTH_KEY": "7A726561-8C74-4FC7-8644-0F4817BC6E84",
+                "KEY_ID": "D4431872-D689-27A6-A608-C778E1137D56"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "32E3E40B-BFDD-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 4432,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "SITECH Louisiana",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 70809,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "LA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Our team at SITECH Louisiana isn\u2019t just about selling drones \u2013 we\u2019re about delivering drone solutions that drive results for your business. Through our partnership with Drone Source Technologies, we provide a range of drone services designed to meet your unique requirements. Whether you need drones for a one-time project or ongoing operations, we\u2019ve got you covered. We offer drone rentals, so you can access the technology without committing to a purchase. Need professional assistance? Our flight services let our skilled team handle operations for you. If your equipment requires maintenance, our on-site repair services ensure minimal downtime and maximum efficiency. Every business is different, and so are its challenges. That\u2019s why we take a consultative approach, working closely with you to understand your goals and recommend the best drone solutions. Whether it\u2019s optimizing workflows, improving site visibility or enhancing safety, we ensure you\u2019re equipped with the tools and expertise to achieve your objectives. Drone technology has the power to revolutionize operations across industries. At SITECH Louisiana, we make this technology accessible and effective, helping you take your business to new heights. From customized solutions to reliable support, we\u2019re your partner every step of the way.\n\nLet\u2019s work together to unlock the full potential of drone technology for your business. Reach out today to learn how we can help.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "5F243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D49ABB0F-FED2-DB47-77B4-96FFB7813F0E",
+                    "ANSWER_TITLE": "Commercial End User of Uncrewed Systems"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "D4498305-D909-357C-9DA4-7F3A69C6717A",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Drone Source",
+            "CITY": "Baton Rouge",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "http://www.SITECHLouisiana.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "60D04FB3-BBD9-4AB7-AD9D-A0322FA42D9C"
+    }
+}

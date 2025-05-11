@@ -1,0 +1,86 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3905,
+                "BOOTH_KEY": "D1948F6B-BDA8-43C0-98CD-26347EB2194B",
+                "KEY_ID": "D6F9B045-C8AB-7CD2-4392-C43DABAEDA08"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "D078DD07-217C-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3905,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Wispr Systems",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "DIGITAL_ASSETS": [
+                {
+                    "NET_CODE": 1571,
+                    "TITLE": "Documents",
+                    "ID": "DOCUMENTS"
+                },
+                {
+                    "NET_CODE": 1111,
+                    "TITLE": "Videos",
+                    "ID": "VIDEOS"
+                },
+                {
+                    "NET_CODE": 1108,
+                    "TITLE": "Press Releases",
+                    "ID": "PRESS_RELEASES"
+                },
+                {
+                    "NET_CODE": 1112,
+                    "TITLE": "Product Showcase",
+                    "ID": "PRODUCTS"
+                }
+            ],
+            "ACTIVE": 1,
+            "ZIP_CODE": 38606,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024926111127_cfd64f9401d4ddcd3716f7595f82a8d1.png",
+            "STATE": "MS",
+            "LAST_NAME": "",
+            "DOCUMENTS": [],
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "WISPR Systems is a leading American-made drone manufacturer specializing in turnkey solutions for professionals in the surveying, mapping, and inspection markets. With a strong focus on innovation and quality, WISPR excels in designing and producing advanced drones that meet the rigorous demands of industry professionals. Their fully integrated systems provide reliable, high-performance tools for precise data collection and analysis, making WISPR the go-to choice for those seeking top-tier, American-engineered drone technology.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "55243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "D71E0316-0057-EE28-826B-98F5D152A70C",
+                    "ANSWER_TITLE": "Platform Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "PRESS_RELEASES": [],
+            "TOLL_FREE": "",
+            "KEY_ID": "D6FEA974-B5AE-518A-C160-65A2DD4105F1",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Wispr Systems",
+            "CITY": "Batesville",
+            "PRODUCTS": [],
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "FEATURED": true,
+            "VIDEOS": [],
+            "WEBSITE": "www.WISPRsystems.com",
+            "HEADERIMAGE": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/E6193D29-E3B4-EE11-A2F9-00155D57F530/exhibitor/202534131159_0815e1d8b833b9b29cab7efaf09b739c.jpg"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "16A7A53C-EEC9-4B61-AE7F-E798F09B0444"
+    }
+}

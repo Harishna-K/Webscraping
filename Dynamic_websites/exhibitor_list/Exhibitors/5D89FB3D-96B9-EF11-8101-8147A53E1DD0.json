@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1522,
+                "BOOTH_KEY": "8303E2CF-9D16-4A4D-9C48-C6721ACFE27B",
+                "KEY_ID": "4BEBB0BA-98B9-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "5D89FB3D-96B9-EF11-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1522,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Divergent Industries, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 45005,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Divergent Industries, Inc. (\u201cDII\u201d), is a wholly owned subsidiary of Divergent Technologies, Inc. (\u201cDTI\u201d, together with DII, \u201cDivergent\u201d), dedicated to serving the U.S. Government and U.S. Government partners.\n \nDivergent has created the world's first end-to-end software-hardware production system for industrial digital manufacturing \u2013 the Divergent Adaptive Production System (DAPS\u2122) \u2013 allowing customers to design, additively manufacture, and automatically assemble complex structures for automotive, aerospace, and defense applications. DAPS transforms the economics, speed, and scalability of manufacturing complex structures for vehicles of all types by optimizing designs, dematerializing structures, and eliminating upfront capex.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "040655F4-17E6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "929027DB-04EF-05C7-8BDF-78495B120A7E",
+                    "ANSWER_TITLE": "Composite Material Manufacturer"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 150",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "11155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D5DB57FA-C21C-673E-56C2-9B388CEAB4BE",
+                            "ANSWER_TITLE": "Defense Technologies"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "92874BEC-9A96-B80D-FFBB-945E7A373720",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Divergent Industries, Inc.",
+            "CITY": "Torrance",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "divergent-dii.com",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "3A364D00-861F-4759-8A9E-663FDE772DC4"
+    }
+}

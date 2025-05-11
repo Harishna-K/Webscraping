@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 1938,
+                "BOOTH_KEY": "F07409D9-5345-4FF0-BA7E-376839E655DD",
+                "KEY_ID": "73247D09-C5FD-43F8-DD2A-A60BF22EB907"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "49A43E9F-5303-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 1938,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Epson America, Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 90720,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Epson designs and manufactures compact, lightweight and high-accuracy Quartz-based MEMS inertial sensors and systems. Epson's IMUs are widely used in demanding applications ranging from precision agriculture auto-steering to spacecraft guidance and orientation, consistently besting the leading MEMS solutions with superior performance and overall value.\nOffering customers pure inertial sensing unencumbered by complex compensation algorithms, filters and unnecessary features, Epson's Quartz-based MEMS technologies provide high-precision, reliable sensing in critical aerospace, defense and industrial applications including stabilization, guidance, navigation and control.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "74B66A2C-BBF3-F71D-DDFB-F80B4D4F4947",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "7337B843-9DA7-4022-607C-AC03E4EDABA0",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Epson America, Inc.",
+            "CITY": "Los Alamitos",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.epson.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "16380909-3AE6-4910-A7FE-2ADA7AC6874B"
+    }
+}

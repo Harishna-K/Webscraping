@@ -1,0 +1,65 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 2,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2024,
+                "BOOTH_KEY": "405FCEEC-7CEB-43DA-A60F-0E33A35DD52A",
+                "KEY_ID": "FC740B4A-0EDD-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "3D425137-7EC6-418E-A36E-349485B52FDC",
+        "PRIMARY_BOOTH": 2024,
+        "EXHIBITOR_TYPE": "CoExhibitor",
+        "COMPANY_NAME": "Hewlett Packard",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 94304,
+            "TIKTOK": "",
+            "PHONE_EXT": "",
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "EMAIL": "aleksandra_pabin@hp.com",
+            "FIRST_NAME": "",
+            "DIVISION": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "7401C345-EAE6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "98CC7906-AF26-E867-217B-1223E8592346",
+                    "ANSWER_TITLE": "Manufacturing Machinery/Contract Manufacturing/Production Equipment"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "https://www.linkedin.com/showcase/hpamsolutions-hp3dprinting/?viewAsMember=true",
+            "TOLL_FREE": "",
+            "KEY_ID": "A6A28FFE-C19A-E6B4-0E56-3425DD91A048",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "HP Additive Manufacturing Solutions",
+            "CITY": "Palo Alto",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.hp.com/us-en/printers/3d-printers.html",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "9105B62B-C7D9-EF11-8101-8147A53E1DD0",
+        "CRM_COMPANY_KEY": "32C27CBD-CAB3-4DD1-8588-88CCD026ABC4"
+    }
+}

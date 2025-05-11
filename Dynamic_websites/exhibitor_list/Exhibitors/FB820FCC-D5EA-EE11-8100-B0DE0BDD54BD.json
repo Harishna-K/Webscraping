@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2416,
+                "BOOTH_KEY": "7202E43F-9F2D-4939-AD41-1DF13F6B5560",
+                "KEY_ID": "511F1779-D1D9-EF11-8101-8147A53E1DD0"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "FB820FCC-D5EA-EE11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2416,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Airborne Public Safety Association (APSA)",
+        "FORM_KEY": "5470AF9C-C9E7-4E2F-9654-9E64631B20AD",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "Airborne Public Safety Association, Inc.",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 21701,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/2024325143454_3617e7a9f5f2a03aafcf8d37ff7b6b60.png",
+            "STATE": "MD",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "The Airborne Public Safety Association, Inc. [APSA], is a non-profit educational, individual membership, public benefit corporation, founded in 1968, whose mission is to promote and advance the safe and effective utilization of manned and unmanned aircraft by governmental agencies in support of public safety operations through training, networking, advocacy and educational programs.  We fulfill this mission through seminars, product expositions, classes, publications and our website, all of which provide multiple networking opportunities that members find invaluable.  Visit us at https://www.publicsafetyaviation.org.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "53243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "A4F0B039-AF09-CDD6-4673-7257464C6FD1",
+                    "ANSWER_TITLE": "Nonprofit/Association"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 260",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "0F155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "4C5FA95B-AC9B-4424-B4A9-D2FEE1AD8C47",
+                            "ANSWER_TITLE": "Public Safety"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "A4D9B4D8-9D77-68A4-EA0B-2A0EC564A843",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Airborne Public Safety Association (APSA)",
+            "CITY": "Frederick",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "301-631-2466",
+            "WEBSITE": "www.publicsafetyaviation.org",
+            "TWITTER": "https://twitter.com/PublicSafetyAv8"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "2D26BE95-B23F-4A5B-BCD5-AD95F5F2A485"
+    }
+}

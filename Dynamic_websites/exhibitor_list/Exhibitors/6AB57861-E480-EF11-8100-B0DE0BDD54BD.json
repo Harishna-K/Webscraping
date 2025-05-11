@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2114,
+                "BOOTH_KEY": "80CA6BED-79F4-46FA-88A7-130977AC4C1B",
+                "KEY_ID": "0FE0CE74-C42C-8E5D-012C-3636FE153C00"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "6AB57861-E480-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 2114,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Vertiq",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 19146,
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202410214052_3b473f8e16d26dffaf7a69f8a1c732ae.png",
+            "STATE": "PA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Vertiq makes industrial-grade propulsion systems for commercial and defense UAS.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "51243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "0FFBD3EE-E36B-C2F1-CF98-110DC6ECD552",
+                    "ANSWER_TITLE": "Component/Sensor Manufacturer (goes on platform)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Building 197",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "0FE2F261-EF28-D211-72A4-20539C61D032",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Vertiq",
+            "CITY": "Philadelphia",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.vertiq.co"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "55E8248A-239B-4ECE-BF58-4C879E1BAB25"
+    }
+}

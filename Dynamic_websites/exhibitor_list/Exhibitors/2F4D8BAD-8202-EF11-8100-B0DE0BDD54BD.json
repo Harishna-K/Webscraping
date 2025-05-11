@@ -1,0 +1,58 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 3734,
+                "BOOTH_KEY": "AE73A728-73A2-4628-971D-62AE666E03FD",
+                "KEY_ID": "B48EB715-A3A9-C541-C480-DC85D9E92319"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "2F4D8BAD-8202-EF11-8100-B0DE0BDD54BD",
+        "PRIMARY_BOOTH": 3734,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Hoodman Corporation",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "ACTIVE": 1,
+            "ZIP_CODE": 90501,
+            "PHONE": "",
+            "LOGO": "",
+            "STATE": "CA",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "US",
+            "SALUTATION": "",
+            "DESCRIPTION": "Hoodman Corporation makes useful tools that help drone operators perform better in the field.  We created the drone landing pad product line to keep drones safe from prop strikes and to also stake your claim to your ground operations base. View drone controller monitors outdoors glare free with Hoodman monitor hoods.  US Army Togo controller hoods keep night ops stealthy and day time ops glare free since 2017",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "4F243522-19CA-EE11-80FE-D847E59DED67",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "B4D67A9A-EC29-0028-6DF4-B5A32D84093A",
+                    "ANSWER_TITLE": "Auxiliary Product Manufacturer (cases, laser engravings, etc.)"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "Suite 201",
+            "MAP_LOGO": true,
+            "TOLL_FREE": "",
+            "KEY_ID": "B49FCD6F-DE13-2470-00D7-5C7E9D1A588D",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Hoodman Corporation",
+            "CITY": "Torrance",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "www.hoodmanusa.com"
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "6C92E9EF-FBA1-4084-ABB1-63D527FB7B88"
+    }
+}

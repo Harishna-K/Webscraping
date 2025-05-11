@@ -1,0 +1,80 @@
+{
+    "SUCCESS": true,
+    "EXHIBITOR": {
+        "DISPLAY_ORDER": 1,
+        "BOOTHS": [
+            {
+                "BOOTH_NO": 2307,
+                "BOOTH_KEY": "27CAA1E3-E29E-4681-AE78-07747A587B0B",
+                "KEY_ID": "BD2C4BE3-DE8E-D3A1-8553-0D5E7A76C5FD"
+            }
+        ],
+        "BOOKMARKED": 0,
+        "KEY_ID": "507D25C8-8C00-F011-8101-8147A53E1DD0",
+        "PRIMARY_BOOTH": 2307,
+        "EXHIBITOR_TYPE": "Primary",
+        "COMPANY_NAME": "Narma Inc.",
+        "FORM_KEY": "9564C846-215F-4280-94E1-8DF7D71CEF5F",
+        "STATUS": 3,
+        "DIRECTORY": {
+            "FACEBOOK": "",
+            "INSTAGRAM": "",
+            "ACTIVE": 1,
+            "ZIP_CODE": 34133,
+            "TIKTOK": "",
+            "PHONE": "",
+            "LOGO": "https://eshow.sfo2.cdn.digitaloceanspaces.com/DC193D29-E3B4-EE11-A2F9-00155D57F530/1001/202531413319_85b9926417cd43d27cf4611ecdbd2aef.png",
+            "STATE": "",
+            "LAST_NAME": "",
+            "DIVISION": "",
+            "FIRST_NAME": "",
+            "CREDENTIALS": "",
+            "COUNTRY": "KR",
+            "SALUTATION": "",
+            "DESCRIPTION": "NARMA is a leading drone manufacturer specializing in electric tilt-rotor drone technology and is the 1st research institute company of the Korea Aerospace Research Institute (KARI). With over 6 years of expertise, we have developed 2 advanced electric tilt-rotor drone models: the AF100 series and AF200-AMBULANCE. These drones offer superior performance in speed, payload capacity, and VTOL capabilities.",
+            "CATEGORY": [
+                {
+                    "ANSWER_KEY": "7401C345-EAE6-EE11-8100-B0DE0BDD54BD",
+                    "ACTIVE": 1,
+                    "RESPONSE_TEXT": "",
+                    "KEY_ID": "BD376EF7-C43E-F26A-8245-AB2C7D54CFD5",
+                    "ANSWER_TITLE": "Manufacturing Machinery/Contract Manufacturing/Production Equipment"
+                }
+            ],
+            "ADDRESS1": "",
+            "ADDRESS2": "",
+            "MAP_LOGO": true,
+            "LINKEDIN": "",
+            "SURVEYS": [
+                {
+                    "QUESTION_NAME": "Pavilion Name",
+                    "RESPONSES": [
+                        {
+                            "ANSWER_KEY": "0F155980-CB79-EF11-8100-B0DE0BDD54BD",
+                            "ACTIVE": 1,
+                            "RESPONSE_TEXT": "",
+                            "KEY_ID": "D6E6BB97-DADD-D6AA-C0CC-3C6E8E0F669B",
+                            "ANSWER_TITLE": "Public Safety"
+                        }
+                    ],
+                    "NET_CODE": "",
+                    "QUESTION_TYPE": 4,
+                    "QUESTION_KEY": "243518A3-B98F-4668-972D-96B75DB85BAA"
+                }
+            ],
+            "TOLL_FREE": "",
+            "KEY_ID": "BD2FE47D-AEF0-E7E2-CA6B-A21A50A7DB71",
+            "WORK_PHONE": "",
+            "COMPANY_NAME": "Narma Inc.",
+            "CITY": "DAEJEON",
+            "BRAND_NAME": "",
+            "TITLE": "",
+            "FAX": "",
+            "WEBSITE": "https://www.narma.co.kr/af100-aed-hardware",
+            "TWITTER": ""
+        },
+        "BOOTH_SPACE_RESELLER": "",
+        "GROUP_KEY": "",
+        "CRM_COMPANY_KEY": "C1ACE86F-EDE8-461A-954E-B0FA660E404C"
+    }
+}
